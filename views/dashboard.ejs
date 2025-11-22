@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CarbonLens - Dashboard</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Inter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(
+          135deg,
+          #0b1a20 0%,
+          #162a32 50%,
+          #224350 100%
+        );
+        color: #fff;
+        min-height: 100vh;
+        padding: 20px;
+      }
+
+      .dashboard-container {
+        max-width: 1400px;
+        margin: 0 auto;
+      }
+
+      /* Cleaned up header with flatter glass effect */
+      .dashboard-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 40px;
+        padding: 20px 30px;
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(12px);
+        border-radius: 12px;
+        border: 1px solid rgba(16, 185, 129, 0.3);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+      }
+
+      .logo {
+        font-size: 24px;
+        font-weight: 700;
+        background: linear-gradient(45deg, #10b981, #34d399);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+
+      .user-info {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+      }
+
+      .user-details {
+        text-align: right;
+      }
+
+      .user-welcome {
+        font-weight: 600;
+        font-size: 16px;
+      }
+
+      .user-points {
+        font-size: 13px;
+        color: #94a3b8;
+        font-weight: 400;
+      }
+
+      .user-avatar {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: #10b981;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        border: 2px solid #34d399;
+      }
+
+      .button-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+        margin-bottom: 30px;
+      }
+
+      /* Grid for main widgets - Two large columns for heatmap and chart */
+      .main-widgets-grid {
+        display: grid;
+        grid-template-columns: 2fr 1fr; /* Heatmap wide, Meter/Chart narrow */
+        gap: 20px;
+        margin-bottom: 30px;
+      }
+
+      /* General Card/Button Styling */
+      .dashboard-button,
+      .dashboard-card {
+        position: relative;
+        padding: 20px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 12px;
+        font-size: 14px;
+        font-weight: 600;
+        transition: all 0.2s ease-out;
+        overflow: hidden;
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(5px);
+        text-decoration: none;
+        color: inherit;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .dashboard-button {
+        cursor: pointer;
+        flex-direction: row; /* Buttons are horizontal */
+        align-items: center;
+      }
+
+      .dashboard-button:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+        background: rgba(255, 255, 255, 0.08);
+      }
+
+      .button-icon {
+        font-size: 28px;
+        z-index: 1;
+      }
+
+      .button-content {
+        flex: 1;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .button-title {
+        display: block;
+        margin-bottom: 3px;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+      }
+
+      .button-subtitle {
+        display: block;
+        font-size: 11px;
+        text-transform: none;
+        opacity: 0.7;
+        font-weight: 400;
+      }
+
+      /* Primary CTA - Bright Green */
+      .btn-primary-cta {
+        background: linear-gradient(135deg, #10b981, #059669);
+        color: white;
+        border: 1px solid #34d399;
+        box-shadow: 0 6px 15px rgba(16, 185, 129, 0.4);
+      }
+      .btn-primary-cta .button-icon {
+        color: #fff;
+      }
+
+      /* Action Buttons - Green (secondary) */
+      .btn-action {
+        background: rgba(76, 175, 80, 0.2);
+        color: #a5d6a7;
+      }
+      .btn-action .button-icon {
+        color: #a5d6a7;
+      }
+
+      /* Analytics/Meter Buttons - Blue */
+      .btn-analytics {
+        background: rgba(33, 150, 243, 0.2);
+        color: #90caf9;
+      }
+      .btn-analytics .button-icon {
+        color: #90caf9;
+      }
+
+      /* Gamification Buttons - Yellow/Gold */
+      .btn-gamification {
+        background: rgba(255, 193, 7, 0.2);
+        color: #ffeb3b;
+      }
+      .btn-gamification .button-icon {
+        color: #ffeb3b;
+      }
+
+      /* Override hover to use background color */
+      .dashboard-button:hover.btn-primary-cta {
+        background: linear-gradient(135deg, #10b981, #059669);
+        box-shadow: 0 10px 25px rgba(16, 185, 129, 0.6);
+      }
+      .dashboard-button:hover.btn-action {
+        background: rgba(76, 175, 80, 0.4);
+      }
+      .dashboard-button:hover.btn-analytics {
+        background: rgba(33, 150, 243, 0.4);
+      }
+      .dashboard-button:hover.btn-gamification {
+        background: rgba(255, 193, 7, 0.4);
+      }
+
+      /* Tooltip - Minimalist, black background */
+      .tooltip {
+        position: absolute;
+        bottom: calc(100% + 8px);
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 6px 12px;
+        background: #000;
+        border: 1px solid #10b981;
+        color: white;
+        border-radius: 6px;
+        font-size: 11px;
+        white-space: nowrap;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s;
+        z-index: 100;
+      }
+
+      .dashboard-button:hover .tooltip {
+        opacity: 1;
+      }
+
+      /* Chart container styling */
+      .chart-container-wrapper {
+        width: 100%;
+        height: 100%;
+        min-height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 5px;
+      }
+      #co2Chart {
+        max-height: 150px !important;
+      }
+
+      /* Section Titles */
+      .section-title {
+        font-size: 22px;
+        margin: 40px 0 20px;
+        color: #34d399;
+        font-weight: 700;
+        border-bottom: 2px solid rgba(52, 211, 153, 0.2);
+        padding-bottom: 5px;
+      }
+
+      .badge-list {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        margin-top: 8px;
+      }
+
+      .badge {
+        background: rgba(255, 235, 59, 0.15);
+        color: #ffeb3b;
+        padding: 3px 8px;
+        border-radius: 6px;
+        font-size: 11px;
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        border: 1px solid rgba(255, 235, 59, 0.3);
+        font-weight: 600;
+      }
+
+      .recommendation-list {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      .recommendation {
+        background: rgba(255, 255, 255, 0.05);
+        padding: 15px;
+        border-radius: 10px;
+        font-size: 14px;
+        border-left: 4px solid #10b981;
+        transition: background 0.2s;
+      }
+
+      /* --- NEW FEATURES STYLING --- */
+
+      /* CO2 Impact Meter Card */
+      .co2-meter-card {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-height: 150px;
+      }
+
+      .meter-label {
+        font-size: 14px;
+        color: #94a3b8;
+        margin-bottom: 10px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .meter-value {
+        font-size: 48px;
+        font-weight: 800;
+        line-height: 1;
+        margin-bottom: 15px;
+        /* Dynamic text color based on impact level (Low/Medium/High) */
+      }
+
+      .meter-summary {
+        font-size: 12px;
+        opacity: 0.8;
+      }
+
+      /* Impact Level Colors */
+      .impact-low {
+        color: #10b981;
+        text-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+      }
+      .impact-medium {
+        color: #facc15;
+        text-shadow: 0 0 10px rgba(250, 204, 21, 0.5);
+      }
+      .impact-high {
+        color: #f87171;
+        text-shadow: 0 0 10px rgba(248, 113, 113, 0.5);
+      }
+
+      /* Carbon Heatmap Styling */
+      .heatmap-card {
+        grid-column: 1 / 3; /* Span across both columns on the top grid */
+        min-height: 250px;
+      }
+
+      .heatmap-grid {
+        display: grid;
+        grid-template-columns: repeat(
+          53,
+          1fr
+        ); /* 52 weeks + 1 column for labels */
+        gap: 2px;
+        padding-top: 15px;
+        overflow-x: auto; /* Allow scrolling if too wide */
+      }
+
+      .day-cell {
+        width: 14px;
+        height: 14px;
+        background: #1e293b; /* Base gray for no activity */
+        border-radius: 2px;
+        transition: background 0.3s;
+        cursor: help;
+      }
+
+      /* Heatmap Levels (Darker green for higher activity) */
+      .heat-level-0 {
+        background: #1e293b;
+      }
+      .heat-level-1 {
+        background: #059669; /* Low */
+      }
+      .heat-level-2 {
+        background: #047857; /* Medium */
+      }
+      .heat-level-3 {
+        background: #065f46; /* High */
+      }
+      .heat-level-4 {
+        background: #064e3b; /* Very High */
+      }
+
+      /* Heatmap Monthly Labels (Placeholder for simplicity) */
+      .month-label-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 5px;
+        font-size: 10px;
+        color: #94a3b8;
+        font-weight: 500;
+        padding-left: 20px;
+      }
+
+      .month-label {
+        width: calc(100% / 12);
+        text-align: left;
+      }
+
+      /* Responsive Adjustments */
+      @media (max-width: 992px) {
+        .main-widgets-grid {
+          grid-template-columns: 1fr; /* Stack on smaller screens */
+        }
+        .heatmap-card {
+          grid-column: 1 / 2;
+        }
+      }
+
+      @media (max-width: 768px) {
+        .button-grid {
+          grid-template-columns: 1fr;
+        }
+        .dashboard-header {
+          flex-direction: column;
+          gap: 15px;
+          text-align: center;
+        }
+        .user-details {
+          text-align: center;
+        }
+        .user-info {
+          flex-direction: column-reverse;
+          gap: 10px;
+        }
+        .badge-list {
+          justify-content: center;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="dashboard-container">
+      <div class="dashboard-header">
+        <div class="logo">🌱 CarbonLens</div>
+        <div class="user-info">
+          <div class="user-details">
+            <div class="user-welcome">Welcome back, <%= user.name %></div>
+            <div class="user-points"><%= user.greenPoints %> GreenPoints</div>
+            <div class="badge-list">
+              <% badges.forEach(badge => { %>
+              <div class="badge">🏅 <%= badge.badge_name %></div>
+              <% }) %>
+            </div>
+          </div>
+          <div class="user-avatar">👤</div>
+        </div>
+      </div>
+
+      <h2 class="section-title">Overview</h2>
+      <div class="main-widgets-grid">
+        <div class="dashboard-card heatmap-card">
+          <div class="button-title">Yearly Carbon Footprint Activity</div>
+          <span class="button-subtitle"
+            >Intensity shows daily tracking volume</span
+          >
+          <div class="month-label-row">
+            <span class="month-label">Jan</span>
+            <span class="month-label">Feb</span>
+            <span class="month-label">Mar</span>
+            <span class="month-label">Apr</span>
+            <span class="month-label">May</span>
+            <span class="month-label">Jun</span>
+            <span class="month-label">Jul</span>
+            <span class="month-label">Aug</span>
+            <span class="month-label">Sep</span>
+            <span class="month-label">Oct</span>
+            <span class="month-label">Nov</span>
+            <span class="month-label">Dec</span>
+          </div>
+
+          <div class="heatmap-grid" id="carbon-heatmap-grid"></div>
+        </div>
+
+        <div class="dashboard-card co2-meter-card">
+          <div class="meter-label">Current Overall Impact</div>
+          <div class="meter-value impact-<%= user.impactLevel.toLowerCase() %>">
+            <%= user.impactLevel %>
+          </div>
+          <div class="meter-summary">
+            You are <%= user.impactLevel.toLowerCase() %> than 70% of users.
+          </div>
+          <a
+            href="/recommendations"
+            style="
+              margin-top: 15px;
+              font-size: 12px;
+              color: #34d399;
+              text-decoration: none;
+            "
+          >
+            View personalized tips &rarr;
+          </a>
+        </div>
+      </div>
+
+      <h2 class="section-title">Quick Actions & Analytics</h2>
+      <div class="button-grid">
+        <form
+          id="uploadReceiptForm"
+          class="dashboard-button btn-primary-cta"
+          action="/upload-receipt"
+          method="POST"
+          enctype="multipart/form-data"
+          style="display: inline"
+        >
+          <input
+            type="file"
+            id="receiptInput"
+            name="receipt"
+            accept="image/*"
+            style="display: none"
+          />
+          <label
+            for="receiptInput"
+            class="dashboard-button btn-primary-cta"
+            style="cursor: pointer"
+          >
+            <span class="tooltip"
+              >Snap or upload a receipt to track carbon</span
+            >
+            <span class="button-icon">📷</span>
+            <span class="button-content">
+              <span class="button-title">Upload Receipt</span>
+              <span class="button-subtitle">Start tracking your impact</span>
+            </span>
+          </label>
+          <button type="submit" style="display: none">Upload</button>
+        </form>
+
+        <a href="/edit-items" class="dashboard-button btn-action">
+          <span class="tooltip"
+            >Enter ur daily Co2 usage includes: Gas Consumed, Electricty and
+            etc.</span
+          >
+          <span class="button-icon">✏️</span>
+          <span class="button-content">
+            <span class="button-title"
+              >Enter ur daily Co2 usage includes: Gas Consumed, Electricty and
+              etc.</span
+            >
+            <span class="button-subtitle">View More</span>
+          </span>
+        </a>
+
+        <a href="/brkdwn" class="dashboard-button btn-analytics">
+          <div class="dashboard-button btn-analytics" style="height: 100%">
+            <span class="tooltip"
+              >View your carbon footprint metrics by category</span
+            >
+            <span class="button-icon">📊</span>
+            <span class="button-content" style="align-items: center">
+              <span class="button-title" style="margin-bottom: 5px"
+                >Category Breakdown</span
+              >
+              <div class="chart-container-wrapper">
+                <canvas id="co2Chart"></canvas>
+              </div>
+            </span>
+          </div>
+        </a>
+
+        <a href="/trends" class="dashboard-button btn-analytics">
+          <span class="tooltip">Track your monthly carbon trends</span>
+          <span class="button-icon">📈</span>
+          <span class="button-content">
+            <span class="button-title">My Trends</span>
+            <span class="button-subtitle">Month vs month analysis</span>
+          </span>
+        </a>
+      </div>
+
+      <h2 class="section-title">Gamification & Rewards</h2>
+      <div class="button-grid">
+        <a href="/badges" class="dashboard-button btn-gamification">
+          <span class="tooltip">View your earned achievement badges</span>
+          <span class="button-icon">🏅</span>
+          <span class="button-content">
+            <span class="button-title">Badges</span>
+            <span class="button-subtitle"
+              ><%= badges.length %> badges earned</span
+            >
+          </span>
+        </a>
+
+        <a href="/leaderboard" class="dashboard-button btn-gamification">
+          <span class="tooltip">See how you rank against others</span>
+          <span class="button-icon">🏆</span>
+          <span class="button-content">
+            <span class="button-title">Leaderboard</span>
+            <span class="button-subtitle"
+              >You're #<%= user.rank %> this week!</span
+            >
+          </span>
+        </a>
+
+        <a href="/rewards" class="dashboard-button btn-gamification">
+          <span class="tooltip">Redeem GreenPoints for eco coupons</span>
+          <span class="button-icon">🎁</span>
+          <span class="button-content">
+            <span class="button-title">Rewards</span>
+            <span class="button-subtitle"
+              ><%= user.greenPoints %> points available</span
+            >
+          </span>
+        </a>
+      </div>
+    </div>
+
+    <script>
+      // Simulated Data (replace with actual backend data)
+      const mockUserData = {
+        name: "EcoWarrior",
+        greenPoints: 4500,
+        rank: 12,
+        impactLevel: "Medium", // This drives the meter color
+      };
+      const mockBadges = [
+        { badge_name: "First Step" },
+        { badge_name: "Weekly Tracker" },
+      ];
+      const mockRecommendations = [
+        "Try swapping beef for chicken once a week.",
+        "Your clothing purchases are trending high; consider buying sustainable brands.",
+        "Check out our new offset program for flights!",
+      ];
+
+      // Replace template placeholders with mock data for standalone testing
+      document.querySelector(
+        ".user-welcome"
+      ).innerHTML = `Welcome back, ${mockUserData.name}`;
+      document.querySelector(
+        ".user-points"
+      ).innerHTML = `${mockUserData.greenPoints} GreenPoints`;
+      document.querySelector(
+        ".co2-meter-card .meter-value"
+      ).className = `meter-value impact-${mockUserData.impactLevel.toLowerCase()}`;
+      document.querySelector(".co2-meter-card .meter-value").innerHTML =
+        mockUserData.impactLevel;
+      document.querySelector(
+        ".co2-meter-card .meter-summary"
+      ).innerHTML = `You are ${mockUserData.impactLevel.toLowerCase()} compared to 70% of users.`;
+
+      // Update badge count and rewards points
+      document.querySelectorAll(
+        ".btn-gamification .button-subtitle"
+      )[0].innerHTML = `${mockBadges.length} badges earned`;
+      document.querySelectorAll(
+        ".btn-gamification .button-subtitle"
+      )[2].innerHTML = `${mockUserData.greenPoints} points available`;
+      document.querySelectorAll(
+        ".btn-gamification .button-subtitle"
+      )[1].innerHTML = `You're #${mockUserData.rank} this week!`;
+
+      function initializeChart() {
+        const ctx = document.getElementById("co2Chart").getContext("2d");
+        new Chart(ctx, {
+          type: "doughnut",
+          data: {
+            labels: ["Food", "Clothing", "Electronics", "Dairy", "Plant-Based"],
+            datasets: [
+              {
+                data: [30, 20, 15, 25, 10],
+                backgroundColor: [
+                  "#10b981",
+                  "#facc15",
+                  "#3b82f6",
+                  "#f87171",
+                  "#34d399",
+                ],
+                borderColor: "rgba(0, 0, 0, 0.1)",
+                borderWidth: 2,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                position: "bottom",
+                labels: {
+                  color: "white",
+                  font: { size: 10 },
+                },
+              },
+              tooltip: {
+                backgroundColor: "rgba(0, 0, 0, 0.8)",
+                titleColor: "#fff",
+                bodyColor: "#fff",
+                borderColor: "#10b981",
+                borderWidth: 1,
+              },
+            },
+            cutout: "70%",
+          },
+        });
+      }
+
+      // Heatmap Generation Script
+      function generateHeatmap() {
+        const grid = document.getElementById("carbon-heatmap-grid");
+        const totalDays = 365; // Approximate for a year
+
+        for (let i = 0; i < totalDays; i++) {
+          const cell = document.createElement("div");
+          // Simulate random data for visual effect (0=none, 4=very high)
+          const level = Math.floor(Math.random() * 5);
+          cell.className = `day-cell heat-level-${level}`;
+          cell.title = `Day ${i + 1}: Level ${level}`; // Tooltip
+          grid.appendChild(cell);
+        }
+      }
+
+      // Initialize on load
+      function initDashboard() {
+        // Load Chart.js if not already loaded (for demonstration)
+        if (typeof Chart === "undefined") {
+          const script = document.createElement("script");
+          script.src =
+            "https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js";
+          script.onload = () => {
+            initializeChart();
+            generateHeatmap();
+          };
+          document.head.appendChild(script);
+        } else {
+          initializeChart();
+          generateHeatmap();
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", initDashboard);
+
+      const receiptInput = document.getElementById("receiptInput");
+      const uploadForm = document.getElementById("uploadReceiptForm");
+
+      receiptInput.addEventListener("change", () => {
+        if (receiptInput.files.length > 0) {
+          uploadForm.submit(); // auto-submit when a file is picked
+        }
+      });
+    </script>
+    <%- include('partials/chatbot') %>
+  </body>
+</html>

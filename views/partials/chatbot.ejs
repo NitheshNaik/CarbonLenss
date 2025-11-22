@@ -1,0 +1,458 @@
+<style>
+  .chat-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+    z-index: 1000;
+  }
+
+  .chat-button:hover {
+    transform: scale(1.1);
+  }
+
+  .chat-button svg {
+    width: 30px;
+    height: 30px;
+    fill: white;
+  }
+
+  .chat-window {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+    width: 380px;
+    height: 550px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    display: none;
+    flex-direction: column;
+    z-index: 1000;
+    overflow: hidden;
+  }
+
+  .chat-window.active {
+    display: flex;
+  }
+
+  .chat-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .chat-header h3 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .chat-header p {
+    font-size: 12px;
+    opacity: 0.9;
+    margin-top: 4px;
+  }
+
+  .close-btn {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+  }
+
+  .chat-messages {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    background: #f9fafb;
+  }
+
+  .message {
+    margin-bottom: 16px;
+    display: flex;
+    animation: fadeIn 0.3s ease;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .message.bot {
+    justify-content: flex-start;
+  }
+
+  .message.user {
+    justify-content: flex-end;
+  }
+
+  .message-content {
+    max-width: 75%;
+    padding: 12px 16px;
+    border-radius: 12px;
+    line-height: 1.5;
+    font-size: 14px;
+  }
+
+  .message.bot .message-content {
+    background: white;
+    color: #333;
+    border-bottom-left-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+
+  .message.user .message-content {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-bottom-right-radius: 4px;
+  }
+
+  .quick-questions {
+    padding: 10px 20px;
+    background: white;
+    border-top: 1px solid #e5e7eb;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .quick-question-btn {
+    display: inline-block;
+    background: #f3f4f6;
+    border: 1px solid #e5e7eb;
+    padding: 8px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    margin-right: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .quick-question-btn:hover {
+    background: #667eea;
+    color: white;
+    border-color: #667eea;
+  }
+
+  .chat-input {
+    padding: 15px 20px;
+    background: white;
+    border-top: 1px solid #e5e7eb;
+    display: flex;
+    gap: 10px;
+  }
+
+  .chat-input input {
+    flex: 1;
+    padding: 12px 16px;
+    border: 1px solid #e5e7eb;
+    border-radius: 24px;
+    font-size: 14px;
+    outline: none;
+  }
+
+  .chat-input input:focus {
+    border-color: #667eea;
+  }
+
+  .send-btn {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .send-btn:hover {
+    opacity: 0.9;
+  }
+
+  .send-btn svg {
+    width: 20px;
+    height: 20px;
+    fill: white;
+  }
+
+  .chat-messages::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .chat-messages::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  .chat-messages::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 3px;
+  }
+
+  @media (max-width: 480px) {
+    .chat-window {
+      width: calc(100vw - 40px);
+      height: calc(100vh - 120px);
+      right: 20px;
+    }
+  }
+</style>
+
+<!-- Floating Chat Button -->
+<div class="chat-button" id="chatButton">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path
+      d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"
+    />
+  </svg>
+</div>
+
+<!-- Chat Window -->
+<div class="chat-window" id="chatWindow">
+  <div class="chat-header">
+    <div>
+      <h3>🌱 CO2 Assistant</h3>
+      <p>Ask me about carbon emissions</p>
+    </div>
+    <button class="close-btn" id="closeBtn">×</button>
+  </div>
+
+  <div class="chat-messages" id="chatMessages">
+    <div class="message bot">
+      <div class="message-content">
+        Hi! 👋 I'm your CO2 emissions assistant. Ask me anything about carbon
+        emissions, environmental impact, or try one of the quick questions
+        below!
+      </div>
+    </div>
+  </div>
+
+  <div class="quick-questions" id="quickQuestions">
+    <button class="quick-question-btn" data-question="What is carbon emission?">
+      What is carbon emission?
+    </button>
+    <button class="quick-question-btn" data-question="How to reduce emissions?">
+      How to reduce?
+    </button>
+    <button class="quick-question-btn" data-question="1 milk packet emissions">
+      Milk packet CO2
+    </button>
+  </div>
+
+  <div class="chat-input">
+    <input
+      type="text"
+      id="userInput"
+      placeholder="Ask about CO2 emissions..."
+      autocomplete="off"
+    />
+    <button class="send-btn" id="sendBtn">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z" />
+      </svg>
+    </button>
+  </div>
+</div>
+
+<script>
+  // Knowledge base with 20+ questions about CO2 emissions
+  const co2KnowledgeBase = {
+    "what is carbon emission":
+      "Carbon emission refers to the release of carbon dioxide (CO2) and other carbon compounds into the atmosphere. These emissions primarily come from burning fossil fuels like coal, oil, and natural gas for energy, transportation, and industrial processes. CO2 is a greenhouse gas that traps heat in Earth's atmosphere, contributing to global warming and climate change.",
+
+    "how carbon emission affect environment":
+      "Carbon emissions affect the environment by contributing to global warming and climate change. Excess CO2 traps heat in the atmosphere, leading to rising temperatures, melting ice caps, rising sea levels, extreme weather events, ocean acidification, and disruption of ecosystems. This impacts wildlife habitats, agriculture, water resources, and human health worldwide.",
+
+    "1 milk packet release how much carbon emission":
+      "A 1-liter milk packet typically releases approximately 1.0 to 1.3 kg of CO2 equivalent emissions. This includes emissions from dairy farming (cow methane and feed production), milk processing, packaging materials (plastic or carton), refrigeration, and transportation. Organic and locally-sourced milk generally has a lower carbon footprint.",
+
+    "what is greenhouse effect":
+      "The greenhouse effect is a natural process where certain gases in Earth's atmosphere trap heat from the sun, keeping our planet warm enough to support life. However, human activities have increased greenhouse gas concentrations, intensifying this effect and causing global temperatures to rise unnaturally, leading to climate change and environmental disruptions.",
+
+    "main sources of co2 emissions":
+      "The main sources of CO2 emissions include: electricity and heat production (burning coal and natural gas), transportation (cars, trucks, planes, ships), industrial processes (cement, steel, chemicals production), agriculture (livestock, fertilizers), deforestation, and residential heating and cooking. Fossil fuel combustion accounts for about 75% of global CO2 emissions.",
+
+    "what is carbon footprint":
+      "A carbon footprint is the total amount of greenhouse gases (primarily CO2) emitted directly or indirectly by an individual, organization, event, or product throughout its lifecycle. It's measured in tons of CO2 equivalent and includes emissions from energy use, transportation, food consumption, manufacturing, and waste. Understanding your carbon footprint helps identify ways to reduce environmental impact.",
+
+    "how to reduce carbon emissions":
+      "You can reduce carbon emissions by: using renewable energy, improving home insulation, choosing public transport or electric vehicles, eating less meat, buying local and seasonal foods, reducing waste through recycling and composting, using energy-efficient appliances, flying less, supporting sustainable businesses, and planting trees. Small daily changes collectively make significant impact.",
+
+    "1 kg beef carbon emission":
+      "Producing 1 kg of beef generates approximately 27-60 kg of CO2 equivalent emissions, making it one of the most carbon-intensive foods. This high footprint comes from cattle methane emissions (digestive process), land use changes (deforestation for grazing), feed production, water consumption, and transportation. Beef has roughly 10 times the emissions of chicken or plant-based proteins.",
+
+    "electric car vs petrol car emissions":
+      "Electric cars produce significantly lower emissions than petrol cars over their lifetime. While EVs have higher manufacturing emissions (mainly from batteries), they produce zero direct emissions during use. Over their lifespan, EVs emit about 50-70% less CO2 than petrol cars, even when accounting for electricity generation. This advantage increases with cleaner electricity grids.",
+
+    "what is net zero":
+      "Net zero means achieving a balance between the greenhouse gases emitted into the atmosphere and those removed from it. This doesn't mean zero emissions, but rather offsetting remaining emissions through carbon removal methods like reforestation, carbon capture technology, or ocean restoration. Many countries and companies aim for net zero by 2050.",
+
+    "plastic bottle carbon footprint":
+      "A single 500ml plastic bottle produces approximately 82.8 grams of CO2 emissions during its lifecycle. This includes petroleum extraction for plastic production, manufacturing, transportation, and disposal. Recycling reduces this by about 30%, but reusable bottles can cut emissions by over 90% compared to single-use plastics. Annually, billions of plastic bottles contribute significantly to global emissions.",
+
+    "flying carbon emission":
+      "A round-trip flight produces approximately 0.9-1.5 tons of CO2 per passenger for long-haul flights (e.g., transatlantic), and 0.2-0.4 tons for short-haul domestic flights. Aviation accounts for about 2.5% of global CO2 emissions. The impact is magnified by high-altitude emissions affecting atmospheric chemistry. Video conferencing and train travel are lower-carbon alternatives.",
+
+    "deforestation and carbon":
+      "Deforestation releases massive amounts of stored carbon into the atmosphere and removes trees that absorb CO2. Forests store about 296 gigatons of carbon globally. When cleared for agriculture or development, this carbon is released, and the land's CO2-absorbing capacity is lost. Deforestation accounts for approximately 10-15% of global greenhouse gas emissions annually.",
+
+    "what is carbon offsetting":
+      "Carbon offsetting involves compensating for emissions by funding projects that reduce or remove an equivalent amount of CO2 from the atmosphere. This includes renewable energy projects, reforestation, methane capture, and carbon capture technology. While useful, offsets should complement—not replace—emission reduction efforts. Quality and verification of offset projects are crucial for effectiveness.",
+
+    "renewable energy and emissions":
+      "Renewable energy sources like solar, wind, hydro, and geothermal produce minimal greenhouse gas emissions during operation, unlike fossil fuels. Solar panels emit about 40-50g CO2/kWh over their lifecycle (including manufacturing), compared to 800-1000g for coal power. Transitioning to renewables is essential for reducing global emissions and achieving climate goals.",
+
+    "1 kg rice carbon emission":
+      "Producing 1 kg of rice generates approximately 2.7-4 kg of CO2 equivalent emissions. Rice paddies are significant methane sources because anaerobic bacteria in flooded fields produce this potent greenhouse gas. Emissions also come from fertilizer production, irrigation pumps, and transportation. Sustainable farming methods like alternate wetting and drying can reduce rice-related emissions significantly.",
+
+    "ocean and carbon absorption":
+      "Oceans absorb about 25-30% of human-caused CO2 emissions, acting as crucial carbon sinks. Phytoplankton, marine plants, and chemical processes remove approximately 2.5 billion tons of carbon annually. However, this causes ocean acidification, harming marine life and coral reefs. Ocean warming also reduces absorption capacity, creating a concerning feedback loop in climate change.",
+
+    "cement production emissions":
+      "Cement production accounts for about 8% of global CO2 emissions, making it one of the most carbon-intensive industries. Producing 1 ton of cement releases approximately 0.9 tons of CO2, mainly from heating limestone to 1450°C and the chemical process itself. With global construction demands increasing, developing low-carbon cement alternatives is critical for climate action.",
+
+    "methane vs co2":
+      "Methane is a more potent greenhouse gas than CO2, trapping about 28-36 times more heat over 100 years, though it breaks down faster (10-12 years vs. centuries for CO2). Major sources include livestock, rice paddies, landfills, and fossil fuel operations. While less abundant than CO2, reducing methane emissions offers faster climate benefits.",
+
+    "smartphone carbon footprint":
+      "Manufacturing a smartphone produces approximately 55-95 kg of CO2 emissions, with 85% from production and 15% from usage and charging over its lifetime. Mining rare earth minerals, component manufacturing, assembly, and shipping all contribute. Keeping phones longer, buying refurbished devices, and proper recycling significantly reduce per-unit environmental impact.",
+
+    "fashion industry emissions":
+      "The fashion industry produces about 10% of global carbon emissions and nearly 20% of wastewater. Fast fashion's rapid production cycles, synthetic materials (petroleum-based), international shipping, and textile waste contribute heavily. A single cotton shirt requires about 2,700 liters of water and generates approximately 2.1 kg of CO2. Sustainable fashion and reduced consumption are essential solutions.",
+
+    "food waste and emissions":
+      "Food waste generates about 8-10% of global greenhouse gas emissions. When organic waste decomposes in landfills without oxygen, it produces methane. Additionally, all resources used in growing, processing, packaging, and transporting wasted food represent unnecessary emissions. Globally, about one-third of food produced is wasted. Composting and reducing waste significantly cuts these emissions.",
+  };
+
+  // Initialize chatbot
+  (function () {
+    const chatButton = document.getElementById("chatButton");
+    const chatWindow = document.getElementById("chatWindow");
+    const closeBtn = document.getElementById("closeBtn");
+    const chatMessages = document.getElementById("chatMessages");
+    const userInput = document.getElementById("userInput");
+    const sendBtn = document.getElementById("sendBtn");
+    const quickQuestionBtns = document.querySelectorAll(".quick-question-btn");
+
+    // Toggle chat window
+    chatButton.addEventListener("click", function () {
+      chatWindow.classList.add("active");
+      userInput.focus();
+    });
+
+    closeBtn.addEventListener("click", function () {
+      chatWindow.classList.remove("active");
+    });
+
+    // Add message to chat
+    function addMessage(text, sender) {
+      const messageDiv = document.createElement("div");
+      messageDiv.className = "message " + sender;
+
+      const contentDiv = document.createElement("div");
+      contentDiv.className = "message-content";
+      contentDiv.textContent = text;
+
+      messageDiv.appendChild(contentDiv);
+      chatMessages.appendChild(messageDiv);
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+    // Get bot response
+    function getBotResponse(question) {
+      const normalizedQuestion = question.toLowerCase().trim();
+
+      // Direct match
+      if (co2KnowledgeBase[normalizedQuestion]) {
+        return co2KnowledgeBase[normalizedQuestion];
+      }
+
+      // Fuzzy matching
+      let bestMatch = null;
+      let maxMatches = 0;
+
+      for (let key in co2KnowledgeBase) {
+        const keywords = key.split(" ");
+        const questionWords = normalizedQuestion.split(" ");
+
+        let matches = 0;
+        keywords.forEach(function (keyword) {
+          questionWords.forEach(function (word) {
+            if (word.includes(keyword) || keyword.includes(word)) {
+              matches++;
+            }
+          });
+        });
+
+        if (matches > maxMatches) {
+          maxMatches = matches;
+          bestMatch = key;
+        }
+      }
+
+      if (maxMatches >= 2 && bestMatch) {
+        return co2KnowledgeBase[bestMatch];
+      }
+
+      return "I'm sorry, I don't have specific information about that. Try asking about: carbon emissions, greenhouse effect, carbon footprint, reducing emissions, specific products like milk/beef/rice, electric cars, deforestation, renewable energy, or climate change topics.";
+    }
+
+    // Send message
+    function sendMessage() {
+      const message = userInput.value.trim();
+      if (message === "") return;
+
+      addMessage(message, "user");
+      userInput.value = "";
+
+      setTimeout(function () {
+        const response = getBotResponse(message);
+        addMessage(response, "bot");
+      }, 500);
+    }
+
+    // Event listeners
+    sendBtn.addEventListener("click", sendMessage);
+
+    userInput.addEventListener("keypress", function (e) {
+      if (e.key === "Enter") {
+        sendMessage();
+      }
+    });
+
+    // Quick questions
+    quickQuestionBtns.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        const question = btn.getAttribute("data-question");
+        userInput.value = question;
+        sendMessage();
+      });
+    });
+  })();
+</script>

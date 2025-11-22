@@ -1,0 +1,5001 @@
+item,category,co2_per_unit,unit
+DailyCare Dish Soap,Cleaning,12.59,kg
+GoodFarm Chair,Household,44.19,piece
+HomeEssentials Lamp,Household,44.12,piece
+GreenChoice Beef,Meat,17.81,kg
+GoodFarm Cat Food,Pet Supplies,3.69,kg
+GreenChoice Floor Cleaner,Cleaning,4.03,kg
+HomeEssentials Train Ticket,Transport,2.05,km
+GoodFarm Apple,Fruits,0.86,kg
+EcoLife Shampoo,Personal Care,2.06,piece
+BrandC Laptop,Electronics,115.84,piece
+NaturePlus Bleach,Cleaning,2.11,liter
+DailyCare Rice,Food,1.2,kg
+BrandC Mattress,Household,14.88,piece
+DailyCare Headphones,Electronics,139.66,piece
+BrandB Tea,Beverages,0.86,bottle
+BrandB Bread,Bakery,2.4,kg
+NaturePlus Laptop,Electronics,50.33,piece
+EcoLife Jeans,Clothing,8.98,piece
+GreenChoice Pet Toy,Pet Supplies,3.98,kg
+GoodFarm TV,Electronics,41.99,piece
+NaturePlus Orange,Fruits,1.07,piece
+HomeEssentials Bus Ticket,Transport,4.88,km
+HomeEssentials T-shirt,Clothing,3.22,piece
+BrandB Floor Cleaner,Cleaning,5.92,liter
+EcoLife Croissant,Bakery,0.39,piece
+NaturePlus Onion,Vegetables,0.63,piece
+EcoLife Pet Shampoo,Pet Supplies,9.61,kg
+BrandC Bagel,Bakery,4.83,kg
+DailyCare Pet Shampoo,Pet Supplies,3.96,piece
+HomeEssentials Pet Toy,Pet Supplies,4.95,piece
+GreenChoice Carrot,Vegetables,0.82,kg
+DailyCare Spinach,Vegetables,0.71,piece
+BrandB Bleach,Cleaning,3.94,liter
+EcoLife Petrol,Transport,2.46,km
+HomeEssentials Lamp,Household,40.52,piece
+GoodFarm Shirt,Clothing,4.57,piece
+DailyCare Cream,Dairy,2.33,kg
+GreenChoice Dish Soap,Cleaning,5.01,piece
+NaturePlus Deodorant,Personal Care,2.89,piece
+EcoLife Diesel,Transport,2.89,liter
+NaturePlus Butter,Dairy,0.71,liter
+BrandB Croissant,Bakery,4.4,kg
+BrandC Deodorant,Personal Care,1.83,piece
+GreenChoice Turkey,Meat,21.88,kg
+BrandA Beef,Meat,11.76,kg
+BrandA Muffin,Bakery,2.07,piece
+NaturePlus Banana,Fruits,0.3,piece
+BrandA Notebook,Stationery,1.64,piece
+GoodFarm Bicycle,Transport,3.72,km
+BrandA Marker,Stationery,0.33,piece
+EcoLife Grapes,Fruits,1.25,kg
+BrandB Deodorant,Personal Care,4.13,piece
+HomeEssentials Orange,Fruits,0.43,kg
+BrandB Bread,Bakery,2.67,piece
+NaturePlus Shampoo,Personal Care,0.15,piece
+HomeEssentials Pen,Stationery,4.4,piece
+NaturePlus Petrol,Transport,4.39,liter
+EcoLife Toothpaste,Personal Care,0.88,piece
+BrandB Mango,Fruits,0.27,piece
+BrandA Soap,Personal Care,1.52,piece
+EcoLife Coke,Beverages,0.82,bottle
+GreenChoice Lentils,Food,1.13,pack
+HomeEssentials Shampoo,Personal Care,4.59,piece
+GoodFarm Muffin,Bakery,2.32,kg
+HomeEssentials Cat Food,Pet Supplies,4.44,piece
+GoodFarm Turkey,Meat,7.96,kg
+HomeEssentials Detergent,Cleaning,6.09,kg
+EcoLife Muffin,Bakery,4.14,piece
+GoodFarm Mango,Fruits,0.55,piece
+BrandC Pet Shampoo,Pet Supplies,7.53,piece
+BrandC Rice,Food,1.63,pack
+BrandA Shirt,Clothing,9.12,piece
+GoodFarm Pork,Meat,24.9,kg
+HomeEssentials Orange,Fruits,1.76,piece
+GreenChoice Glass Cleaner,Cleaning,13.03,piece
+GreenChoice Bus Ticket,Transport,0.48,liter
+HomeEssentials Milk,Dairy,6.04,kg
+HomeEssentials Marker,Stationery,1.4,piece
+EcoLife Banana,Fruits,1.73,kg
+BrandA Pillow,Household,44.43,piece
+GreenChoice Headphones,Electronics,77.04,piece
+GoodFarm Orange,Fruits,0.6,piece
+BrandC Laptop,Electronics,66.41,piece
+BrandC Oats,Food,3.09,pack
+BrandC Carrot,Vegetables,1.87,kg
+GreenChoice Pet Shampoo,Pet Supplies,6.99,kg
+NaturePlus Croissant,Bakery,1.45,kg
+DailyCare Laptop,Electronics,69.83,piece
+GoodFarm Shampoo,Personal Care,3.76,piece
+EcoLife Shampoo,Personal Care,0.18,piece
+GreenChoice Lamb,Meat,18.27,kg
+BrandA Phone,Electronics,182.21,piece
+GoodFarm Floor Cleaner,Cleaning,8.44,kg
+NaturePlus Glass Cleaner,Cleaning,4.46,kg
+BrandC Notebook,Stationery,1.83,piece
+NaturePlus Pen,Stationery,3.76,piece
+NaturePlus Lamb,Meat,15.92,kg
+BrandA Turkey,Meat,29.14,kg
+GreenChoice Water,Beverages,2.69,bottle
+HomeEssentials Milk,Dairy,2.84,liter
+EcoLife Oats,Food,3.71,kg
+BrandA T-shirt,Clothing,19.88,piece
+GoodFarm Shampoo,Personal Care,0.4,piece
+HomeEssentials Carrot,Vegetables,1.53,kg
+GreenChoice Pet Toy,Pet Supplies,6.19,piece
+DailyCare Nuts,Food,2.48,piece
+NaturePlus Jeans,Clothing,4.4,piece
+BrandB Beef,Meat,20.11,kg
+BrandC Muffin,Bakery,3.51,kg
+EcoLife Toothpaste,Personal Care,2.87,piece
+BrandB Lamp,Household,23.58,piece
+GreenChoice Oats,Food,3.82,kg
+NaturePlus Grapes,Fruits,0.24,kg
+GoodFarm Grapes,Fruits,1.22,kg
+DailyCare Laptop,Electronics,142.06,piece
+GreenChoice Onion,Vegetables,0.42,piece
+EcoLife T-shirt,Clothing,6.73,piece
+BrandB Notebook,Stationery,4.37,piece
+NaturePlus Coffee,Beverages,0.89,bottle
+GoodFarm Pet Toy,Pet Supplies,4.06,kg
+HomeEssentials Milk,Dairy,1.17,kg
+BrandC Juice,Beverages,2.6,bottle
+DailyCare Lamp,Household,42.09,piece
+GoodFarm Pen,Stationery,1.91,piece
+HomeEssentials Diesel,Transport,2.22,km
+BrandA Cream,Dairy,3.0,liter
+DailyCare Yogurt,Dairy,4.48,kg
+NaturePlus Juice,Beverages,2.29,liter
+GoodFarm Coke,Beverages,0.44,bottle
+DailyCare Turkey,Meat,24.48,kg
+NaturePlus Glass Cleaner,Cleaning,3.38,kg
+BrandC Rice,Food,4.61,piece
+HomeEssentials Butter,Dairy,4.68,liter
+GreenChoice T-shirt,Clothing,12.09,piece
+GreenChoice Jeans,Clothing,6.6,piece
+HomeEssentials Litter,Pet Supplies,8.33,kg
+NaturePlus Coffee,Beverages,1.96,liter
+BrandB Pork,Meat,8.11,kg
+GoodFarm Pork,Meat,5.41,kg
+DailyCare Chair,Household,48.47,piece
+BrandC Toothpaste,Personal Care,1.17,piece
+EcoLife Bicycle,Transport,3.56,km
+NaturePlus Bagel,Bakery,2.45,piece
+HomeEssentials Yogurt,Dairy,5.87,kg
+BrandA Pasta,Food,1.8,pack
+GreenChoice Pork,Meat,5.15,kg
+HomeEssentials Floor Cleaner,Cleaning,3.64,liter
+HomeEssentials Bagel,Bakery,1.05,kg
+NaturePlus Laptop,Electronics,80.22,piece
+NaturePlus Soap,Personal Care,4.37,piece
+BrandA Pet Shampoo,Pet Supplies,9.02,piece
+BrandC TV,Electronics,59.86,piece
+GoodFarm Croissant,Bakery,3.69,piece
+BrandA Spinach,Vegetables,0.17,piece
+NaturePlus Table,Household,26.13,piece
+BrandB Yogurt,Dairy,8.57,kg
+BrandC Detergent,Cleaning,14.78,kg
+GreenChoice Onion,Vegetables,1.95,piece
+GreenChoice Chair,Household,36.53,piece
+BrandB Headphones,Electronics,183.22,piece
+GreenChoice Table,Household,48.08,piece
+DailyCare Glass Cleaner,Cleaning,7.84,liter
+DailyCare Beef,Meat,25.36,kg
+DailyCare Cat Food,Pet Supplies,0.9,piece
+DailyCare Cheese,Dairy,3.47,liter
+HomeEssentials Water,Beverages,0.73,bottle
+BrandC Spinach,Vegetables,1.0,kg
+BrandC Chair,Household,33.07,piece
+EcoLife Grapes,Fruits,1.92,kg
+BrandA Dish Soap,Cleaning,4.41,kg
+BrandA Chair,Household,12.83,piece
+NaturePlus Sweater,Clothing,17.02,piece
+GoodFarm Jeans,Clothing,10.19,piece
+DailyCare Carrot,Vegetables,0.2,kg
+EcoLife Beef,Meat,19.93,kg
+BrandC Cat Food,Pet Supplies,0.94,kg
+BrandA Headphones,Electronics,10.09,piece
+GoodFarm Sweater,Clothing,8.68,piece
+BrandA Milk,Dairy,4.52,kg
+BrandB Butter,Dairy,8.72,kg
+GreenChoice Milk,Dairy,9.43,liter
+NaturePlus Apple,Fruits,0.51,kg
+HomeEssentials Cat Food,Pet Supplies,5.75,piece
+BrandC Spinach,Vegetables,0.18,piece
+BrandA Onion,Vegetables,1.0,kg
+DailyCare Dog Food,Pet Supplies,3.74,piece
+HomeEssentials Rice,Food,3.32,kg
+NaturePlus Bleach,Cleaning,4.58,liter
+GreenChoice Lamb,Meat,14.47,kg
+BrandA Jeans,Clothing,2.96,piece
+EcoLife Tomato,Vegetables,1.4,piece
+DailyCare Coffee,Beverages,1.25,bottle
+EcoLife Croissant,Bakery,3.29,kg
+GreenChoice Floor Cleaner,Cleaning,14.22,piece
+BrandA Tomato,Vegetables,1.07,kg
+HomeEssentials Cat Food,Pet Supplies,3.18,kg
+BrandC Water,Beverages,1.87,bottle
+BrandC Pet Shampoo,Pet Supplies,5.38,piece
+BrandA Bicycle,Transport,0.18,liter
+GoodFarm Water,Beverages,0.44,liter
+BrandC Diesel,Transport,2.62,liter
+DailyCare Pork,Meat,11.68,kg
+GoodFarm Sweater,Clothing,8.08,piece
+BrandA Apple,Fruits,1.42,kg
+GreenChoice Toothpaste,Personal Care,0.34,piece
+GoodFarm Tomato,Vegetables,1.04,piece
+GreenChoice Jeans,Clothing,16.71,piece
+HomeEssentials Lentils,Food,2.8,piece
+HomeEssentials Lamb,Meat,29.77,kg
+BrandA Petrol,Transport,0.99,liter
+BrandA Lentils,Food,0.47,kg
+BrandB Onion,Vegetables,0.95,piece
+GreenChoice Dog Food,Pet Supplies,9.15,kg
+BrandC Dish Soap,Cleaning,3.68,liter
+NaturePlus Tomato,Vegetables,0.41,piece
+BrandC Floor Cleaner,Cleaning,14.99,piece
+BrandB Table,Household,40.66,piece
+GreenChoice Orange,Fruits,1.81,piece
+EcoLife Bagel,Bakery,2.8,piece
+BrandA Litter,Pet Supplies,9.79,piece
+EcoLife Pet Toy,Pet Supplies,2.37,piece
+EcoLife Bread,Bakery,1.9,piece
+BrandC Tablet,Electronics,182.54,piece
+BrandA Tea,Beverages,1.71,bottle
+DailyCare Cheese,Dairy,1.42,liter
+BrandC Petrol,Transport,3.07,liter
+GreenChoice Diesel,Transport,3.28,liter
+BrandC Petrol,Transport,3.16,km
+GreenChoice Apple,Fruits,0.42,kg
+NaturePlus Tea,Beverages,2.6,liter
+BrandA Notebook,Stationery,2.65,piece
+GreenChoice Shampoo,Personal Care,1.99,piece
+EcoLife Tablet,Electronics,197.49,piece
+NaturePlus Jacket,Clothing,7.26,piece
+GoodFarm Coke,Beverages,2.51,bottle
+NaturePlus Pet Toy,Pet Supplies,3.46,piece
+BrandB Diesel,Transport,4.33,km
+BrandA Nuts,Food,3.4,kg
+BrandA Table,Household,39.02,piece
+NaturePlus Floor Cleaner,Cleaning,13.99,liter
+BrandC Soap,Personal Care,4.33,piece
+BrandB Jacket,Clothing,5.17,piece
+HomeEssentials T-shirt,Clothing,15.49,piece
+BrandB Marker,Stationery,0.38,piece
+EcoLife Lamb,Meat,24.36,kg
+BrandC Stapler,Stationery,4.67,piece
+BrandC Coke,Beverages,0.78,bottle
+HomeEssentials Jeans,Clothing,13.0,piece
+HomeEssentials Detergent,Cleaning,6.66,kg
+NaturePlus Mango,Fruits,0.53,piece
+DailyCare Lamp,Household,3.06,piece
+NaturePlus Muffin,Bakery,4.86,piece
+HomeEssentials Water,Beverages,2.91,liter
+HomeEssentials Cream,Dairy,4.83,kg
+GoodFarm Shirt,Clothing,18.84,piece
+BrandB Bleach,Cleaning,11.56,piece
+EcoLife Yogurt,Dairy,1.95,kg
+GoodFarm Spinach,Vegetables,0.42,piece
+DailyCare Toothpaste,Personal Care,3.74,piece
+GoodFarm Bagel,Bakery,3.93,kg
+GoodFarm Chicken,Meat,5.28,kg
+NaturePlus Lamp,Household,15.02,piece
+HomeEssentials Beans,Food,1.35,piece
+BrandB Cream,Dairy,7.58,kg
+BrandC Deodorant,Personal Care,2.8,piece
+GoodFarm Bus Ticket,Transport,0.87,liter
+DailyCare Pork,Meat,17.41,kg
+GoodFarm Yogurt,Dairy,4.74,liter
+GreenChoice Lentils,Food,3.56,pack
+GoodFarm Diesel,Transport,3.32,liter
+BrandC Cream,Dairy,9.06,liter
+BrandA Train Ticket,Transport,3.37,liter
+BrandC Mango,Fruits,1.8,kg
+GoodFarm Yogurt,Dairy,7.22,kg
+BrandB Bus Ticket,Transport,0.3,km
+BrandB Table,Household,49.63,piece
+DailyCare Cream,Dairy,1.61,liter
+BrandA Pen,Stationery,0.82,piece
+BrandA Bleach,Cleaning,12.16,piece
+GoodFarm Orange,Fruits,0.2,kg
+HomeEssentials Deodorant,Personal Care,2.97,piece
+BrandA Jacket,Clothing,14.5,piece
+BrandB Sweater,Clothing,8.41,piece
+BrandB Headphones,Electronics,123.54,piece
+BrandB Shampoo,Personal Care,2.88,piece
+BrandA Cheese,Dairy,3.8,liter
+DailyCare Mango,Fruits,0.19,kg
+HomeEssentials Beans,Food,4.45,kg
+BrandA T-shirt,Clothing,5.46,piece
+BrandA Bread,Bakery,1.74,kg
+GoodFarm Pet Toy,Pet Supplies,4.55,kg
+BrandB Cream,Dairy,0.71,kg
+NaturePlus T-shirt,Clothing,5.72,piece
+GoodFarm Oats,Food,3.65,kg
+HomeEssentials Beef,Meat,12.31,kg
+GoodFarm Dog Food,Pet Supplies,5.58,kg
+DailyCare Carrot,Vegetables,1.03,piece
+EcoLife Floor Cleaner,Cleaning,3.51,piece
+BrandB Chicken,Meat,12.89,kg
+EcoLife Dish Soap,Cleaning,14.89,piece
+HomeEssentials Beans,Food,4.58,kg
+GoodFarm Oats,Food,3.71,pack
+BrandB Water,Beverages,0.47,liter
+NaturePlus Grapes,Fruits,1.15,kg
+HomeEssentials Lamb,Meat,23.65,kg
+BrandB Croissant,Bakery,1.55,kg
+HomeEssentials Oats,Food,3.08,pack
+BrandB Cat Food,Pet Supplies,9.81,kg
+BrandC Bus Ticket,Transport,2.17,liter
+GoodFarm Jeans,Clothing,11.51,piece
+BrandC T-shirt,Clothing,3.16,piece
+BrandA Apple,Fruits,1.51,kg
+GoodFarm Train Ticket,Transport,2.56,liter
+BrandB Coke,Beverages,1.01,liter
+GoodFarm Diesel,Transport,1.47,liter
+BrandB Deodorant,Personal Care,3.8,piece
+BrandC Beef,Meat,10.39,kg
+BrandB Tea,Beverages,0.98,bottle
+BrandA Grapes,Fruits,0.42,kg
+GoodFarm Bus Ticket,Transport,3.8,liter
+EcoLife Table,Household,16.54,piece
+BrandC Beans,Food,2.46,piece
+GoodFarm Phone,Electronics,84.25,piece
+EcoLife Onion,Vegetables,1.62,kg
+GoodFarm Yogurt,Dairy,3.14,kg
+DailyCare Cat Food,Pet Supplies,6.62,piece
+EcoLife Lentils,Food,4.08,pack
+EcoLife Jacket,Clothing,11.71,piece
+GoodFarm Spinach,Vegetables,1.07,kg
+BrandC Tea,Beverages,1.42,bottle
+HomeEssentials Turkey,Meat,27.28,kg
+BrandC Bicycle,Transport,4.96,km
+BrandC Cake,Bakery,4.36,kg
+NaturePlus Muffin,Bakery,3.2,piece
+EcoLife Pork,Meat,24.19,kg
+GoodFarm Phone,Electronics,76.25,piece
+DailyCare Bleach,Cleaning,5.28,piece
+GoodFarm Butter,Dairy,1.06,kg
+HomeEssentials Pillow,Household,48.2,piece
+EcoLife Pet Shampoo,Pet Supplies,5.47,kg
+BrandB Cat Food,Pet Supplies,9.89,piece
+GoodFarm Beef,Meat,29.73,kg
+NaturePlus Marker,Stationery,0.72,piece
+BrandB Croissant,Bakery,4.54,kg
+NaturePlus Coffee,Beverages,2.67,bottle
+BrandA Headphones,Electronics,58.76,piece
+GreenChoice Tea,Beverages,1.96,liter
+BrandC Banana,Fruits,0.83,piece
+NaturePlus Bicycle,Transport,1.74,liter
+DailyCare Pet Shampoo,Pet Supplies,6.43,piece
+NaturePlus Litter,Pet Supplies,9.9,kg
+EcoLife Potato,Vegetables,1.3,kg
+BrandB Beef,Meat,26.08,kg
+BrandC Lentils,Food,1.65,piece
+BrandC Cat Food,Pet Supplies,7.94,kg
+EcoLife TV,Electronics,150.26,piece
+GoodFarm Orange,Fruits,1.84,kg
+BrandB Marker,Stationery,3.08,piece
+GoodFarm Mango,Fruits,0.64,piece
+BrandC Coke,Beverages,2.88,liter
+BrandB Phone,Electronics,195.27,piece
+BrandA Stapler,Stationery,0.94,piece
+NaturePlus Dog Food,Pet Supplies,8.26,kg
+HomeEssentials Laptop,Electronics,199.07,piece
+GreenChoice Bread,Bakery,3.12,piece
+EcoLife Water,Beverages,0.59,bottle
+GoodFarm Pasta,Food,0.8,kg
+NaturePlus Tablet,Electronics,105.07,piece
+BrandB Mango,Fruits,1.69,kg
+DailyCare Banana,Fruits,1.66,kg
+NaturePlus Glass Cleaner,Cleaning,14.33,liter
+BrandA Dog Food,Pet Supplies,4.83,piece
+BrandA Jacket,Clothing,15.28,piece
+DailyCare Soap,Personal Care,1.02,piece
+BrandB Toothpaste,Personal Care,1.66,piece
+NaturePlus Notebook,Stationery,2.79,piece
+HomeEssentials Detergent,Cleaning,9.06,liter
+DailyCare Orange,Fruits,0.93,piece
+BrandB Phone,Electronics,67.99,piece
+BrandC Train Ticket,Transport,0.14,km
+BrandB Jacket,Clothing,6.03,piece
+BrandC Cheese,Dairy,5.95,liter
+NaturePlus Lotion,Personal Care,2.66,piece
+NaturePlus Lamp,Household,14.55,piece
+HomeEssentials Tablet,Electronics,32.29,piece
+GoodFarm Dog Food,Pet Supplies,2.75,piece
+BrandA Cat Food,Pet Supplies,8.4,piece
+DailyCare Banana,Fruits,1.7,piece
+BrandA Jacket,Clothing,10.86,piece
+DailyCare Oats,Food,2.82,pack
+GoodFarm Stapler,Stationery,1.59,piece
+GreenChoice Milk,Dairy,4.91,liter
+GoodFarm Marker,Stationery,4.0,piece
+EcoLife Lamb,Meat,29.36,kg
+GoodFarm Cake,Bakery,0.93,piece
+BrandB Pasta,Food,3.85,pack
+DailyCare Pet Shampoo,Pet Supplies,3.06,piece
+BrandC Tea,Beverages,1.38,liter
+BrandA Butter,Dairy,6.99,kg
+GoodFarm Cat Food,Pet Supplies,8.51,piece
+GoodFarm Lamb,Meat,25.52,kg
+GreenChoice Toothpaste,Personal Care,0.54,piece
+NaturePlus Lamp,Household,5.38,piece
+BrandA Juice,Beverages,1.64,bottle
+HomeEssentials Notebook,Stationery,3.67,piece
+BrandC Pillow,Household,16.65,piece
+NaturePlus Turkey,Meat,27.32,kg
+DailyCare Cake,Bakery,4.71,piece
+GoodFarm Oats,Food,1.81,pack
+BrandB Tablet,Electronics,194.25,piece
+NaturePlus Pen,Stationery,4.82,piece
+HomeEssentials Tea,Beverages,1.53,bottle
+BrandA Pet Shampoo,Pet Supplies,9.97,piece
+BrandA TV,Electronics,129.5,piece
+NaturePlus Spinach,Vegetables,0.94,piece
+BrandC Pillow,Household,36.92,piece
+BrandC Water,Beverages,1.32,bottle
+NaturePlus Croissant,Bakery,3.62,piece
+NaturePlus Jeans,Clothing,7.88,piece
+EcoLife Sweater,Clothing,4.03,piece
+BrandC Onion,Vegetables,0.3,kg
+BrandB Laptop,Electronics,107.59,piece
+BrandC Pork,Meat,13.13,kg
+BrandC Notebook,Stationery,3.28,piece
+EcoLife Jacket,Clothing,5.07,piece
+BrandC Laptop,Electronics,165.46,piece
+NaturePlus Notebook,Stationery,0.13,piece
+NaturePlus Banana,Fruits,0.37,piece
+BrandC Marker,Stationery,3.42,piece
+BrandA Detergent,Cleaning,7.45,kg
+DailyCare Rice,Food,1.43,kg
+BrandA Lotion,Personal Care,2.72,piece
+EcoLife Headphones,Electronics,175.97,piece
+NaturePlus Mattress,Household,13.92,piece
+EcoLife Muffin,Bakery,3.43,piece
+EcoLife Carrot,Vegetables,1.09,kg
+NaturePlus Muffin,Bakery,0.46,kg
+GreenChoice Onion,Vegetables,1.36,piece
+NaturePlus Beef,Meat,27.57,kg
+DailyCare Sweater,Clothing,14.29,piece
+HomeEssentials Mattress,Household,22.3,piece
+HomeEssentials Muffin,Bakery,0.89,kg
+GreenChoice Soap,Personal Care,1.21,piece
+GoodFarm Table,Household,8.62,piece
+EcoLife Mango,Fruits,1.62,kg
+DailyCare Jeans,Clothing,14.91,piece
+GoodFarm Stapler,Stationery,4.09,piece
+HomeEssentials Bagel,Bakery,3.15,piece
+EcoLife Rice,Food,3.74,kg
+DailyCare Litter,Pet Supplies,5.51,kg
+BrandA Coke,Beverages,0.29,bottle
+HomeEssentials Cake,Bakery,4.18,piece
+BrandB Headphones,Electronics,81.88,piece
+DailyCare Cat Food,Pet Supplies,1.08,piece
+HomeEssentials Glass Cleaner,Cleaning,3.09,liter
+HomeEssentials Onion,Vegetables,0.08,piece
+BrandB Beef,Meat,24.86,kg
+DailyCare Bus Ticket,Transport,2.8,km
+GoodFarm Phone,Electronics,82.89,piece
+BrandB Bicycle,Transport,2.71,liter
+BrandB Lotion,Personal Care,3.92,piece
+BrandB Lamb,Meat,20.22,kg
+NaturePlus Pillow,Household,41.19,piece
+EcoLife Bus Ticket,Transport,3.36,km
+BrandC Orange,Fruits,0.87,kg
+BrandA Diesel,Transport,0.47,liter
+GoodFarm Chair,Household,32.05,piece
+BrandC Toothpaste,Personal Care,1.36,piece
+GreenChoice Soap,Personal Care,3.96,piece
+DailyCare Pillow,Household,7.56,piece
+GoodFarm Nuts,Food,0.31,kg
+BrandC Diesel,Transport,3.19,km
+EcoLife Pork,Meat,10.57,kg
+BrandC Lamb,Meat,23.81,kg
+NaturePlus Paper Pack,Stationery,0.83,piece
+BrandC Bus Ticket,Transport,1.25,km
+GoodFarm Paper Pack,Stationery,3.43,piece
+NaturePlus Floor Cleaner,Cleaning,9.34,liter
+NaturePlus Orange,Fruits,0.16,piece
+BrandB Marker,Stationery,3.68,piece
+GoodFarm Table,Household,45.09,piece
+BrandB Croissant,Bakery,3.12,kg
+HomeEssentials Detergent,Cleaning,5.09,kg
+GoodFarm TV,Electronics,41.16,piece
+GoodFarm Turkey,Meat,7.73,kg
+BrandB Cake,Bakery,0.55,piece
+BrandA Dish Soap,Cleaning,10.41,liter
+HomeEssentials Detergent,Cleaning,13.07,piece
+GoodFarm Rice,Food,0.74,pack
+BrandC Pet Shampoo,Pet Supplies,0.47,piece
+HomeEssentials Notebook,Stationery,4.25,piece
+EcoLife Train Ticket,Transport,4.25,liter
+BrandA Sweater,Clothing,3.88,piece
+BrandA Mattress,Household,23.51,piece
+BrandA Croissant,Bakery,0.66,piece
+DailyCare Bagel,Bakery,1.44,kg
+BrandA Petrol,Transport,4.89,liter
+NaturePlus Phone,Electronics,99.6,piece
+EcoLife Banana,Fruits,1.56,piece
+BrandC Detergent,Cleaning,1.8,liter
+GoodFarm Floor Cleaner,Cleaning,7.03,liter
+GreenChoice Orange,Fruits,0.43,kg
+DailyCare Carrot,Vegetables,1.33,piece
+NaturePlus Marker,Stationery,3.35,piece
+EcoLife Bagel,Bakery,2.58,piece
+HomeEssentials Apple,Fruits,0.25,piece
+NaturePlus Apple,Fruits,0.31,kg
+BrandC Tomato,Vegetables,0.21,piece
+BrandA Jeans,Clothing,12.16,piece
+BrandA Carrot,Vegetables,0.74,piece
+BrandA Rice,Food,3.85,pack
+HomeEssentials Bicycle,Transport,3.91,km
+EcoLife Jacket,Clothing,5.95,piece
+EcoLife Coke,Beverages,1.64,bottle
+GoodFarm Lotion,Personal Care,2.34,piece
+GoodFarm Chicken,Meat,27.53,kg
+BrandC Petrol,Transport,3.79,km
+DailyCare Cream,Dairy,7.09,kg
+BrandA Mattress,Household,26.84,piece
+BrandA Tomato,Vegetables,1.74,piece
+BrandB Soap,Personal Care,1.18,piece
+GreenChoice Yogurt,Dairy,4.42,kg
+GreenChoice Glass Cleaner,Cleaning,9.52,kg
+EcoLife Tea,Beverages,1.21,liter
+BrandA Stapler,Stationery,3.09,piece
+BrandB Butter,Dairy,5.13,kg
+GreenChoice Pork,Meat,20.67,kg
+BrandC Deodorant,Personal Care,3.62,piece
+BrandA Banana,Fruits,0.42,piece
+GreenChoice Water,Beverages,2.6,liter
+HomeEssentials Pet Toy,Pet Supplies,9.07,piece
+DailyCare Dog Food,Pet Supplies,2.64,piece
+BrandC Cake,Bakery,0.94,kg
+DailyCare Mattress,Household,33.92,piece
+BrandA Bagel,Bakery,1.07,kg
+NaturePlus TV,Electronics,126.7,piece
+BrandC Muffin,Bakery,3.68,piece
+BrandC Apple,Fruits,1.17,kg
+GreenChoice Grapes,Fruits,0.47,piece
+EcoLife Glass Cleaner,Cleaning,13.35,piece
+GreenChoice Croissant,Bakery,2.1,kg
+EcoLife Mango,Fruits,0.33,kg
+BrandB Coffee,Beverages,1.78,liter
+GreenChoice Croissant,Bakery,3.27,kg
+GoodFarm Banana,Fruits,1.39,piece
+GoodFarm Nuts,Food,3.32,pack
+DailyCare Turkey,Meat,25.77,kg
+GreenChoice Dish Soap,Cleaning,12.0,kg
+GoodFarm Dog Food,Pet Supplies,5.18,kg
+EcoLife Milk,Dairy,7.12,liter
+NaturePlus Bagel,Bakery,2.77,piece
+BrandB Lotion,Personal Care,2.31,piece
+HomeEssentials Sweater,Clothing,17.54,piece
+DailyCare Bus Ticket,Transport,0.5,km
+GoodFarm Lentils,Food,4.96,pack
+NaturePlus T-shirt,Clothing,6.67,piece
+BrandA Tomato,Vegetables,0.95,piece
+GreenChoice Bread,Bakery,1.23,piece
+GreenChoice Rice,Food,1.65,pack
+BrandA Mango,Fruits,1.94,piece
+BrandA Spinach,Vegetables,1.08,kg
+BrandA T-shirt,Clothing,15.66,piece
+EcoLife Lamp,Household,34.34,piece
+BrandC Tomato,Vegetables,1.61,piece
+BrandA Muffin,Bakery,4.23,kg
+NaturePlus Marker,Stationery,1.93,piece
+BrandB Headphones,Electronics,71.67,piece
+GoodFarm Pet Toy,Pet Supplies,7.12,kg
+GreenChoice Beans,Food,4.39,pack
+GreenChoice Pen,Stationery,2.39,piece
+BrandA Pillow,Household,16.33,piece
+HomeEssentials Dog Food,Pet Supplies,8.75,piece
+BrandA Beans,Food,1.43,piece
+BrandA Milk,Dairy,7.55,liter
+BrandB Dog Food,Pet Supplies,9.65,piece
+BrandB Coke,Beverages,0.45,bottle
+HomeEssentials Turkey,Meat,11.36,kg
+BrandA Pillow,Household,45.46,piece
+EcoLife Jeans,Clothing,11.85,piece
+HomeEssentials Train Ticket,Transport,4.99,liter
+GoodFarm Toothpaste,Personal Care,4.92,piece
+BrandB Pen,Stationery,2.82,piece
+GoodFarm Jeans,Clothing,12.03,piece
+GoodFarm Bread,Bakery,1.56,kg
+EcoLife Shampoo,Personal Care,0.42,piece
+HomeEssentials Bread,Bakery,2.1,kg
+NaturePlus Beans,Food,2.96,pack
+DailyCare Phone,Electronics,189.91,piece
+GreenChoice Turkey,Meat,28.12,kg
+GreenChoice Cream,Dairy,5.68,liter
+EcoLife Potato,Vegetables,1.86,piece
+BrandA Grapes,Fruits,0.57,piece
+EcoLife Detergent,Cleaning,11.0,liter
+HomeEssentials Turkey,Meat,20.59,kg
+NaturePlus T-shirt,Clothing,11.24,piece
+BrandC Cake,Bakery,3.72,piece
+GreenChoice Pen,Stationery,3.05,piece
+BrandC Shirt,Clothing,11.6,piece
+GoodFarm Pork,Meat,18.36,kg
+DailyCare Cat Food,Pet Supplies,3.42,piece
+GreenChoice Rice,Food,4.53,pack
+DailyCare Dog Food,Pet Supplies,6.35,piece
+GoodFarm Orange,Fruits,0.69,kg
+EcoLife Shampoo,Personal Care,2.83,piece
+NaturePlus Tablet,Electronics,163.86,piece
+DailyCare Pasta,Food,2.81,pack
+EcoLife Rice,Food,3.16,piece
+NaturePlus Chair,Household,25.85,piece
+BrandC Mango,Fruits,0.92,kg
+GreenChoice Bus Ticket,Transport,1.48,km
+HomeEssentials Carrot,Vegetables,1.4,kg
+BrandC Mango,Fruits,0.4,kg
+BrandB Coke,Beverages,0.66,liter
+DailyCare Pet Toy,Pet Supplies,9.4,piece
+BrandA Litter,Pet Supplies,8.89,kg
+BrandC Bagel,Bakery,2.28,piece
+DailyCare Pet Toy,Pet Supplies,7.33,piece
+BrandC Notebook,Stationery,2.55,piece
+HomeEssentials Train Ticket,Transport,1.51,liter
+NaturePlus Marker,Stationery,3.3,piece
+BrandB Phone,Electronics,19.52,piece
+BrandC Shampoo,Personal Care,3.89,piece
+BrandC Onion,Vegetables,1.24,kg
+HomeEssentials Deodorant,Personal Care,1.94,piece
+DailyCare Water,Beverages,1.43,bottle
+BrandB Toothpaste,Personal Care,2.7,piece
+EcoLife Dog Food,Pet Supplies,5.84,kg
+GreenChoice Pet Shampoo,Pet Supplies,4.78,kg
+EcoLife Cat Food,Pet Supplies,4.28,kg
+NaturePlus Shampoo,Personal Care,2.79,piece
+EcoLife Butter,Dairy,0.91,liter
+NaturePlus Shirt,Clothing,4.29,piece
+GreenChoice Glass Cleaner,Cleaning,1.67,kg
+BrandB Petrol,Transport,0.83,liter
+EcoLife Chicken,Meat,14.23,kg
+BrandC Mango,Fruits,1.05,piece
+GoodFarm Floor Cleaner,Cleaning,9.82,kg
+NaturePlus Detergent,Cleaning,12.99,piece
+GreenChoice Mango,Fruits,1.5,kg
+DailyCare Mango,Fruits,1.02,piece
+GreenChoice Bus Ticket,Transport,4.59,km
+GreenChoice Milk,Dairy,6.17,liter
+BrandA Beans,Food,0.54,pack
+BrandA Soap,Personal Care,3.78,piece
+GreenChoice Milk,Dairy,4.85,kg
+BrandA Pet Toy,Pet Supplies,5.66,kg
+GoodFarm Pet Shampoo,Pet Supplies,3.95,piece
+GoodFarm Marker,Stationery,4.61,piece
+DailyCare Bagel,Bakery,2.48,piece
+HomeEssentials Bagel,Bakery,4.16,kg
+HomeEssentials Tomato,Vegetables,1.14,kg
+DailyCare Pet Toy,Pet Supplies,5.01,piece
+GoodFarm Bread,Bakery,3.7,kg
+HomeEssentials Turkey,Meat,15.76,kg
+GreenChoice Paper Pack,Stationery,0.49,piece
+BrandC Pillow,Household,32.97,piece
+EcoLife Beans,Food,2.5,kg
+DailyCare Sweater,Clothing,2.41,piece
+EcoLife Lotion,Personal Care,0.59,piece
+HomeEssentials Beef,Meat,28.86,kg
+EcoLife Bagel,Bakery,0.53,kg
+BrandC Spinach,Vegetables,0.76,piece
+HomeEssentials Mattress,Household,44.57,piece
+HomeEssentials Coke,Beverages,0.42,liter
+DailyCare Notebook,Stationery,1.0,piece
+BrandA Table,Household,9.31,piece
+NaturePlus Tomato,Vegetables,1.77,kg
+BrandC TV,Electronics,177.45,piece
+GoodFarm Bread,Bakery,2.6,kg
+BrandB Muffin,Bakery,0.8,kg
+BrandC Litter,Pet Supplies,1.7,kg
+NaturePlus Water,Beverages,0.69,liter
+BrandA Shirt,Clothing,9.26,piece
+BrandB Tablet,Electronics,133.15,piece
+NaturePlus Orange,Fruits,1.26,kg
+BrandC Banana,Fruits,1.67,piece
+BrandB Coke,Beverages,0.33,bottle
+DailyCare Butter,Dairy,1.62,liter
+GoodFarm Onion,Vegetables,0.64,piece
+EcoLife Bus Ticket,Transport,0.7,km
+NaturePlus Table,Household,45.32,piece
+GreenChoice Chair,Household,13.45,piece
+GoodFarm Jeans,Clothing,19.97,piece
+BrandA Yogurt,Dairy,8.59,liter
+EcoLife Glass Cleaner,Cleaning,5.95,liter
+HomeEssentials Nuts,Food,0.13,pack
+BrandC Dog Food,Pet Supplies,1.13,kg
+BrandA Tomato,Vegetables,0.63,piece
+EcoLife Notebook,Stationery,3.85,piece
+BrandB Lamb,Meat,12.27,kg
+BrandB Apple,Fruits,0.15,piece
+HomeEssentials Spinach,Vegetables,1.65,piece
+NaturePlus T-shirt,Clothing,14.45,piece
+GreenChoice Pillow,Household,39.61,piece
+EcoLife Bagel,Bakery,1.4,piece
+GreenChoice Soap,Personal Care,3.5,piece
+GreenChoice Oats,Food,0.52,piece
+DailyCare Oats,Food,2.56,kg
+BrandC Cheese,Dairy,2.98,kg
+DailyCare Tomato,Vegetables,0.84,piece
+BrandC Jacket,Clothing,11.65,piece
+NaturePlus Marker,Stationery,0.33,piece
+BrandA Oats,Food,4.66,kg
+BrandA Turkey,Meat,21.29,kg
+HomeEssentials Pet Shampoo,Pet Supplies,7.92,kg
+GoodFarm T-shirt,Clothing,17.65,piece
+GreenChoice Cheese,Dairy,2.4,liter
+EcoLife Water,Beverages,2.09,bottle
+BrandA Lamb,Meat,16.62,kg
+BrandB Grapes,Fruits,1.78,piece
+BrandA Headphones,Electronics,119.33,piece
+DailyCare Pork,Meat,16.43,kg
+NaturePlus Beef,Meat,5.71,kg
+BrandA Phone,Electronics,32.29,piece
+GoodFarm Jacket,Clothing,15.59,piece
+BrandB Grapes,Fruits,1.99,piece
+EcoLife Turkey,Meat,12.02,kg
+NaturePlus Pet Toy,Pet Supplies,3.14,piece
+HomeEssentials Rice,Food,0.42,pack
+BrandB Toothpaste,Personal Care,2.72,piece
+HomeEssentials Floor Cleaner,Cleaning,4.8,kg
+GoodFarm Lamb,Meat,7.38,kg
+GreenChoice Deodorant,Personal Care,2.69,piece
+BrandC Tablet,Electronics,23.65,piece
+BrandA Bagel,Bakery,0.66,kg
+HomeEssentials Laptop,Electronics,35.2,piece
+GoodFarm Beans,Food,3.68,pack
+BrandA Mango,Fruits,1.16,kg
+DailyCare Dog Food,Pet Supplies,5.42,kg
+BrandA Pasta,Food,1.34,kg
+GoodFarm Coke,Beverages,0.45,liter
+NaturePlus Table,Household,20.76,piece
+GreenChoice Stapler,Stationery,1.34,piece
+DailyCare Croissant,Bakery,0.73,kg
+EcoLife Rice,Food,2.93,kg
+BrandA Stapler,Stationery,1.25,piece
+GreenChoice Table,Household,40.42,piece
+NaturePlus Bus Ticket,Transport,2.05,liter
+GreenChoice TV,Electronics,109.15,piece
+GreenChoice Beef,Meat,6.72,kg
+EcoLife Coke,Beverages,1.99,liter
+GoodFarm Pillow,Household,28.72,piece
+BrandB Cake,Bakery,2.26,kg
+GoodFarm Yogurt,Dairy,1.25,kg
+EcoLife Water,Beverages,2.01,liter
+BrandC Beef,Meat,7.83,kg
+BrandA Muffin,Bakery,3.0,kg
+HomeEssentials Cat Food,Pet Supplies,4.95,kg
+HomeEssentials Deodorant,Personal Care,4.45,piece
+NaturePlus Pasta,Food,4.54,piece
+DailyCare Muffin,Bakery,1.29,kg
+BrandA Turkey,Meat,22.34,kg
+DailyCare Headphones,Electronics,164.29,piece
+NaturePlus Dish Soap,Cleaning,2.2,piece
+GoodFarm Pork,Meat,29.36,kg
+DailyCare Shampoo,Personal Care,1.1,piece
+HomeEssentials Banana,Fruits,1.36,kg
+BrandA Lamb,Meat,21.02,kg
+NaturePlus Croissant,Bakery,2.47,kg
+HomeEssentials Croissant,Bakery,2.97,piece
+BrandB Bagel,Bakery,3.69,kg
+BrandC Orange,Fruits,1.52,kg
+BrandA Coke,Beverages,2.25,bottle
+GreenChoice Butter,Dairy,4.41,kg
+BrandC Water,Beverages,0.82,bottle
+BrandB Pork,Meat,10.74,kg
+HomeEssentials Cheese,Dairy,2.39,liter
+BrandA Paper Pack,Stationery,4.72,piece
+DailyCare Detergent,Cleaning,3.8,liter
+BrandA Bagel,Bakery,1.99,piece
+BrandA Beans,Food,3.42,piece
+NaturePlus Petrol,Transport,1.76,km
+EcoLife Diesel,Transport,0.73,liter
+HomeEssentials Cake,Bakery,2.32,piece
+DailyCare Lamb,Meat,25.06,kg
+BrandB Deodorant,Personal Care,4.36,piece
+GoodFarm Petrol,Transport,3.8,km
+EcoLife Onion,Vegetables,0.82,piece
+GoodFarm Banana,Fruits,0.89,kg
+NaturePlus Tea,Beverages,2.75,liter
+BrandA Stapler,Stationery,3.04,piece
+BrandB Bread,Bakery,0.9,kg
+HomeEssentials Beef,Meat,15.97,kg
+GreenChoice Bread,Bakery,0.97,piece
+EcoLife Shampoo,Personal Care,3.62,piece
+BrandC Soap,Personal Care,1.2,piece
+BrandB TV,Electronics,50.63,piece
+BrandA Chicken,Meat,16.27,kg
+DailyCare Floor Cleaner,Cleaning,3.8,liter
+NaturePlus Banana,Fruits,0.61,kg
+BrandB Stapler,Stationery,2.05,piece
+HomeEssentials Mattress,Household,4.0,piece
+BrandB Mattress,Household,10.59,piece
+NaturePlus Paper Pack,Stationery,0.82,piece
+BrandA Grapes,Fruits,1.73,piece
+GoodFarm Mattress,Household,34.48,piece
+BrandA Rice,Food,3.02,piece
+DailyCare Pillow,Household,8.88,piece
+BrandC Soap,Personal Care,0.53,piece
+BrandA Cat Food,Pet Supplies,1.09,piece
+BrandA Pork,Meat,26.32,kg
+NaturePlus Bread,Bakery,1.38,kg
+EcoLife Turkey,Meat,14.09,kg
+BrandA Juice,Beverages,2.49,bottle
+DailyCare Lamb,Meat,21.76,kg
+DailyCare Lentils,Food,3.64,kg
+GreenChoice Diesel,Transport,2.89,liter
+BrandC Bread,Bakery,2.63,kg
+EcoLife Pasta,Food,3.47,piece
+NaturePlus Coffee,Beverages,1.5,liter
+GreenChoice Bicycle,Transport,1.26,liter
+GreenChoice Dog Food,Pet Supplies,3.55,piece
+EcoLife Floor Cleaner,Cleaning,14.63,liter
+BrandA Jeans,Clothing,10.81,piece
+EcoLife Dog Food,Pet Supplies,0.96,kg
+HomeEssentials Pillow,Household,39.64,piece
+GreenChoice Tablet,Electronics,49.54,piece
+HomeEssentials Pet Shampoo,Pet Supplies,5.79,piece
+BrandA Butter,Dairy,7.7,kg
+HomeEssentials Table,Household,45.24,piece
+EcoLife Spinach,Vegetables,0.41,piece
+BrandA Table,Household,11.51,piece
+NaturePlus Marker,Stationery,3.78,piece
+BrandC Pet Toy,Pet Supplies,6.88,piece
+HomeEssentials Bus Ticket,Transport,2.3,km
+BrandC Carrot,Vegetables,1.5,kg
+HomeEssentials Spinach,Vegetables,0.75,piece
+BrandB Turkey,Meat,27.27,kg
+DailyCare Turkey,Meat,21.71,kg
+DailyCare Bleach,Cleaning,12.76,kg
+BrandB Jeans,Clothing,12.39,piece
+BrandC Cat Food,Pet Supplies,1.92,piece
+BrandC Juice,Beverages,1.46,liter
+GreenChoice T-shirt,Clothing,8.8,piece
+GoodFarm Pillow,Household,13.6,piece
+NaturePlus Dog Food,Pet Supplies,2.98,kg
+BrandC Paper Pack,Stationery,2.18,piece
+BrandA Dog Food,Pet Supplies,5.24,piece
+HomeEssentials Jeans,Clothing,15.83,piece
+NaturePlus Croissant,Bakery,0.8,piece
+GoodFarm Pet Toy,Pet Supplies,7.26,piece
+DailyCare Cream,Dairy,3.63,kg
+EcoLife Diesel,Transport,3.14,km
+NaturePlus Pet Shampoo,Pet Supplies,5.53,kg
+GreenChoice Cream,Dairy,3.29,kg
+EcoLife Pasta,Food,0.57,piece
+GreenChoice Orange,Fruits,1.2,kg
+DailyCare Beans,Food,2.89,piece
+HomeEssentials Apple,Fruits,1.2,kg
+DailyCare Water,Beverages,2.53,bottle
+EcoLife Chicken,Meat,14.45,kg
+BrandA TV,Electronics,141.84,piece
+BrandB Juice,Beverages,2.9,liter
+BrandA Bus Ticket,Transport,1.96,liter
+BrandB Pet Toy,Pet Supplies,4.69,kg
+BrandB Sweater,Clothing,2.43,piece
+GoodFarm Mango,Fruits,0.82,piece
+GoodFarm Rice,Food,3.59,pack
+HomeEssentials Floor Cleaner,Cleaning,2.47,liter
+EcoLife Nuts,Food,3.63,pack
+EcoLife Coke,Beverages,2.0,bottle
+DailyCare Notebook,Stationery,0.67,piece
+HomeEssentials Pet Toy,Pet Supplies,2.91,kg
+BrandB Muffin,Bakery,2.77,piece
+GreenChoice Jacket,Clothing,7.18,piece
+GreenChoice Water,Beverages,0.83,bottle
+BrandA Orange,Fruits,0.33,piece
+GoodFarm T-shirt,Clothing,2.25,piece
+BrandA Petrol,Transport,3.91,km
+NaturePlus Beef,Meat,9.05,kg
+GoodFarm Croissant,Bakery,4.94,kg
+EcoLife Table,Household,32.72,piece
+BrandA Pork,Meat,18.39,kg
+DailyCare Carrot,Vegetables,1.97,kg
+HomeEssentials Petrol,Transport,1.28,liter
+BrandA Nuts,Food,3.68,pack
+BrandA Tea,Beverages,1.95,bottle
+BrandA Muffin,Bakery,4.56,piece
+BrandC Onion,Vegetables,1.64,piece
+GreenChoice Tablet,Electronics,107.0,piece
+GreenChoice Cheese,Dairy,7.99,kg
+GoodFarm Butter,Dairy,8.49,kg
+GoodFarm Pork,Meat,8.52,kg
+GreenChoice Mattress,Household,31.17,piece
+EcoLife Dish Soap,Cleaning,4.28,kg
+BrandA Lotion,Personal Care,0.17,piece
+NaturePlus Bagel,Bakery,3.4,piece
+DailyCare Jeans,Clothing,11.89,piece
+EcoLife Headphones,Electronics,180.31,piece
+EcoLife Spinach,Vegetables,0.15,kg
+EcoLife Pen,Stationery,3.65,piece
+GoodFarm Beans,Food,0.8,kg
+GreenChoice Turkey,Meat,14.76,kg
+GoodFarm Shampoo,Personal Care,3.77,piece
+BrandC Grapes,Fruits,0.49,kg
+HomeEssentials Onion,Vegetables,0.7,piece
+NaturePlus Pet Shampoo,Pet Supplies,5.9,kg
+BrandA Cat Food,Pet Supplies,0.97,kg
+GreenChoice Mattress,Household,42.61,piece
+GreenChoice Dish Soap,Cleaning,10.79,kg
+BrandC Lotion,Personal Care,1.8,piece
+BrandB Bleach,Cleaning,13.72,kg
+GoodFarm Table,Household,45.04,piece
+EcoLife Lotion,Personal Care,1.72,piece
+GoodFarm Bread,Bakery,2.11,piece
+EcoLife Soap,Personal Care,1.86,piece
+GreenChoice Litter,Pet Supplies,5.61,piece
+BrandA Cat Food,Pet Supplies,4.11,kg
+GoodFarm Shirt,Clothing,11.57,piece
+BrandA Headphones,Electronics,165.76,piece
+BrandA T-shirt,Clothing,15.46,piece
+GreenChoice Lamp,Household,43.42,piece
+BrandB Lotion,Personal Care,4.6,piece
+GoodFarm Pasta,Food,3.15,pack
+GoodFarm Dog Food,Pet Supplies,2.47,kg
+BrandA Pet Shampoo,Pet Supplies,7.87,kg
+DailyCare Rice,Food,1.88,pack
+GoodFarm Dog Food,Pet Supplies,3.39,piece
+DailyCare Diesel,Transport,3.16,liter
+HomeEssentials Water,Beverages,0.78,liter
+BrandA Coke,Beverages,0.32,bottle
+BrandB Floor Cleaner,Cleaning,13.23,piece
+GreenChoice Potato,Vegetables,0.22,piece
+BrandC Notebook,Stationery,1.34,piece
+BrandC Mango,Fruits,0.72,kg
+HomeEssentials Lentils,Food,4.93,kg
+GreenChoice Butter,Dairy,4.21,liter
+NaturePlus Cake,Bakery,3.01,kg
+HomeEssentials Shampoo,Personal Care,4.46,piece
+NaturePlus Petrol,Transport,1.16,km
+BrandB Tomato,Vegetables,0.2,piece
+HomeEssentials Coke,Beverages,2.5,bottle
+DailyCare Spinach,Vegetables,1.66,piece
+NaturePlus Orange,Fruits,0.1,kg
+BrandB Shirt,Clothing,4.63,piece
+BrandC Shampoo,Personal Care,3.64,piece
+GoodFarm Lamb,Meat,11.18,kg
+DailyCare Bleach,Cleaning,8.28,piece
+GreenChoice T-shirt,Clothing,19.63,piece
+HomeEssentials Marker,Stationery,3.6,piece
+GoodFarm Grapes,Fruits,1.52,piece
+BrandB Glass Cleaner,Cleaning,4.93,piece
+EcoLife Shampoo,Personal Care,0.76,piece
+BrandA Cream,Dairy,9.43,liter
+EcoLife Deodorant,Personal Care,2.06,piece
+GreenChoice Floor Cleaner,Cleaning,12.66,liter
+GoodFarm Rice,Food,4.64,piece
+NaturePlus Bagel,Bakery,2.49,piece
+DailyCare Coke,Beverages,1.35,liter
+BrandA Train Ticket,Transport,2.27,liter
+GoodFarm Floor Cleaner,Cleaning,6.95,kg
+GreenChoice Toothpaste,Personal Care,3.59,piece
+DailyCare Potato,Vegetables,1.71,kg
+BrandC Apple,Fruits,1.52,kg
+GreenChoice Litter,Pet Supplies,4.14,kg
+GreenChoice Onion,Vegetables,0.11,kg
+EcoLife Cake,Bakery,3.49,kg
+DailyCare Sweater,Clothing,3.84,piece
+GoodFarm Water,Beverages,2.04,bottle
+EcoLife Croissant,Bakery,0.88,piece
+BrandC Pen,Stationery,3.15,piece
+BrandB Lamp,Household,19.46,piece
+BrandC Train Ticket,Transport,3.75,liter
+BrandC Chair,Household,33.26,piece
+NaturePlus Coke,Beverages,2.37,liter
+GoodFarm Lentils,Food,1.21,pack
+HomeEssentials TV,Electronics,72.03,piece
+NaturePlus Marker,Stationery,4.66,piece
+GoodFarm Litter,Pet Supplies,5.45,piece
+HomeEssentials Phone,Electronics,50.15,piece
+HomeEssentials Dog Food,Pet Supplies,4.71,piece
+GreenChoice Butter,Dairy,3.06,liter
+BrandB Beef,Meat,6.87,kg
+NaturePlus Soap,Personal Care,4.54,piece
+GreenChoice Lamb,Meat,19.21,kg
+BrandA Bicycle,Transport,0.89,km
+GoodFarm Bicycle,Transport,4.68,liter
+BrandA Tomato,Vegetables,1.38,piece
+HomeEssentials Cat Food,Pet Supplies,8.74,piece
+GoodFarm Sweater,Clothing,2.3,piece
+EcoLife Water,Beverages,2.2,bottle
+NaturePlus TV,Electronics,68.05,piece
+HomeEssentials Lotion,Personal Care,4.99,piece
+GreenChoice Croissant,Bakery,0.61,piece
+GoodFarm Pet Shampoo,Pet Supplies,9.87,kg
+DailyCare Bleach,Cleaning,1.58,liter
+EcoLife Apple,Fruits,0.8,kg
+BrandB Tablet,Electronics,35.59,piece
+NaturePlus Chicken,Meat,19.32,kg
+DailyCare Tablet,Electronics,79.51,piece
+HomeEssentials Jeans,Clothing,5.81,piece
+GreenChoice Marker,Stationery,3.62,piece
+BrandC Stapler,Stationery,0.88,piece
+GreenChoice Turkey,Meat,28.47,kg
+BrandC Juice,Beverages,1.89,liter
+BrandA Lentils,Food,0.3,kg
+EcoLife Bread,Bakery,4.04,piece
+GreenChoice Diesel,Transport,0.19,km
+GoodFarm Bagel,Bakery,3.91,piece
+BrandC Mango,Fruits,0.26,kg
+GoodFarm T-shirt,Clothing,7.35,piece
+NaturePlus Phone,Electronics,198.94,piece
+GreenChoice Potato,Vegetables,0.99,piece
+BrandB Lentils,Food,4.07,piece
+BrandA Pet Toy,Pet Supplies,4.79,kg
+BrandB Litter,Pet Supplies,9.35,piece
+GreenChoice Yogurt,Dairy,5.58,kg
+EcoLife Petrol,Transport,0.61,liter
+HomeEssentials Water,Beverages,1.37,liter
+NaturePlus Muffin,Bakery,2.55,kg
+BrandA Orange,Fruits,1.83,piece
+BrandC Tea,Beverages,2.15,bottle
+BrandC T-shirt,Clothing,12.61,piece
+BrandB Pasta,Food,2.54,piece
+BrandA Beef,Meat,22.95,kg
+GoodFarm Pasta,Food,2.94,pack
+HomeEssentials Dish Soap,Cleaning,2.84,piece
+GoodFarm Water,Beverages,2.29,bottle
+EcoLife Bagel,Bakery,1.97,piece
+HomeEssentials Oats,Food,1.64,pack
+BrandC Mattress,Household,13.15,piece
+BrandA Train Ticket,Transport,3.14,liter
+GreenChoice Nuts,Food,4.3,kg
+DailyCare Headphones,Electronics,122.42,piece
+DailyCare Floor Cleaner,Cleaning,14.62,kg
+GreenChoice Bleach,Cleaning,9.61,kg
+EcoLife Soap,Personal Care,0.11,piece
+GreenChoice Yogurt,Dairy,1.33,kg
+BrandC Bagel,Bakery,2.79,piece
+HomeEssentials Pen,Stationery,0.17,piece
+BrandA Pasta,Food,2.26,piece
+EcoLife Cat Food,Pet Supplies,1.43,piece
+BrandA Croissant,Bakery,1.92,kg
+GreenChoice Coke,Beverages,2.58,liter
+GreenChoice Dog Food,Pet Supplies,2.18,kg
+DailyCare Bagel,Bakery,3.73,kg
+BrandB Jeans,Clothing,17.12,piece
+NaturePlus Grapes,Fruits,1.16,piece
+DailyCare Jeans,Clothing,9.53,piece
+GoodFarm Butter,Dairy,1.8,kg
+GoodFarm Carrot,Vegetables,1.53,piece
+BrandA Lamb,Meat,5.27,kg
+NaturePlus Lamb,Meat,6.08,kg
+GreenChoice Soap,Personal Care,4.14,piece
+BrandC Glass Cleaner,Cleaning,12.16,kg
+GoodFarm Detergent,Cleaning,14.35,piece
+HomeEssentials Cream,Dairy,1.94,liter
+BrandA Cat Food,Pet Supplies,9.73,kg
+BrandA Train Ticket,Transport,2.11,liter
+BrandA Pet Toy,Pet Supplies,0.55,kg
+NaturePlus Croissant,Bakery,4.3,kg
+HomeEssentials Sweater,Clothing,15.44,piece
+BrandA Pork,Meat,7.7,kg
+GreenChoice Marker,Stationery,3.22,piece
+EcoLife Water,Beverages,2.09,bottle
+DailyCare Beans,Food,1.58,kg
+GoodFarm Grapes,Fruits,1.15,kg
+BrandC Turkey,Meat,8.42,kg
+GreenChoice Tomato,Vegetables,1.84,piece
+EcoLife Laptop,Electronics,145.21,piece
+NaturePlus Milk,Dairy,9.71,liter
+NaturePlus Shirt,Clothing,5.64,piece
+NaturePlus Mango,Fruits,0.25,kg
+BrandC Table,Household,2.08,piece
+NaturePlus Notebook,Stationery,3.54,piece
+EcoLife Notebook,Stationery,3.57,piece
+EcoLife Petrol,Transport,5.0,km
+BrandC Milk,Dairy,0.89,kg
+EcoLife Beef,Meat,23.54,kg
+GoodFarm Pet Shampoo,Pet Supplies,0.29,piece
+BrandB Oats,Food,3.18,kg
+GreenChoice Notebook,Stationery,3.33,piece
+HomeEssentials Marker,Stationery,1.28,piece
+NaturePlus Pillow,Household,24.6,piece
+GreenChoice Pork,Meat,6.84,kg
+DailyCare Toothpaste,Personal Care,3.9,piece
+DailyCare Headphones,Electronics,24.2,piece
+HomeEssentials Spinach,Vegetables,1.0,piece
+DailyCare Mattress,Household,15.34,piece
+HomeEssentials Toothpaste,Personal Care,3.49,piece
+BrandC Detergent,Cleaning,1.69,piece
+BrandC Yogurt,Dairy,9.97,liter
+GreenChoice Train Ticket,Transport,4.68,liter
+GreenChoice Petrol,Transport,3.62,liter
+BrandA Mattress,Household,7.59,piece
+GoodFarm Lotion,Personal Care,2.79,piece
+DailyCare TV,Electronics,37.4,piece
+BrandC Cheese,Dairy,5.01,kg
+BrandB Pet Shampoo,Pet Supplies,1.71,kg
+GreenChoice Phone,Electronics,29.63,piece
+HomeEssentials Pen,Stationery,0.07,piece
+BrandC TV,Electronics,171.31,piece
+BrandB Pork,Meat,24.3,kg
+DailyCare Floor Cleaner,Cleaning,3.98,piece
+BrandC Shirt,Clothing,10.0,piece
+NaturePlus Coffee,Beverages,1.2,liter
+DailyCare Banana,Fruits,0.29,piece
+DailyCare Lamp,Household,16.94,piece
+GoodFarm Mattress,Household,36.79,piece
+BrandB Bread,Bakery,1.27,kg
+BrandA Pet Shampoo,Pet Supplies,8.69,piece
+NaturePlus Pen,Stationery,3.74,piece
+BrandB Paper Pack,Stationery,0.66,piece
+NaturePlus Beef,Meat,7.29,kg
+GreenChoice Banana,Fruits,1.19,kg
+NaturePlus Tablet,Electronics,59.69,piece
+GreenChoice Cat Food,Pet Supplies,7.58,piece
+HomeEssentials Jeans,Clothing,13.93,piece
+EcoLife Carrot,Vegetables,1.24,kg
+NaturePlus Headphones,Electronics,189.49,piece
+EcoLife Lamp,Household,23.66,piece
+BrandC Mattress,Household,41.13,piece
+EcoLife Floor Cleaner,Cleaning,5.44,kg
+BrandB Turkey,Meat,25.63,kg
+BrandA Floor Cleaner,Cleaning,10.76,liter
+BrandA Pillow,Household,20.95,piece
+GreenChoice Pet Toy,Pet Supplies,7.98,kg
+GoodFarm Shampoo,Personal Care,4.14,piece
+EcoLife TV,Electronics,195.01,piece
+BrandC Chair,Household,0.72,piece
+DailyCare Lotion,Personal Care,3.28,piece
+DailyCare TV,Electronics,121.63,piece
+DailyCare Detergent,Cleaning,3.87,liter
+NaturePlus Marker,Stationery,4.24,piece
+GoodFarm Milk,Dairy,6.78,liter
+GoodFarm Spinach,Vegetables,0.35,piece
+HomeEssentials Litter,Pet Supplies,1.23,piece
+BrandA Pet Shampoo,Pet Supplies,3.44,piece
+GoodFarm Lamb,Meat,28.81,kg
+HomeEssentials Pork,Meat,24.39,kg
+BrandB Phone,Electronics,28.1,piece
+DailyCare Deodorant,Personal Care,1.66,piece
+BrandC Jacket,Clothing,12.73,piece
+NaturePlus Cream,Dairy,0.69,kg
+DailyCare Shampoo,Personal Care,0.52,piece
+DailyCare Diesel,Transport,1.57,km
+BrandB Lamb,Meat,23.64,kg
+HomeEssentials Shampoo,Personal Care,2.0,piece
+BrandA Lamp,Household,34.72,piece
+BrandB Mattress,Household,2.89,piece
+BrandB Dish Soap,Cleaning,1.37,kg
+GoodFarm Cake,Bakery,1.39,kg
+HomeEssentials Croissant,Bakery,4.65,piece
+BrandB Jeans,Clothing,9.61,piece
+GreenChoice Floor Cleaner,Cleaning,7.78,kg
+GoodFarm Bleach,Cleaning,12.04,kg
+BrandA Lotion,Personal Care,0.42,piece
+BrandB Deodorant,Personal Care,0.26,piece
+EcoLife Deodorant,Personal Care,3.33,piece
+BrandC Cake,Bakery,3.83,kg
+BrandA Oats,Food,3.98,piece
+BrandB Notebook,Stationery,2.32,piece
+GreenChoice Cream,Dairy,9.52,liter
+NaturePlus Pork,Meat,17.74,kg
+GoodFarm Cream,Dairy,3.11,kg
+GoodFarm Stapler,Stationery,0.37,piece
+DailyCare Mango,Fruits,0.46,kg
+BrandA Bicycle,Transport,1.92,liter
+EcoLife Sweater,Clothing,8.76,piece
+HomeEssentials Croissant,Bakery,3.2,kg
+HomeEssentials Rice,Food,3.66,pack
+GoodFarm Table,Household,42.34,piece
+NaturePlus Banana,Fruits,0.1,piece
+BrandA Toothpaste,Personal Care,4.69,piece
+GoodFarm Mango,Fruits,0.58,kg
+HomeEssentials Chicken,Meat,5.34,kg
+GreenChoice Dog Food,Pet Supplies,7.19,kg
+HomeEssentials Paper Pack,Stationery,4.31,piece
+GreenChoice Soap,Personal Care,3.91,piece
+BrandC Cat Food,Pet Supplies,0.42,piece
+GoodFarm Banana,Fruits,1.34,kg
+GoodFarm Bicycle,Transport,1.04,km
+NaturePlus Tomato,Vegetables,1.37,piece
+DailyCare TV,Electronics,77.82,piece
+HomeEssentials Bicycle,Transport,3.43,km
+GoodFarm Pet Shampoo,Pet Supplies,1.85,piece
+BrandA Carrot,Vegetables,1.68,kg
+GoodFarm Bleach,Cleaning,2.13,kg
+EcoLife Bus Ticket,Transport,1.09,liter
+BrandA Yogurt,Dairy,9.2,kg
+BrandC Bleach,Cleaning,7.42,liter
+EcoLife Chair,Household,11.04,piece
+GreenChoice Chicken,Meat,17.26,kg
+HomeEssentials Carrot,Vegetables,0.55,piece
+GoodFarm Stapler,Stationery,3.99,piece
+BrandA Muffin,Bakery,4.91,kg
+GoodFarm Oats,Food,0.5,pack
+EcoLife Petrol,Transport,3.71,liter
+BrandC Lamp,Household,22.34,piece
+GoodFarm Pasta,Food,0.28,kg
+HomeEssentials Jeans,Clothing,8.56,piece
+BrandA Jacket,Clothing,6.69,piece
+HomeEssentials Nuts,Food,4.99,kg
+EcoLife Stapler,Stationery,1.04,piece
+GreenChoice Detergent,Cleaning,5.31,liter
+NaturePlus Bleach,Cleaning,10.86,kg
+HomeEssentials Detergent,Cleaning,1.42,piece
+GreenChoice Lotion,Personal Care,2.69,piece
+DailyCare Spinach,Vegetables,1.16,kg
+GoodFarm Rice,Food,3.85,kg
+DailyCare Muffin,Bakery,1.68,kg
+HomeEssentials Lamb,Meat,18.66,kg
+HomeEssentials Carrot,Vegetables,0.83,piece
+DailyCare Mango,Fruits,0.79,kg
+GreenChoice Petrol,Transport,1.88,liter
+BrandC Jeans,Clothing,4.94,piece
+NaturePlus Bleach,Cleaning,10.03,kg
+BrandA Beef,Meat,9.66,kg
+BrandA Orange,Fruits,0.36,piece
+GoodFarm Pork,Meat,22.64,kg
+BrandB Grapes,Fruits,0.59,kg
+BrandB Mango,Fruits,1.33,kg
+HomeEssentials Oats,Food,1.81,piece
+BrandB Pork,Meat,17.77,kg
+DailyCare Headphones,Electronics,199.78,piece
+NaturePlus Tomato,Vegetables,1.89,kg
+EcoLife Shampoo,Personal Care,4.75,piece
+GreenChoice Oats,Food,2.34,kg
+HomeEssentials Sweater,Clothing,14.8,piece
+GoodFarm Croissant,Bakery,4.07,kg
+EcoLife T-shirt,Clothing,17.43,piece
+NaturePlus Muffin,Bakery,2.08,piece
+BrandB Yogurt,Dairy,0.58,liter
+BrandC Juice,Beverages,1.64,bottle
+GreenChoice Potato,Vegetables,0.92,kg
+GoodFarm Mango,Fruits,1.97,piece
+DailyCare Onion,Vegetables,1.81,piece
+DailyCare Bagel,Bakery,4.23,kg
+BrandB Pillow,Household,16.25,piece
+BrandA Potato,Vegetables,1.04,kg
+EcoLife Table,Household,20.07,piece
+NaturePlus Pasta,Food,3.09,kg
+BrandC Orange,Fruits,1.85,piece
+NaturePlus Yogurt,Dairy,1.01,kg
+GoodFarm Orange,Fruits,1.48,kg
+BrandB Chicken,Meat,23.36,kg
+GoodFarm Grapes,Fruits,0.42,kg
+BrandA Petrol,Transport,3.33,km
+GoodFarm Coke,Beverages,2.12,liter
+GoodFarm Potato,Vegetables,1.52,kg
+HomeEssentials Lamb,Meat,24.7,kg
+HomeEssentials Pen,Stationery,0.28,piece
+BrandB Bicycle,Transport,2.86,km
+GoodFarm Apple,Fruits,1.99,piece
+GreenChoice Pen,Stationery,1.93,piece
+HomeEssentials Juice,Beverages,1.39,bottle
+BrandB Bleach,Cleaning,0.92,kg
+BrandA Cream,Dairy,0.96,liter
+BrandC Phone,Electronics,163.82,piece
+GreenChoice Yogurt,Dairy,9.36,liter
+EcoLife Detergent,Cleaning,14.95,kg
+NaturePlus Table,Household,14.52,piece
+GoodFarm Deodorant,Personal Care,1.18,piece
+HomeEssentials Juice,Beverages,0.82,bottle
+BrandB Pen,Stationery,2.57,piece
+HomeEssentials Mattress,Household,17.62,piece
+GreenChoice Bagel,Bakery,0.36,piece
+NaturePlus Marker,Stationery,0.85,piece
+BrandA Tea,Beverages,1.6,bottle
+BrandC Onion,Vegetables,0.59,kg
+NaturePlus Juice,Beverages,2.36,liter
+GreenChoice Pet Shampoo,Pet Supplies,8.86,kg
+EcoLife Headphones,Electronics,181.89,piece
+BrandB Pet Toy,Pet Supplies,5.04,piece
+EcoLife Cheese,Dairy,9.02,kg
+BrandB Potato,Vegetables,0.49,piece
+GreenChoice Diesel,Transport,4.89,km
+BrandA Dog Food,Pet Supplies,5.17,piece
+GoodFarm Soap,Personal Care,0.29,piece
+HomeEssentials Paper Pack,Stationery,1.15,piece
+NaturePlus Bread,Bakery,0.52,piece
+NaturePlus Tea,Beverages,2.61,liter
+BrandB Diesel,Transport,0.15,liter
+HomeEssentials Diesel,Transport,3.09,km
+EcoLife Tomato,Vegetables,0.71,kg
+DailyCare Floor Cleaner,Cleaning,1.02,kg
+BrandA Stapler,Stationery,3.94,piece
+BrandC Petrol,Transport,3.21,km
+BrandB Pet Shampoo,Pet Supplies,4.45,piece
+DailyCare Litter,Pet Supplies,4.82,kg
+DailyCare Pork,Meat,26.82,kg
+DailyCare Bagel,Bakery,2.25,piece
+GreenChoice Turkey,Meat,11.34,kg
+EcoLife Juice,Beverages,2.3,liter
+EcoLife Phone,Electronics,75.85,piece
+BrandA Phone,Electronics,57.26,piece
+BrandC Apple,Fruits,0.82,kg
+BrandA Table,Household,44.19,piece
+HomeEssentials Pillow,Household,19.22,piece
+GoodFarm Mango,Fruits,1.75,piece
+NaturePlus Apple,Fruits,1.43,kg
+BrandC Orange,Fruits,0.49,kg
+HomeEssentials Shirt,Clothing,14.22,piece
+GreenChoice Bicycle,Transport,2.36,liter
+BrandA Tablet,Electronics,197.7,piece
+GoodFarm Train Ticket,Transport,0.43,liter
+BrandC Nuts,Food,2.77,kg
+DailyCare Juice,Beverages,0.55,bottle
+HomeEssentials Sweater,Clothing,7.55,piece
+GoodFarm Laptop,Electronics,46.87,piece
+BrandB Floor Cleaner,Cleaning,3.11,kg
+NaturePlus Muffin,Bakery,3.35,piece
+BrandB Milk,Dairy,2.43,kg
+GoodFarm Jeans,Clothing,3.53,piece
+BrandC Lentils,Food,3.01,piece
+GoodFarm Mango,Fruits,0.52,kg
+BrandA Butter,Dairy,9.49,liter
+GreenChoice Soap,Personal Care,2.53,piece
+HomeEssentials Lamp,Household,15.8,piece
+EcoLife Train Ticket,Transport,0.49,km
+DailyCare Petrol,Transport,4.17,liter
+BrandB Stapler,Stationery,3.64,piece
+GreenChoice Sweater,Clothing,11.16,piece
+DailyCare Dish Soap,Cleaning,1.18,liter
+BrandC Glass Cleaner,Cleaning,14.95,liter
+DailyCare TV,Electronics,87.37,piece
+GoodFarm Dish Soap,Cleaning,1.4,piece
+DailyCare Pasta,Food,1.8,pack
+BrandC Bus Ticket,Transport,1.52,liter
+DailyCare Bus Ticket,Transport,0.81,km
+BrandA Pet Toy,Pet Supplies,8.86,kg
+GoodFarm Dish Soap,Cleaning,5.6,piece
+GreenChoice Dog Food,Pet Supplies,6.98,piece
+GreenChoice Carrot,Vegetables,1.53,piece
+BrandC Milk,Dairy,7.09,kg
+BrandB Pet Toy,Pet Supplies,8.34,piece
+BrandA Sweater,Clothing,11.04,piece
+GoodFarm Beans,Food,1.43,pack
+GreenChoice Shirt,Clothing,10.86,piece
+HomeEssentials Potato,Vegetables,1.51,kg
+BrandC Potato,Vegetables,1.04,piece
+GreenChoice Muffin,Bakery,1.72,kg
+BrandA Chair,Household,0.86,piece
+BrandA Table,Household,47.38,piece
+EcoLife Water,Beverages,0.51,bottle
+EcoLife Pet Toy,Pet Supplies,4.99,piece
+GoodFarm Chair,Household,0.62,piece
+BrandC Toothpaste,Personal Care,0.24,piece
+DailyCare Toothpaste,Personal Care,0.38,piece
+BrandB Stapler,Stationery,1.7,piece
+BrandC Cream,Dairy,1.09,kg
+BrandC Shampoo,Personal Care,0.45,piece
+HomeEssentials Bleach,Cleaning,4.59,kg
+EcoLife Tablet,Electronics,94.5,piece
+BrandC Juice,Beverages,0.85,bottle
+NaturePlus Soap,Personal Care,3.68,piece
+HomeEssentials Coffee,Beverages,2.92,liter
+GoodFarm Beans,Food,2.3,kg
+BrandC Glass Cleaner,Cleaning,1.67,liter
+BrandC Dish Soap,Cleaning,7.33,liter
+GoodFarm Floor Cleaner,Cleaning,5.68,piece
+GreenChoice Pasta,Food,4.65,pack
+NaturePlus Lamp,Household,7.83,piece
+GoodFarm Dog Food,Pet Supplies,8.37,kg
+BrandC Rice,Food,1.33,kg
+DailyCare Cheese,Dairy,7.35,kg
+NaturePlus Bleach,Cleaning,3.66,liter
+NaturePlus Bagel,Bakery,2.76,piece
+NaturePlus Muffin,Bakery,3.33,piece
+DailyCare Carrot,Vegetables,0.22,piece
+NaturePlus Tea,Beverages,1.72,bottle
+BrandA Croissant,Bakery,0.4,piece
+BrandB Floor Cleaner,Cleaning,2.12,piece
+BrandB Bleach,Cleaning,5.45,kg
+EcoLife Lentils,Food,3.23,kg
+BrandB Lotion,Personal Care,2.07,piece
+BrandA Shampoo,Personal Care,3.44,piece
+DailyCare Marker,Stationery,3.82,piece
+HomeEssentials Lamp,Household,26.79,piece
+GreenChoice Headphones,Electronics,55.02,piece
+GoodFarm Orange,Fruits,1.07,piece
+BrandC Coke,Beverages,2.75,liter
+HomeEssentials Shirt,Clothing,5.12,piece
+NaturePlus TV,Electronics,47.03,piece
+BrandA Carrot,Vegetables,0.44,kg
+GoodFarm Tomato,Vegetables,0.15,piece
+DailyCare Potato,Vegetables,1.42,kg
+BrandA Marker,Stationery,4.0,piece
+BrandC Banana,Fruits,0.94,piece
+BrandC Marker,Stationery,3.95,piece
+EcoLife Mango,Fruits,0.46,kg
+DailyCare Coke,Beverages,1.52,bottle
+BrandB Phone,Electronics,191.08,piece
+HomeEssentials Train Ticket,Transport,4.46,liter
+BrandC Notebook,Stationery,2.28,piece
+GoodFarm Milk,Dairy,3.81,kg
+GreenChoice Bread,Bakery,1.65,piece
+DailyCare Rice,Food,3.19,kg
+BrandA Beans,Food,2.35,piece
+GoodFarm Beef,Meat,26.14,kg
+BrandB Jacket,Clothing,17.2,piece
+BrandC Jeans,Clothing,18.98,piece
+HomeEssentials Mattress,Household,4.53,piece
+DailyCare Butter,Dairy,9.87,liter
+BrandC Lentils,Food,2.71,piece
+BrandA Pen,Stationery,0.53,piece
+BrandC Laptop,Electronics,182.1,piece
+BrandB Shampoo,Personal Care,4.6,piece
+BrandA Bread,Bakery,2.48,piece
+DailyCare Milk,Dairy,4.87,kg
+BrandA Carrot,Vegetables,1.26,piece
+EcoLife T-shirt,Clothing,5.61,piece
+BrandA Headphones,Electronics,18.46,piece
+NaturePlus Deodorant,Personal Care,2.4,piece
+BrandA Pillow,Household,13.55,piece
+EcoLife Muffin,Bakery,0.79,piece
+BrandA Cake,Bakery,1.42,kg
+BrandA T-shirt,Clothing,8.28,piece
+GoodFarm Lotion,Personal Care,4.42,piece
+BrandA Train Ticket,Transport,4.12,km
+BrandB Potato,Vegetables,1.2,piece
+GoodFarm Beans,Food,2.61,kg
+GreenChoice Orange,Fruits,1.33,piece
+HomeEssentials Bagel,Bakery,0.36,kg
+GreenChoice Jacket,Clothing,16.78,piece
+GoodFarm Coke,Beverages,2.9,bottle
+DailyCare Jacket,Clothing,12.18,piece
+GreenChoice Apple,Fruits,0.21,kg
+GoodFarm Lentils,Food,2.81,kg
+BrandA TV,Electronics,190.03,piece
+DailyCare Onion,Vegetables,1.43,piece
+DailyCare Shirt,Clothing,7.9,piece
+EcoLife Petrol,Transport,2.7,liter
+HomeEssentials Juice,Beverages,2.1,liter
+HomeEssentials Deodorant,Personal Care,2.12,piece
+BrandB Tea,Beverages,0.85,liter
+DailyCare Beef,Meat,13.39,kg
+HomeEssentials Lamp,Household,18.13,piece
+EcoLife Milk,Dairy,9.32,kg
+HomeEssentials T-shirt,Clothing,15.43,piece
+BrandB Jacket,Clothing,17.68,piece
+GreenChoice Cat Food,Pet Supplies,1.67,kg
+BrandB Water,Beverages,2.75,bottle
+GoodFarm Phone,Electronics,75.24,piece
+BrandB Juice,Beverages,2.14,bottle
+EcoLife Onion,Vegetables,1.87,kg
+GoodFarm Water,Beverages,2.59,liter
+DailyCare Marker,Stationery,1.72,piece
+EcoLife Pet Shampoo,Pet Supplies,8.24,piece
+BrandA Laptop,Electronics,149.73,piece
+BrandC Beans,Food,0.57,piece
+EcoLife Paper Pack,Stationery,0.43,piece
+EcoLife Dish Soap,Cleaning,14.32,kg
+GoodFarm Rice,Food,4.42,pack
+BrandC Cat Food,Pet Supplies,3.14,piece
+GreenChoice Spinach,Vegetables,1.82,piece
+NaturePlus Lentils,Food,4.02,piece
+DailyCare Lamp,Household,16.43,piece
+EcoLife Notebook,Stationery,1.85,piece
+GoodFarm Oats,Food,1.59,piece
+GoodFarm Carrot,Vegetables,0.3,kg
+BrandC Pet Toy,Pet Supplies,3.07,piece
+NaturePlus Chair,Household,31.89,piece
+HomeEssentials Marker,Stationery,0.52,piece
+BrandA Pen,Stationery,4.52,piece
+DailyCare Litter,Pet Supplies,8.18,kg
+GreenChoice Headphones,Electronics,133.59,piece
+GreenChoice Cream,Dairy,5.37,kg
+HomeEssentials Toothpaste,Personal Care,1.35,piece
+BrandC Shirt,Clothing,19.16,piece
+BrandA Litter,Pet Supplies,0.62,piece
+GoodFarm Turkey,Meat,16.82,kg
+GoodFarm Turkey,Meat,22.73,kg
+BrandA Chair,Household,32.72,piece
+BrandB Juice,Beverages,2.77,bottle
+BrandB Rice,Food,3.18,kg
+GreenChoice Tablet,Electronics,177.19,piece
+HomeEssentials Table,Household,28.76,piece
+BrandB Marker,Stationery,2.44,piece
+GreenChoice Deodorant,Personal Care,1.35,piece
+BrandC Potato,Vegetables,0.73,piece
+DailyCare Muffin,Bakery,1.37,kg
+GoodFarm Mattress,Household,14.36,piece
+GreenChoice Onion,Vegetables,1.87,kg
+BrandC Bagel,Bakery,1.53,piece
+BrandB Sweater,Clothing,17.12,piece
+GreenChoice Table,Household,17.24,piece
+EcoLife Coke,Beverages,2.71,liter
+BrandC Bagel,Bakery,3.76,piece
+HomeEssentials Detergent,Cleaning,2.57,liter
+BrandB Tea,Beverages,1.35,bottle
+HomeEssentials Deodorant,Personal Care,0.5,piece
+BrandC Coke,Beverages,2.29,liter
+GoodFarm Carrot,Vegetables,0.27,piece
+GoodFarm Shirt,Clothing,19.64,piece
+NaturePlus Phone,Electronics,85.13,piece
+EcoLife Lentils,Food,4.38,kg
+GoodFarm Butter,Dairy,0.75,kg
+BrandA Tablet,Electronics,31.54,piece
+BrandB Toothpaste,Personal Care,3.07,piece
+BrandB Shampoo,Personal Care,4.21,piece
+EcoLife Croissant,Bakery,0.68,piece
+GoodFarm Detergent,Cleaning,9.49,kg
+GreenChoice Muffin,Bakery,1.49,piece
+BrandA Sweater,Clothing,12.41,piece
+BrandC Litter,Pet Supplies,0.38,piece
+BrandB Sweater,Clothing,19.16,piece
+DailyCare TV,Electronics,92.17,piece
+GoodFarm Bagel,Bakery,4.86,kg
+EcoLife Phone,Electronics,145.92,piece
+BrandB Cheese,Dairy,8.15,kg
+BrandA Train Ticket,Transport,2.1,liter
+HomeEssentials Soap,Personal Care,0.46,piece
+BrandA Mattress,Household,38.35,piece
+BrandB Beef,Meat,7.47,kg
+GoodFarm Onion,Vegetables,1.16,kg
+HomeEssentials Bus Ticket,Transport,2.63,liter
+BrandA Laptop,Electronics,58.46,piece
+BrandC Cake,Bakery,0.97,piece
+GoodFarm Pen,Stationery,1.45,piece
+BrandB Potato,Vegetables,1.59,kg
+EcoLife Cat Food,Pet Supplies,0.52,piece
+DailyCare Tea,Beverages,0.99,bottle
+EcoLife Mattress,Household,5.29,piece
+BrandB Shirt,Clothing,15.11,piece
+BrandA Banana,Fruits,0.37,piece
+BrandC Lotion,Personal Care,4.25,piece
+BrandC Onion,Vegetables,0.96,kg
+BrandB Butter,Dairy,1.85,kg
+GreenChoice Train Ticket,Transport,2.28,liter
+HomeEssentials Chair,Household,1.14,piece
+BrandC Mango,Fruits,1.81,piece
+BrandA Dog Food,Pet Supplies,9.6,piece
+GreenChoice Water,Beverages,2.66,bottle
+HomeEssentials Train Ticket,Transport,4.96,km
+BrandB Butter,Dairy,4.34,liter
+HomeEssentials Pet Toy,Pet Supplies,4.99,kg
+BrandC Phone,Electronics,81.2,piece
+HomeEssentials Lamp,Household,40.36,piece
+BrandA Butter,Dairy,6.39,kg
+EcoLife Spinach,Vegetables,1.49,kg
+BrandB Bleach,Cleaning,12.92,piece
+BrandB Lotion,Personal Care,0.15,piece
+GreenChoice Butter,Dairy,8.97,liter
+HomeEssentials Tomato,Vegetables,1.13,kg
+BrandB Lotion,Personal Care,1.13,piece
+DailyCare Mango,Fruits,1.63,piece
+BrandA Glass Cleaner,Cleaning,0.73,kg
+HomeEssentials Potato,Vegetables,1.21,kg
+BrandB Apple,Fruits,0.48,kg
+BrandB Jeans,Clothing,17.87,piece
+EcoLife Chair,Household,2.99,piece
+GoodFarm Notebook,Stationery,2.72,piece
+HomeEssentials Rice,Food,4.18,piece
+DailyCare Chair,Household,20.78,piece
+HomeEssentials Juice,Beverages,1.05,bottle
+BrandC Croissant,Bakery,0.45,kg
+NaturePlus Bread,Bakery,4.58,kg
+GreenChoice Glass Cleaner,Cleaning,4.85,liter
+DailyCare Stapler,Stationery,3.95,piece
+HomeEssentials Pet Shampoo,Pet Supplies,5.35,kg
+NaturePlus Cream,Dairy,9.89,kg
+BrandA Shirt,Clothing,7.65,piece
+BrandC Lamb,Meat,14.78,kg
+GoodFarm Coke,Beverages,2.54,bottle
+BrandB Lotion,Personal Care,4.27,piece
+DailyCare Toothpaste,Personal Care,1.12,piece
+BrandB Toothpaste,Personal Care,2.89,piece
+BrandB Cheese,Dairy,1.31,liter
+NaturePlus Marker,Stationery,0.22,piece
+BrandB Sweater,Clothing,10.34,piece
+NaturePlus Water,Beverages,0.25,liter
+GoodFarm Lamb,Meat,11.62,kg
+NaturePlus Milk,Dairy,3.54,kg
+BrandC Soap,Personal Care,4.81,piece
+NaturePlus Jeans,Clothing,17.34,piece
+BrandA Water,Beverages,2.16,bottle
+NaturePlus Paper Pack,Stationery,3.07,piece
+DailyCare Nuts,Food,0.11,kg
+EcoLife Phone,Electronics,78.41,piece
+EcoLife Onion,Vegetables,1.98,kg
+NaturePlus Nuts,Food,4.01,piece
+NaturePlus Nuts,Food,2.46,piece
+BrandB Apple,Fruits,0.7,piece
+EcoLife Bread,Bakery,4.42,piece
+BrandB Pillow,Household,38.25,piece
+BrandA Croissant,Bakery,2.4,kg
+HomeEssentials Laptop,Electronics,82.88,piece
+BrandC Tomato,Vegetables,1.35,kg
+NaturePlus Tomato,Vegetables,1.75,kg
+NaturePlus Dog Food,Pet Supplies,6.86,piece
+GoodFarm Litter,Pet Supplies,3.03,piece
+NaturePlus Lamp,Household,18.29,piece
+BrandB Lentils,Food,1.85,piece
+HomeEssentials Dish Soap,Cleaning,13.51,liter
+NaturePlus Potato,Vegetables,0.08,piece
+GreenChoice Cheese,Dairy,5.56,liter
+HomeEssentials Mattress,Household,37.04,piece
+HomeEssentials Phone,Electronics,192.83,piece
+BrandC Shirt,Clothing,2.5,piece
+EcoLife Notebook,Stationery,2.95,piece
+GreenChoice Petrol,Transport,3.9,km
+BrandB Phone,Electronics,96.17,piece
+EcoLife Dish Soap,Cleaning,10.17,liter
+HomeEssentials Nuts,Food,4.58,kg
+HomeEssentials Beans,Food,4.17,kg
+EcoLife Train Ticket,Transport,2.35,liter
+EcoLife Potato,Vegetables,1.56,kg
+HomeEssentials Laptop,Electronics,123.84,piece
+DailyCare Potato,Vegetables,0.38,kg
+GreenChoice Detergent,Cleaning,10.42,piece
+BrandC Table,Household,35.69,piece
+HomeEssentials Lamp,Household,16.31,piece
+HomeEssentials Paper Pack,Stationery,2.18,piece
+BrandB Butter,Dairy,5.72,kg
+BrandA Muffin,Bakery,2.02,kg
+GreenChoice Shampoo,Personal Care,4.33,piece
+GoodFarm Cat Food,Pet Supplies,5.04,piece
+GoodFarm Juice,Beverages,1.58,liter
+HomeEssentials Chicken,Meat,12.14,kg
+NaturePlus Floor Cleaner,Cleaning,9.18,piece
+DailyCare Petrol,Transport,1.94,km
+EcoLife Pen,Stationery,3.59,piece
+GreenChoice Chicken,Meat,20.42,kg
+HomeEssentials Milk,Dairy,3.88,liter
+BrandC Shirt,Clothing,9.74,piece
+DailyCare Lentils,Food,4.16,kg
+BrandA Paper Pack,Stationery,1.38,piece
+GreenChoice Table,Household,20.55,piece
+EcoLife Dog Food,Pet Supplies,8.49,kg
+GreenChoice Pet Toy,Pet Supplies,3.48,piece
+BrandA Grapes,Fruits,1.21,kg
+GreenChoice Bagel,Bakery,2.83,piece
+DailyCare Laptop,Electronics,24.15,piece
+GreenChoice Dog Food,Pet Supplies,8.13,kg
+BrandA T-shirt,Clothing,12.88,piece
+GreenChoice Table,Household,27.38,piece
+DailyCare Jacket,Clothing,12.92,piece
+BrandB Bus Ticket,Transport,3.96,km
+HomeEssentials Coffee,Beverages,0.64,liter
+BrandB TV,Electronics,40.89,piece
+EcoLife Marker,Stationery,3.08,piece
+NaturePlus TV,Electronics,77.25,piece
+DailyCare Orange,Fruits,1.21,piece
+GoodFarm Lamp,Household,24.48,piece
+BrandA Carrot,Vegetables,0.09,kg
+BrandA Train Ticket,Transport,0.55,km
+DailyCare Beans,Food,2.61,pack
+DailyCare Butter,Dairy,6.48,liter
+GreenChoice Oats,Food,4.98,kg
+BrandA Toothpaste,Personal Care,2.94,piece
+NaturePlus Banana,Fruits,0.37,piece
+NaturePlus Tomato,Vegetables,1.62,piece
+HomeEssentials Juice,Beverages,2.01,liter
+BrandB Dish Soap,Cleaning,10.28,kg
+NaturePlus Shampoo,Personal Care,0.58,piece
+HomeEssentials Turkey,Meat,18.57,kg
+DailyCare Potato,Vegetables,1.46,piece
+BrandC Pet Shampoo,Pet Supplies,5.3,piece
+BrandB Litter,Pet Supplies,6.29,kg
+BrandB Water,Beverages,2.04,liter
+EcoLife Banana,Fruits,1.11,piece
+EcoLife Bagel,Bakery,1.05,kg
+GoodFarm Cheese,Dairy,0.82,liter
+BrandA Bleach,Cleaning,11.22,piece
+DailyCare Diesel,Transport,2.02,liter
+BrandC Butter,Dairy,7.78,liter
+GreenChoice Butter,Dairy,0.69,kg
+NaturePlus Paper Pack,Stationery,1.73,piece
+DailyCare Lamp,Household,34.16,piece
+GoodFarm Phone,Electronics,80.86,piece
+GoodFarm Bleach,Cleaning,11.14,liter
+BrandB Lentils,Food,4.22,piece
+NaturePlus TV,Electronics,170.97,piece
+NaturePlus Soap,Personal Care,2.02,piece
+HomeEssentials Marker,Stationery,1.79,piece
+NaturePlus Cake,Bakery,2.8,piece
+BrandC Lamb,Meat,16.44,kg
+BrandC Bicycle,Transport,1.78,km
+BrandB Phone,Electronics,50.3,piece
+HomeEssentials Bagel,Bakery,2.19,kg
+BrandB Tomato,Vegetables,1.4,piece
+EcoLife Cake,Bakery,4.64,kg
+DailyCare Butter,Dairy,3.57,liter
+BrandB Chair,Household,16.35,piece
+HomeEssentials Paper Pack,Stationery,4.57,piece
+NaturePlus Milk,Dairy,5.25,kg
+BrandC Notebook,Stationery,4.64,piece
+BrandA Diesel,Transport,0.76,km
+DailyCare Carrot,Vegetables,0.07,piece
+GoodFarm Rice,Food,0.24,kg
+BrandA Muffin,Bakery,2.62,piece
+EcoLife Shampoo,Personal Care,3.84,piece
+DailyCare Glass Cleaner,Cleaning,8.53,kg
+GoodFarm Pet Shampoo,Pet Supplies,5.89,kg
+GreenChoice Carrot,Vegetables,0.06,kg
+EcoLife Toothpaste,Personal Care,2.95,piece
+DailyCare Chicken,Meat,20.37,kg
+BrandA Beef,Meat,22.38,kg
+NaturePlus Nuts,Food,1.98,kg
+GoodFarm Glass Cleaner,Cleaning,14.55,liter
+NaturePlus Shampoo,Personal Care,0.28,piece
+BrandB Pen,Stationery,1.74,piece
+DailyCare Apple,Fruits,1.85,piece
+EcoLife Oats,Food,1.64,pack
+GreenChoice Bread,Bakery,4.96,kg
+BrandB Nuts,Food,2.93,piece
+GoodFarm Cream,Dairy,5.67,liter
+BrandB Spinach,Vegetables,0.52,kg
+EcoLife Grapes,Fruits,0.54,kg
+EcoLife Train Ticket,Transport,3.25,liter
+GoodFarm Bagel,Bakery,4.62,piece
+HomeEssentials Lamp,Household,18.63,piece
+GreenChoice Diesel,Transport,2.25,liter
+GreenChoice Diesel,Transport,2.93,km
+GoodFarm Bagel,Bakery,3.76,kg
+NaturePlus Shirt,Clothing,2.21,piece
+HomeEssentials Bicycle,Transport,4.14,km
+DailyCare Beans,Food,3.31,piece
+DailyCare Banana,Fruits,1.73,piece
+BrandC Pasta,Food,0.4,kg
+DailyCare Jeans,Clothing,19.94,piece
+GreenChoice Chicken,Meat,20.95,kg
+GreenChoice Onion,Vegetables,0.78,kg
+HomeEssentials Bus Ticket,Transport,4.53,liter
+EcoLife Coffee,Beverages,2.36,liter
+BrandB Potato,Vegetables,0.95,piece
+GreenChoice Marker,Stationery,1.93,piece
+BrandA Pet Shampoo,Pet Supplies,4.21,kg
+BrandA Pen,Stationery,4.09,piece
+GreenChoice Orange,Fruits,1.2,kg
+GreenChoice Laptop,Electronics,163.65,piece
+BrandC Train Ticket,Transport,3.96,km
+GoodFarm Grapes,Fruits,1.81,piece
+NaturePlus Pet Shampoo,Pet Supplies,3.45,kg
+EcoLife Pet Toy,Pet Supplies,8.64,piece
+BrandB Banana,Fruits,1.39,kg
+NaturePlus TV,Electronics,80.08,piece
+BrandA Table,Household,18.85,piece
+DailyCare Chair,Household,25.92,piece
+HomeEssentials Detergent,Cleaning,1.17,liter
+BrandA Coffee,Beverages,1.34,liter
+EcoLife Pen,Stationery,0.73,piece
+EcoLife Water,Beverages,2.11,bottle
+BrandB Tea,Beverages,2.68,liter
+HomeEssentials Mango,Fruits,0.99,kg
+HomeEssentials Pillow,Household,13.6,piece
+EcoLife Detergent,Cleaning,6.26,kg
+GreenChoice Banana,Fruits,0.39,piece
+BrandB Headphones,Electronics,51.69,piece
+BrandB Cat Food,Pet Supplies,9.38,kg
+DailyCare Apple,Fruits,0.27,piece
+HomeEssentials Headphones,Electronics,13.64,piece
+BrandA Coke,Beverages,0.8,bottle
+BrandC Shirt,Clothing,5.84,piece
+DailyCare Cake,Bakery,4.09,kg
+BrandB Carrot,Vegetables,0.89,piece
+GoodFarm Croissant,Bakery,0.72,kg
+BrandA Cheese,Dairy,9.38,liter
+BrandA Dog Food,Pet Supplies,9.26,piece
+BrandA Lentils,Food,4.78,kg
+NaturePlus Glass Cleaner,Cleaning,2.04,liter
+BrandA Pet Shampoo,Pet Supplies,5.55,kg
+NaturePlus Rice,Food,2.23,piece
+HomeEssentials Dog Food,Pet Supplies,3.67,kg
+GreenChoice Coke,Beverages,2.77,bottle
+GoodFarm Lentils,Food,2.71,kg
+HomeEssentials Pet Shampoo,Pet Supplies,3.82,kg
+BrandB Croissant,Bakery,2.33,piece
+BrandA Deodorant,Personal Care,1.74,piece
+NaturePlus Diesel,Transport,4.57,km
+DailyCare Tea,Beverages,2.53,bottle
+DailyCare Mango,Fruits,0.94,piece
+BrandC T-shirt,Clothing,16.65,piece
+DailyCare Soap,Personal Care,1.13,piece
+GoodFarm Butter,Dairy,6.98,liter
+GreenChoice Phone,Electronics,194.33,piece
+NaturePlus Tea,Beverages,2.24,liter
+BrandC Tomato,Vegetables,0.87,piece
+HomeEssentials Water,Beverages,2.6,liter
+HomeEssentials Spinach,Vegetables,0.3,kg
+BrandC Grapes,Fruits,0.92,kg
+NaturePlus Tomato,Vegetables,0.44,kg
+GoodFarm Marker,Stationery,0.67,piece
+NaturePlus Bagel,Bakery,1.96,piece
+BrandA Mango,Fruits,1.48,piece
+DailyCare Tomato,Vegetables,0.17,kg
+EcoLife Croissant,Bakery,0.48,piece
+BrandB Beans,Food,2.78,kg
+EcoLife Mattress,Household,43.17,piece
+DailyCare Pet Shampoo,Pet Supplies,1.07,piece
+BrandA Laptop,Electronics,117.47,piece
+GoodFarm Soap,Personal Care,2.78,piece
+BrandA Croissant,Bakery,1.76,piece
+BrandC Deodorant,Personal Care,2.36,piece
+DailyCare Croissant,Bakery,2.46,piece
+NaturePlus Banana,Fruits,1.19,kg
+HomeEssentials Pillow,Household,9.18,piece
+HomeEssentials Detergent,Cleaning,9.82,liter
+BrandB Notebook,Stationery,2.62,piece
+NaturePlus Lamb,Meat,8.72,kg
+NaturePlus Soap,Personal Care,2.61,piece
+GoodFarm Cat Food,Pet Supplies,7.53,piece
+BrandC Cheese,Dairy,0.55,kg
+DailyCare Floor Cleaner,Cleaning,4.43,liter
+EcoLife Lentils,Food,1.22,piece
+BrandA Rice,Food,3.5,piece
+HomeEssentials Turkey,Meat,28.0,kg
+NaturePlus Mattress,Household,40.14,piece
+BrandC Floor Cleaner,Cleaning,4.41,piece
+BrandA Turkey,Meat,10.76,kg
+EcoLife Beef,Meat,13.52,kg
+GoodFarm Muffin,Bakery,2.05,piece
+GreenChoice Orange,Fruits,1.46,kg
+GoodFarm Phone,Electronics,131.51,piece
+HomeEssentials Pen,Stationery,1.47,piece
+NaturePlus Cat Food,Pet Supplies,2.19,kg
+BrandB Tablet,Electronics,31.97,piece
+HomeEssentials Pet Toy,Pet Supplies,7.77,piece
+GreenChoice Rice,Food,1.9,piece
+GreenChoice Croissant,Bakery,3.34,piece
+BrandB Muffin,Bakery,0.66,kg
+GoodFarm Pet Toy,Pet Supplies,2.46,piece
+BrandB Water,Beverages,2.31,liter
+NaturePlus Pen,Stationery,4.81,piece
+BrandC Pasta,Food,0.85,kg
+BrandC Muffin,Bakery,2.83,kg
+GreenChoice Bus Ticket,Transport,0.98,liter
+GoodFarm Water,Beverages,1.73,bottle
+BrandA Pet Toy,Pet Supplies,8.85,kg
+DailyCare Bagel,Bakery,3.89,kg
+BrandB Tomato,Vegetables,1.43,kg
+BrandB Pen,Stationery,2.93,piece
+GoodFarm Oats,Food,2.62,piece
+DailyCare Shampoo,Personal Care,2.82,piece
+EcoLife Muffin,Bakery,3.51,piece
+NaturePlus Bread,Bakery,2.25,piece
+BrandC Lamb,Meat,13.93,kg
+GreenChoice Nuts,Food,0.33,kg
+BrandC Mattress,Household,47.48,piece
+EcoLife Tomato,Vegetables,1.96,piece
+HomeEssentials Cheese,Dairy,0.64,kg
+BrandA Lentils,Food,2.58,pack
+GreenChoice Croissant,Bakery,3.45,piece
+GoodFarm Orange,Fruits,0.25,kg
+NaturePlus Jeans,Clothing,7.06,piece
+GoodFarm TV,Electronics,50.32,piece
+BrandB Petrol,Transport,0.83,liter
+HomeEssentials Coffee,Beverages,1.51,liter
+NaturePlus Chicken,Meat,25.41,kg
+HomeEssentials Pet Shampoo,Pet Supplies,7.97,piece
+EcoLife Potato,Vegetables,0.75,piece
+DailyCare Turkey,Meat,6.94,kg
+EcoLife Oats,Food,3.03,kg
+GreenChoice Lamb,Meat,25.17,kg
+NaturePlus Diesel,Transport,3.49,liter
+GoodFarm Butter,Dairy,2.44,liter
+BrandB Onion,Vegetables,0.53,piece
+BrandB Train Ticket,Transport,2.11,km
+BrandB Beef,Meat,23.76,kg
+BrandC Butter,Dairy,6.24,kg
+BrandA Stapler,Stationery,1.44,piece
+HomeEssentials Soap,Personal Care,2.66,piece
+HomeEssentials Tea,Beverages,1.76,bottle
+BrandC Muffin,Bakery,3.65,kg
+BrandB Bread,Bakery,4.52,kg
+HomeEssentials Tomato,Vegetables,1.49,piece
+GoodFarm Soap,Personal Care,4.49,piece
+NaturePlus Apple,Fruits,0.36,piece
+DailyCare Phone,Electronics,105.57,piece
+BrandC Lamb,Meat,25.82,kg
+DailyCare Bus Ticket,Transport,4.83,km
+GoodFarm Paper Pack,Stationery,1.92,piece
+EcoLife Jeans,Clothing,15.47,piece
+BrandB Yogurt,Dairy,3.11,kg
+BrandA Potato,Vegetables,0.92,piece
+GreenChoice Potato,Vegetables,1.94,piece
+BrandC Floor Cleaner,Cleaning,13.86,piece
+BrandA Cake,Bakery,1.72,piece
+DailyCare Petrol,Transport,0.26,km
+GreenChoice Tomato,Vegetables,1.6,kg
+BrandB Dish Soap,Cleaning,6.71,kg
+DailyCare Beef,Meat,7.42,kg
+NaturePlus Butter,Dairy,9.31,liter
+DailyCare Potato,Vegetables,1.94,piece
+GoodFarm Toothpaste,Personal Care,0.61,piece
+BrandC Turkey,Meat,29.58,kg
+GoodFarm Turkey,Meat,8.95,kg
+GoodFarm Phone,Electronics,191.59,piece
+GoodFarm Lamp,Household,44.86,piece
+NaturePlus Toothpaste,Personal Care,4.34,piece
+BrandB Train Ticket,Transport,3.25,km
+NaturePlus Train Ticket,Transport,4.81,liter
+BrandA Bicycle,Transport,2.85,km
+BrandB Train Ticket,Transport,2.64,km
+BrandB Pillow,Household,38.03,piece
+GoodFarm Lotion,Personal Care,4.82,piece
+GoodFarm Pet Shampoo,Pet Supplies,5.95,piece
+BrandA Butter,Dairy,1.5,kg
+GoodFarm Phone,Electronics,128.17,piece
+GoodFarm Muffin,Bakery,3.11,kg
+EcoLife Tomato,Vegetables,1.85,kg
+GreenChoice Tea,Beverages,2.49,bottle
+BrandC T-shirt,Clothing,9.34,piece
+EcoLife Marker,Stationery,4.92,piece
+EcoLife Tomato,Vegetables,1.34,piece
+GreenChoice Bus Ticket,Transport,3.94,km
+HomeEssentials Marker,Stationery,2.34,piece
+BrandC Bicycle,Transport,3.06,km
+GreenChoice Dog Food,Pet Supplies,1.13,piece
+GoodFarm Chair,Household,25.74,piece
+BrandA Jeans,Clothing,2.09,piece
+EcoLife Bus Ticket,Transport,2.83,liter
+BrandC Water,Beverages,1.86,bottle
+GreenChoice Grapes,Fruits,0.39,piece
+DailyCare Jeans,Clothing,7.36,piece
+BrandA Spinach,Vegetables,0.51,piece
+BrandB Mango,Fruits,1.26,kg
+EcoLife Apple,Fruits,1.77,kg
+EcoLife Lamp,Household,30.42,piece
+GreenChoice Bagel,Bakery,4.15,kg
+EcoLife Pillow,Household,1.46,piece
+EcoLife Laptop,Electronics,199.72,piece
+NaturePlus Spinach,Vegetables,0.87,kg
+GreenChoice Stapler,Stationery,2.68,piece
+NaturePlus Tea,Beverages,1.19,bottle
+BrandB Bicycle,Transport,2.65,liter
+BrandC Water,Beverages,1.38,liter
+HomeEssentials Turkey,Meat,15.27,kg
+GreenChoice Deodorant,Personal Care,4.66,piece
+HomeEssentials Cake,Bakery,1.56,piece
+BrandB Tablet,Electronics,182.83,piece
+EcoLife Litter,Pet Supplies,7.08,piece
+DailyCare Beef,Meat,21.58,kg
+EcoLife Pet Shampoo,Pet Supplies,4.55,piece
+GreenChoice Lamb,Meat,11.05,kg
+HomeEssentials Beans,Food,3.25,piece
+BrandC Carrot,Vegetables,1.79,kg
+EcoLife Jeans,Clothing,11.08,piece
+HomeEssentials Mango,Fruits,1.74,piece
+NaturePlus Dog Food,Pet Supplies,4.4,kg
+EcoLife Turkey,Meat,14.36,kg
+NaturePlus Tomato,Vegetables,1.56,piece
+BrandB Diesel,Transport,2.93,km
+NaturePlus Diesel,Transport,2.28,km
+GreenChoice Soap,Personal Care,1.91,piece
+BrandB TV,Electronics,15.6,piece
+GreenChoice Tomato,Vegetables,0.07,kg
+GreenChoice Marker,Stationery,2.06,piece
+DailyCare Bleach,Cleaning,8.77,liter
+DailyCare Tomato,Vegetables,1.77,kg
+HomeEssentials Coke,Beverages,2.78,liter
+GoodFarm TV,Electronics,122.32,piece
+DailyCare Soap,Personal Care,3.01,piece
+GreenChoice Lamb,Meat,17.7,kg
+BrandB Litter,Pet Supplies,3.01,kg
+BrandA Toothpaste,Personal Care,0.47,piece
+NaturePlus Water,Beverages,2.41,liter
+GoodFarm Croissant,Bakery,0.98,kg
+BrandA Chair,Household,12.41,piece
+GoodFarm Yogurt,Dairy,8.36,kg
+EcoLife Pet Toy,Pet Supplies,7.51,piece
+DailyCare Paper Pack,Stationery,2.31,piece
+GreenChoice Chair,Household,12.82,piece
+EcoLife Orange,Fruits,0.62,piece
+BrandB Shampoo,Personal Care,2.33,piece
+BrandA Cheese,Dairy,3.77,liter
+BrandA Cake,Bakery,2.4,piece
+GoodFarm Shirt,Clothing,10.64,piece
+BrandB Shampoo,Personal Care,2.41,piece
+GreenChoice Stapler,Stationery,4.7,piece
+BrandB Phone,Electronics,175.67,piece
+GoodFarm TV,Electronics,174.87,piece
+BrandC Milk,Dairy,8.58,liter
+DailyCare Tea,Beverages,0.33,liter
+EcoLife Marker,Stationery,1.09,piece
+NaturePlus Carrot,Vegetables,1.91,kg
+HomeEssentials Deodorant,Personal Care,3.04,piece
+EcoLife Stapler,Stationery,2.98,piece
+DailyCare Pen,Stationery,4.11,piece
+GreenChoice Croissant,Bakery,2.99,kg
+DailyCare Stapler,Stationery,0.59,piece
+GoodFarm Floor Cleaner,Cleaning,5.62,piece
+GreenChoice Floor Cleaner,Cleaning,5.79,piece
+HomeEssentials Train Ticket,Transport,4.35,km
+BrandB Milk,Dairy,3.82,kg
+DailyCare T-shirt,Clothing,10.83,piece
+BrandC Lamp,Household,49.05,piece
+BrandC Rice,Food,3.38,kg
+GoodFarm Floor Cleaner,Cleaning,1.89,kg
+NaturePlus Orange,Fruits,0.93,piece
+NaturePlus Table,Household,31.14,piece
+GoodFarm Table,Household,23.21,piece
+BrandC Dish Soap,Cleaning,3.2,kg
+HomeEssentials Lamb,Meat,19.13,kg
+GoodFarm Water,Beverages,1.51,liter
+NaturePlus Turkey,Meat,28.02,kg
+GoodFarm Pet Shampoo,Pet Supplies,9.02,kg
+BrandA Bleach,Cleaning,5.68,kg
+GoodFarm Pillow,Household,21.47,piece
+DailyCare Floor Cleaner,Cleaning,1.46,piece
+GoodFarm Laptop,Electronics,28.82,piece
+BrandC Chicken,Meat,5.93,kg
+BrandA Lentils,Food,4.41,piece
+DailyCare Pillow,Household,23.69,piece
+GoodFarm Shampoo,Personal Care,1.27,piece
+HomeEssentials Pen,Stationery,0.42,piece
+EcoLife Spinach,Vegetables,0.81,kg
+DailyCare Lamb,Meat,21.5,kg
+NaturePlus Water,Beverages,2.45,bottle
+HomeEssentials Pen,Stationery,1.23,piece
+GoodFarm Nuts,Food,4.2,pack
+GreenChoice Mango,Fruits,1.76,piece
+GreenChoice Spinach,Vegetables,0.38,kg
+DailyCare Jeans,Clothing,16.37,piece
+NaturePlus Cat Food,Pet Supplies,3.81,kg
+DailyCare Diesel,Transport,2.3,liter
+GoodFarm Soap,Personal Care,0.47,piece
+BrandB Cake,Bakery,2.62,piece
+NaturePlus Pork,Meat,13.72,kg
+BrandA Sweater,Clothing,9.99,piece
+NaturePlus Phone,Electronics,123.02,piece
+DailyCare Shirt,Clothing,11.84,piece
+GoodFarm Turkey,Meat,27.51,kg
+BrandA Pet Toy,Pet Supplies,4.87,piece
+GreenChoice Beef,Meat,26.93,kg
+BrandA Bicycle,Transport,4.65,km
+GreenChoice Sweater,Clothing,8.26,piece
+DailyCare Tomato,Vegetables,1.12,kg
+GoodFarm Cat Food,Pet Supplies,4.97,piece
+GreenChoice Orange,Fruits,0.72,kg
+HomeEssentials Beef,Meat,19.83,kg
+GreenChoice T-shirt,Clothing,2.01,piece
+BrandC TV,Electronics,34.89,piece
+BrandB Dog Food,Pet Supplies,8.33,piece
+HomeEssentials Bicycle,Transport,1.41,liter
+BrandB Coke,Beverages,1.1,liter
+HomeEssentials Turkey,Meat,27.54,kg
+DailyCare Tomato,Vegetables,1.11,piece
+DailyCare Jeans,Clothing,6.15,piece
+BrandB T-shirt,Clothing,8.73,piece
+GoodFarm Toothpaste,Personal Care,2.94,piece
+HomeEssentials Table,Household,21.76,piece
+GoodFarm Grapes,Fruits,0.34,kg
+GreenChoice Pet Toy,Pet Supplies,4.53,piece
+BrandC Butter,Dairy,6.17,liter
+HomeEssentials Carrot,Vegetables,1.58,kg
+BrandC Rice,Food,1.24,kg
+NaturePlus Cat Food,Pet Supplies,6.71,piece
+DailyCare Diesel,Transport,0.94,km
+GreenChoice Tea,Beverages,1.56,liter
+BrandA Headphones,Electronics,24.24,piece
+NaturePlus Juice,Beverages,1.04,bottle
+NaturePlus Diesel,Transport,1.61,km
+BrandA Soap,Personal Care,3.83,piece
+BrandB Croissant,Bakery,3.71,kg
+EcoLife Toothpaste,Personal Care,2.68,piece
+HomeEssentials Lamb,Meat,16.36,kg
+GreenChoice Cake,Bakery,2.91,piece
+HomeEssentials Stapler,Stationery,1.79,piece
+HomeEssentials Croissant,Bakery,2.57,kg
+NaturePlus Cheese,Dairy,5.32,liter
+GreenChoice Tablet,Electronics,183.55,piece
+BrandC Bus Ticket,Transport,0.14,km
+BrandC Stapler,Stationery,3.26,piece
+BrandC Petrol,Transport,0.5,liter
+BrandC Lamb,Meat,14.57,kg
+NaturePlus Butter,Dairy,7.27,kg
+NaturePlus Milk,Dairy,5.96,kg
+EcoLife Butter,Dairy,2.04,liter
+BrandC Orange,Fruits,1.24,piece
+GreenChoice Turkey,Meat,27.48,kg
+BrandA Sweater,Clothing,6.49,piece
+GreenChoice Bread,Bakery,2.1,piece
+NaturePlus Chicken,Meat,25.81,kg
+EcoLife Chicken,Meat,6.28,kg
+BrandA Litter,Pet Supplies,5.9,kg
+EcoLife Glass Cleaner,Cleaning,6.96,piece
+NaturePlus Bagel,Bakery,4.22,kg
+HomeEssentials Tea,Beverages,2.6,bottle
+NaturePlus Petrol,Transport,4.63,km
+DailyCare Coffee,Beverages,0.33,liter
+HomeEssentials TV,Electronics,159.39,piece
+GreenChoice Cake,Bakery,1.55,piece
+DailyCare Banana,Fruits,1.4,kg
+HomeEssentials Tea,Beverages,1.28,bottle
+BrandB Jeans,Clothing,11.3,piece
+BrandC Onion,Vegetables,1.58,kg
+BrandA Butter,Dairy,1.56,kg
+BrandB Yogurt,Dairy,5.21,liter
+GoodFarm Detergent,Cleaning,13.36,kg
+NaturePlus Coffee,Beverages,1.01,liter
+BrandA Shirt,Clothing,2.85,piece
+GoodFarm Coffee,Beverages,2.71,bottle
+BrandC Lamb,Meat,12.55,kg
+DailyCare Pork,Meat,17.41,kg
+NaturePlus Paper Pack,Stationery,0.35,piece
+BrandC Potato,Vegetables,0.55,piece
+HomeEssentials Cake,Bakery,3.85,piece
+BrandB Train Ticket,Transport,3.24,liter
+BrandA Bagel,Bakery,4.25,kg
+BrandB Shirt,Clothing,11.85,piece
+GreenChoice Spinach,Vegetables,0.51,piece
+EcoLife Paper Pack,Stationery,3.56,piece
+BrandA Stapler,Stationery,4.68,piece
+BrandC Lamp,Household,30.04,piece
+HomeEssentials T-shirt,Clothing,2.3,piece
+DailyCare Pen,Stationery,4.88,piece
+DailyCare Grapes,Fruits,1.69,kg
+GreenChoice Nuts,Food,4.57,kg
+GreenChoice Croissant,Bakery,4.73,piece
+BrandB Mango,Fruits,0.4,piece
+BrandC Chicken,Meat,20.8,kg
+BrandA Pillow,Household,5.5,piece
+BrandC Tea,Beverages,2.33,bottle
+GoodFarm Turkey,Meat,12.19,kg
+GreenChoice Bread,Bakery,3.78,kg
+DailyCare Bread,Bakery,3.59,piece
+HomeEssentials Oats,Food,2.68,piece
+BrandB Pet Toy,Pet Supplies,7.95,piece
+NaturePlus Pillow,Household,34.38,piece
+NaturePlus Cake,Bakery,1.93,kg
+BrandA Banana,Fruits,1.14,kg
+BrandA Cheese,Dairy,4.26,kg
+BrandB Lamp,Household,11.38,piece
+HomeEssentials Coke,Beverages,0.64,liter
+BrandA Nuts,Food,3.93,kg
+NaturePlus Tea,Beverages,1.07,liter
+GoodFarm Lamb,Meat,26.78,kg
+BrandC Coke,Beverages,2.09,liter
+BrandC Petrol,Transport,1.88,km
+GoodFarm Pen,Stationery,4.37,piece
+NaturePlus Shirt,Clothing,8.43,piece
+DailyCare Orange,Fruits,1.05,piece
+BrandC Shampoo,Personal Care,2.77,piece
+DailyCare Carrot,Vegetables,1.57,kg
+GreenChoice Tablet,Electronics,75.73,piece
+BrandB Diesel,Transport,4.79,liter
+BrandB Coke,Beverages,2.61,liter
+GoodFarm Headphones,Electronics,39.04,piece
+DailyCare Floor Cleaner,Cleaning,5.79,liter
+NaturePlus Beans,Food,2.13,pack
+BrandC Phone,Electronics,110.7,piece
+GoodFarm Oats,Food,3.25,piece
+BrandC Dog Food,Pet Supplies,2.52,kg
+EcoLife Marker,Stationery,0.25,piece
+GoodFarm Potato,Vegetables,0.29,kg
+BrandA Chair,Household,27.59,piece
+DailyCare Table,Household,29.41,piece
+GoodFarm Lamp,Household,0.87,piece
+BrandA Cream,Dairy,8.47,kg
+BrandB Glass Cleaner,Cleaning,8.83,liter
+GoodFarm Beef,Meat,8.46,kg
+BrandB Mattress,Household,4.22,piece
+DailyCare TV,Electronics,192.53,piece
+GoodFarm Notebook,Stationery,1.76,piece
+GreenChoice Bread,Bakery,1.98,piece
+NaturePlus Water,Beverages,0.77,liter
+BrandC Cat Food,Pet Supplies,8.15,piece
+BrandA Floor Cleaner,Cleaning,8.02,liter
+DailyCare Train Ticket,Transport,3.15,km
+BrandC Cream,Dairy,1.95,liter
+BrandC Mango,Fruits,1.91,piece
+BrandA Jacket,Clothing,15.09,piece
+GoodFarm Grapes,Fruits,0.26,kg
+EcoLife Butter,Dairy,7.15,liter
+BrandC Cake,Bakery,2.0,kg
+NaturePlus Mattress,Household,22.98,piece
+GreenChoice Water,Beverages,0.23,liter
+BrandA Water,Beverages,1.93,liter
+GreenChoice Carrot,Vegetables,0.42,kg
+BrandC Bleach,Cleaning,5.12,piece
+HomeEssentials Jeans,Clothing,19.79,piece
+GreenChoice Beef,Meat,21.08,kg
+GreenChoice Mattress,Household,21.9,piece
+EcoLife Butter,Dairy,7.57,liter
+BrandC Dog Food,Pet Supplies,0.83,piece
+DailyCare Beans,Food,4.08,kg
+BrandC Pet Toy,Pet Supplies,4.66,piece
+HomeEssentials Orange,Fruits,0.92,piece
+BrandB Pork,Meat,29.7,kg
+GoodFarm Nuts,Food,1.52,kg
+DailyCare Milk,Dairy,8.62,liter
+BrandC Butter,Dairy,4.55,kg
+EcoLife Beans,Food,4.17,kg
+DailyCare Table,Household,26.8,piece
+BrandA Sweater,Clothing,13.61,piece
+HomeEssentials Dish Soap,Cleaning,1.68,piece
+BrandA Coffee,Beverages,0.35,bottle
+DailyCare Sweater,Clothing,13.82,piece
+BrandB Rice,Food,3.32,pack
+DailyCare Butter,Dairy,9.3,liter
+BrandA T-shirt,Clothing,6.67,piece
+BrandA Bagel,Bakery,2.03,kg
+BrandA Beef,Meat,22.29,kg
+BrandA Train Ticket,Transport,2.74,km
+DailyCare Croissant,Bakery,2.86,kg
+EcoLife Chair,Household,17.83,piece
+BrandC Tomato,Vegetables,0.14,kg
+BrandA Litter,Pet Supplies,3.96,piece
+BrandC Beef,Meat,12.27,kg
+BrandA Butter,Dairy,2.39,liter
+GreenChoice Carrot,Vegetables,1.68,kg
+GreenChoice Onion,Vegetables,1.31,kg
+BrandC Chair,Household,22.28,piece
+BrandA Laptop,Electronics,41.65,piece
+GoodFarm Deodorant,Personal Care,3.16,piece
+HomeEssentials Mattress,Household,24.65,piece
+BrandA Stapler,Stationery,3.73,piece
+GoodFarm Lamp,Household,40.59,piece
+GoodFarm Jeans,Clothing,11.82,piece
+EcoLife Oats,Food,1.83,pack
+HomeEssentials Juice,Beverages,2.24,bottle
+BrandC Rice,Food,2.43,piece
+EcoLife Jeans,Clothing,19.71,piece
+BrandA Coke,Beverages,2.74,liter
+EcoLife Tea,Beverages,1.48,bottle
+HomeEssentials Mango,Fruits,1.5,kg
+GreenChoice Pork,Meat,14.23,kg
+HomeEssentials Chair,Household,44.11,piece
+BrandC Potato,Vegetables,1.92,kg
+HomeEssentials Lamp,Household,41.46,piece
+GoodFarm Pillow,Household,38.76,piece
+BrandA Onion,Vegetables,0.65,kg
+EcoLife Dish Soap,Cleaning,5.6,liter
+EcoLife Nuts,Food,3.21,piece
+BrandA Shirt,Clothing,5.83,piece
+BrandC Beans,Food,1.42,kg
+EcoLife Oats,Food,3.72,pack
+HomeEssentials Bleach,Cleaning,9.6,liter
+BrandA Deodorant,Personal Care,3.18,piece
+HomeEssentials Croissant,Bakery,0.7,piece
+BrandA Chicken,Meat,13.3,kg
+BrandA Chair,Household,21.53,piece
+GoodFarm Spinach,Vegetables,1.01,kg
+NaturePlus Pet Toy,Pet Supplies,2.33,piece
+BrandB Jacket,Clothing,6.21,piece
+EcoLife Coke,Beverages,2.04,liter
+BrandC Cheese,Dairy,8.4,liter
+BrandB Bread,Bakery,4.65,piece
+GoodFarm Mattress,Household,24.49,piece
+GreenChoice Pillow,Household,8.38,piece
+DailyCare Jeans,Clothing,13.82,piece
+GreenChoice Pen,Stationery,3.48,piece
+NaturePlus Rice,Food,1.48,piece
+BrandC Toothpaste,Personal Care,3.4,piece
+NaturePlus Shirt,Clothing,14.82,piece
+NaturePlus Muffin,Bakery,3.06,kg
+BrandC Coke,Beverages,1.69,liter
+HomeEssentials Tomato,Vegetables,0.58,piece
+BrandA Stapler,Stationery,4.45,piece
+BrandC Lotion,Personal Care,1.99,piece
+GreenChoice Lentils,Food,3.64,pack
+GreenChoice Water,Beverages,1.68,bottle
+BrandA Chicken,Meat,13.28,kg
+BrandA Soap,Personal Care,3.34,piece
+EcoLife Litter,Pet Supplies,0.97,kg
+EcoLife Train Ticket,Transport,2.74,km
+EcoLife Yogurt,Dairy,6.03,kg
+BrandC Chicken,Meat,14.7,kg
+HomeEssentials TV,Electronics,182.82,piece
+BrandC Carrot,Vegetables,1.24,kg
+HomeEssentials Petrol,Transport,1.01,liter
+GoodFarm Glass Cleaner,Cleaning,14.58,piece
+DailyCare Water,Beverages,1.26,bottle
+BrandA Detergent,Cleaning,12.28,kg
+BrandC Cream,Dairy,2.15,liter
+GreenChoice Marker,Stationery,1.33,piece
+EcoLife Pen,Stationery,4.62,piece
+BrandA Sweater,Clothing,7.76,piece
+EcoLife Apple,Fruits,1.43,kg
+BrandA Mango,Fruits,1.08,kg
+EcoLife Yogurt,Dairy,7.98,kg
+EcoLife Phone,Electronics,161.39,piece
+EcoLife Spinach,Vegetables,0.63,kg
+BrandA Shirt,Clothing,8.33,piece
+NaturePlus Jeans,Clothing,7.62,piece
+HomeEssentials T-shirt,Clothing,13.09,piece
+HomeEssentials Paper Pack,Stationery,0.6,piece
+NaturePlus Shampoo,Personal Care,1.81,piece
+NaturePlus Jacket,Clothing,16.5,piece
+BrandC Beef,Meat,11.53,kg
+NaturePlus Deodorant,Personal Care,3.75,piece
+NaturePlus Chair,Household,10.05,piece
+DailyCare Orange,Fruits,0.43,kg
+NaturePlus Pen,Stationery,1.8,piece
+HomeEssentials Marker,Stationery,3.39,piece
+BrandA Glass Cleaner,Cleaning,9.35,piece
+DailyCare Detergent,Cleaning,5.69,kg
+BrandB Jacket,Clothing,19.5,piece
+HomeEssentials Jeans,Clothing,9.79,piece
+BrandC Carrot,Vegetables,1.97,kg
+BrandA Banana,Fruits,0.45,kg
+BrandC Muffin,Bakery,1.85,piece
+BrandA Dog Food,Pet Supplies,8.38,piece
+GreenChoice Bread,Bakery,4.85,piece
+DailyCare Diesel,Transport,2.28,liter
+GoodFarm Train Ticket,Transport,2.07,liter
+BrandA Dog Food,Pet Supplies,8.66,piece
+BrandB Headphones,Electronics,92.94,piece
+DailyCare Dog Food,Pet Supplies,7.58,kg
+BrandB Pasta,Food,3.06,pack
+GreenChoice Bread,Bakery,4.71,piece
+GoodFarm Cake,Bakery,1.71,piece
+GreenChoice Oats,Food,3.91,kg
+BrandB Tomato,Vegetables,1.71,kg
+BrandA Tablet,Electronics,121.58,piece
+GreenChoice Rice,Food,4.27,piece
+DailyCare Petrol,Transport,1.32,km
+HomeEssentials Cat Food,Pet Supplies,2.84,piece
+GreenChoice Dish Soap,Cleaning,3.2,liter
+BrandB Detergent,Cleaning,3.13,liter
+GreenChoice Banana,Fruits,1.46,piece
+BrandC Tea,Beverages,1.47,liter
+GreenChoice Potato,Vegetables,0.14,piece
+GoodFarm T-shirt,Clothing,3.73,piece
+GreenChoice Dish Soap,Cleaning,14.92,liter
+BrandB Beans,Food,2.97,kg
+NaturePlus Pillow,Household,20.38,piece
+EcoLife Chair,Household,46.86,piece
+DailyCare Jeans,Clothing,2.58,piece
+NaturePlus Bicycle,Transport,1.84,liter
+BrandC Cat Food,Pet Supplies,8.41,kg
+EcoLife Table,Household,36.64,piece
+GoodFarm Lamb,Meat,26.91,kg
+GreenChoice Chair,Household,4.13,piece
+DailyCare Phone,Electronics,137.13,piece
+BrandC Beef,Meat,14.52,kg
+EcoLife Bread,Bakery,3.31,kg
+BrandA Bagel,Bakery,0.56,kg
+BrandA Bus Ticket,Transport,3.19,liter
+DailyCare TV,Electronics,178.66,piece
+GreenChoice Detergent,Cleaning,14.0,piece
+EcoLife Petrol,Transport,1.97,km
+GreenChoice Shirt,Clothing,5.07,piece
+DailyCare Pet Toy,Pet Supplies,6.33,piece
+DailyCare Soap,Personal Care,4.6,piece
+NaturePlus Beef,Meat,25.94,kg
+EcoLife Detergent,Cleaning,8.09,kg
+NaturePlus Bagel,Bakery,1.99,kg
+BrandC Marker,Stationery,2.27,piece
+HomeEssentials Shirt,Clothing,17.89,piece
+BrandA Water,Beverages,2.9,liter
+GreenChoice Mattress,Household,15.54,piece
+BrandB Lamb,Meat,26.78,kg
+BrandA Mango,Fruits,0.34,piece
+GoodFarm Phone,Electronics,127.98,piece
+BrandC Glass Cleaner,Cleaning,9.88,piece
+BrandC Coke,Beverages,0.57,bottle
+BrandA TV,Electronics,29.29,piece
+NaturePlus Rice,Food,3.59,piece
+HomeEssentials Petrol,Transport,4.33,liter
+EcoLife Oats,Food,3.85,kg
+GoodFarm Rice,Food,2.01,pack
+GreenChoice Paper Pack,Stationery,4.33,piece
+HomeEssentials Mattress,Household,17.1,piece
+BrandB Pillow,Household,2.68,piece
+GreenChoice Dog Food,Pet Supplies,4.37,piece
+GreenChoice Apple,Fruits,1.94,kg
+DailyCare Turkey,Meat,17.24,kg
+GoodFarm Petrol,Transport,0.66,km
+DailyCare Phone,Electronics,161.37,piece
+BrandB Nuts,Food,0.77,kg
+GreenChoice Potato,Vegetables,1.67,kg
+NaturePlus Glass Cleaner,Cleaning,12.2,liter
+GoodFarm Yogurt,Dairy,2.9,kg
+NaturePlus Cheese,Dairy,2.71,kg
+DailyCare Pet Shampoo,Pet Supplies,9.78,piece
+BrandA Phone,Electronics,21.99,piece
+GoodFarm Stapler,Stationery,4.74,piece
+GoodFarm Litter,Pet Supplies,2.13,kg
+BrandA Lentils,Food,2.49,piece
+BrandC Deodorant,Personal Care,4.58,piece
+DailyCare Water,Beverages,2.09,bottle
+BrandA Potato,Vegetables,1.18,kg
+EcoLife Detergent,Cleaning,7.39,kg
+BrandA Mattress,Household,12.8,piece
+GreenChoice Tea,Beverages,0.96,liter
+BrandA Sweater,Clothing,2.67,piece
+HomeEssentials Cheese,Dairy,8.8,liter
+GreenChoice Cheese,Dairy,0.7,kg
+DailyCare Litter,Pet Supplies,6.6,piece
+EcoLife Tea,Beverages,1.49,liter
+EcoLife Coffee,Beverages,1.06,bottle
+NaturePlus Dog Food,Pet Supplies,0.9,piece
+NaturePlus Cat Food,Pet Supplies,9.79,kg
+BrandB Notebook,Stationery,3.83,piece
+EcoLife Bread,Bakery,1.48,piece
+BrandA Toothpaste,Personal Care,0.44,piece
+BrandA Lotion,Personal Care,1.44,piece
+NaturePlus Rice,Food,4.41,piece
+BrandB Juice,Beverages,0.59,bottle
+BrandA Table,Household,47.04,piece
+HomeEssentials Coke,Beverages,2.91,bottle
+BrandB Onion,Vegetables,0.05,piece
+GreenChoice Pet Shampoo,Pet Supplies,4.19,kg
+NaturePlus Banana,Fruits,1.43,kg
+GreenChoice Pasta,Food,3.45,piece
+DailyCare Jacket,Clothing,18.53,piece
+GreenChoice Tablet,Electronics,15.47,piece
+NaturePlus Deodorant,Personal Care,4.96,piece
+BrandA Jacket,Clothing,12.82,piece
+BrandB Rice,Food,3.44,kg
+HomeEssentials Pet Shampoo,Pet Supplies,1.97,piece
+BrandA Table,Household,42.48,piece
+EcoLife Apple,Fruits,1.96,kg
+GoodFarm Deodorant,Personal Care,4.32,piece
+HomeEssentials Jeans,Clothing,18.55,piece
+DailyCare Jeans,Clothing,6.93,piece
+GoodFarm Lamp,Household,33.06,piece
+GreenChoice Mattress,Household,8.69,piece
+BrandB Lamp,Household,5.38,piece
+HomeEssentials T-shirt,Clothing,13.17,piece
+BrandB Pillow,Household,29.55,piece
+BrandC Lamb,Meat,9.04,kg
+BrandB Marker,Stationery,1.11,piece
+BrandB Mango,Fruits,0.67,kg
+HomeEssentials Butter,Dairy,7.25,kg
+GoodFarm Turkey,Meat,10.87,kg
+EcoLife Jacket,Clothing,4.06,piece
+EcoLife Laptop,Electronics,77.87,piece
+GreenChoice Apple,Fruits,0.61,piece
+BrandA Pork,Meat,14.01,kg
+HomeEssentials Banana,Fruits,0.8,piece
+EcoLife Coffee,Beverages,1.38,liter
+DailyCare Pen,Stationery,3.93,piece
+DailyCare Dish Soap,Cleaning,2.33,kg
+GoodFarm Lamb,Meat,25.55,kg
+BrandB Diesel,Transport,4.74,liter
+NaturePlus Cake,Bakery,0.87,piece
+BrandC Paper Pack,Stationery,4.78,piece
+GreenChoice Jeans,Clothing,3.15,piece
+DailyCare Tea,Beverages,1.8,liter
+BrandB TV,Electronics,10.5,piece
+NaturePlus T-shirt,Clothing,18.01,piece
+BrandA Water,Beverages,1.21,liter
+DailyCare Water,Beverages,2.63,bottle
+BrandC Coke,Beverages,1.37,bottle
+GoodFarm Turkey,Meat,29.56,kg
+DailyCare Lotion,Personal Care,2.07,piece
+GoodFarm Potato,Vegetables,0.78,kg
+BrandC T-shirt,Clothing,2.14,piece
+BrandC Milk,Dairy,7.16,kg
+BrandA Floor Cleaner,Cleaning,11.9,piece
+BrandB Nuts,Food,1.9,pack
+NaturePlus Bus Ticket,Transport,4.03,liter
+GreenChoice Milk,Dairy,1.25,liter
+BrandA Beef,Meat,13.33,kg
+BrandA Turkey,Meat,29.81,kg
+GreenChoice Pet Shampoo,Pet Supplies,2.95,kg
+DailyCare Cat Food,Pet Supplies,3.73,piece
+BrandA T-shirt,Clothing,11.17,piece
+GoodFarm Notebook,Stationery,1.84,piece
+HomeEssentials Spinach,Vegetables,1.12,kg
+HomeEssentials Tomato,Vegetables,0.1,piece
+BrandA Oats,Food,0.46,piece
+EcoLife Pillow,Household,6.74,piece
+NaturePlus Apple,Fruits,0.11,kg
+GreenChoice Laptop,Electronics,152.96,piece
+BrandB Litter,Pet Supplies,1.5,kg
+BrandA Shirt,Clothing,18.13,piece
+BrandB Onion,Vegetables,0.76,piece
+BrandA Coke,Beverages,2.23,bottle
+BrandB Water,Beverages,1.21,liter
+GreenChoice Rice,Food,3.72,piece
+BrandA Carrot,Vegetables,0.61,piece
+NaturePlus Potato,Vegetables,1.77,piece
+NaturePlus Petrol,Transport,3.56,km
+NaturePlus Pen,Stationery,1.52,piece
+HomeEssentials Beans,Food,4.23,kg
+BrandC Milk,Dairy,7.79,liter
+GreenChoice Mango,Fruits,1.39,piece
+EcoLife Train Ticket,Transport,3.29,km
+DailyCare Butter,Dairy,2.64,kg
+NaturePlus Oats,Food,3.91,pack
+NaturePlus Detergent,Cleaning,3.4,liter
+GoodFarm TV,Electronics,35.14,piece
+EcoLife Train Ticket,Transport,1.52,liter
+GoodFarm Dish Soap,Cleaning,5.82,piece
+NaturePlus Pillow,Household,26.99,piece
+GreenChoice Onion,Vegetables,1.86,piece
+GreenChoice Water,Beverages,1.92,liter
+BrandC Table,Household,36.74,piece
+GoodFarm T-shirt,Clothing,6.86,piece
+BrandB Phone,Electronics,94.48,piece
+EcoLife Train Ticket,Transport,4.75,liter
+HomeEssentials Soap,Personal Care,4.77,piece
+DailyCare Lamp,Household,34.63,piece
+BrandC Notebook,Stationery,4.64,piece
+BrandC Rice,Food,3.49,kg
+BrandA Soap,Personal Care,3.64,piece
+EcoLife Bus Ticket,Transport,2.14,km
+GreenChoice Cake,Bakery,1.47,kg
+EcoLife Mattress,Household,9.17,piece
+NaturePlus Onion,Vegetables,1.79,kg
+NaturePlus TV,Electronics,189.04,piece
+BrandB Laptop,Electronics,62.23,piece
+GreenChoice Deodorant,Personal Care,0.24,piece
+EcoLife Milk,Dairy,2.19,kg
+GreenChoice Floor Cleaner,Cleaning,12.55,piece
+BrandA Bagel,Bakery,1.63,piece
+GreenChoice Dish Soap,Cleaning,14.61,piece
+BrandB Onion,Vegetables,1.36,piece
+BrandC Pet Toy,Pet Supplies,4.58,piece
+BrandB Juice,Beverages,0.7,bottle
+NaturePlus Muffin,Bakery,4.84,kg
+EcoLife Mango,Fruits,1.1,kg
+BrandC Deodorant,Personal Care,3.39,piece
+NaturePlus Laptop,Electronics,27.62,piece
+HomeEssentials Bread,Bakery,0.96,kg
+GreenChoice Stapler,Stationery,4.84,piece
+EcoLife T-shirt,Clothing,8.22,piece
+HomeEssentials Tomato,Vegetables,1.07,piece
+BrandB Lamp,Household,14.51,piece
+DailyCare Diesel,Transport,2.52,km
+HomeEssentials Beef,Meat,11.38,kg
+GoodFarm Lentils,Food,4.62,pack
+BrandB Oats,Food,0.81,kg
+GreenChoice Dog Food,Pet Supplies,7.3,piece
+GreenChoice Pasta,Food,3.83,kg
+NaturePlus Butter,Dairy,2.95,kg
+BrandB Lamp,Household,19.97,piece
+NaturePlus Petrol,Transport,1.94,liter
+BrandC Mango,Fruits,1.75,kg
+GreenChoice Deodorant,Personal Care,4.47,piece
+GoodFarm T-shirt,Clothing,2.1,piece
+BrandB Bus Ticket,Transport,2.46,km
+BrandA Shirt,Clothing,4.2,piece
+EcoLife Lentils,Food,3.17,kg
+GoodFarm Tablet,Electronics,157.31,piece
+BrandC Bus Ticket,Transport,3.22,liter
+HomeEssentials Onion,Vegetables,0.88,piece
+BrandB Deodorant,Personal Care,4.94,piece
+GreenChoice Apple,Fruits,0.9,piece
+EcoLife Soap,Personal Care,0.44,piece
+BrandC Pork,Meat,9.29,kg
+EcoLife Orange,Fruits,0.14,kg
+GreenChoice Croissant,Bakery,1.09,piece
+BrandA Mango,Fruits,1.18,piece
+BrandB Bread,Bakery,1.67,piece
+NaturePlus Pillow,Household,28.48,piece
+EcoLife Mango,Fruits,1.93,kg
+DailyCare Lotion,Personal Care,4.39,piece
+NaturePlus Soap,Personal Care,1.65,piece
+DailyCare Bicycle,Transport,2.19,liter
+BrandA Beans,Food,4.29,pack
+BrandA Lamp,Household,49.83,piece
+NaturePlus Cheese,Dairy,4.24,kg
+EcoLife Water,Beverages,2.37,bottle
+GoodFarm Butter,Dairy,1.35,liter
+NaturePlus Beans,Food,4.59,piece
+GreenChoice Soap,Personal Care,0.93,piece
+BrandB Jeans,Clothing,9.06,piece
+HomeEssentials Tea,Beverages,1.53,liter
+EcoLife Tablet,Electronics,130.74,piece
+NaturePlus Pork,Meat,14.25,kg
+BrandA Deodorant,Personal Care,4.39,piece
+GreenChoice Cream,Dairy,5.52,kg
+BrandA Grapes,Fruits,1.65,piece
+EcoLife Soap,Personal Care,3.78,piece
+EcoLife Grapes,Fruits,0.96,piece
+GoodFarm Muffin,Bakery,0.6,piece
+BrandC Spinach,Vegetables,1.96,kg
+GoodFarm Oats,Food,1.55,piece
+EcoLife Litter,Pet Supplies,9.3,kg
+BrandA Tea,Beverages,0.93,liter
+DailyCare Banana,Fruits,1.6,piece
+HomeEssentials Headphones,Electronics,182.28,piece
+NaturePlus Chicken,Meat,8.72,kg
+GreenChoice Sweater,Clothing,16.79,piece
+EcoLife Cat Food,Pet Supplies,8.74,piece
+NaturePlus Tomato,Vegetables,0.84,kg
+GreenChoice Chicken,Meat,28.38,kg
+EcoLife T-shirt,Clothing,3.36,piece
+GreenChoice Coke,Beverages,2.13,liter
+HomeEssentials Turkey,Meat,23.58,kg
+BrandC Dish Soap,Cleaning,13.76,kg
+BrandA Laptop,Electronics,51.33,piece
+NaturePlus Spinach,Vegetables,0.66,kg
+GoodFarm Dish Soap,Cleaning,0.99,liter
+GoodFarm Lamb,Meat,29.93,kg
+BrandA Apple,Fruits,1.71,piece
+HomeEssentials Pasta,Food,4.14,kg
+GreenChoice Notebook,Stationery,2.37,piece
+HomeEssentials Nuts,Food,3.65,pack
+EcoLife Lamb,Meat,7.3,kg
+GoodFarm Pasta,Food,0.45,piece
+GoodFarm Shirt,Clothing,16.69,piece
+HomeEssentials Shampoo,Personal Care,2.14,piece
+EcoLife Bread,Bakery,3.74,kg
+DailyCare Shirt,Clothing,13.23,piece
+EcoLife Milk,Dairy,0.96,liter
+GreenChoice Pen,Stationery,1.9,piece
+EcoLife Detergent,Cleaning,6.32,liter
+DailyCare Lentils,Food,4.21,piece
+BrandC Stapler,Stationery,1.84,piece
+BrandB Shampoo,Personal Care,3.46,piece
+BrandA Paper Pack,Stationery,3.89,piece
+DailyCare Spinach,Vegetables,1.27,kg
+EcoLife Phone,Electronics,116.77,piece
+GoodFarm Cake,Bakery,3.31,piece
+BrandA Train Ticket,Transport,0.55,km
+HomeEssentials Beans,Food,4.06,kg
+DailyCare Pen,Stationery,4.27,piece
+GoodFarm Dog Food,Pet Supplies,2.16,piece
+DailyCare Croissant,Bakery,1.38,kg
+DailyCare Headphones,Electronics,168.92,piece
+BrandB Cheese,Dairy,4.19,liter
+HomeEssentials Table,Household,32.96,piece
+EcoLife Soap,Personal Care,3.22,piece
+BrandB Jacket,Clothing,19.54,piece
+HomeEssentials Coffee,Beverages,1.08,bottle
+BrandC Rice,Food,4.72,kg
+BrandB Marker,Stationery,2.38,piece
+NaturePlus Mango,Fruits,1.8,piece
+NaturePlus Dish Soap,Cleaning,3.29,liter
+DailyCare Lamb,Meat,27.71,kg
+BrandA Muffin,Bakery,3.59,piece
+BrandC Toothpaste,Personal Care,4.51,piece
+HomeEssentials Lamb,Meat,26.35,kg
+BrandC Beans,Food,0.33,kg
+BrandA Apple,Fruits,1.84,kg
+BrandC Tomato,Vegetables,0.24,piece
+GoodFarm Cream,Dairy,7.48,liter
+NaturePlus Chicken,Meat,21.31,kg
+DailyCare Marker,Stationery,4.57,piece
+BrandB Paper Pack,Stationery,4.77,piece
+BrandC Turkey,Meat,24.55,kg
+EcoLife Glass Cleaner,Cleaning,9.83,liter
+BrandB Marker,Stationery,1.01,piece
+HomeEssentials Sweater,Clothing,3.11,piece
+NaturePlus Orange,Fruits,1.93,piece
+EcoLife Grapes,Fruits,0.34,kg
+DailyCare Carrot,Vegetables,1.61,kg
+BrandC Coffee,Beverages,1.13,liter
+DailyCare Shirt,Clothing,7.97,piece
+BrandA Lotion,Personal Care,0.94,piece
+BrandB Oats,Food,1.36,kg
+GreenChoice Pet Shampoo,Pet Supplies,3.18,kg
+BrandA Pillow,Household,45.32,piece
+EcoLife Yogurt,Dairy,2.11,liter
+GreenChoice Tablet,Electronics,14.31,piece
+HomeEssentials Pork,Meat,17.4,kg
+GreenChoice Petrol,Transport,0.91,km
+EcoLife Phone,Electronics,26.34,piece
+EcoLife Nuts,Food,4.62,piece
+NaturePlus Water,Beverages,0.86,liter
+BrandC Dish Soap,Cleaning,3.1,liter
+GreenChoice Chicken,Meat,13.15,kg
+HomeEssentials Beef,Meat,12.69,kg
+BrandA Cake,Bakery,2.8,piece
+HomeEssentials Banana,Fruits,1.52,piece
+NaturePlus Beans,Food,0.95,pack
+GoodFarm Notebook,Stationery,2.36,piece
+DailyCare Butter,Dairy,0.85,liter
+GreenChoice TV,Electronics,41.67,piece
+GoodFarm Pen,Stationery,1.37,piece
+NaturePlus Cake,Bakery,3.98,kg
+NaturePlus Soap,Personal Care,1.65,piece
+BrandB Laptop,Electronics,158.55,piece
+DailyCare Laptop,Electronics,21.42,piece
+GoodFarm Oats,Food,2.29,piece
+EcoLife Grapes,Fruits,0.2,piece
+NaturePlus Cake,Bakery,3.06,piece
+HomeEssentials Pet Shampoo,Pet Supplies,1.44,piece
+GoodFarm Litter,Pet Supplies,4.08,piece
+BrandB Marker,Stationery,1.45,piece
+DailyCare Oats,Food,1.25,kg
+EcoLife Pillow,Household,2.04,piece
+DailyCare Butter,Dairy,7.54,kg
+BrandB Butter,Dairy,1.5,liter
+BrandA Apple,Fruits,1.55,kg
+GreenChoice Marker,Stationery,0.79,piece
+BrandA Beef,Meat,29.64,kg
+HomeEssentials Pillow,Household,31.93,piece
+EcoLife Lotion,Personal Care,2.41,piece
+HomeEssentials Coffee,Beverages,2.8,liter
+BrandC Apple,Fruits,0.12,piece
+BrandC Pet Shampoo,Pet Supplies,7.02,kg
+BrandC Lamb,Meat,9.54,kg
+BrandB Juice,Beverages,1.18,liter
+DailyCare Tomato,Vegetables,1.27,kg
+BrandC Floor Cleaner,Cleaning,2.85,piece
+GreenChoice Nuts,Food,5.0,kg
+BrandC Coke,Beverages,2.6,bottle
+BrandB Detergent,Cleaning,9.4,piece
+EcoLife Shampoo,Personal Care,1.24,piece
+GoodFarm Cheese,Dairy,9.25,kg
+BrandC Spinach,Vegetables,0.77,kg
+DailyCare Milk,Dairy,5.7,liter
+EcoLife Floor Cleaner,Cleaning,4.31,kg
+DailyCare Milk,Dairy,9.7,kg
+EcoLife Beans,Food,2.63,piece
+NaturePlus Detergent,Cleaning,10.51,piece
+EcoLife Pet Toy,Pet Supplies,9.46,piece
+NaturePlus Cheese,Dairy,4.78,liter
+GreenChoice Coke,Beverages,2.71,bottle
+BrandC Phone,Electronics,64.69,piece
+BrandB Bus Ticket,Transport,0.34,km
+DailyCare Beans,Food,2.04,kg
+DailyCare Headphones,Electronics,143.35,piece
+BrandB Mattress,Household,9.05,piece
+BrandB Sweater,Clothing,3.73,piece
+BrandC Tablet,Electronics,68.5,piece
+EcoLife Sweater,Clothing,3.44,piece
+BrandC Chicken,Meat,18.79,kg
+HomeEssentials Notebook,Stationery,4.02,piece
+EcoLife Lamp,Household,48.88,piece
+GoodFarm Muffin,Bakery,4.04,kg
+BrandA Cat Food,Pet Supplies,2.84,piece
+BrandC Cake,Bakery,3.04,piece
+BrandB Petrol,Transport,0.17,liter
+DailyCare Pillow,Household,1.33,piece
+EcoLife Croissant,Bakery,4.55,kg
+BrandB Diesel,Transport,3.57,km
+GoodFarm Glass Cleaner,Cleaning,2.5,kg
+BrandB Headphones,Electronics,159.89,piece
+EcoLife Mango,Fruits,0.97,kg
+GreenChoice Laptop,Electronics,148.2,piece
+GreenChoice Oats,Food,1.47,pack
+EcoLife Sweater,Clothing,9.36,piece
+DailyCare Jacket,Clothing,3.13,piece
+NaturePlus Spinach,Vegetables,0.88,kg
+DailyCare Headphones,Electronics,185.49,piece
+GreenChoice Lamp,Household,12.5,piece
+NaturePlus Orange,Fruits,1.1,kg
+BrandB Grapes,Fruits,1.54,piece
+HomeEssentials Yogurt,Dairy,1.64,kg
+EcoLife Paper Pack,Stationery,2.86,piece
+BrandB Mattress,Household,3.89,piece
+GreenChoice Sweater,Clothing,2.57,piece
+GoodFarm Diesel,Transport,3.61,liter
+BrandC Bread,Bakery,0.33,piece
+BrandB Butter,Dairy,3.51,kg
+NaturePlus Coffee,Beverages,2.2,liter
+NaturePlus Bagel,Bakery,1.08,kg
+NaturePlus Carrot,Vegetables,1.14,piece
+EcoLife Bus Ticket,Transport,0.51,liter
+BrandA Dog Food,Pet Supplies,1.84,piece
+BrandC Oats,Food,3.32,pack
+HomeEssentials Notebook,Stationery,4.4,piece
+GreenChoice Apple,Fruits,1.46,piece
+BrandC Soap,Personal Care,4.28,piece
+GoodFarm Rice,Food,2.39,piece
+DailyCare Muffin,Bakery,1.82,kg
+GreenChoice Lotion,Personal Care,2.93,piece
+DailyCare Table,Household,4.32,piece
+BrandB Chair,Household,39.61,piece
+BrandC T-shirt,Clothing,18.86,piece
+BrandC Croissant,Bakery,4.52,kg
+BrandA Lotion,Personal Care,2.09,piece
+DailyCare Potato,Vegetables,0.14,piece
+GoodFarm Cake,Bakery,1.67,kg
+BrandA Banana,Fruits,0.91,piece
+GreenChoice Cream,Dairy,7.03,kg
+DailyCare Jeans,Clothing,12.97,piece
+GoodFarm Table,Household,5.19,piece
+GreenChoice Nuts,Food,2.64,piece
+BrandA Juice,Beverages,0.85,liter
+NaturePlus Coffee,Beverages,2.32,liter
+BrandA Croissant,Bakery,4.73,kg
+DailyCare Pillow,Household,12.52,piece
+GoodFarm Cream,Dairy,4.93,kg
+DailyCare Shampoo,Personal Care,1.54,piece
+BrandB Pork,Meat,14.47,kg
+DailyCare Pasta,Food,4.69,piece
+BrandC Potato,Vegetables,1.14,piece
+GreenChoice Laptop,Electronics,11.94,piece
+BrandB Petrol,Transport,3.14,liter
+NaturePlus Coffee,Beverages,2.16,liter
+BrandA Grapes,Fruits,1.0,piece
+HomeEssentials Tablet,Electronics,179.66,piece
+BrandB Nuts,Food,2.6,piece
+NaturePlus Cream,Dairy,5.3,liter
+BrandA Detergent,Cleaning,14.44,piece
+HomeEssentials Potato,Vegetables,1.18,kg
+GoodFarm Turkey,Meat,13.35,kg
+GreenChoice Bleach,Cleaning,6.02,liter
+HomeEssentials Pasta,Food,0.31,piece
+GreenChoice Carrot,Vegetables,1.82,kg
+GoodFarm Paper Pack,Stationery,2.04,piece
+GreenChoice Oats,Food,1.21,pack
+GreenChoice Coke,Beverages,2.95,liter
+GoodFarm Yogurt,Dairy,2.99,kg
+EcoLife Mango,Fruits,1.49,piece
+NaturePlus Lamb,Meat,23.31,kg
+EcoLife Floor Cleaner,Cleaning,7.79,liter
+BrandA Pork,Meat,29.29,kg
+GreenChoice Potato,Vegetables,0.26,kg
+GoodFarm Soap,Personal Care,3.09,piece
+BrandA Pet Toy,Pet Supplies,1.41,piece
+BrandA Cat Food,Pet Supplies,1.74,piece
+GoodFarm Pillow,Household,2.5,piece
+BrandA Rice,Food,2.66,kg
+BrandA Nuts,Food,1.05,piece
+GoodFarm Beans,Food,2.51,pack
+NaturePlus Cream,Dairy,8.52,kg
+GreenChoice Bleach,Cleaning,13.29,piece
+DailyCare Coke,Beverages,1.36,liter
+BrandB Floor Cleaner,Cleaning,1.55,piece
+EcoLife Toothpaste,Personal Care,4.86,piece
+GreenChoice Onion,Vegetables,0.22,kg
+BrandA Pen,Stationery,3.44,piece
+HomeEssentials Mattress,Household,48.92,piece
+GoodFarm Milk,Dairy,9.49,liter
+NaturePlus Soap,Personal Care,1.69,piece
+HomeEssentials Cat Food,Pet Supplies,9.96,kg
+NaturePlus Cheese,Dairy,0.96,liter
+NaturePlus Beans,Food,1.29,pack
+DailyCare Detergent,Cleaning,7.82,piece
+NaturePlus Mattress,Household,40.13,piece
+HomeEssentials Pasta,Food,4.47,kg
+DailyCare Apple,Fruits,1.46,piece
+NaturePlus Pasta,Food,0.18,kg
+GreenChoice Cheese,Dairy,4.46,kg
+BrandA Bleach,Cleaning,2.49,kg
+DailyCare Paper Pack,Stationery,2.87,piece
+NaturePlus Yogurt,Dairy,4.32,liter
+EcoLife Stapler,Stationery,3.99,piece
+NaturePlus Coffee,Beverages,1.8,bottle
+HomeEssentials Orange,Fruits,1.57,piece
+BrandA Bread,Bakery,3.67,piece
+GoodFarm Jeans,Clothing,11.23,piece
+HomeEssentials Marker,Stationery,1.31,piece
+NaturePlus Onion,Vegetables,1.59,piece
+BrandC Deodorant,Personal Care,1.92,piece
+DailyCare Cat Food,Pet Supplies,9.34,piece
+HomeEssentials Mango,Fruits,1.88,kg
+NaturePlus Sweater,Clothing,8.1,piece
+BrandC Water,Beverages,2.47,bottle
+DailyCare Floor Cleaner,Cleaning,3.98,kg
+EcoLife Floor Cleaner,Cleaning,7.69,piece
+DailyCare Shampoo,Personal Care,4.48,piece
+EcoLife Table,Household,29.11,piece
+GoodFarm Phone,Electronics,82.94,piece
+GoodFarm Lamb,Meat,15.47,kg
+HomeEssentials Beef,Meat,13.72,kg
+GreenChoice Dish Soap,Cleaning,7.3,liter
+EcoLife Spinach,Vegetables,1.73,kg
+BrandB Oats,Food,3.49,piece
+DailyCare TV,Electronics,181.44,piece
+BrandA Milk,Dairy,4.11,kg
+NaturePlus Detergent,Cleaning,13.86,kg
+BrandA Sweater,Clothing,17.83,piece
+GreenChoice Dish Soap,Cleaning,12.77,kg
+NaturePlus Deodorant,Personal Care,1.21,piece
+EcoLife Stapler,Stationery,1.27,piece
+NaturePlus Lamb,Meat,26.4,kg
+NaturePlus Turkey,Meat,20.84,kg
+GoodFarm Yogurt,Dairy,9.43,liter
+BrandB Petrol,Transport,1.36,km
+GreenChoice Juice,Beverages,1.51,bottle
+GreenChoice Laptop,Electronics,94.53,piece
+BrandB Floor Cleaner,Cleaning,9.79,liter
+BrandA Cheese,Dairy,3.44,liter
+DailyCare Tea,Beverages,2.17,bottle
+BrandB Bread,Bakery,1.99,piece
+BrandB Jeans,Clothing,3.46,piece
+HomeEssentials TV,Electronics,105.23,piece
+DailyCare Yogurt,Dairy,8.93,kg
+GoodFarm Yogurt,Dairy,8.46,liter
+BrandA Cat Food,Pet Supplies,1.15,kg
+BrandC Cake,Bakery,4.55,kg
+NaturePlus Water,Beverages,2.5,bottle
+DailyCare Notebook,Stationery,1.52,piece
+BrandB Bicycle,Transport,0.62,km
+GreenChoice Mattress,Household,19.19,piece
+GreenChoice Soap,Personal Care,0.85,piece
+HomeEssentials Orange,Fruits,0.12,piece
+BrandC Juice,Beverages,2.89,bottle
+NaturePlus Shirt,Clothing,4.46,piece
+BrandB Jacket,Clothing,12.62,piece
+GreenChoice Water,Beverages,2.93,bottle
+EcoLife TV,Electronics,184.67,piece
+BrandC Mango,Fruits,0.11,kg
+HomeEssentials T-shirt,Clothing,10.56,piece
+GoodFarm Bread,Bakery,1.64,kg
+GreenChoice Diesel,Transport,2.45,liter
+BrandC Bleach,Cleaning,3.58,liter
+BrandA Juice,Beverages,1.58,bottle
+DailyCare Train Ticket,Transport,2.5,km
+EcoLife Pen,Stationery,1.04,piece
+BrandC Stapler,Stationery,1.01,piece
+HomeEssentials Jacket,Clothing,2.33,piece
+BrandC Carrot,Vegetables,1.93,kg
+DailyCare Mattress,Household,42.02,piece
+DailyCare T-shirt,Clothing,19.59,piece
+BrandA Pillow,Household,41.55,piece
+GreenChoice Dog Food,Pet Supplies,1.5,kg
+BrandB Bagel,Bakery,1.41,kg
+NaturePlus Orange,Fruits,0.26,kg
+DailyCare Train Ticket,Transport,0.84,km
+GreenChoice Apple,Fruits,1.82,piece
+EcoLife Nuts,Food,0.15,kg
+BrandC Pillow,Household,45.88,piece
+EcoLife Bread,Bakery,3.86,piece
+BrandB Deodorant,Personal Care,3.36,piece
+BrandB Jeans,Clothing,19.9,piece
+BrandA Diesel,Transport,3.96,liter
+BrandC Tea,Beverages,1.76,bottle
+GoodFarm Croissant,Bakery,2.06,piece
+BrandB Spinach,Vegetables,0.58,kg
+NaturePlus Headphones,Electronics,176.08,piece
+BrandA Pen,Stationery,2.23,piece
+EcoLife Mango,Fruits,1.16,piece
+HomeEssentials Diesel,Transport,1.11,km
+DailyCare Tomato,Vegetables,1.12,piece
+BrandC Potato,Vegetables,0.59,piece
+BrandA Carrot,Vegetables,1.36,kg
+GoodFarm Turkey,Meat,15.45,kg
+BrandA Notebook,Stationery,2.98,piece
+DailyCare Stapler,Stationery,1.04,piece
+BrandA Pasta,Food,0.25,pack
+BrandA Train Ticket,Transport,0.33,km
+NaturePlus Mango,Fruits,1.41,kg
+BrandC Shampoo,Personal Care,0.22,piece
+BrandC Orange,Fruits,0.83,piece
+GoodFarm Banana,Fruits,0.89,kg
+EcoLife Deodorant,Personal Care,3.32,piece
+BrandA Bread,Bakery,0.86,piece
+BrandB Croissant,Bakery,4.08,kg
+GoodFarm Bagel,Bakery,4.42,piece
+BrandB Tea,Beverages,1.43,bottle
+BrandC Croissant,Bakery,4.7,kg
+DailyCare Bagel,Bakery,0.63,kg
+GoodFarm Beef,Meat,22.69,kg
+NaturePlus Marker,Stationery,3.0,piece
+BrandC Jacket,Clothing,18.39,piece
+NaturePlus Pen,Stationery,3.97,piece
+BrandB Train Ticket,Transport,3.45,liter
+GreenChoice Spinach,Vegetables,1.54,kg
+GreenChoice Deodorant,Personal Care,3.65,piece
+HomeEssentials Carrot,Vegetables,0.61,kg
+GreenChoice Pet Toy,Pet Supplies,9.33,kg
+BrandC Orange,Fruits,1.99,kg
+HomeEssentials Cat Food,Pet Supplies,6.67,piece
+NaturePlus Yogurt,Dairy,3.2,liter
+BrandC Grapes,Fruits,1.85,kg
+GoodFarm Orange,Fruits,1.22,kg
+BrandC Coke,Beverages,0.52,liter
+EcoLife Pasta,Food,0.66,piece
+GoodFarm Lamb,Meat,5.43,kg
+BrandC Beans,Food,4.54,pack
+EcoLife Pen,Stationery,3.25,piece
+BrandA Stapler,Stationery,1.75,piece
+GoodFarm Litter,Pet Supplies,5.64,piece
+DailyCare Coke,Beverages,1.45,liter
+GreenChoice Apple,Fruits,1.62,kg
+NaturePlus Floor Cleaner,Cleaning,11.36,piece
+DailyCare Beans,Food,2.92,pack
+HomeEssentials Tea,Beverages,0.59,bottle
+BrandC Soap,Personal Care,2.21,piece
+EcoLife Toothpaste,Personal Care,3.12,piece
+BrandB Coke,Beverages,2.07,liter
+BrandB Bus Ticket,Transport,1.41,km
+GoodFarm Nuts,Food,4.34,pack
+GreenChoice Stapler,Stationery,0.26,piece
+NaturePlus Tablet,Electronics,165.08,piece
+BrandC Beans,Food,2.08,kg
+BrandB Nuts,Food,1.02,piece
+HomeEssentials Butter,Dairy,1.47,liter
+BrandB Juice,Beverages,0.44,liter
+GreenChoice Shampoo,Personal Care,4.68,piece
+BrandC Bagel,Bakery,0.35,piece
+BrandC Cake,Bakery,4.69,kg
+DailyCare Diesel,Transport,1.5,liter
+GreenChoice Beef,Meat,20.26,kg
+BrandA Onion,Vegetables,1.72,piece
+BrandC Oats,Food,4.3,pack
+GoodFarm Toothpaste,Personal Care,3.75,piece
+BrandA Tomato,Vegetables,0.07,kg
+BrandC Grapes,Fruits,0.46,kg
+EcoLife Floor Cleaner,Cleaning,6.88,kg
+GreenChoice Pillow,Household,7.54,piece
+GreenChoice Beans,Food,0.93,pack
+BrandA Bicycle,Transport,0.14,liter
+EcoLife Apple,Fruits,0.11,piece
+GoodFarm Banana,Fruits,1.89,kg
+DailyCare Croissant,Bakery,1.53,kg
+HomeEssentials Toothpaste,Personal Care,0.96,piece
+BrandB Lotion,Personal Care,1.46,piece
+NaturePlus Beans,Food,4.42,pack
+HomeEssentials Paper Pack,Stationery,0.37,piece
+NaturePlus Paper Pack,Stationery,4.27,piece
+GoodFarm Beans,Food,0.51,pack
+EcoLife Lamb,Meat,19.14,kg
+HomeEssentials Litter,Pet Supplies,8.91,piece
+GoodFarm Lamb,Meat,17.97,kg
+BrandC Litter,Pet Supplies,6.34,kg
+BrandA Floor Cleaner,Cleaning,13.37,kg
+EcoLife Nuts,Food,4.26,pack
+HomeEssentials Carrot,Vegetables,1.41,piece
+DailyCare Pet Toy,Pet Supplies,3.62,kg
+HomeEssentials Bagel,Bakery,1.57,piece
+GoodFarm Croissant,Bakery,4.22,piece
+HomeEssentials Notebook,Stationery,0.66,piece
+HomeEssentials Diesel,Transport,2.72,liter
+GoodFarm Dog Food,Pet Supplies,8.96,piece
+GoodFarm Chicken,Meat,9.66,kg
+BrandA Nuts,Food,3.55,pack
+BrandC Shirt,Clothing,11.59,piece
+GreenChoice Notebook,Stationery,2.75,piece
+NaturePlus Pet Toy,Pet Supplies,5.62,piece
+BrandA Glass Cleaner,Cleaning,1.79,liter
+BrandA Beans,Food,4.29,piece
+GreenChoice Litter,Pet Supplies,7.96,kg
+GoodFarm Marker,Stationery,0.76,piece
+NaturePlus Marker,Stationery,3.12,piece
+BrandA Coke,Beverages,1.91,liter
+BrandA Notebook,Stationery,1.54,piece
+GoodFarm Diesel,Transport,4.96,liter
+EcoLife Pork,Meat,8.58,kg
+NaturePlus Marker,Stationery,2.84,piece
+GoodFarm Pillow,Household,23.04,piece
+NaturePlus Potato,Vegetables,1.02,kg
+BrandA Apple,Fruits,0.53,kg
+BrandB Table,Household,4.54,piece
+BrandA Sweater,Clothing,18.36,piece
+HomeEssentials Table,Household,17.34,piece
+DailyCare Mattress,Household,39.51,piece
+EcoLife Bagel,Bakery,2.32,piece
+EcoLife Croissant,Bakery,3.46,kg
+EcoLife Jacket,Clothing,12.19,piece
+BrandC Bagel,Bakery,2.8,piece
+GreenChoice Floor Cleaner,Cleaning,13.3,piece
+BrandC Cake,Bakery,4.22,kg
+BrandC Banana,Fruits,0.33,kg
+NaturePlus Tablet,Electronics,79.55,piece
+BrandB Onion,Vegetables,0.55,piece
+BrandC Table,Household,19.39,piece
+BrandC Dish Soap,Cleaning,5.63,piece
+BrandA Bus Ticket,Transport,3.82,liter
+EcoLife Cream,Dairy,3.45,kg
+BrandB Orange,Fruits,1.86,kg
+BrandA Petrol,Transport,2.6,liter
+BrandB Juice,Beverages,1.64,bottle
+NaturePlus Stapler,Stationery,3.4,piece
+DailyCare Dog Food,Pet Supplies,8.71,piece
+NaturePlus Lamp,Household,47.53,piece
+BrandA Floor Cleaner,Cleaning,5.18,kg
+NaturePlus Milk,Dairy,6.35,liter
+NaturePlus Stapler,Stationery,2.28,piece
+BrandC Mattress,Household,7.14,piece
+NaturePlus Cake,Bakery,3.78,kg
+EcoLife Carrot,Vegetables,1.49,kg
+DailyCare Phone,Electronics,17.12,piece
+BrandB Litter,Pet Supplies,6.29,kg
+BrandC Soap,Personal Care,2.06,piece
+EcoLife Bagel,Bakery,4.18,piece
+BrandB Muffin,Bakery,2.61,kg
+BrandC Water,Beverages,1.83,liter
+GoodFarm Bread,Bakery,4.52,piece
+EcoLife T-shirt,Clothing,6.94,piece
+BrandC Potato,Vegetables,1.31,kg
+BrandB Bicycle,Transport,3.54,liter
+DailyCare TV,Electronics,91.36,piece
+BrandB Toothpaste,Personal Care,2.84,piece
+BrandB Bus Ticket,Transport,2.41,km
+EcoLife Beef,Meat,17.18,kg
+GreenChoice Banana,Fruits,0.62,piece
+BrandA Pet Shampoo,Pet Supplies,5.51,piece
+BrandB Floor Cleaner,Cleaning,10.62,piece
+BrandA Turkey,Meat,24.04,kg
+DailyCare Shampoo,Personal Care,4.21,piece
+DailyCare Bleach,Cleaning,13.77,liter
+GoodFarm Grapes,Fruits,0.91,kg
+BrandC Tea,Beverages,2.52,bottle
+BrandA Pillow,Household,7.04,piece
+GoodFarm Dish Soap,Cleaning,11.82,kg
+GreenChoice Pork,Meat,23.22,kg
+BrandC Mattress,Household,49.88,piece
+BrandC Detergent,Cleaning,3.08,piece
+GoodFarm Toothpaste,Personal Care,2.89,piece
+BrandC Nuts,Food,0.56,piece
+BrandB Milk,Dairy,7.92,liter
+BrandB Bagel,Bakery,0.77,kg
+GreenChoice Beans,Food,2.25,pack
+BrandB Coffee,Beverages,2.97,liter
+NaturePlus Juice,Beverages,2.77,liter
+GoodFarm Oats,Food,3.43,piece
+DailyCare Cat Food,Pet Supplies,8.34,piece
+DailyCare Bleach,Cleaning,7.7,piece
+BrandA Bicycle,Transport,1.87,liter
+DailyCare Chair,Household,9.53,piece
+NaturePlus Stapler,Stationery,0.92,piece
+NaturePlus Pork,Meat,7.83,kg
+BrandA Laptop,Electronics,38.59,piece
+BrandB Water,Beverages,0.29,liter
+BrandB Rice,Food,4.82,pack
+DailyCare Petrol,Transport,0.79,km
+EcoLife Pasta,Food,3.91,kg
+NaturePlus Detergent,Cleaning,6.73,liter
+DailyCare Coffee,Beverages,2.35,liter
+BrandA Onion,Vegetables,1.41,kg
+HomeEssentials Lotion,Personal Care,4.53,piece
+GoodFarm Petrol,Transport,0.54,km
+BrandA Mango,Fruits,1.15,kg
+NaturePlus Phone,Electronics,55.15,piece
+BrandB Chair,Household,41.67,piece
+HomeEssentials Beef,Meat,20.13,kg
+HomeEssentials Bread,Bakery,2.59,kg
+GoodFarm Rice,Food,3.18,pack
+NaturePlus Onion,Vegetables,0.18,piece
+NaturePlus Grapes,Fruits,0.55,piece
+DailyCare Croissant,Bakery,0.5,kg
+BrandA Juice,Beverages,0.43,liter
+HomeEssentials Bleach,Cleaning,1.0,piece
+HomeEssentials Bread,Bakery,3.84,kg
+BrandA Dish Soap,Cleaning,12.17,kg
+BrandA Orange,Fruits,0.85,piece
+GoodFarm Dog Food,Pet Supplies,3.13,kg
+DailyCare Orange,Fruits,0.46,piece
+BrandA T-shirt,Clothing,9.53,piece
+NaturePlus Nuts,Food,1.63,piece
+EcoLife Mattress,Household,47.49,piece
+HomeEssentials Lamb,Meat,16.35,kg
+DailyCare Marker,Stationery,0.35,piece
+GoodFarm Lentils,Food,1.69,piece
+HomeEssentials Sweater,Clothing,6.32,piece
+EcoLife Pork,Meat,5.71,kg
+HomeEssentials Sweater,Clothing,2.19,piece
+BrandB Detergent,Cleaning,13.51,liter
+NaturePlus Cream,Dairy,2.29,kg
+BrandA Water,Beverages,2.13,bottle
+GreenChoice Lamp,Household,39.21,piece
+DailyCare Coke,Beverages,0.71,bottle
+DailyCare Laptop,Electronics,160.92,piece
+GoodFarm Paper Pack,Stationery,0.74,piece
+EcoLife Grapes,Fruits,1.83,piece
+GreenChoice Pasta,Food,2.88,kg
+BrandA Shirt,Clothing,18.04,piece
+HomeEssentials Nuts,Food,4.32,piece
+BrandC Soap,Personal Care,1.65,piece
+HomeEssentials Dish Soap,Cleaning,12.13,liter
+DailyCare Shampoo,Personal Care,3.55,piece
+BrandA Spinach,Vegetables,0.16,piece
+DailyCare Lentils,Food,3.44,piece
+DailyCare Pet Toy,Pet Supplies,8.18,kg
+DailyCare Lentils,Food,2.96,pack
+NaturePlus Marker,Stationery,3.82,piece
+BrandB Tea,Beverages,2.38,liter
+DailyCare Floor Cleaner,Cleaning,14.14,piece
+BrandB Stapler,Stationery,0.27,piece
+BrandB Bleach,Cleaning,9.35,liter
+DailyCare Bagel,Bakery,4.53,piece
+BrandA Detergent,Cleaning,5.1,liter
+EcoLife Carrot,Vegetables,1.56,piece
+DailyCare Banana,Fruits,1.98,kg
+BrandC Cat Food,Pet Supplies,3.39,kg
+NaturePlus Nuts,Food,1.29,kg
+BrandA T-shirt,Clothing,13.99,piece
+GreenChoice Dish Soap,Cleaning,11.34,kg
+DailyCare Shirt,Clothing,17.26,piece
+HomeEssentials Pet Shampoo,Pet Supplies,5.33,piece
+DailyCare Milk,Dairy,7.04,liter
+HomeEssentials Coffee,Beverages,1.33,liter
+EcoLife Dog Food,Pet Supplies,9.09,piece
+GoodFarm Notebook,Stationery,0.23,piece
+BrandA Pen,Stationery,2.49,piece
+HomeEssentials Mattress,Household,46.46,piece
+GoodFarm Rice,Food,3.97,piece
+BrandA Chair,Household,32.38,piece
+NaturePlus Orange,Fruits,1.15,kg
+GoodFarm Soap,Personal Care,1.46,piece
+BrandC Paper Pack,Stationery,1.53,piece
+BrandC Stapler,Stationery,0.29,piece
+GoodFarm Water,Beverages,1.43,bottle
+GoodFarm Pillow,Household,45.38,piece
+GreenChoice Beef,Meat,8.48,kg
+HomeEssentials Tomato,Vegetables,0.36,kg
+DailyCare Bleach,Cleaning,12.6,liter
+GreenChoice Lamb,Meat,13.94,kg
+BrandA TV,Electronics,14.66,piece
+GoodFarm Toothpaste,Personal Care,3.93,piece
+GreenChoice Bicycle,Transport,0.21,km
+HomeEssentials Shirt,Clothing,19.16,piece
+HomeEssentials Turkey,Meat,20.63,kg
+GoodFarm Juice,Beverages,2.64,liter
+HomeEssentials Floor Cleaner,Cleaning,3.85,liter
+GoodFarm Cake,Bakery,1.86,kg
+GoodFarm Pasta,Food,3.73,piece
+DailyCare Nuts,Food,1.23,pack
+NaturePlus Croissant,Bakery,4.01,piece
+BrandB Milk,Dairy,1.26,kg
+BrandC Pet Toy,Pet Supplies,8.82,kg
+HomeEssentials Pet Shampoo,Pet Supplies,7.36,kg
+DailyCare Beef,Meat,27.91,kg
+BrandB Dog Food,Pet Supplies,3.91,piece
+EcoLife Grapes,Fruits,1.9,piece
+BrandA Dish Soap,Cleaning,5.58,kg
+EcoLife Pet Shampoo,Pet Supplies,1.69,kg
+NaturePlus Toothpaste,Personal Care,2.35,piece
+BrandB Notebook,Stationery,0.27,piece
+HomeEssentials Bread,Bakery,2.33,kg
+BrandA Tea,Beverages,2.13,bottle
+BrandA Stapler,Stationery,4.25,piece
+NaturePlus Chair,Household,32.38,piece
+BrandA Jeans,Clothing,17.69,piece
+GreenChoice Litter,Pet Supplies,9.6,kg
+BrandB Onion,Vegetables,1.17,piece
+DailyCare Carrot,Vegetables,1.04,piece
+EcoLife Chair,Household,40.79,piece
+GreenChoice Sweater,Clothing,6.04,piece
+GreenChoice Bleach,Cleaning,7.91,piece
+DailyCare Bread,Bakery,2.06,piece
+NaturePlus Paper Pack,Stationery,0.09,piece
+EcoLife Tomato,Vegetables,0.19,piece
+EcoLife Pasta,Food,0.81,piece
+GreenChoice Turkey,Meat,25.4,kg
+DailyCare Dog Food,Pet Supplies,2.92,piece
+GreenChoice Lamb,Meat,23.4,kg
+GreenChoice Pet Toy,Pet Supplies,6.93,piece
+HomeEssentials Laptop,Electronics,81.59,piece
+BrandA Floor Cleaner,Cleaning,12.65,liter
+NaturePlus Shampoo,Personal Care,3.5,piece
+BrandA Yogurt,Dairy,5.41,kg
+BrandC Lotion,Personal Care,3.67,piece
+GoodFarm Detergent,Cleaning,11.38,kg
+EcoLife Cat Food,Pet Supplies,1.34,kg
+HomeEssentials Jeans,Clothing,13.38,piece
+GreenChoice Orange,Fruits,1.13,kg
+GreenChoice Tea,Beverages,2.97,liter
+GoodFarm Laptop,Electronics,42.34,piece
+DailyCare Sweater,Clothing,12.41,piece
+NaturePlus Mango,Fruits,0.11,piece
+DailyCare Milk,Dairy,2.31,liter
+EcoLife Mango,Fruits,0.62,kg
+BrandB Carrot,Vegetables,1.26,piece
+BrandC Soap,Personal Care,4.78,piece
+DailyCare Mango,Fruits,1.79,kg
+DailyCare Toothpaste,Personal Care,2.49,piece
+BrandB Stapler,Stationery,3.52,piece
+DailyCare Shampoo,Personal Care,4.07,piece
+NaturePlus Water,Beverages,1.47,bottle
+DailyCare Turkey,Meat,23.04,kg
+GoodFarm Bagel,Bakery,4.23,piece
+EcoLife Pen,Stationery,2.79,piece
+BrandA Lotion,Personal Care,3.45,piece
+BrandC Petrol,Transport,4.52,km
+BrandC Beef,Meat,12.53,kg
+DailyCare Coke,Beverages,2.99,liter
+BrandB Bread,Bakery,0.67,piece
+GreenChoice Spinach,Vegetables,0.11,kg
+BrandA Paper Pack,Stationery,1.89,piece
+HomeEssentials Cream,Dairy,8.48,kg
+DailyCare Diesel,Transport,1.85,km
+BrandB Banana,Fruits,0.59,kg
+NaturePlus Jeans,Clothing,17.42,piece
+BrandC Yogurt,Dairy,6.04,liter
+BrandA Jacket,Clothing,8.35,piece
+GreenChoice Beef,Meat,22.31,kg
+BrandA Milk,Dairy,4.23,kg
+NaturePlus Spinach,Vegetables,0.32,piece
+NaturePlus Tablet,Electronics,47.06,piece
+BrandA Pork,Meat,14.17,kg
+BrandA Train Ticket,Transport,1.7,liter
+BrandA Floor Cleaner,Cleaning,3.76,piece
+HomeEssentials Muffin,Bakery,3.52,kg
+HomeEssentials Yogurt,Dairy,0.65,liter
+GreenChoice Carrot,Vegetables,1.85,kg
+DailyCare Chicken,Meat,22.65,kg
+DailyCare Diesel,Transport,2.42,km
+GoodFarm Apple,Fruits,1.04,piece
+HomeEssentials T-shirt,Clothing,2.79,piece
+HomeEssentials Dish Soap,Cleaning,5.43,piece
+EcoLife Orange,Fruits,1.8,piece
+NaturePlus Bleach,Cleaning,5.9,kg
+DailyCare Sweater,Clothing,13.17,piece
+BrandB Banana,Fruits,0.32,kg
+BrandC Mattress,Household,41.22,piece
+EcoLife Phone,Electronics,117.04,piece
+EcoLife Chair,Household,39.63,piece
+HomeEssentials Lotion,Personal Care,4.35,piece
+GreenChoice Notebook,Stationery,4.67,piece
+GoodFarm Diesel,Transport,2.54,liter
+BrandA Apple,Fruits,1.18,kg
+GoodFarm T-shirt,Clothing,8.13,piece
+BrandC Pet Shampoo,Pet Supplies,9.14,piece
+EcoLife Detergent,Cleaning,13.42,piece
+HomeEssentials Soap,Personal Care,3.81,piece
+GreenChoice Soap,Personal Care,1.24,piece
+NaturePlus Dish Soap,Cleaning,9.69,liter
+GreenChoice Tea,Beverages,0.87,liter
+GoodFarm Tea,Beverages,1.55,liter
+NaturePlus Grapes,Fruits,0.46,kg
+EcoLife Glass Cleaner,Cleaning,5.26,kg
+BrandB TV,Electronics,35.53,piece
+HomeEssentials Pasta,Food,2.18,piece
+EcoLife Tomato,Vegetables,0.61,piece
+GreenChoice Lamp,Household,20.07,piece
+BrandA Jacket,Clothing,19.85,piece
+GoodFarm Soap,Personal Care,2.35,piece
+HomeEssentials Petrol,Transport,3.94,km
+DailyCare Phone,Electronics,21.76,piece
+BrandC Table,Household,36.97,piece
+DailyCare Mattress,Household,22.51,piece
+NaturePlus Butter,Dairy,2.52,kg
+EcoLife TV,Electronics,36.11,piece
+GoodFarm Carrot,Vegetables,1.29,piece
+HomeEssentials Detergent,Cleaning,5.96,liter
+NaturePlus Glass Cleaner,Cleaning,14.13,liter
+BrandC Petrol,Transport,2.68,liter
+HomeEssentials Pen,Stationery,3.42,piece
+HomeEssentials Butter,Dairy,4.84,liter
+BrandB Pillow,Household,3.05,piece
+GoodFarm Glass Cleaner,Cleaning,3.33,liter
+GreenChoice Water,Beverages,1.4,liter
+HomeEssentials Potato,Vegetables,1.49,kg
+DailyCare Mattress,Household,2.63,piece
+BrandA T-shirt,Clothing,5.39,piece
+EcoLife Yogurt,Dairy,1.61,liter
+NaturePlus Chair,Household,8.37,piece
+GreenChoice Deodorant,Personal Care,4.2,piece
+GreenChoice Oats,Food,1.62,pack
+DailyCare Jeans,Clothing,15.73,piece
+HomeEssentials Grapes,Fruits,1.02,kg
+HomeEssentials Cake,Bakery,0.71,kg
+NaturePlus Water,Beverages,1.65,bottle
+GreenChoice Litter,Pet Supplies,6.25,kg
+BrandA Laptop,Electronics,21.88,piece
+DailyCare Table,Household,3.49,piece
+GreenChoice Pork,Meat,21.8,kg
+DailyCare Rice,Food,4.02,piece
+DailyCare Pet Shampoo,Pet Supplies,7.06,piece
+GoodFarm Beans,Food,0.73,piece
+BrandA Bagel,Bakery,2.07,piece
+EcoLife Muffin,Bakery,2.08,kg
+BrandA Orange,Fruits,0.34,kg
+EcoLife Pen,Stationery,2.32,piece
+GreenChoice Butter,Dairy,1.92,liter
+BrandB Yogurt,Dairy,1.44,liter
+DailyCare Mattress,Household,40.88,piece
+NaturePlus Butter,Dairy,9.39,kg
+HomeEssentials Shirt,Clothing,15.55,piece
+HomeEssentials Lamp,Household,28.84,piece
+HomeEssentials Stapler,Stationery,1.66,piece
+DailyCare Train Ticket,Transport,3.83,liter
+DailyCare Juice,Beverages,1.53,liter
+BrandA Carrot,Vegetables,0.35,kg
+HomeEssentials Pen,Stationery,0.3,piece
+DailyCare Pet Toy,Pet Supplies,1.81,piece
+GreenChoice TV,Electronics,34.34,piece
+EcoLife TV,Electronics,138.98,piece
+BrandB Croissant,Bakery,1.07,kg
+NaturePlus Table,Household,34.94,piece
+BrandA Beef,Meat,12.07,kg
+BrandB Cat Food,Pet Supplies,6.06,piece
+DailyCare Bus Ticket,Transport,3.86,km
+DailyCare Soap,Personal Care,2.16,piece
+NaturePlus Onion,Vegetables,1.72,kg
+BrandA Pet Toy,Pet Supplies,8.54,kg
+BrandC Soap,Personal Care,2.63,piece
+GreenChoice Potato,Vegetables,0.16,kg
+BrandC Lotion,Personal Care,3.66,piece
+BrandC Train Ticket,Transport,2.31,liter
+BrandA Lamb,Meat,9.38,kg
+EcoLife Grapes,Fruits,0.4,piece
+GreenChoice Pet Toy,Pet Supplies,9.26,kg
+BrandC Chair,Household,10.51,piece
+BrandB Mattress,Household,6.9,piece
+BrandA Shampoo,Personal Care,1.92,piece
+BrandA Bleach,Cleaning,4.79,piece
+NaturePlus Turkey,Meat,27.32,kg
+DailyCare Beef,Meat,20.95,kg
+EcoLife Jacket,Clothing,11.24,piece
+DailyCare Apple,Fruits,1.25,piece
+GoodFarm Oats,Food,0.98,pack
+BrandA Bagel,Bakery,1.79,piece
+BrandB Bus Ticket,Transport,2.15,liter
+GreenChoice Tea,Beverages,1.27,liter
+BrandB Detergent,Cleaning,13.9,kg
+GreenChoice Pasta,Food,3.3,pack
+HomeEssentials Milk,Dairy,1.91,liter
+DailyCare Shampoo,Personal Care,3.06,piece
+BrandC Yogurt,Dairy,5.04,liter
+BrandB Paper Pack,Stationery,3.52,piece
+GreenChoice Dog Food,Pet Supplies,1.42,piece
+BrandB Rice,Food,4.09,kg
+EcoLife Chicken,Meat,29.3,kg
+EcoLife Dog Food,Pet Supplies,7.55,kg
+NaturePlus Jacket,Clothing,19.58,piece
+GreenChoice Butter,Dairy,5.19,liter
+BrandB Dish Soap,Cleaning,13.64,liter
+DailyCare Tea,Beverages,0.66,bottle
+DailyCare Notebook,Stationery,2.05,piece
+EcoLife Nuts,Food,1.67,pack
+BrandA Tea,Beverages,0.8,bottle
+DailyCare Bread,Bakery,0.4,kg
+GoodFarm Dog Food,Pet Supplies,6.5,kg
+BrandC Stapler,Stationery,2.54,piece
+NaturePlus Cake,Bakery,2.71,kg
+BrandA Lentils,Food,2.72,pack
+NaturePlus Rice,Food,4.65,kg
+BrandB Orange,Fruits,0.18,piece
+DailyCare Laptop,Electronics,140.52,piece
+DailyCare Lamp,Household,14.72,piece
+BrandB Table,Household,20.43,piece
+GreenChoice Tomato,Vegetables,0.42,kg
+GreenChoice Sweater,Clothing,12.82,piece
+HomeEssentials Shampoo,Personal Care,4.84,piece
+GoodFarm Jacket,Clothing,4.24,piece
+BrandC Oats,Food,2.45,kg
+BrandC Soap,Personal Care,2.08,piece
+BrandC Turkey,Meat,23.53,kg
+EcoLife Bus Ticket,Transport,1.56,km
+BrandC Coke,Beverages,2.65,bottle
+NaturePlus Pasta,Food,4.4,pack
+HomeEssentials Orange,Fruits,1.11,piece
+NaturePlus Sweater,Clothing,14.18,piece
+DailyCare Carrot,Vegetables,0.75,kg
+BrandB Laptop,Electronics,161.52,piece
+DailyCare Mango,Fruits,0.67,piece
+BrandB Shampoo,Personal Care,2.49,piece
+BrandA Soap,Personal Care,1.09,piece
+DailyCare Train Ticket,Transport,4.0,liter
+GreenChoice Water,Beverages,0.92,liter
+BrandC Deodorant,Personal Care,1.28,piece
+BrandC Shirt,Clothing,16.38,piece
+GreenChoice Beef,Meat,8.68,kg
+DailyCare Mango,Fruits,0.26,kg
+BrandB Detergent,Cleaning,5.84,kg
+BrandB Coke,Beverages,1.07,liter
+BrandC Pen,Stationery,0.57,piece
+NaturePlus Train Ticket,Transport,1.07,liter
+DailyCare Coffee,Beverages,2.71,liter
+DailyCare Nuts,Food,1.3,kg
+GoodFarm Turkey,Meat,26.6,kg
+BrandA Cheese,Dairy,1.63,kg
+EcoLife Deodorant,Personal Care,1.54,piece
+GoodFarm Lamp,Household,28.78,piece
+HomeEssentials Diesel,Transport,4.99,liter
+HomeEssentials Bus Ticket,Transport,2.38,km
+BrandB Beans,Food,1.08,kg
+BrandB Rice,Food,0.68,pack
+BrandA Juice,Beverages,1.44,liter
+BrandB Milk,Dairy,0.64,liter
+GoodFarm Muffin,Bakery,2.94,kg
+NaturePlus Bicycle,Transport,0.58,liter
+GreenChoice Oats,Food,4.13,pack
+BrandC Grapes,Fruits,1.55,kg
+BrandC Grapes,Fruits,1.88,kg
+GreenChoice Notebook,Stationery,1.81,piece
+HomeEssentials Bus Ticket,Transport,1.4,km
+BrandC Headphones,Electronics,45.49,piece
+BrandB Soap,Personal Care,4.39,piece
+GreenChoice Pork,Meat,26.91,kg
+BrandB Tea,Beverages,1.07,bottle
+GreenChoice Stapler,Stationery,3.03,piece
+HomeEssentials Croissant,Bakery,2.8,kg
+GreenChoice Milk,Dairy,5.16,kg
+BrandB Marker,Stationery,3.04,piece
+NaturePlus Lamb,Meat,18.58,kg
+BrandC T-shirt,Clothing,6.17,piece
+EcoLife TV,Electronics,176.46,piece
+DailyCare Coffee,Beverages,2.8,liter
+BrandA Shirt,Clothing,4.27,piece
+DailyCare Coke,Beverages,2.52,liter
+EcoLife Grapes,Fruits,1.08,kg
+NaturePlus Paper Pack,Stationery,0.77,piece
+DailyCare Lamp,Household,31.61,piece
+NaturePlus Onion,Vegetables,0.24,kg
+DailyCare Jacket,Clothing,17.74,piece
+BrandC Spinach,Vegetables,0.81,piece
+BrandB Detergent,Cleaning,13.83,liter
+GoodFarm Chair,Household,47.94,piece
+GoodFarm Apple,Fruits,1.62,piece
+BrandA Mattress,Household,43.32,piece
+GreenChoice Onion,Vegetables,1.76,kg
+GreenChoice Jeans,Clothing,7.62,piece
+BrandC Potato,Vegetables,0.32,piece
+BrandC Grapes,Fruits,0.71,kg
+BrandA Milk,Dairy,6.04,liter
+BrandB Train Ticket,Transport,2.18,liter
+NaturePlus Marker,Stationery,3.15,piece
+BrandB Pen,Stationery,1.85,piece
+HomeEssentials Milk,Dairy,8.36,liter
+BrandB Nuts,Food,1.24,kg
+DailyCare Coffee,Beverages,2.02,bottle
+HomeEssentials Cake,Bakery,4.73,piece
+EcoLife Tea,Beverages,0.61,liter
+DailyCare Onion,Vegetables,1.14,kg
+NaturePlus Apple,Fruits,0.69,piece
+BrandB Lamp,Household,22.7,piece
+BrandB Tomato,Vegetables,1.5,piece
+BrandC Petrol,Transport,3.01,km
+BrandA Oats,Food,3.03,kg
+DailyCare Sweater,Clothing,10.0,piece
+GreenChoice Onion,Vegetables,1.35,kg
+GoodFarm Carrot,Vegetables,0.1,piece
+BrandB Lotion,Personal Care,4.44,piece
+GreenChoice Dog Food,Pet Supplies,9.38,piece
+NaturePlus Nuts,Food,0.2,pack
+NaturePlus Rice,Food,2.81,pack
+BrandC Tea,Beverages,1.6,liter
+EcoLife Oats,Food,0.85,kg
+NaturePlus Carrot,Vegetables,0.91,kg
+HomeEssentials Pork,Meat,11.6,kg
+GreenChoice Sweater,Clothing,16.41,piece
+NaturePlus Cheese,Dairy,2.45,liter
+BrandC Stapler,Stationery,3.37,piece
+GoodFarm Jacket,Clothing,13.29,piece
+BrandA Cake,Bakery,1.49,kg
+BrandB Pet Toy,Pet Supplies,2.25,kg
+BrandB Chicken,Meat,7.02,kg
+BrandC Petrol,Transport,3.99,km
+GreenChoice Muffin,Bakery,1.93,kg
+EcoLife Shampoo,Personal Care,3.51,piece
+EcoLife Cheese,Dairy,5.45,kg
+BrandB Marker,Stationery,2.04,piece
+EcoLife Bicycle,Transport,2.6,km
+EcoLife Pasta,Food,3.87,pack
+BrandA Carrot,Vegetables,1.89,piece
+DailyCare Nuts,Food,3.08,kg
+BrandC Juice,Beverages,1.45,liter
+HomeEssentials Potato,Vegetables,0.67,piece
+GreenChoice Bleach,Cleaning,10.64,liter
+DailyCare Bagel,Bakery,0.9,piece
+NaturePlus Shirt,Clothing,5.95,piece
+GreenChoice T-shirt,Clothing,12.17,piece
+BrandB Bus Ticket,Transport,1.25,km
+EcoLife Notebook,Stationery,3.06,piece
+NaturePlus Sweater,Clothing,7.02,piece
+GoodFarm Paper Pack,Stationery,2.6,piece
+GoodFarm Pet Toy,Pet Supplies,3.31,piece
+GoodFarm Banana,Fruits,1.88,kg
+BrandC Pen,Stationery,1.07,piece
+HomeEssentials Coffee,Beverages,0.28,bottle
+NaturePlus Bus Ticket,Transport,2.5,km
+EcoLife Jacket,Clothing,3.04,piece
+BrandA Potato,Vegetables,1.83,kg
+EcoLife Diesel,Transport,0.75,liter
+BrandB Nuts,Food,1.39,pack
+GoodFarm Petrol,Transport,2.87,km
+DailyCare Chicken,Meat,22.5,kg
+BrandA Coffee,Beverages,0.21,liter
+EcoLife Potato,Vegetables,1.45,piece
+DailyCare Cheese,Dairy,5.07,liter
+BrandA Water,Beverages,1.8,liter
+NaturePlus Jacket,Clothing,5.81,piece
+EcoLife Bicycle,Transport,2.8,km
+HomeEssentials Orange,Fruits,1.31,piece
+NaturePlus Tomato,Vegetables,1.21,piece
+BrandA Milk,Dairy,6.21,liter
+NaturePlus Jacket,Clothing,11.16,piece
+DailyCare Paper Pack,Stationery,1.04,piece
+BrandB Cat Food,Pet Supplies,6.96,kg
+EcoLife Tea,Beverages,1.53,liter
+BrandB Laptop,Electronics,183.85,piece
+GoodFarm Oats,Food,3.55,piece
+BrandB TV,Electronics,64.43,piece
+BrandB Tea,Beverages,0.92,bottle
+BrandA Bus Ticket,Transport,2.02,liter
+DailyCare Lamb,Meat,12.43,kg
+EcoLife TV,Electronics,21.96,piece
+DailyCare Dish Soap,Cleaning,9.47,kg
+EcoLife Water,Beverages,2.4,bottle
+EcoLife Diesel,Transport,2.87,km
+EcoLife Detergent,Cleaning,4.77,piece
+BrandB Lamp,Household,48.62,piece
+NaturePlus Stapler,Stationery,0.43,piece
+DailyCare Mattress,Household,13.7,piece
+BrandA T-shirt,Clothing,12.47,piece
+EcoLife Chicken,Meat,25.57,kg
+BrandA Milk,Dairy,0.86,liter
+GreenChoice Stapler,Stationery,0.81,piece
+BrandC Headphones,Electronics,75.33,piece
+DailyCare Coke,Beverages,1.8,bottle
+BrandA Mango,Fruits,1.58,kg
+DailyCare Chicken,Meat,6.34,kg
+GreenChoice Pork,Meat,16.22,kg
+EcoLife Lentils,Food,1.98,kg
+BrandC Muffin,Bakery,0.54,piece
+DailyCare Pet Toy,Pet Supplies,1.87,kg
+BrandC Coke,Beverages,2.09,liter
+BrandB Glass Cleaner,Cleaning,1.24,liter
+BrandB Sweater,Clothing,4.27,piece
+BrandC Pet Shampoo,Pet Supplies,6.53,kg
+NaturePlus Stapler,Stationery,3.34,piece
+GoodFarm Soap,Personal Care,2.52,piece
+GreenChoice Litter,Pet Supplies,9.25,piece
+HomeEssentials Tablet,Electronics,181.16,piece
+BrandB TV,Electronics,46.08,piece
+BrandC Lotion,Personal Care,4.01,piece
+NaturePlus Pork,Meat,25.0,kg
+BrandB Shampoo,Personal Care,3.38,piece
+DailyCare Beans,Food,1.69,kg
+BrandA Marker,Stationery,3.7,piece
+DailyCare Cheese,Dairy,2.18,liter
+DailyCare Pen,Stationery,0.06,piece
+NaturePlus Pillow,Household,32.98,piece
+GoodFarm Potato,Vegetables,0.86,piece
+NaturePlus Orange,Fruits,1.91,kg
+BrandA Nuts,Food,3.84,kg
+NaturePlus Cat Food,Pet Supplies,6.75,kg
+HomeEssentials Diesel,Transport,3.21,km
+GreenChoice Chicken,Meat,15.18,kg
+BrandB Orange,Fruits,1.95,kg
+GoodFarm Spinach,Vegetables,0.38,piece
+BrandB Shirt,Clothing,10.03,piece
+BrandC Bus Ticket,Transport,2.84,km
+BrandC Chicken,Meat,24.81,kg
+NaturePlus Diesel,Transport,0.27,km
+EcoLife Beef,Meat,8.27,kg
+BrandC Deodorant,Personal Care,4.67,piece
+NaturePlus Yogurt,Dairy,9.83,kg
+GoodFarm Pet Shampoo,Pet Supplies,4.33,piece
+DailyCare Phone,Electronics,33.46,piece
+EcoLife Cat Food,Pet Supplies,6.06,piece
+GreenChoice Sweater,Clothing,16.08,piece
+BrandA Pen,Stationery,0.58,piece
+GoodFarm Butter,Dairy,1.71,kg
+BrandA Onion,Vegetables,0.57,kg
+GoodFarm Pasta,Food,0.49,pack
+NaturePlus Banana,Fruits,0.59,kg
+GoodFarm Jacket,Clothing,7.68,piece
+EcoLife Beef,Meat,24.32,kg
+EcoLife Deodorant,Personal Care,4.61,piece
+GreenChoice Bleach,Cleaning,6.39,piece
+BrandC Spinach,Vegetables,0.57,kg
+GoodFarm Glass Cleaner,Cleaning,7.96,kg
+NaturePlus Cake,Bakery,4.86,kg
+NaturePlus Chair,Household,46.47,piece
+DailyCare Litter,Pet Supplies,4.67,kg
+BrandB Rice,Food,4.48,kg
+GreenChoice Shampoo,Personal Care,3.15,piece
+DailyCare T-shirt,Clothing,3.27,piece
+GreenChoice Train Ticket,Transport,2.11,km
+BrandC Pillow,Household,39.12,piece
+NaturePlus Pasta,Food,1.4,kg
+BrandA Spinach,Vegetables,1.48,piece
+NaturePlus Jacket,Clothing,17.21,piece
+DailyCare T-shirt,Clothing,19.44,piece
+GoodFarm Tablet,Electronics,12.07,piece
+GoodFarm Laptop,Electronics,26.57,piece
+DailyCare Table,Household,47.48,piece
+HomeEssentials Laptop,Electronics,174.92,piece
+NaturePlus Banana,Fruits,0.81,kg
+HomeEssentials Grapes,Fruits,1.92,piece
+GoodFarm Bus Ticket,Transport,2.53,km
+DailyCare Mattress,Household,16.71,piece
+HomeEssentials Tomato,Vegetables,0.87,kg
+BrandA Pet Toy,Pet Supplies,7.51,piece
+EcoLife Bread,Bakery,3.37,piece
+DailyCare Paper Pack,Stationery,0.49,piece
+GreenChoice Turkey,Meat,9.02,kg
+HomeEssentials Water,Beverages,1.27,bottle
+BrandB Bread,Bakery,1.93,kg
+BrandB Notebook,Stationery,3.1,piece
+HomeEssentials Beef,Meat,21.8,kg
+GreenChoice Litter,Pet Supplies,9.3,kg
+BrandC Dog Food,Pet Supplies,2.38,piece
+HomeEssentials Pillow,Household,17.95,piece
+BrandC Dish Soap,Cleaning,12.33,kg
+GreenChoice Litter,Pet Supplies,9.89,piece
+EcoLife Beef,Meat,17.05,kg
+NaturePlus Shirt,Clothing,2.01,piece
+NaturePlus Dog Food,Pet Supplies,6.58,kg
+BrandC Jacket,Clothing,3.32,piece
+HomeEssentials Bread,Bakery,4.98,piece
+NaturePlus Lamp,Household,40.52,piece
+GreenChoice Train Ticket,Transport,2.14,km
+BrandA Juice,Beverages,2.99,bottle
+EcoLife Pillow,Household,1.25,piece
+NaturePlus Jeans,Clothing,5.83,piece
+HomeEssentials Grapes,Fruits,0.98,piece
+EcoLife Chicken,Meat,17.27,kg
+HomeEssentials Detergent,Cleaning,13.17,piece
+NaturePlus Pork,Meat,8.18,kg
+NaturePlus Glass Cleaner,Cleaning,3.25,piece
+GreenChoice Juice,Beverages,0.43,bottle
+NaturePlus Onion,Vegetables,1.28,kg
+HomeEssentials Lamb,Meat,14.05,kg
+BrandA Train Ticket,Transport,3.88,liter
+GoodFarm Toothpaste,Personal Care,1.93,piece
+BrandC Cake,Bakery,2.38,kg
+GreenChoice Spinach,Vegetables,1.96,piece
+EcoLife Bicycle,Transport,0.28,km
+BrandC Mango,Fruits,1.52,kg
+BrandA Notebook,Stationery,1.61,piece
+HomeEssentials Spinach,Vegetables,1.2,piece
+BrandA Pen,Stationery,1.65,piece
+BrandB Bicycle,Transport,3.78,km
+GoodFarm Paper Pack,Stationery,0.9,piece
+BrandB Orange,Fruits,1.89,kg
+NaturePlus Glass Cleaner,Cleaning,7.78,kg
+HomeEssentials Notebook,Stationery,1.91,piece
+BrandC Bread,Bakery,3.49,kg
+DailyCare Spinach,Vegetables,1.66,kg
+GreenChoice Tablet,Electronics,140.43,piece
+BrandC Yogurt,Dairy,7.01,liter
+BrandA Orange,Fruits,0.15,piece
+GoodFarm Potato,Vegetables,0.99,piece
+GoodFarm Banana,Fruits,0.49,kg
+GreenChoice Water,Beverages,2.27,liter
+DailyCare Oats,Food,0.78,pack
+BrandC Table,Household,7.91,piece
+GoodFarm Litter,Pet Supplies,3.42,piece
+NaturePlus Bus Ticket,Transport,1.8,liter
+BrandC Water,Beverages,2.47,liter
+BrandC Spinach,Vegetables,1.48,piece
+EcoLife Coffee,Beverages,0.36,liter
+DailyCare Orange,Fruits,0.13,piece
+EcoLife Chicken,Meat,21.67,kg
+BrandC Detergent,Cleaning,10.48,liter
+NaturePlus Pasta,Food,1.85,piece
+BrandA Grapes,Fruits,1.85,piece
+BrandB Cake,Bakery,3.35,kg
+GreenChoice Lamp,Household,45.99,piece
+GreenChoice Paper Pack,Stationery,1.79,piece
+GreenChoice Milk,Dairy,9.86,liter
+DailyCare Detergent,Cleaning,12.87,piece
+BrandC Pasta,Food,4.97,pack
+BrandB Potato,Vegetables,1.89,piece
+BrandA Beef,Meat,16.32,kg
+BrandB Lentils,Food,1.76,pack
+GoodFarm Spinach,Vegetables,1.78,piece
+BrandB Floor Cleaner,Cleaning,8.79,piece
+DailyCare Pet Shampoo,Pet Supplies,1.63,kg
+BrandA Detergent,Cleaning,4.78,kg
+NaturePlus Stapler,Stationery,2.42,piece
+BrandB Shirt,Clothing,2.67,piece
+GoodFarm Pillow,Household,15.52,piece
+GoodFarm Pork,Meat,26.63,kg
+BrandA TV,Electronics,124.69,piece
+GreenChoice Shirt,Clothing,11.22,piece
+NaturePlus Lamb,Meat,15.38,kg
+BrandB Turkey,Meat,15.83,kg
+EcoLife Juice,Beverages,2.29,liter
+HomeEssentials Shampoo,Personal Care,3.65,piece
+HomeEssentials Laptop,Electronics,91.55,piece
+GoodFarm Chicken,Meat,9.53,kg
+BrandC Turkey,Meat,23.27,kg
+GreenChoice Litter,Pet Supplies,9.2,piece
+BrandC Butter,Dairy,3.07,liter
+DailyCare Mattress,Household,2.53,piece
+BrandB Pork,Meat,20.04,kg
+BrandA Tablet,Electronics,187.48,piece
+GoodFarm Apple,Fruits,0.76,piece
+BrandB TV,Electronics,35.6,piece
+BrandB Detergent,Cleaning,4.37,piece
+BrandB Bicycle,Transport,4.17,liter
+HomeEssentials Pillow,Household,28.62,piece
+HomeEssentials Coke,Beverages,2.0,liter
+BrandA Detergent,Cleaning,11.51,liter
+HomeEssentials Floor Cleaner,Cleaning,13.84,piece
+BrandB Cream,Dairy,7.3,liter
+NaturePlus Grapes,Fruits,1.9,piece
+GoodFarm Paper Pack,Stationery,0.11,piece
+GoodFarm Deodorant,Personal Care,0.64,piece
+DailyCare Headphones,Electronics,194.38,piece
+DailyCare Chair,Household,17.22,piece
+GoodFarm Beef,Meat,18.62,kg
+NaturePlus Potato,Vegetables,1.3,kg
+EcoLife Pork,Meat,19.32,kg
+GreenChoice Stapler,Stationery,4.64,piece
+BrandB Coffee,Beverages,2.64,bottle
+NaturePlus Glass Cleaner,Cleaning,9.23,piece
+HomeEssentials Paper Pack,Stationery,2.82,piece
+BrandB Stapler,Stationery,3.21,piece
+BrandC Detergent,Cleaning,3.59,piece
+BrandC Glass Cleaner,Cleaning,9.49,piece
+GreenChoice TV,Electronics,84.53,piece
+NaturePlus Bicycle,Transport,4.4,liter
+GreenChoice Pet Toy,Pet Supplies,8.03,piece
+DailyCare Onion,Vegetables,1.48,kg
+BrandC Soap,Personal Care,3.57,piece
+BrandB Butter,Dairy,5.39,kg
+DailyCare Lamp,Household,20.6,piece
+NaturePlus Cat Food,Pet Supplies,2.13,piece
+GoodFarm Cream,Dairy,1.56,kg
+BrandB Lamb,Meat,9.81,kg
+EcoLife Beef,Meat,27.17,kg
+EcoLife Water,Beverages,1.98,bottle
+GreenChoice Beans,Food,3.41,piece
+BrandA Turkey,Meat,21.04,kg
+EcoLife Butter,Dairy,1.42,kg
+EcoLife Onion,Vegetables,1.56,kg
+HomeEssentials Jacket,Clothing,7.81,piece
+HomeEssentials Croissant,Bakery,1.3,piece
+BrandB T-shirt,Clothing,18.36,piece
+NaturePlus Bus Ticket,Transport,3.29,km
+BrandA Onion,Vegetables,0.6,kg
+EcoLife Pen,Stationery,1.73,piece
+HomeEssentials Bleach,Cleaning,9.94,kg
+GoodFarm Petrol,Transport,2.98,km
+BrandA Shampoo,Personal Care,1.06,piece
+BrandC Pet Toy,Pet Supplies,7.29,piece
+BrandA Orange,Fruits,1.37,kg
+BrandC Jacket,Clothing,13.23,piece
+BrandB Marker,Stationery,1.62,piece
+HomeEssentials Cake,Bakery,1.81,piece
+GoodFarm Yogurt,Dairy,4.88,liter
+GreenChoice Pork,Meat,28.23,kg
+BrandC Oats,Food,0.39,piece
+GoodFarm Shampoo,Personal Care,0.26,piece
+BrandC Sweater,Clothing,14.68,piece
+HomeEssentials Floor Cleaner,Cleaning,7.39,liter
+BrandC Croissant,Bakery,0.75,piece
+BrandB Headphones,Electronics,131.47,piece
+HomeEssentials Mango,Fruits,1.41,kg
+HomeEssentials Water,Beverages,2.08,bottle
+BrandC Paper Pack,Stationery,0.13,piece
+EcoLife Dog Food,Pet Supplies,4.16,piece
+GoodFarm Floor Cleaner,Cleaning,14.64,kg
+GreenChoice TV,Electronics,168.11,piece
+DailyCare Dog Food,Pet Supplies,0.83,piece
+DailyCare Shirt,Clothing,10.21,piece
+HomeEssentials Tablet,Electronics,141.98,piece
+EcoLife Tea,Beverages,2.4,bottle
+BrandC Beef,Meat,11.9,kg
+GreenChoice Grapes,Fruits,1.19,piece
+DailyCare Water,Beverages,2.4,bottle
+GreenChoice Onion,Vegetables,1.18,piece
+GreenChoice Lamp,Household,47.07,piece
+GreenChoice Headphones,Electronics,90.55,piece
+BrandA Orange,Fruits,1.98,piece
+HomeEssentials Cheese,Dairy,5.31,kg
+HomeEssentials Pasta,Food,1.39,pack
+GoodFarm Apple,Fruits,0.13,piece
+BrandC Cream,Dairy,5.0,kg
+HomeEssentials Muffin,Bakery,1.6,piece
+BrandA Headphones,Electronics,10.62,piece
+DailyCare Toothpaste,Personal Care,3.26,piece
+BrandB Coffee,Beverages,0.74,liter
+EcoLife Turkey,Meat,16.75,kg
+GreenChoice Soap,Personal Care,2.48,piece
+NaturePlus Water,Beverages,1.89,bottle
+DailyCare Bus Ticket,Transport,1.5,liter
+NaturePlus Chicken,Meat,14.63,kg
+NaturePlus Chicken,Meat,16.31,kg
+NaturePlus Tablet,Electronics,189.93,piece
+GreenChoice Jeans,Clothing,15.56,piece
+EcoLife Pet Toy,Pet Supplies,2.19,piece
+BrandA Cat Food,Pet Supplies,3.61,piece
+NaturePlus Apple,Fruits,0.2,piece
+BrandC Pet Toy,Pet Supplies,2.84,piece
+EcoLife Yogurt,Dairy,5.22,liter
+DailyCare TV,Electronics,65.22,piece
+NaturePlus Tomato,Vegetables,1.17,piece
+BrandB Diesel,Transport,1.6,km
+BrandC Milk,Dairy,1.25,kg
+BrandB Carrot,Vegetables,1.02,kg
+HomeEssentials Glass Cleaner,Cleaning,2.86,kg
+GoodFarm Water,Beverages,1.56,liter
+BrandB Lentils,Food,0.96,pack
+EcoLife Mango,Fruits,0.54,kg
+DailyCare Floor Cleaner,Cleaning,11.05,piece
+GoodFarm Mattress,Household,24.78,piece
+DailyCare Petrol,Transport,1.57,liter
+NaturePlus Oats,Food,3.79,kg
+BrandA Stapler,Stationery,4.43,piece
+BrandA Shirt,Clothing,7.38,piece
+GreenChoice Pasta,Food,0.97,piece
+EcoLife Pet Toy,Pet Supplies,4.64,kg
+GreenChoice Stapler,Stationery,3.81,piece
+HomeEssentials Coffee,Beverages,0.59,liter
+HomeEssentials Glass Cleaner,Cleaning,8.92,liter
+BrandB Chicken,Meat,5.3,kg
+BrandC Detergent,Cleaning,6.15,kg
+BrandC Yogurt,Dairy,4.95,kg
+BrandA Dog Food,Pet Supplies,1.4,piece
+GoodFarm Dog Food,Pet Supplies,0.5,kg
+BrandB Stapler,Stationery,2.67,piece
+HomeEssentials Spinach,Vegetables,0.89,piece
+NaturePlus Bread,Bakery,2.96,piece
+GreenChoice Chair,Household,34.06,piece
+HomeEssentials Paper Pack,Stationery,4.97,piece
+NaturePlus T-shirt,Clothing,9.8,piece
+BrandA Onion,Vegetables,0.88,kg
+EcoLife Shirt,Clothing,15.98,piece
+NaturePlus Coffee,Beverages,1.56,bottle
+HomeEssentials Phone,Electronics,89.55,piece
+GreenChoice Beans,Food,2.52,kg
+BrandB Pen,Stationery,3.6,piece
+BrandC Bread,Bakery,2.41,piece
+EcoLife T-shirt,Clothing,14.28,piece
+EcoLife Apple,Fruits,1.07,piece
+BrandC TV,Electronics,131.33,piece
+BrandC Water,Beverages,2.44,liter
+GreenChoice Cake,Bakery,3.26,piece
+DailyCare Train Ticket,Transport,2.52,liter
+BrandA Table,Household,31.62,piece
+HomeEssentials Bus Ticket,Transport,3.25,liter
+NaturePlus Pen,Stationery,2.6,piece
+GreenChoice Rice,Food,4.39,kg
+BrandB Detergent,Cleaning,13.24,liter
+HomeEssentials Banana,Fruits,0.64,piece
+EcoLife Train Ticket,Transport,3.91,liter
+EcoLife Cheese,Dairy,1.01,liter
+EcoLife Glass Cleaner,Cleaning,9.93,piece
+HomeEssentials Onion,Vegetables,0.15,kg
+BrandC Tea,Beverages,0.33,liter
+EcoLife Tomato,Vegetables,0.07,kg
+GreenChoice Deodorant,Personal Care,4.74,piece
+NaturePlus Petrol,Transport,3.55,km
+BrandC Pasta,Food,0.13,pack
+GreenChoice Cheese,Dairy,4.07,liter
+DailyCare Lamb,Meat,11.11,kg
+BrandA Muffin,Bakery,3.42,piece
+DailyCare Chicken,Meat,8.44,kg
+EcoLife Pet Toy,Pet Supplies,9.76,kg
+EcoLife Pet Shampoo,Pet Supplies,7.0,kg
+GreenChoice Stapler,Stationery,4.22,piece
+GoodFarm Lentils,Food,3.43,kg
+HomeEssentials Soap,Personal Care,1.07,piece
+EcoLife Tea,Beverages,1.36,bottle
+GreenChoice Deodorant,Personal Care,0.89,piece
+BrandA Chair,Household,22.97,piece
+BrandC Pillow,Household,37.1,piece
+BrandB Carrot,Vegetables,0.93,kg
+EcoLife Phone,Electronics,110.89,piece
+NaturePlus Tablet,Electronics,112.66,piece
+DailyCare Floor Cleaner,Cleaning,7.65,liter
+EcoLife Phone,Electronics,96.13,piece
+EcoLife Laptop,Electronics,124.59,piece
+EcoLife TV,Electronics,14.43,piece
+NaturePlus Chicken,Meat,24.43,kg
+EcoLife Soap,Personal Care,1.24,piece
+EcoLife T-shirt,Clothing,5.06,piece
+EcoLife Pillow,Household,20.69,piece
+GreenChoice T-shirt,Clothing,6.36,piece
+BrandB Bicycle,Transport,2.75,liter
+NaturePlus Glass Cleaner,Cleaning,3.03,piece
+HomeEssentials Tea,Beverages,1.17,bottle
+BrandC Coke,Beverages,0.94,bottle
+HomeEssentials Oats,Food,1.24,kg
+EcoLife Carrot,Vegetables,0.2,kg
+BrandA Banana,Fruits,1.96,kg
+BrandC Mango,Fruits,0.73,kg
+EcoLife TV,Electronics,137.42,piece
+NaturePlus Cake,Bakery,2.16,piece
+DailyCare Bicycle,Transport,0.74,liter
+BrandA Coffee,Beverages,0.53,bottle
+GoodFarm Croissant,Bakery,0.48,kg
+BrandC Cat Food,Pet Supplies,2.87,piece
+BrandA Shirt,Clothing,9.68,piece
+GoodFarm Marker,Stationery,2.26,piece
+EcoLife Notebook,Stationery,2.8,piece
+NaturePlus Tea,Beverages,2.65,liter
+HomeEssentials Tea,Beverages,0.52,bottle
+EcoLife Stapler,Stationery,4.99,piece
+BrandA Pen,Stationery,4.18,piece
+BrandB Pillow,Household,28.08,piece
+NaturePlus Soap,Personal Care,4.05,piece
+GreenChoice Mango,Fruits,0.15,kg
+NaturePlus Laptop,Electronics,41.89,piece
+BrandA Grapes,Fruits,1.62,kg
+BrandB TV,Electronics,124.29,piece
+BrandB Glass Cleaner,Cleaning,4.24,liter
+EcoLife Soap,Personal Care,1.64,piece
+DailyCare Tea,Beverages,0.85,bottle
+HomeEssentials Notebook,Stationery,4.29,piece
+BrandC Mattress,Household,37.49,piece
+EcoLife Detergent,Cleaning,1.3,piece
+NaturePlus Laptop,Electronics,83.64,piece
+GoodFarm Notebook,Stationery,0.67,piece
+EcoLife Bagel,Bakery,0.71,kg
+GreenChoice Pet Toy,Pet Supplies,8.32,piece
+EcoLife Oats,Food,0.18,piece
+GoodFarm Milk,Dairy,9.28,kg
+BrandB Glass Cleaner,Cleaning,4.29,kg
+EcoLife Butter,Dairy,6.43,liter
+HomeEssentials Beans,Food,1.88,kg
+BrandC Bicycle,Transport,0.21,liter
+HomeEssentials Lamp,Household,31.83,piece
+GreenChoice Muffin,Bakery,1.62,piece
+EcoLife Potato,Vegetables,1.48,piece
+EcoLife Laptop,Electronics,56.8,piece
+GreenChoice Notebook,Stationery,4.27,piece
+NaturePlus Beef,Meat,6.29,kg
+DailyCare Paper Pack,Stationery,0.15,piece
+GoodFarm Phone,Electronics,53.56,piece
+NaturePlus Glass Cleaner,Cleaning,8.14,liter
+BrandB Coffee,Beverages,1.09,liter
+GoodFarm Deodorant,Personal Care,0.43,piece
+BrandC Notebook,Stationery,4.56,piece
+BrandB Jeans,Clothing,10.23,piece
+GoodFarm Dog Food,Pet Supplies,1.38,piece
+BrandA Chicken,Meat,18.53,kg
+GreenChoice Pen,Stationery,0.84,piece
+DailyCare Bleach,Cleaning,7.37,piece
+GoodFarm Pasta,Food,2.24,piece
+NaturePlus Chicken,Meat,23.48,kg
+EcoLife Milk,Dairy,1.35,liter
+EcoLife Dog Food,Pet Supplies,3.44,piece
+BrandB Tea,Beverages,0.97,bottle
+HomeEssentials Croissant,Bakery,1.92,kg
+GoodFarm Lamb,Meat,12.76,kg
+GoodFarm Petrol,Transport,2.66,liter
+GoodFarm Banana,Fruits,0.73,piece
+EcoLife Cat Food,Pet Supplies,4.29,kg
+BrandB Coke,Beverages,2.58,bottle
+GreenChoice Lentils,Food,0.18,kg
+BrandC Lotion,Personal Care,4.41,piece
+BrandC Tomato,Vegetables,0.75,kg
+GreenChoice Toothpaste,Personal Care,1.32,piece
+BrandA Spinach,Vegetables,0.39,piece
+BrandB Detergent,Cleaning,3.27,kg
+NaturePlus Shirt,Clothing,10.17,piece
+NaturePlus Muffin,Bakery,4.12,piece
+DailyCare Deodorant,Personal Care,1.23,piece
+BrandA Table,Household,32.55,piece
+NaturePlus Jeans,Clothing,6.96,piece
+DailyCare Shampoo,Personal Care,2.79,piece
+NaturePlus Beef,Meat,21.19,kg
+GoodFarm Bread,Bakery,4.76,kg
+BrandC Litter,Pet Supplies,5.41,kg
+DailyCare Cat Food,Pet Supplies,1.84,kg
+GreenChoice Jacket,Clothing,8.05,piece
+GoodFarm Juice,Beverages,0.41,liter
+GoodFarm Bicycle,Transport,3.02,km
+EcoLife Nuts,Food,4.39,kg
+BrandA Paper Pack,Stationery,3.5,piece
+GoodFarm Table,Household,37.15,piece
+HomeEssentials Mango,Fruits,0.33,kg
+GoodFarm Lotion,Personal Care,3.56,piece
+NaturePlus Headphones,Electronics,53.86,piece
+DailyCare Glass Cleaner,Cleaning,10.62,liter
+DailyCare Marker,Stationery,0.35,piece
+EcoLife Sweater,Clothing,4.85,piece
+BrandA Laptop,Electronics,88.58,piece
+HomeEssentials Sweater,Clothing,10.65,piece
+NaturePlus Croissant,Bakery,3.65,piece
+EcoLife Banana,Fruits,1.15,piece
+GreenChoice Notebook,Stationery,1.68,piece
+HomeEssentials Carrot,Vegetables,1.3,piece
+DailyCare Train Ticket,Transport,2.24,liter
+EcoLife Tea,Beverages,0.27,bottle
+GreenChoice Table,Household,2.49,piece
+GreenChoice TV,Electronics,190.2,piece
+HomeEssentials Soap,Personal Care,3.28,piece
+DailyCare Cat Food,Pet Supplies,1.08,kg
+BrandB Bread,Bakery,1.35,kg
+EcoLife Glass Cleaner,Cleaning,3.57,piece
+BrandC Pet Toy,Pet Supplies,1.84,piece
+DailyCare Pet Toy,Pet Supplies,6.8,kg
+BrandB Lamb,Meat,6.82,kg
+EcoLife Coke,Beverages,1.34,bottle
+BrandA Pasta,Food,3.34,kg
+DailyCare Shirt,Clothing,15.56,piece
+GoodFarm Carrot,Vegetables,0.16,piece
+BrandC Potato,Vegetables,1.59,kg
+EcoLife Mattress,Household,21.14,piece
+HomeEssentials TV,Electronics,130.75,piece
+DailyCare Table,Household,26.46,piece
+HomeEssentials Laptop,Electronics,26.2,piece
+GreenChoice Litter,Pet Supplies,9.33,kg
+DailyCare Rice,Food,1.03,pack
+HomeEssentials Tablet,Electronics,101.63,piece
+NaturePlus Coke,Beverages,0.29,liter
+HomeEssentials Pen,Stationery,1.67,piece
+BrandB Marker,Stationery,2.59,piece
+GoodFarm Detergent,Cleaning,5.45,liter
+BrandA Pasta,Food,2.55,piece
+DailyCare Bleach,Cleaning,10.39,liter
+GreenChoice Muffin,Bakery,2.45,kg
+DailyCare Cheese,Dairy,9.66,liter
+BrandB Pillow,Household,32.6,piece
+NaturePlus Floor Cleaner,Cleaning,5.29,piece
+BrandA Glass Cleaner,Cleaning,1.16,piece
+DailyCare Toothpaste,Personal Care,5.0,piece
+BrandC Croissant,Bakery,2.11,piece
+NaturePlus Petrol,Transport,3.44,liter
+NaturePlus Beans,Food,2.6,piece
+GreenChoice Sweater,Clothing,2.46,piece
+BrandB Lamp,Household,9.48,piece
+GoodFarm Rice,Food,1.61,kg
+EcoLife Chair,Household,24.95,piece
+BrandC Pasta,Food,1.65,pack
+EcoLife Toothpaste,Personal Care,2.24,piece
+BrandC Cat Food,Pet Supplies,2.31,piece
+EcoLife Phone,Electronics,143.54,piece
+NaturePlus Shirt,Clothing,18.04,piece
+NaturePlus Bus Ticket,Transport,4.84,km
+BrandC Carrot,Vegetables,1.78,kg
+NaturePlus Rice,Food,4.29,kg
+BrandA Bicycle,Transport,2.79,liter
+DailyCare Muffin,Bakery,4.26,piece
+DailyCare TV,Electronics,35.95,piece
+DailyCare Coffee,Beverages,2.93,bottle
+EcoLife Cake,Bakery,4.39,kg
+NaturePlus Cream,Dairy,2.42,liter
+BrandC Cake,Bakery,1.16,kg
+GoodFarm Milk,Dairy,8.44,kg
+BrandC Toothpaste,Personal Care,4.39,piece
+DailyCare Butter,Dairy,4.07,kg
+GreenChoice Lentils,Food,3.89,pack
+BrandB Chair,Household,13.78,piece
+NaturePlus Beef,Meat,14.86,kg
+HomeEssentials Floor Cleaner,Cleaning,12.53,kg
+BrandC Cat Food,Pet Supplies,3.08,kg
+BrandA Pen,Stationery,4.0,piece
+BrandB Pasta,Food,4.67,pack
+GoodFarm Cream,Dairy,6.89,kg
+HomeEssentials Coffee,Beverages,1.65,liter
+BrandA Litter,Pet Supplies,2.98,kg
+GoodFarm Toothpaste,Personal Care,1.52,piece
+HomeEssentials Train Ticket,Transport,3.73,liter
+GoodFarm Petrol,Transport,0.62,liter
+BrandC Bicycle,Transport,3.66,liter
+EcoLife Marker,Stationery,4.44,piece
+GreenChoice Mattress,Household,49.94,piece
+EcoLife Orange,Fruits,1.1,kg
+GoodFarm Dish Soap,Cleaning,7.37,kg
+DailyCare Jeans,Clothing,4.13,piece
+GoodFarm Grapes,Fruits,1.46,kg
+DailyCare Tablet,Electronics,193.99,piece
+HomeEssentials Marker,Stationery,3.15,piece
+BrandC Deodorant,Personal Care,3.13,piece
+GoodFarm Juice,Beverages,1.23,bottle
+BrandB Pillow,Household,14.62,piece
+GoodFarm Yogurt,Dairy,2.9,liter
+DailyCare Beans,Food,3.86,piece
+DailyCare Pet Shampoo,Pet Supplies,4.18,piece
+HomeEssentials Beef,Meat,26.8,kg
+GreenChoice Floor Cleaner,Cleaning,8.55,liter
+EcoLife Water,Beverages,1.26,liter
+BrandC Jeans,Clothing,8.83,piece
+BrandA Headphones,Electronics,140.87,piece
+BrandB Tomato,Vegetables,1.39,kg
+HomeEssentials Floor Cleaner,Cleaning,6.1,piece
+NaturePlus Pen,Stationery,0.98,piece
+BrandA Onion,Vegetables,1.4,piece
+BrandC Jacket,Clothing,4.59,piece
+BrandB Bicycle,Transport,4.2,liter
+GreenChoice Pen,Stationery,4.7,piece
+BrandA Headphones,Electronics,156.38,piece
+GoodFarm Spinach,Vegetables,0.17,kg
+BrandC Bleach,Cleaning,14.54,liter
+NaturePlus Petrol,Transport,0.12,liter
+NaturePlus Cat Food,Pet Supplies,8.97,kg
+BrandC Turkey,Meat,22.2,kg
+BrandC TV,Electronics,56.49,piece
+NaturePlus Butter,Dairy,2.13,liter
+GoodFarm Sweater,Clothing,18.52,piece
+BrandB Chicken,Meat,15.7,kg
+DailyCare Grapes,Fruits,0.88,piece
+BrandA Tablet,Electronics,94.98,piece
+GoodFarm Cake,Bakery,3.04,piece
+BrandB Tea,Beverages,1.32,bottle
+BrandA Tablet,Electronics,174.37,piece
+GoodFarm Butter,Dairy,5.51,kg
+HomeEssentials Bicycle,Transport,2.85,liter
+EcoLife Turkey,Meat,8.06,kg
+GreenChoice Pet Shampoo,Pet Supplies,4.87,piece
+BrandA Diesel,Transport,2.59,km
+GoodFarm Bus Ticket,Transport,0.34,km
+GreenChoice Table,Household,23.45,piece
+DailyCare Bleach,Cleaning,10.69,kg
+BrandB Floor Cleaner,Cleaning,8.85,piece
+GreenChoice Pet Toy,Pet Supplies,6.0,piece
+HomeEssentials Tomato,Vegetables,1.41,piece
+GoodFarm Dog Food,Pet Supplies,4.82,kg
+EcoLife Bread,Bakery,3.1,kg
+NaturePlus Detergent,Cleaning,7.12,piece
+DailyCare Pasta,Food,4.01,piece
+GreenChoice Glass Cleaner,Cleaning,3.36,liter
+DailyCare Petrol,Transport,3.11,liter
+GreenChoice T-shirt,Clothing,3.96,piece
+NaturePlus Pet Shampoo,Pet Supplies,7.23,piece
+EcoLife Coke,Beverages,2.8,bottle
+HomeEssentials Mango,Fruits,1.33,piece
+DailyCare Train Ticket,Transport,1.59,liter
+HomeEssentials Bus Ticket,Transport,0.54,liter
+NaturePlus Coffee,Beverages,2.03,liter
+BrandA Butter,Dairy,3.73,kg
+DailyCare Toothpaste,Personal Care,4.45,piece
+BrandB Cake,Bakery,1.27,kg
+GreenChoice Sweater,Clothing,7.28,piece
+GreenChoice Croissant,Bakery,2.46,piece
+BrandB Butter,Dairy,1.3,liter
+DailyCare Bicycle,Transport,1.82,km
+NaturePlus Butter,Dairy,9.5,kg
+HomeEssentials Soap,Personal Care,1.39,piece
+EcoLife Water,Beverages,2.26,liter
+BrandC Pasta,Food,0.22,piece
+DailyCare Pen,Stationery,4.22,piece
+EcoLife Soap,Personal Care,0.72,piece
+DailyCare Dog Food,Pet Supplies,9.52,kg
+NaturePlus Shampoo,Personal Care,1.97,piece
+BrandA Bicycle,Transport,2.19,liter
+GreenChoice Pet Shampoo,Pet Supplies,1.64,kg
+GoodFarm Cream,Dairy,7.66,kg
+BrandC Litter,Pet Supplies,3.22,kg
+EcoLife Shampoo,Personal Care,3.07,piece
+BrandC Bus Ticket,Transport,3.07,liter
+BrandA Rice,Food,0.4,pack
+GreenChoice Carrot,Vegetables,1.14,piece
+NaturePlus Lentils,Food,2.88,kg
+DailyCare TV,Electronics,111.55,piece
+NaturePlus Oats,Food,4.26,pack
+BrandA Headphones,Electronics,23.52,piece
+DailyCare Pork,Meat,5.68,kg
+DailyCare Rice,Food,2.44,pack
+NaturePlus Detergent,Cleaning,6.16,liter
+GreenChoice Bicycle,Transport,1.25,liter
+GoodFarm Shampoo,Personal Care,1.38,piece
+EcoLife Cream,Dairy,8.19,liter
+BrandA Muffin,Bakery,3.81,piece
+NaturePlus Pet Toy,Pet Supplies,5.31,piece
+BrandB Tomato,Vegetables,0.23,kg
+GoodFarm Butter,Dairy,2.54,kg
+GoodFarm Oats,Food,1.07,piece
+HomeEssentials Jeans,Clothing,3.52,piece
+GoodFarm Bus Ticket,Transport,2.23,km
+NaturePlus Pillow,Household,26.27,piece
+HomeEssentials Yogurt,Dairy,0.82,liter
+DailyCare Shirt,Clothing,10.03,piece
+BrandA Floor Cleaner,Cleaning,6.46,kg
+DailyCare Juice,Beverages,2.36,bottle
+HomeEssentials Lentils,Food,3.93,piece
+NaturePlus Butter,Dairy,2.77,liter
+BrandA Butter,Dairy,7.0,kg
+BrandC Headphones,Electronics,99.77,piece
+BrandC Stapler,Stationery,2.18,piece
+EcoLife Train Ticket,Transport,0.85,liter
+GreenChoice Coke,Beverages,2.72,bottle
+BrandA Coke,Beverages,2.83,liter
+BrandA Potato,Vegetables,1.96,piece
+DailyCare Tomato,Vegetables,0.75,kg
+GreenChoice Dog Food,Pet Supplies,5.82,kg
+HomeEssentials Soap,Personal Care,3.79,piece
+GoodFarm Table,Household,33.41,piece
+GoodFarm Muffin,Bakery,3.43,kg
+EcoLife Butter,Dairy,2.4,liter
+BrandB Bagel,Bakery,2.82,piece
+EcoLife Pet Shampoo,Pet Supplies,1.34,piece
+GoodFarm Train Ticket,Transport,2.2,liter
+BrandC Shampoo,Personal Care,3.54,piece
+BrandB Petrol,Transport,2.19,liter
+HomeEssentials Pet Shampoo,Pet Supplies,6.75,kg
+EcoLife Bagel,Bakery,0.95,kg
+NaturePlus Lentils,Food,2.35,pack
+HomeEssentials Bagel,Bakery,0.97,piece
+BrandC Chicken,Meat,10.49,kg
+BrandA Potato,Vegetables,1.8,piece
+NaturePlus Bread,Bakery,4.82,piece
+DailyCare Tea,Beverages,2.5,bottle
+DailyCare Phone,Electronics,30.98,piece
+NaturePlus Apple,Fruits,0.43,kg
+BrandC Cake,Bakery,0.36,piece
+DailyCare Grapes,Fruits,0.94,kg
+BrandB Marker,Stationery,1.91,piece
+GreenChoice Pen,Stationery,3.41,piece
+GoodFarm Jacket,Clothing,8.08,piece
+BrandB Lentils,Food,0.64,kg
+NaturePlus Apple,Fruits,0.37,kg
+BrandC Train Ticket,Transport,3.75,liter
+BrandA Rice,Food,1.45,kg
+HomeEssentials Water,Beverages,0.82,liter
+HomeEssentials Cheese,Dairy,9.37,liter
+GreenChoice Dish Soap,Cleaning,11.63,piece
+GoodFarm Bread,Bakery,2.74,kg
+EcoLife Potato,Vegetables,0.82,piece
+BrandA Coffee,Beverages,2.87,liter
+BrandA Chicken,Meat,17.98,kg
+GreenChoice Croissant,Bakery,1.26,piece
+NaturePlus Floor Cleaner,Cleaning,2.86,kg
+HomeEssentials Milk,Dairy,6.15,kg
+EcoLife Table,Household,16.26,piece
+BrandB TV,Electronics,135.11,piece
+GreenChoice Tomato,Vegetables,1.25,kg
+EcoLife Tomato,Vegetables,0.32,piece
+BrandB Bicycle,Transport,2.16,km
+NaturePlus Yogurt,Dairy,9.06,kg
+BrandC Pet Shampoo,Pet Supplies,8.17,kg
+GoodFarm Cat Food,Pet Supplies,7.57,piece
+EcoLife Lamp,Household,25.41,piece
+BrandC Croissant,Bakery,2.85,piece
+BrandA Yogurt,Dairy,8.67,liter
+BrandC Lamp,Household,48.81,piece
+BrandA Coke,Beverages,0.42,liter
+BrandA Detergent,Cleaning,9.72,kg
+GreenChoice Grapes,Fruits,1.86,piece
+DailyCare Chair,Household,44.94,piece
+BrandB Train Ticket,Transport,0.26,liter
+GoodFarm Potato,Vegetables,1.02,piece
+EcoLife Coke,Beverages,2.99,liter
+EcoLife Water,Beverages,1.11,liter
+DailyCare Nuts,Food,4.48,pack
+BrandB Shirt,Clothing,14.5,piece
+BrandB Turkey,Meat,20.98,kg
+GreenChoice Pillow,Household,30.03,piece
+BrandC Lotion,Personal Care,3.47,piece
+HomeEssentials Dish Soap,Cleaning,5.6,kg
+HomeEssentials Tea,Beverages,2.86,bottle
+BrandC Toothpaste,Personal Care,2.93,piece
+BrandA Croissant,Bakery,1.69,piece
+HomeEssentials Cream,Dairy,8.16,liter
+GoodFarm Tomato,Vegetables,0.76,piece
+GreenChoice Train Ticket,Transport,3.24,km
+BrandC Deodorant,Personal Care,3.39,piece
+EcoLife Shampoo,Personal Care,4.8,piece
+NaturePlus Sweater,Clothing,18.15,piece
+HomeEssentials Chicken,Meat,18.15,kg
+GoodFarm Detergent,Cleaning,6.01,piece
+BrandB Lotion,Personal Care,0.8,piece
+GreenChoice Grapes,Fruits,0.33,kg
+BrandB Tomato,Vegetables,0.14,kg
+BrandB Shampoo,Personal Care,2.6,piece
+NaturePlus T-shirt,Clothing,15.06,piece
+GoodFarm Lamb,Meat,24.94,kg
+EcoLife Coke,Beverages,2.26,liter
+NaturePlus Milk,Dairy,1.13,liter
+BrandC Coffee,Beverages,0.7,liter
+BrandC Bagel,Bakery,3.03,piece
+BrandB Detergent,Cleaning,11.94,liter
+HomeEssentials Beef,Meat,22.24,kg
+GreenChoice Orange,Fruits,0.83,kg
+GoodFarm Potato,Vegetables,1.98,piece
+DailyCare Butter,Dairy,1.02,kg
+HomeEssentials Croissant,Bakery,4.71,piece
+GoodFarm Lotion,Personal Care,3.51,piece
+BrandC Turkey,Meat,19.69,kg
+BrandB Pet Shampoo,Pet Supplies,5.23,kg
+GreenChoice Notebook,Stationery,4.14,piece
+BrandC Muffin,Bakery,0.53,kg
+GoodFarm Chair,Household,33.75,piece
+DailyCare Potato,Vegetables,0.64,piece
+DailyCare Grapes,Fruits,1.36,kg
+HomeEssentials Pork,Meat,12.36,kg
+GoodFarm Lotion,Personal Care,1.91,piece
+HomeEssentials Milk,Dairy,4.07,kg
+BrandA Chair,Household,21.67,piece
+GreenChoice Tea,Beverages,1.48,liter
+EcoLife Glass Cleaner,Cleaning,13.64,liter
+BrandC Table,Household,11.95,piece
+EcoLife Paper Pack,Stationery,2.84,piece
+GreenChoice Diesel,Transport,2.28,km
+DailyCare Bus Ticket,Transport,4.61,km
+BrandC Water,Beverages,1.37,bottle
+BrandA Cat Food,Pet Supplies,4.77,piece
+BrandB Bagel,Bakery,1.64,kg
+GreenChoice Chicken,Meat,26.68,kg
+EcoLife Notebook,Stationery,3.53,piece
+BrandA Chair,Household,3.48,piece
+GreenChoice Deodorant,Personal Care,0.65,piece
+GreenChoice Phone,Electronics,198.87,piece
+BrandA Tablet,Electronics,123.25,piece
+GreenChoice Toothpaste,Personal Care,4.04,piece
+GoodFarm Tea,Beverages,2.38,bottle
+DailyCare Floor Cleaner,Cleaning,5.94,piece
+GoodFarm Cake,Bakery,3.81,kg
+BrandA Lentils,Food,3.34,pack
+BrandA Glass Cleaner,Cleaning,7.52,kg
+GreenChoice Pen,Stationery,4.74,piece
+BrandC Shirt,Clothing,3.07,piece
+EcoLife Beans,Food,1.88,pack
+HomeEssentials Mattress,Household,17.58,piece
+NaturePlus Coffee,Beverages,2.12,liter
+EcoLife Pasta,Food,3.56,kg
+EcoLife Dog Food,Pet Supplies,5.93,kg
+EcoLife Chair,Household,2.57,piece
+NaturePlus Coke,Beverages,1.2,liter
+GreenChoice Shirt,Clothing,16.23,piece
+BrandC Jeans,Clothing,7.27,piece
+BrandA Diesel,Transport,0.57,km
+BrandC Notebook,Stationery,1.94,piece
+DailyCare Paper Pack,Stationery,1.21,piece
+BrandC Pillow,Household,40.95,piece
+BrandC Toothpaste,Personal Care,1.09,piece
+EcoLife Lentils,Food,2.59,pack
+BrandA Nuts,Food,1.25,kg
+BrandA Toothpaste,Personal Care,4.11,piece
+GoodFarm Grapes,Fruits,1.04,piece
+BrandA Pen,Stationery,3.62,piece
+NaturePlus Coke,Beverages,1.33,bottle
+BrandA Beef,Meat,11.51,kg
+BrandC Carrot,Vegetables,0.79,piece
+BrandB Table,Household,48.03,piece
+NaturePlus Carrot,Vegetables,1.49,kg
+HomeEssentials Nuts,Food,0.75,kg
+HomeEssentials Petrol,Transport,0.38,km
+NaturePlus Bread,Bakery,2.14,piece
+BrandB Laptop,Electronics,174.59,piece
+BrandB Beef,Meat,11.0,kg
+GreenChoice Turkey,Meat,22.1,kg
+GreenChoice Phone,Electronics,40.67,piece
+NaturePlus Table,Household,36.12,piece
+BrandB Pasta,Food,2.22,pack
+GreenChoice Detergent,Cleaning,3.91,liter
+EcoLife T-shirt,Clothing,13.57,piece
+NaturePlus Bagel,Bakery,2.49,piece
+EcoLife Mango,Fruits,1.38,kg
+BrandC Orange,Fruits,0.15,piece
+DailyCare Cheese,Dairy,7.97,kg
+DailyCare Beans,Food,1.98,pack
+HomeEssentials Turkey,Meat,13.94,kg
+BrandB Nuts,Food,2.91,pack
+BrandB Lamp,Household,29.91,piece
+NaturePlus Lotion,Personal Care,2.41,piece
+BrandB Chair,Household,27.56,piece
+EcoLife Rice,Food,2.63,pack
+BrandC Apple,Fruits,0.25,piece
+GreenChoice Cream,Dairy,9.43,liter
+HomeEssentials Pet Shampoo,Pet Supplies,3.04,piece
+GreenChoice Bread,Bakery,2.09,piece
+BrandC Butter,Dairy,9.11,liter
+GreenChoice Chicken,Meat,11.66,kg
+BrandA Pillow,Household,18.35,piece
+BrandA Petrol,Transport,2.38,liter
+NaturePlus Mango,Fruits,0.11,piece
+BrandC Potato,Vegetables,0.77,kg
+GreenChoice Mattress,Household,1.37,piece
+BrandC Litter,Pet Supplies,2.52,kg
+EcoLife Stapler,Stationery,2.49,piece
+NaturePlus Coke,Beverages,1.14,liter
+HomeEssentials TV,Electronics,186.54,piece
+HomeEssentials Bus Ticket,Transport,4.79,liter
+BrandB Milk,Dairy,2.02,kg
+BrandA Bread,Bakery,4.39,piece
+DailyCare Dish Soap,Cleaning,5.38,piece
+BrandA Phone,Electronics,48.4,piece
+BrandB Onion,Vegetables,0.36,piece
+GreenChoice Milk,Dairy,6.06,liter
+GoodFarm Shampoo,Personal Care,2.13,piece
+GoodFarm Marker,Stationery,3.34,piece
+NaturePlus Table,Household,42.58,piece
+BrandB Petrol,Transport,4.54,liter
+HomeEssentials Floor Cleaner,Cleaning,11.45,kg
+HomeEssentials Notebook,Stationery,3.77,piece
+BrandB Milk,Dairy,6.01,kg
+EcoLife Pen,Stationery,0.96,piece
+GreenChoice Spinach,Vegetables,0.98,piece
+BrandC T-shirt,Clothing,8.04,piece
+GreenChoice Soap,Personal Care,0.89,piece
+NaturePlus Grapes,Fruits,1.8,kg
+BrandA Lamb,Meat,8.04,kg
+GreenChoice Turkey,Meat,8.13,kg
+BrandB T-shirt,Clothing,5.78,piece
+GreenChoice Dish Soap,Cleaning,8.12,liter
+EcoLife Coffee,Beverages,2.94,liter
+GoodFarm Paper Pack,Stationery,1.14,piece
+EcoLife Marker,Stationery,3.59,piece
+NaturePlus Phone,Electronics,142.6,piece
+DailyCare Apple,Fruits,1.65,piece
+BrandB Diesel,Transport,4.48,liter
+BrandC Diesel,Transport,0.46,liter
+BrandC Apple,Fruits,1.66,kg
+GreenChoice Glass Cleaner,Cleaning,2.07,liter
+DailyCare Deodorant,Personal Care,4.9,piece
+BrandB Nuts,Food,1.93,piece
+DailyCare Carrot,Vegetables,1.84,kg
+DailyCare Chicken,Meat,22.76,kg
+BrandC Jacket,Clothing,6.33,piece
+BrandB Jacket,Clothing,15.56,piece
+NaturePlus Lamp,Household,35.74,piece
+GoodFarm Cat Food,Pet Supplies,7.31,piece
+NaturePlus Nuts,Food,2.75,kg
+GoodFarm Headphones,Electronics,94.05,piece
+BrandB Litter,Pet Supplies,0.99,kg
+HomeEssentials Pork,Meat,20.91,kg
+HomeEssentials Onion,Vegetables,1.91,piece
+NaturePlus Laptop,Electronics,38.58,piece
+BrandC Cake,Bakery,2.76,kg
+GreenChoice Turkey,Meat,8.86,kg
+EcoLife Mango,Fruits,1.74,piece
+GoodFarm Coke,Beverages,2.77,liter
+GreenChoice Chair,Household,7.72,piece
+EcoLife Rice,Food,2.7,kg
+BrandC Carrot,Vegetables,1.4,kg
+NaturePlus Coke,Beverages,2.69,liter
+EcoLife Sweater,Clothing,7.17,piece
+HomeEssentials Pork,Meat,26.08,kg
+HomeEssentials Litter,Pet Supplies,2.31,kg
+BrandC Beans,Food,3.24,kg
+BrandA Shampoo,Personal Care,1.41,piece
+BrandB Apple,Fruits,1.49,kg
+BrandC Beans,Food,3.03,pack
+NaturePlus Dog Food,Pet Supplies,2.74,piece
+GoodFarm Headphones,Electronics,140.53,piece
+DailyCare Mango,Fruits,1.87,piece
+BrandA Dish Soap,Cleaning,2.07,piece
+GoodFarm Lamb,Meat,11.98,kg
+GoodFarm Potato,Vegetables,1.21,kg
+GreenChoice Pasta,Food,3.99,piece
+NaturePlus Oats,Food,3.08,kg
+HomeEssentials Dish Soap,Cleaning,3.87,liter
+DailyCare Chair,Household,35.67,piece
+BrandB Beef,Meat,29.76,kg
+GreenChoice Cat Food,Pet Supplies,7.42,kg
+GreenChoice Tomato,Vegetables,0.68,kg
+NaturePlus Train Ticket,Transport,3.43,km
+EcoLife Onion,Vegetables,1.27,kg
+GreenChoice Beans,Food,1.48,kg
+BrandC Soap,Personal Care,2.72,piece
+GreenChoice Chair,Household,46.31,piece
+DailyCare Dog Food,Pet Supplies,5.82,kg
+GreenChoice TV,Electronics,145.56,piece
+EcoLife Shirt,Clothing,6.15,piece
+GoodFarm Orange,Fruits,1.69,piece
+GreenChoice Cheese,Dairy,2.34,kg
+DailyCare Table,Household,1.14,piece
+DailyCare Deodorant,Personal Care,2.49,piece
+GreenChoice Petrol,Transport,4.58,liter
+NaturePlus Laptop,Electronics,156.79,piece
+EcoLife Dish Soap,Cleaning,11.23,piece
+BrandB Nuts,Food,4.24,piece
+NaturePlus Marker,Stationery,4.68,piece
+GreenChoice Tomato,Vegetables,1.19,kg
+NaturePlus Table,Household,33.47,piece
+HomeEssentials Floor Cleaner,Cleaning,5.47,liter
+BrandA Lamp,Household,0.79,piece
+HomeEssentials Dish Soap,Cleaning,1.12,liter
+HomeEssentials Grapes,Fruits,0.87,piece
+GoodFarm Glass Cleaner,Cleaning,11.75,kg
+BrandB Lotion,Personal Care,4.91,piece
+BrandC Nuts,Food,4.07,piece
+BrandC Deodorant,Personal Care,4.7,piece
+DailyCare Detergent,Cleaning,9.25,kg
+GoodFarm Chair,Household,13.57,piece
+DailyCare Lentils,Food,2.89,pack
+GoodFarm Detergent,Cleaning,9.15,liter
+GoodFarm Dog Food,Pet Supplies,6.83,piece
+HomeEssentials Cat Food,Pet Supplies,3.67,piece
+NaturePlus Cheese,Dairy,9.22,kg
+HomeEssentials Butter,Dairy,1.12,liter
+BrandC Notebook,Stationery,2.97,piece
+EcoLife Muffin,Bakery,3.15,piece
+DailyCare Pet Toy,Pet Supplies,2.79,piece
+GoodFarm Coke,Beverages,2.87,bottle
+GoodFarm Floor Cleaner,Cleaning,11.23,piece
+BrandA Bread,Bakery,4.88,kg
+BrandA Potato,Vegetables,1.15,piece
+EcoLife Cheese,Dairy,6.48,kg
+GoodFarm T-shirt,Clothing,8.18,piece
+GreenChoice Jacket,Clothing,15.91,piece
+GoodFarm Jeans,Clothing,16.97,piece
+GreenChoice Mattress,Household,13.17,piece
+NaturePlus Bread,Bakery,4.33,piece
+EcoLife Bread,Bakery,4.98,piece
+BrandA Tomato,Vegetables,1.25,piece
+BrandB Carrot,Vegetables,1.64,piece
+BrandC Cream,Dairy,5.24,liter
+EcoLife Bleach,Cleaning,7.41,piece
+GoodFarm Apple,Fruits,0.86,piece
+GoodFarm Coke,Beverages,1.48,bottle
+BrandB Lamp,Household,22.17,piece
+GreenChoice Grapes,Fruits,1.65,kg
+NaturePlus Bagel,Bakery,2.42,kg
+EcoLife T-shirt,Clothing,6.2,piece
+BrandC Litter,Pet Supplies,8.67,kg
+GoodFarm Lotion,Personal Care,4.02,piece
+BrandC Floor Cleaner,Cleaning,9.1,piece
+EcoLife Muffin,Bakery,2.41,kg
+GoodFarm Stapler,Stationery,4.95,piece
+GoodFarm Detergent,Cleaning,7.66,kg
+GoodFarm Butter,Dairy,5.8,liter
+GreenChoice Pet Toy,Pet Supplies,0.59,kg
+DailyCare Croissant,Bakery,2.82,piece
+BrandC Pet Shampoo,Pet Supplies,7.13,kg
+GreenChoice Jacket,Clothing,5.98,piece
+HomeEssentials Jacket,Clothing,17.61,piece
+NaturePlus Lotion,Personal Care,2.94,piece
+HomeEssentials Pen,Stationery,2.42,piece
+GreenChoice Toothpaste,Personal Care,1.72,piece
+NaturePlus Laptop,Electronics,44.33,piece
+BrandC Carrot,Vegetables,1.45,kg
+GreenChoice Dish Soap,Cleaning,6.64,kg
+BrandA Headphones,Electronics,110.76,piece
+BrandB Cake,Bakery,4.03,kg
+NaturePlus Milk,Dairy,5.63,kg
+DailyCare Tea,Beverages,2.64,bottle
+BrandC Toothpaste,Personal Care,0.89,piece
+EcoLife Banana,Fruits,0.46,piece
+GoodFarm Cat Food,Pet Supplies,3.97,piece
+HomeEssentials Pet Toy,Pet Supplies,0.45,kg
+DailyCare Train Ticket,Transport,0.66,km
+DailyCare Headphones,Electronics,146.06,piece
+DailyCare Pork,Meat,25.06,kg
+HomeEssentials Coffee,Beverages,2.75,bottle
+DailyCare Deodorant,Personal Care,3.26,piece
+BrandC Mango,Fruits,1.75,piece
+HomeEssentials Laptop,Electronics,140.93,piece
+NaturePlus Muffin,Bakery,1.9,kg
+BrandC Litter,Pet Supplies,9.54,kg
+BrandA Glass Cleaner,Cleaning,10.75,kg
+NaturePlus Water,Beverages,0.51,bottle
+GoodFarm Tomato,Vegetables,1.39,kg
+BrandA Mango,Fruits,0.26,piece
+BrandA Orange,Fruits,1.0,piece
+BrandA Muffin,Bakery,2.82,kg
+HomeEssentials Orange,Fruits,1.16,kg
+GoodFarm Jacket,Clothing,9.75,piece
+EcoLife Mattress,Household,45.91,piece
+GreenChoice Pet Shampoo,Pet Supplies,9.8,kg
+BrandC Orange,Fruits,0.5,piece
+BrandC Paper Pack,Stationery,3.9,piece
+BrandC Tomato,Vegetables,1.25,piece
+DailyCare Bagel,Bakery,4.42,piece
+BrandC Juice,Beverages,0.94,liter
+NaturePlus Beans,Food,0.81,pack
+NaturePlus Potato,Vegetables,0.6,kg
+GoodFarm Cream,Dairy,2.87,kg
+NaturePlus Floor Cleaner,Cleaning,14.51,piece
+BrandB Bicycle,Transport,2.01,liter
+HomeEssentials Petrol,Transport,3.9,km
+GoodFarm Shirt,Clothing,3.9,piece
+BrandA Lentils,Food,3.46,pack
+BrandC Bleach,Cleaning,9.29,liter
+BrandB Apple,Fruits,1.61,piece
+BrandB TV,Electronics,48.17,piece
+NaturePlus Paper Pack,Stationery,2.0,piece
+BrandC Laptop,Electronics,86.75,piece
+GoodFarm Cream,Dairy,2.94,kg
+BrandC Coffee,Beverages,2.54,liter
+GreenChoice Lotion,Personal Care,1.9,piece
+EcoLife Pet Shampoo,Pet Supplies,1.68,piece
+BrandA Grapes,Fruits,1.5,kg
+BrandA Floor Cleaner,Cleaning,1.02,piece
+BrandC Lamp,Household,33.49,piece
+GoodFarm Oats,Food,0.87,kg
+EcoLife Tea,Beverages,2.27,bottle
+BrandC Potato,Vegetables,0.65,kg
+BrandB Carrot,Vegetables,0.37,kg
+BrandC Nuts,Food,2.13,kg
+EcoLife Glass Cleaner,Cleaning,9.08,piece
+GoodFarm Stapler,Stationery,3.21,piece
+GoodFarm Nuts,Food,4.23,pack
+BrandA Apple,Fruits,1.04,kg
+BrandB Carrot,Vegetables,1.69,piece
+DailyCare Lotion,Personal Care,3.03,piece
+BrandA Croissant,Bakery,3.48,piece
+BrandC Turkey,Meat,13.83,kg
+BrandA Marker,Stationery,0.9,piece
+EcoLife Orange,Fruits,0.33,piece
+BrandA Marker,Stationery,4.6,piece
+EcoLife Water,Beverages,1.0,bottle
+DailyCare Cheese,Dairy,8.3,kg
+BrandA Mango,Fruits,1.33,piece
+EcoLife Apple,Fruits,0.94,piece
+HomeEssentials Litter,Pet Supplies,2.49,piece
+BrandA Train Ticket,Transport,2.57,km
+BrandC Sweater,Clothing,7.92,piece
+NaturePlus Rice,Food,4.73,kg
+BrandB Marker,Stationery,3.83,piece
+EcoLife Apple,Fruits,1.75,kg
+DailyCare Diesel,Transport,0.18,liter
+BrandA Jeans,Clothing,2.07,piece
+DailyCare Apple,Fruits,0.92,piece
+BrandC Onion,Vegetables,1.31,piece
+EcoLife Yogurt,Dairy,5.38,kg
+DailyCare Litter,Pet Supplies,4.85,kg
+HomeEssentials Chicken,Meat,6.35,kg
+BrandC Litter,Pet Supplies,2.44,piece
+BrandA Bagel,Bakery,1.6,piece
+GreenChoice Glass Cleaner,Cleaning,9.07,piece
+GoodFarm Phone,Electronics,109.56,piece
+EcoLife Litter,Pet Supplies,9.7,piece
+DailyCare Pet Toy,Pet Supplies,3.65,kg
+NaturePlus Bicycle,Transport,3.27,km
+NaturePlus Juice,Beverages,1.03,bottle
+NaturePlus Lotion,Personal Care,1.37,piece
+HomeEssentials Diesel,Transport,0.94,km
+GreenChoice Orange,Fruits,1.27,piece
+BrandB T-shirt,Clothing,19.69,piece
+GoodFarm Pet Shampoo,Pet Supplies,6.0,kg
+GoodFarm Juice,Beverages,2.2,liter
+GoodFarm Beans,Food,2.62,kg
+BrandA Pasta,Food,0.64,piece
+GreenChoice Nuts,Food,0.27,piece
+BrandA Notebook,Stationery,2.95,piece
+BrandA Lamb,Meat,9.98,kg
+GoodFarm Spinach,Vegetables,1.46,kg
+NaturePlus Diesel,Transport,1.08,km
+GoodFarm Bus Ticket,Transport,2.77,liter
+EcoLife Potato,Vegetables,1.95,kg
+BrandB Bicycle,Transport,4.4,km
+GreenChoice Dog Food,Pet Supplies,5.09,kg
+EcoLife Notebook,Stationery,0.46,piece
+BrandA Glass Cleaner,Cleaning,4.23,liter
+HomeEssentials Juice,Beverages,1.72,bottle
+BrandB Chair,Household,19.26,piece
+GreenChoice Detergent,Cleaning,10.46,liter
+NaturePlus Muffin,Bakery,1.18,kg
+GreenChoice Pen,Stationery,3.91,piece
+NaturePlus Stapler,Stationery,2.72,piece
+BrandC Table,Household,24.62,piece
+HomeEssentials Paper Pack,Stationery,4.49,piece
+HomeEssentials Milk,Dairy,4.07,kg
+BrandC Potato,Vegetables,1.2,kg
+EcoLife Notebook,Stationery,4.55,piece
+EcoLife Shampoo,Personal Care,4.4,piece
+BrandB Lentils,Food,2.89,piece
+EcoLife Deodorant,Personal Care,3.08,piece
+HomeEssentials Tablet,Electronics,80.88,piece
+DailyCare Laptop,Electronics,85.55,piece
+GreenChoice Rice,Food,1.7,kg
+EcoLife Sweater,Clothing,12.72,piece
+DailyCare Soap,Personal Care,1.99,piece
+BrandA Pet Shampoo,Pet Supplies,3.04,piece
+DailyCare Bread,Bakery,2.59,kg
+GoodFarm Dog Food,Pet Supplies,6.71,kg
+NaturePlus Glass Cleaner,Cleaning,9.11,liter
+HomeEssentials Croissant,Bakery,1.85,kg
+GreenChoice Cat Food,Pet Supplies,6.95,kg
+HomeEssentials Paper Pack,Stationery,2.23,piece
+GreenChoice Tomato,Vegetables,0.16,piece
+EcoLife Train Ticket,Transport,0.13,liter
+GoodFarm Coke,Beverages,0.76,bottle
+BrandA Tomato,Vegetables,1.62,piece
+GoodFarm Deodorant,Personal Care,1.07,piece
+NaturePlus Milk,Dairy,7.35,kg
+BrandA Bus Ticket,Transport,2.42,km
+BrandA Mattress,Household,31.31,piece
+NaturePlus Orange,Fruits,0.81,piece
+HomeEssentials Shirt,Clothing,13.58,piece
+BrandA Pet Shampoo,Pet Supplies,3.73,piece
+BrandA Bicycle,Transport,4.44,km
+NaturePlus Laptop,Electronics,111.64,piece
+HomeEssentials Pasta,Food,3.9,piece
+BrandA Pork,Meat,10.28,kg
+GoodFarm Marker,Stationery,4.32,piece
+NaturePlus Pen,Stationery,0.79,piece
+BrandC Tomato,Vegetables,1.67,kg
+BrandC Bleach,Cleaning,6.92,kg
+HomeEssentials Lentils,Food,2.15,pack
+BrandC Milk,Dairy,7.95,kg
+BrandA TV,Electronics,61.06,piece
+BrandB Jacket,Clothing,8.34,piece
+DailyCare Phone,Electronics,153.45,piece
+GreenChoice Lotion,Personal Care,0.95,piece
+BrandB Turkey,Meat,8.96,kg
+EcoLife Carrot,Vegetables,1.68,kg
+NaturePlus Mattress,Household,21.77,piece
+BrandB Jacket,Clothing,17.59,piece
+DailyCare Jacket,Clothing,17.66,piece
+DailyCare Bagel,Bakery,3.77,kg
+HomeEssentials Dog Food,Pet Supplies,8.81,kg
+NaturePlus Butter,Dairy,1.78,liter
+NaturePlus Water,Beverages,2.18,liter
+BrandA Paper Pack,Stationery,3.87,piece
+GoodFarm Pet Shampoo,Pet Supplies,5.54,piece
+BrandA Bleach,Cleaning,11.68,piece
+HomeEssentials Mango,Fruits,1.48,piece
+NaturePlus Glass Cleaner,Cleaning,8.78,liter
+NaturePlus Apple,Fruits,1.63,piece
+GreenChoice Yogurt,Dairy,1.45,liter
+HomeEssentials Glass Cleaner,Cleaning,5.63,piece
+GreenChoice Shampoo,Personal Care,0.36,piece
+GreenChoice Pork,Meat,7.4,kg
+GoodFarm Oats,Food,3.39,pack
+NaturePlus Sweater,Clothing,2.78,piece
+NaturePlus Lamb,Meat,26.13,kg
+BrandC Bus Ticket,Transport,2.01,km
+BrandB Bus Ticket,Transport,2.78,liter
+BrandB Muffin,Bakery,1.19,kg
+NaturePlus Bagel,Bakery,0.56,kg
+EcoLife Oats,Food,4.18,piece
+BrandA Coffee,Beverages,1.19,bottle
+BrandC Beans,Food,4.23,pack
+GreenChoice Nuts,Food,2.01,kg
+EcoLife Grapes,Fruits,0.36,piece
+GreenChoice Petrol,Transport,2.21,km
+GoodFarm Coffee,Beverages,2.3,liter
+GoodFarm Lamb,Meat,16.07,kg
+GoodFarm Oats,Food,0.43,piece
+BrandA Grapes,Fruits,0.13,piece
+EcoLife TV,Electronics,155.12,piece
+DailyCare Marker,Stationery,3.91,piece
+DailyCare Tablet,Electronics,122.2,piece
+BrandC Nuts,Food,0.83,kg
+DailyCare Lamb,Meat,16.06,kg
+GreenChoice Potato,Vegetables,0.28,kg
+GreenChoice Pet Toy,Pet Supplies,4.44,kg
+BrandA Toothpaste,Personal Care,3.59,piece
+BrandB Deodorant,Personal Care,1.49,piece
+EcoLife Pet Toy,Pet Supplies,7.61,kg
+GoodFarm Detergent,Cleaning,11.35,kg
+DailyCare Juice,Beverages,0.86,bottle
+BrandA Paper Pack,Stationery,1.7,piece
+BrandB Shirt,Clothing,13.44,piece
+BrandB Detergent,Cleaning,10.84,liter
+NaturePlus Yogurt,Dairy,6.4,kg
+DailyCare Yogurt,Dairy,8.81,kg
+NaturePlus Sweater,Clothing,13.03,piece
+BrandC Tea,Beverages,0.51,liter
+EcoLife Floor Cleaner,Cleaning,14.33,liter
+HomeEssentials Pasta,Food,0.51,pack
+BrandB Tomato,Vegetables,0.55,piece
+EcoLife Onion,Vegetables,1.15,piece
+GreenChoice Turkey,Meat,12.64,kg
+BrandC Litter,Pet Supplies,5.51,kg
+DailyCare Potato,Vegetables,1.94,kg
+HomeEssentials Headphones,Electronics,199.69,piece
+EcoLife Diesel,Transport,3.69,km
+NaturePlus Pork,Meat,10.19,kg
+DailyCare Bagel,Bakery,4.5,piece
+DailyCare Mattress,Household,2.04,piece
+DailyCare Oats,Food,2.05,pack
+BrandA Bicycle,Transport,1.94,liter
+GoodFarm Cat Food,Pet Supplies,6.06,piece
+DailyCare Butter,Dairy,4.05,liter
+GreenChoice Coffee,Beverages,1.4,liter
+BrandC Coke,Beverages,2.14,bottle
+NaturePlus Pork,Meat,6.37,kg
+BrandB Coffee,Beverages,1.02,liter
+DailyCare Litter,Pet Supplies,8.07,piece
+GoodFarm Toothpaste,Personal Care,4.44,piece
+GreenChoice Chair,Household,44.18,piece
+GreenChoice Cream,Dairy,9.28,liter
+BrandC TV,Electronics,81.52,piece
+GreenChoice Oats,Food,4.58,piece
+GreenChoice Bagel,Bakery,0.92,kg
+NaturePlus Bread,Bakery,3.01,kg
+NaturePlus Diesel,Transport,2.43,km
+NaturePlus Bicycle,Transport,3.78,km
+BrandA Pet Toy,Pet Supplies,0.97,kg
+EcoLife Carrot,Vegetables,0.98,kg
+DailyCare Marker,Stationery,4.91,piece
+EcoLife Coke,Beverages,2.61,liter
+BrandB Jacket,Clothing,12.18,piece
+GoodFarm Sweater,Clothing,19.54,piece
+DailyCare Coke,Beverages,2.71,liter
+GoodFarm Bus Ticket,Transport,4.93,liter
+EcoLife Sweater,Clothing,7.71,piece
+GreenChoice Banana,Fruits,0.97,piece
+DailyCare Lentils,Food,4.08,kg
+HomeEssentials Coke,Beverages,2.96,bottle
+EcoLife Paper Pack,Stationery,4.42,piece
+GoodFarm Detergent,Cleaning,0.55,piece
+DailyCare Mattress,Household,27.4,piece
+EcoLife Banana,Fruits,0.12,kg
+BrandB Floor Cleaner,Cleaning,7.87,kg
+EcoLife Dish Soap,Cleaning,10.58,piece
+BrandA Rice,Food,1.47,pack
+BrandC Lamb,Meat,23.42,kg
+BrandA Potato,Vegetables,1.15,kg
+GoodFarm Soap,Personal Care,4.72,piece
+GoodFarm Bus Ticket,Transport,1.76,km
+GreenChoice Chicken,Meat,26.3,kg
+HomeEssentials Laptop,Electronics,178.29,piece
+GreenChoice Lentils,Food,4.94,pack
+NaturePlus Butter,Dairy,1.4,liter
+GreenChoice Stapler,Stationery,0.81,piece
+GreenChoice Jacket,Clothing,4.91,piece
+GreenChoice Mango,Fruits,0.77,piece
+NaturePlus Onion,Vegetables,0.49,kg
+DailyCare Pork,Meat,27.07,kg
+BrandC Tomato,Vegetables,1.59,kg
+HomeEssentials Pet Shampoo,Pet Supplies,1.48,kg
+BrandB Banana,Fruits,1.17,piece
+DailyCare Pillow,Household,28.59,piece
+EcoLife Yogurt,Dairy,8.09,kg
+BrandB Lotion,Personal Care,1.71,piece
+EcoLife Banana,Fruits,0.24,kg
+GreenChoice Milk,Dairy,4.34,kg
+BrandC Water,Beverages,0.84,liter
+BrandB Rice,Food,4.08,pack
+DailyCare Tomato,Vegetables,1.55,kg
+HomeEssentials Coffee,Beverages,1.26,bottle
+EcoLife Notebook,Stationery,3.66,piece
+BrandB TV,Electronics,21.78,piece
+EcoLife Pork,Meat,6.81,kg
+BrandB Yogurt,Dairy,6.02,kg
+EcoLife Spinach,Vegetables,0.7,piece
+GoodFarm Headphones,Electronics,75.53,piece
+BrandC Headphones,Electronics,129.33,piece
+GreenChoice Table,Household,36.57,piece
+GoodFarm Pet Toy,Pet Supplies,2.77,piece
+EcoLife Pet Toy,Pet Supplies,3.68,kg
+GoodFarm Paper Pack,Stationery,0.2,piece
+EcoLife Bleach,Cleaning,12.14,liter
+EcoLife Coffee,Beverages,2.43,liter
+GoodFarm Laptop,Electronics,152.73,piece
+DailyCare Soap,Personal Care,3.5,piece
+NaturePlus Jeans,Clothing,14.33,piece
+BrandC Cream,Dairy,3.87,liter
+BrandB Pillow,Household,26.45,piece
+BrandB Jacket,Clothing,13.12,piece
+GreenChoice Yogurt,Dairy,0.78,kg
+GoodFarm Carrot,Vegetables,1.23,piece
+BrandC Water,Beverages,0.49,bottle
+BrandA Pork,Meat,22.49,kg
+NaturePlus Orange,Fruits,1.11,piece
+DailyCare Banana,Fruits,1.32,kg
+BrandC Cat Food,Pet Supplies,5.17,kg
+BrandB Detergent,Cleaning,5.08,kg
+GreenChoice Petrol,Transport,3.25,km
+EcoLife Butter,Dairy,7.85,liter
+GoodFarm Orange,Fruits,1.94,piece
+GoodFarm Stapler,Stationery,2.11,piece
+BrandA Butter,Dairy,5.97,liter
+GreenChoice Headphones,Electronics,100.17,piece
+BrandA Sweater,Clothing,9.12,piece
+GoodFarm Cream,Dairy,8.3,liter
+BrandB Detergent,Cleaning,3.94,kg
+GreenChoice Tomato,Vegetables,1.31,piece
+HomeEssentials Cake,Bakery,0.59,kg
+EcoLife Tomato,Vegetables,1.47,kg
+EcoLife Glass Cleaner,Cleaning,3.9,piece
+BrandA Turkey,Meat,8.94,kg
+DailyCare Bus Ticket,Transport,4.29,liter
+DailyCare Bagel,Bakery,1.96,kg
+HomeEssentials Cake,Bakery,1.63,kg
+BrandB Muffin,Bakery,1.35,piece
+GoodFarm Glass Cleaner,Cleaning,4.34,kg
+HomeEssentials Onion,Vegetables,1.54,kg
+EcoLife Coffee,Beverages,0.87,liter
+HomeEssentials Tablet,Electronics,181.61,piece
+GreenChoice Cake,Bakery,3.3,piece
+BrandC Detergent,Cleaning,9.74,kg
+GoodFarm Shampoo,Personal Care,4.94,piece
+BrandB Paper Pack,Stationery,1.0,piece
+GoodFarm Lamp,Household,20.37,piece
+HomeEssentials Dog Food,Pet Supplies,3.5,kg
+GreenChoice Apple,Fruits,0.53,piece
+GreenChoice Soap,Personal Care,2.68,piece
+GoodFarm TV,Electronics,166.56,piece
+NaturePlus Potato,Vegetables,1.11,kg
+BrandB Water,Beverages,0.4,liter
+BrandA Croissant,Bakery,4.56,kg
+EcoLife Pet Toy,Pet Supplies,1.89,kg
+DailyCare Pet Toy,Pet Supplies,5.49,kg
+GoodFarm Dog Food,Pet Supplies,8.64,kg
+BrandA Banana,Fruits,1.01,kg
+BrandB Pork,Meat,23.23,kg
+DailyCare Croissant,Bakery,0.82,piece
+BrandA Jacket,Clothing,12.34,piece
+BrandA Nuts,Food,3.89,kg
+NaturePlus Oats,Food,3.12,kg
+NaturePlus Notebook,Stationery,3.7,piece
+NaturePlus Lentils,Food,2.57,piece
+EcoLife TV,Electronics,17.49,piece
+BrandA Pasta,Food,4.24,pack
+GreenChoice Coke,Beverages,0.32,liter
+EcoLife Lotion,Personal Care,2.73,piece
+BrandB Tea,Beverages,0.24,bottle
+NaturePlus Shampoo,Personal Care,1.59,piece
+GreenChoice Chair,Household,33.33,piece
+GoodFarm Shampoo,Personal Care,2.24,piece
+GreenChoice Detergent,Cleaning,2.76,liter
+HomeEssentials Lamb,Meat,5.51,kg
+BrandB Cake,Bakery,2.68,kg
+BrandA Tomato,Vegetables,0.13,kg
+BrandB Headphones,Electronics,143.67,piece
+EcoLife Petrol,Transport,2.05,liter
+GreenChoice Stapler,Stationery,1.75,piece
+BrandA Orange,Fruits,1.54,kg
+HomeEssentials Tomato,Vegetables,1.3,piece
+BrandC Milk,Dairy,2.49,kg
+HomeEssentials Cream,Dairy,4.97,liter
+GoodFarm Jeans,Clothing,13.11,piece
+HomeEssentials Banana,Fruits,1.3,kg
+BrandA Train Ticket,Transport,0.19,liter
+GreenChoice Glass Cleaner,Cleaning,9.47,piece
+HomeEssentials Bagel,Bakery,2.43,piece
+DailyCare Cream,Dairy,6.87,kg
+NaturePlus Onion,Vegetables,0.26,piece
+BrandB Grapes,Fruits,0.79,kg
+DailyCare Potato,Vegetables,1.77,piece
+NaturePlus Carrot,Vegetables,1.75,kg
+DailyCare Yogurt,Dairy,9.65,kg
+GreenChoice Toothpaste,Personal Care,3.27,piece
+BrandB Pet Shampoo,Pet Supplies,2.53,kg
+BrandA Carrot,Vegetables,1.61,kg
+BrandB Paper Pack,Stationery,2.75,piece
+DailyCare Lotion,Personal Care,0.51,piece
+NaturePlus Oats,Food,1.84,kg
+DailyCare Lamp,Household,21.45,piece
+GoodFarm Floor Cleaner,Cleaning,2.09,kg
+DailyCare Yogurt,Dairy,6.9,kg
+HomeEssentials Yogurt,Dairy,4.53,kg
+BrandC Table,Household,2.56,piece
+BrandB Carrot,Vegetables,1.12,piece
+DailyCare Marker,Stationery,1.14,piece
+EcoLife Stapler,Stationery,2.27,piece
+DailyCare Toothpaste,Personal Care,4.44,piece
+EcoLife Water,Beverages,1.49,liter
+BrandA Cake,Bakery,4.72,piece
+BrandB Chicken,Meat,11.13,kg
+BrandB Croissant,Bakery,2.35,kg
+NaturePlus Cheese,Dairy,2.13,liter
+BrandC Pet Toy,Pet Supplies,9.38,piece
+NaturePlus Stapler,Stationery,2.96,piece
+NaturePlus Coffee,Beverages,1.27,liter
+BrandC Tablet,Electronics,24.63,piece
+HomeEssentials Beef,Meat,14.88,kg
+GoodFarm Diesel,Transport,1.8,km
+EcoLife Bleach,Cleaning,9.78,kg
+BrandB Coffee,Beverages,1.36,liter
+BrandB Table,Household,18.98,piece
+GreenChoice Jeans,Clothing,4.52,piece
+BrandB Headphones,Electronics,97.1,piece
+BrandC Jeans,Clothing,11.57,piece
+BrandA Lamb,Meat,22.22,kg
+NaturePlus Tomato,Vegetables,1.26,kg
+BrandA Stapler,Stationery,0.76,piece
+GreenChoice Water,Beverages,1.06,liter
+GoodFarm Milk,Dairy,7.54,liter
+BrandC Carrot,Vegetables,0.65,piece
+GoodFarm Marker,Stationery,4.35,piece
+BrandC Paper Pack,Stationery,2.52,piece
+HomeEssentials Yogurt,Dairy,0.67,kg
+HomeEssentials T-shirt,Clothing,3.21,piece
+EcoLife Sweater,Clothing,12.5,piece
+GoodFarm Tomato,Vegetables,0.89,kg
+GoodFarm Marker,Stationery,2.57,piece
+EcoLife Pork,Meat,11.74,kg
+GoodFarm Beef,Meat,11.56,kg
+BrandB Spinach,Vegetables,0.49,kg
+HomeEssentials Pasta,Food,4.06,kg
+BrandB Jeans,Clothing,4.47,piece
+DailyCare Stapler,Stationery,0.67,piece
+GreenChoice Oats,Food,4.82,kg
+NaturePlus Tomato,Vegetables,1.52,piece
+GreenChoice Detergent,Cleaning,4.07,kg
+GoodFarm Bus Ticket,Transport,4.3,liter
+BrandB T-shirt,Clothing,11.4,piece
+BrandC Toothpaste,Personal Care,2.82,piece

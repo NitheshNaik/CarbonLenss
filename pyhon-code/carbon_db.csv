@@ -1,0 +1,5001 @@
+item,category,co2_per_unit,unit
+EcoLife Shirt,Clothing,2.58,piece
+BrandC Onion,Vegetables,0.59,piece
+NaturePlus Muffin,Bakery,3.43,piece
+BrandB Jacket,Clothing,15.88,piece
+BrandC Toothpaste,Personal Care,0.91,piece
+EcoLife Toothpaste,Personal Care,0.21,piece
+NaturePlus Cream,Dairy,3.77,liter
+EcoLife Cheese,Dairy,9.3,liter
+BrandC Grapes,Fruits,1.36,piece
+BrandA Jacket,Clothing,17.36,piece
+GoodFarm Cream,Dairy,2.08,liter
+EcoLife Banana,Fruits,0.83,piece
+BrandB Shirt,Clothing,6.08,piece
+NaturePlus Mango,Fruits,0.88,piece
+BrandC Toothpaste,Personal Care,3.99,piece
+EcoLife Oats,Food,4.62,pack
+GoodFarm Apple,Fruits,1.71,kg
+BrandC Deodorant,Personal Care,4.71,piece
+GoodFarm Shampoo,Personal Care,0.94,piece
+GoodFarm Apple,Fruits,0.56,kg
+NaturePlus Lotion,Personal Care,1.77,piece
+EcoLife Jeans,Clothing,5.77,piece
+BrandC Croissant,Bakery,1.11,piece
+BrandC Banana,Fruits,0.55,piece
+EcoLife Deodorant,Personal Care,2.79,piece
+EcoLife TV,Electronics,134.46,piece
+EcoLife Coffee,Beverages,0.77,liter
+BrandB Toothpaste,Personal Care,2.01,piece
+NaturePlus Toothpaste,Personal Care,3.19,piece
+GoodFarm Shirt,Clothing,5.17,piece
+BrandB Lamb,Meat,19.23,kg
+EcoLife Milk,Dairy,4.02,kg
+NaturePlus Muffin,Bakery,3.98,piece
+NaturePlus Carrot,Vegetables,0.55,piece
+NaturePlus Deodorant,Personal Care,2.87,piece
+NaturePlus Coke,Beverages,1.66,bottle
+EcoLife Butter,Dairy,2.17,liter
+BrandB Chicken,Meat,9.1,kg
+BrandB Tablet,Electronics,21.15,piece
+BrandC Beans,Food,3.4,kg
+EcoLife Pork,Meat,28.65,kg
+NaturePlus Shirt,Clothing,17.77,piece
+BrandC Chicken,Meat,8.61,kg
+BrandC Juice,Beverages,1.31,liter
+BrandC T-shirt,Clothing,12.55,piece
+BrandA Rice,Food,2.8,piece
+NaturePlus Oats,Food,0.17,piece
+EcoLife Turkey,Meat,27.6,kg
+GoodFarm T-shirt,Clothing,6.76,piece
+EcoLife Spinach,Vegetables,1.38,kg
+GoodFarm Rice,Food,4.54,kg
+NaturePlus Butter,Dairy,4.34,kg
+EcoLife Lotion,Personal Care,3.58,piece
+EcoLife Croissant,Bakery,2.35,kg
+BrandB Potato,Vegetables,1.23,piece
+BrandB Mango,Fruits,0.34,kg
+BrandA Beef,Meat,26.27,kg
+BrandC Apple,Fruits,1.34,piece
+GoodFarm Oats,Food,2.96,pack
+BrandC Coffee,Beverages,2.29,liter
+NaturePlus T-shirt,Clothing,12.4,piece
+BrandC Water,Beverages,0.85,liter
+EcoLife Potato,Vegetables,0.87,kg
+BrandB Laptop,Electronics,181.02,piece
+BrandC Sweater,Clothing,16.44,piece
+BrandC Croissant,Bakery,1.4,kg
+BrandC Coke,Beverages,0.64,bottle
+BrandC Deodorant,Personal Care,0.17,piece
+BrandA Cake,Bakery,3.23,piece
+BrandA Beef,Meat,25.56,kg
+GoodFarm Sweater,Clothing,7.6,piece
+BrandA Bread,Bakery,0.67,piece
+BrandB Toothpaste,Personal Care,4.57,piece
+BrandB Bagel,Bakery,2.28,kg
+EcoLife Deodorant,Personal Care,1.58,piece
+EcoLife Deodorant,Personal Care,1.18,piece
+NaturePlus Banana,Fruits,0.19,piece
+BrandB Lotion,Personal Care,1.59,piece
+EcoLife Cake,Bakery,2.89,piece
+GoodFarm Chicken,Meat,9.84,kg
+EcoLife Bagel,Bakery,0.49,piece
+EcoLife Phone,Electronics,58.3,piece
+BrandC Beans,Food,1.85,pack
+BrandA Grapes,Fruits,0.52,piece
+BrandA Butter,Dairy,9.18,kg
+EcoLife Laptop,Electronics,161.77,piece
+EcoLife Lotion,Personal Care,2.73,piece
+BrandC Butter,Dairy,3.82,liter
+NaturePlus Laptop,Electronics,24.15,piece
+BrandA Orange,Fruits,0.83,piece
+NaturePlus Tablet,Electronics,198.88,piece
+EcoLife Beef,Meat,18.53,kg
+BrandB Jeans,Clothing,15.92,piece
+BrandB Laptop,Electronics,55.46,piece
+BrandB Phone,Electronics,62.59,piece
+NaturePlus Tablet,Electronics,148.97,piece
+GoodFarm Coke,Beverages,2.46,bottle
+EcoLife Yogurt,Dairy,3.04,liter
+BrandC Spinach,Vegetables,1.64,piece
+EcoLife Spinach,Vegetables,1.53,kg
+BrandC Apple,Fruits,1.93,kg
+GoodFarm Toothpaste,Personal Care,2.72,piece
+BrandA Orange,Fruits,0.53,piece
+BrandB Juice,Beverages,0.75,bottle
+BrandA Tablet,Electronics,43.41,piece
+NaturePlus Juice,Beverages,0.65,bottle
+BrandC Toothpaste,Personal Care,1.15,piece
+GoodFarm Potato,Vegetables,0.51,piece
+EcoLife Headphones,Electronics,196.45,piece
+BrandA Headphones,Electronics,34.59,piece
+BrandA Jeans,Clothing,6.77,piece
+GoodFarm Cheese,Dairy,5.68,kg
+BrandC Jeans,Clothing,2.72,piece
+BrandB Banana,Fruits,0.9,kg
+BrandB Apple,Fruits,0.16,kg
+BrandB Lentils,Food,3.25,pack
+BrandB Oats,Food,0.46,kg
+NaturePlus Onion,Vegetables,0.67,kg
+BrandC Shampoo,Personal Care,0.37,piece
+BrandA Chicken,Meat,14.31,kg
+BrandC T-shirt,Clothing,6.23,piece
+NaturePlus Sweater,Clothing,18.58,piece
+GoodFarm Pasta,Food,2.3,piece
+BrandC Carrot,Vegetables,0.33,piece
+NaturePlus Headphones,Electronics,56.75,piece
+BrandC Tea,Beverages,2.0,bottle
+BrandC Deodorant,Personal Care,3.63,piece
+EcoLife Banana,Fruits,1.63,kg
+BrandC Banana,Fruits,1.3,kg
+BrandB Sweater,Clothing,7.81,piece
+BrandB Turkey,Meat,18.61,kg
+NaturePlus Carrot,Vegetables,0.33,piece
+GoodFarm T-shirt,Clothing,17.48,piece
+BrandB Beans,Food,1.67,piece
+BrandC Tablet,Electronics,198.44,piece
+BrandC Coffee,Beverages,0.43,bottle
+BrandC TV,Electronics,183.04,piece
+BrandA Jeans,Clothing,17.71,piece
+BrandB Lotion,Personal Care,1.86,piece
+BrandB Carrot,Vegetables,1.38,kg
+BrandC Spinach,Vegetables,1.74,piece
+GoodFarm Spinach,Vegetables,1.97,piece
+EcoLife Grapes,Fruits,0.14,kg
+EcoLife Cake,Bakery,2.03,kg
+EcoLife Lentils,Food,3.42,kg
+BrandC Coffee,Beverages,1.78,bottle
+GoodFarm Sweater,Clothing,18.85,piece
+BrandC Phone,Electronics,161.79,piece
+BrandB Lotion,Personal Care,2.39,piece
+EcoLife Cake,Bakery,2.72,piece
+BrandC Grapes,Fruits,0.2,kg
+GoodFarm Rice,Food,2.83,pack
+BrandC Coke,Beverages,2.04,liter
+GoodFarm Carrot,Vegetables,1.78,kg
+NaturePlus Lotion,Personal Care,1.46,piece
+BrandC Jacket,Clothing,6.25,piece
+GoodFarm Chicken,Meat,26.82,kg
+GoodFarm Lentils,Food,3.95,piece
+BrandC Shirt,Clothing,9.4,piece
+GoodFarm Coffee,Beverages,2.96,bottle
+EcoLife Apple,Fruits,0.56,kg
+BrandA Cream,Dairy,5.69,liter
+GoodFarm Beans,Food,3.06,kg
+BrandA Croissant,Bakery,0.71,piece
+GoodFarm Cream,Dairy,4.87,liter
+BrandC Rice,Food,0.79,piece
+NaturePlus Tablet,Electronics,149.23,piece
+BrandB T-shirt,Clothing,2.33,piece
+GoodFarm Carrot,Vegetables,1.95,piece
+BrandC Jeans,Clothing,8.84,piece
+BrandC Jacket,Clothing,19.52,piece
+NaturePlus Pasta,Food,4.42,kg
+BrandA Grapes,Fruits,1.52,piece
+BrandB Tablet,Electronics,27.51,piece
+NaturePlus Rice,Food,3.18,kg
+GoodFarm Banana,Fruits,0.32,kg
+EcoLife Milk,Dairy,0.5,kg
+EcoLife Yogurt,Dairy,2.28,liter
+EcoLife Beans,Food,0.34,piece
+EcoLife Tomato,Vegetables,0.63,kg
+BrandA Croissant,Bakery,2.67,kg
+EcoLife Yogurt,Dairy,5.97,kg
+BrandC Rice,Food,1.16,pack
+BrandB Mango,Fruits,0.52,piece
+EcoLife Jacket,Clothing,17.63,piece
+EcoLife Water,Beverages,1.52,liter
+BrandA Oats,Food,1.78,kg
+EcoLife Rice,Food,3.41,pack
+NaturePlus Tablet,Electronics,166.99,piece
+BrandC Shampoo,Personal Care,4.26,piece
+BrandA Pasta,Food,4.98,pack
+GoodFarm Lotion,Personal Care,4.52,piece
+EcoLife T-shirt,Clothing,15.8,piece
+GoodFarm T-shirt,Clothing,5.79,piece
+BrandA Tea,Beverages,2.49,liter
+GoodFarm Bread,Bakery,1.82,kg
+BrandA Milk,Dairy,6.01,kg
+EcoLife Beef,Meat,13.48,kg
+BrandA T-shirt,Clothing,5.75,piece
+GoodFarm Bread,Bakery,1.79,piece
+BrandA Water,Beverages,2.09,liter
+BrandA Bagel,Bakery,0.33,kg
+EcoLife Apple,Fruits,1.06,kg
+NaturePlus Onion,Vegetables,0.3,piece
+BrandC Coffee,Beverages,2.21,bottle
+EcoLife Beans,Food,0.52,kg
+BrandC Jacket,Clothing,13.51,piece
+GoodFarm Banana,Fruits,1.71,kg
+BrandA Chicken,Meat,16.79,kg
+BrandA Phone,Electronics,53.39,piece
+BrandB Coffee,Beverages,0.6,bottle
+BrandC Soap,Personal Care,4.27,piece
+BrandC Deodorant,Personal Care,4.65,piece
+BrandC Cream,Dairy,0.79,liter
+NaturePlus Laptop,Electronics,117.71,piece
+BrandC Mango,Fruits,1.44,piece
+BrandA Rice,Food,3.08,kg
+EcoLife Turkey,Meat,15.68,kg
+BrandC Cake,Bakery,4.93,kg
+GoodFarm Spinach,Vegetables,1.06,kg
+BrandB Butter,Dairy,3.35,liter
+GoodFarm Cake,Bakery,0.95,piece
+BrandA Croissant,Bakery,2.2,piece
+BrandC Mango,Fruits,1.48,kg
+BrandC Bagel,Bakery,4.13,piece
+BrandA Lotion,Personal Care,4.95,piece
+GoodFarm Water,Beverages,0.75,liter
+BrandC Cheese,Dairy,6.35,kg
+BrandB Tea,Beverages,0.63,liter
+BrandC Pork,Meat,9.65,kg
+GoodFarm Orange,Fruits,0.82,kg
+NaturePlus Sweater,Clothing,3.87,piece
+BrandA Shirt,Clothing,5.59,piece
+GoodFarm TV,Electronics,90.23,piece
+BrandC Pasta,Food,0.43,piece
+BrandC Tea,Beverages,2.58,liter
+BrandB Chicken,Meat,20.09,kg
+NaturePlus Cream,Dairy,6.46,liter
+GoodFarm Shampoo,Personal Care,0.41,piece
+EcoLife Jacket,Clothing,7.1,piece
+BrandC Muffin,Bakery,0.9,piece
+BrandC Carrot,Vegetables,1.16,kg
+EcoLife Milk,Dairy,6.01,liter
+BrandA Orange,Fruits,0.9,piece
+GoodFarm Deodorant,Personal Care,4.62,piece
+BrandB Bread,Bakery,4.25,kg
+BrandB Croissant,Bakery,4.88,piece
+BrandB Jeans,Clothing,15.94,piece
+BrandA Bagel,Bakery,1.83,kg
+BrandC Beans,Food,1.36,pack
+BrandB Grapes,Fruits,1.82,kg
+EcoLife Beef,Meat,15.3,kg
+EcoLife Jeans,Clothing,15.7,piece
+BrandC Bagel,Bakery,4.43,kg
+GoodFarm Cheese,Dairy,2.05,kg
+NaturePlus Lentils,Food,3.09,piece
+BrandA Lotion,Personal Care,1.18,piece
+BrandB Croissant,Bakery,3.77,piece
+GoodFarm Turkey,Meat,18.01,kg
+BrandA Apple,Fruits,1.18,kg
+GoodFarm Sweater,Clothing,2.04,piece
+EcoLife Cream,Dairy,3.18,kg
+GoodFarm Spinach,Vegetables,1.0,piece
+NaturePlus Mango,Fruits,1.02,kg
+BrandC Water,Beverages,2.0,bottle
+EcoLife Grapes,Fruits,1.31,kg
+GoodFarm Rice,Food,3.04,kg
+NaturePlus Jeans,Clothing,14.92,piece
+BrandC Jacket,Clothing,8.62,piece
+BrandC Juice,Beverages,2.66,liter
+NaturePlus Spinach,Vegetables,0.64,kg
+BrandB Beans,Food,4.41,kg
+BrandC Mango,Fruits,1.35,piece
+BrandA Tablet,Electronics,94.13,piece
+BrandC Pork,Meat,9.33,kg
+EcoLife Shampoo,Personal Care,4.41,piece
+BrandB Coke,Beverages,1.26,bottle
+EcoLife Shampoo,Personal Care,4.47,piece
+BrandA Cake,Bakery,0.35,kg
+BrandC TV,Electronics,20.03,piece
+BrandA Cake,Bakery,2.03,piece
+BrandC Deodorant,Personal Care,1.69,piece
+GoodFarm Onion,Vegetables,0.26,kg
+EcoLife Pasta,Food,3.83,piece
+GoodFarm Grapes,Fruits,1.68,piece
+NaturePlus Apple,Fruits,1.2,kg
+NaturePlus Cake,Bakery,2.02,kg
+BrandA Jacket,Clothing,5.18,piece
+GoodFarm Banana,Fruits,0.83,kg
+GoodFarm Tablet,Electronics,181.49,piece
+NaturePlus Deodorant,Personal Care,4.27,piece
+BrandB Deodorant,Personal Care,0.3,piece
+GoodFarm Cake,Bakery,1.64,piece
+GoodFarm Beans,Food,2.35,kg
+BrandB Headphones,Electronics,85.6,piece
+BrandB Bagel,Bakery,4.8,piece
+EcoLife Mango,Fruits,1.27,piece
+BrandC Jeans,Clothing,14.3,piece
+BrandA Lotion,Personal Care,2.23,piece
+BrandC Banana,Fruits,1.92,kg
+GoodFarm Tea,Beverages,2.17,liter
+EcoLife Muffin,Bakery,3.4,kg
+EcoLife Shampoo,Personal Care,0.48,piece
+BrandB Lamb,Meat,8.93,kg
+BrandA Onion,Vegetables,0.73,kg
+GoodFarm Carrot,Vegetables,0.07,piece
+BrandB Beef,Meat,13.0,kg
+EcoLife Chicken,Meat,16.75,kg
+BrandC Rice,Food,0.9,kg
+BrandB Chicken,Meat,5.29,kg
+BrandB Cream,Dairy,4.92,liter
+BrandC Water,Beverages,2.59,liter
+EcoLife Sweater,Clothing,16.74,piece
+BrandC Croissant,Bakery,1.43,kg
+BrandA Yogurt,Dairy,9.39,liter
+BrandA Tablet,Electronics,59.31,piece
+GoodFarm Jacket,Clothing,9.37,piece
+GoodFarm Potato,Vegetables,0.98,kg
+BrandA Deodorant,Personal Care,3.99,piece
+BrandA Cheese,Dairy,0.74,liter
+NaturePlus Carrot,Vegetables,1.08,kg
+NaturePlus Water,Beverages,1.04,bottle
+NaturePlus Cake,Bakery,1.33,piece
+EcoLife Banana,Fruits,0.43,piece
+GoodFarm Croissant,Bakery,3.79,piece
+BrandC Coffee,Beverages,0.24,liter
+GoodFarm Muffin,Bakery,4.77,kg
+BrandC Tea,Beverages,2.94,bottle
+BrandA Tablet,Electronics,160.69,piece
+NaturePlus Deodorant,Personal Care,4.53,piece
+BrandC Bread,Bakery,4.54,piece
+BrandB T-shirt,Clothing,15.9,piece
+NaturePlus Orange,Fruits,1.44,kg
+BrandB Juice,Beverages,1.86,liter
+EcoLife Water,Beverages,2.06,bottle
+BrandB Lentils,Food,0.82,kg
+GoodFarm TV,Electronics,168.68,piece
+EcoLife Tomato,Vegetables,1.4,piece
+NaturePlus TV,Electronics,105.67,piece
+BrandC Banana,Fruits,0.89,piece
+BrandA Beef,Meat,28.2,kg
+BrandA Potato,Vegetables,0.24,kg
+NaturePlus Apple,Fruits,0.83,kg
+GoodFarm Beans,Food,4.29,pack
+BrandA Lotion,Personal Care,2.7,piece
+BrandB TV,Electronics,113.18,piece
+BrandC Carrot,Vegetables,0.86,kg
+BrandC TV,Electronics,77.88,piece
+EcoLife Banana,Fruits,1.03,piece
+GoodFarm Shampoo,Personal Care,4.31,piece
+NaturePlus Headphones,Electronics,77.81,piece
+NaturePlus Croissant,Bakery,2.31,piece
+GoodFarm Cake,Bakery,1.54,kg
+NaturePlus Croissant,Bakery,0.34,piece
+GoodFarm Onion,Vegetables,0.2,kg
+NaturePlus Phone,Electronics,75.63,piece
+BrandB Cream,Dairy,8.72,kg
+NaturePlus Muffin,Bakery,1.82,kg
+BrandA Laptop,Electronics,163.61,piece
+BrandB Apple,Fruits,0.17,kg
+NaturePlus Onion,Vegetables,0.68,kg
+NaturePlus Tomato,Vegetables,0.49,piece
+EcoLife Shampoo,Personal Care,0.51,piece
+GoodFarm Shampoo,Personal Care,3.77,piece
+EcoLife Bread,Bakery,0.63,kg
+BrandA Bread,Bakery,2.0,kg
+BrandB Spinach,Vegetables,0.6,kg
+EcoLife Yogurt,Dairy,9.21,kg
+BrandB Shirt,Clothing,18.18,piece
+BrandC Onion,Vegetables,1.12,kg
+BrandA Orange,Fruits,0.91,kg
+NaturePlus Lentils,Food,2.98,pack
+GoodFarm Tablet,Electronics,101.69,piece
+GoodFarm Turkey,Meat,18.31,kg
+BrandC Beef,Meat,22.29,kg
+EcoLife Banana,Fruits,1.94,piece
+GoodFarm Shirt,Clothing,17.86,piece
+BrandC Headphones,Electronics,166.31,piece
+GoodFarm Croissant,Bakery,4.3,kg
+NaturePlus Beans,Food,2.06,piece
+GoodFarm Coke,Beverages,2.11,liter
+BrandA Butter,Dairy,6.9,kg
+BrandC Croissant,Bakery,1.4,kg
+EcoLife Water,Beverages,1.46,liter
+EcoLife Beans,Food,0.11,kg
+NaturePlus Bagel,Bakery,1.59,kg
+BrandC Juice,Beverages,0.84,liter
+BrandA Beef,Meat,16.05,kg
+NaturePlus Lentils,Food,2.91,kg
+NaturePlus Shirt,Clothing,7.75,piece
+BrandB Potato,Vegetables,0.54,kg
+NaturePlus Grapes,Fruits,0.11,kg
+BrandB Juice,Beverages,2.45,bottle
+BrandC Banana,Fruits,1.15,piece
+EcoLife Bread,Bakery,3.98,kg
+EcoLife Carrot,Vegetables,1.32,kg
+BrandB Spinach,Vegetables,0.07,piece
+BrandA Shirt,Clothing,5.16,piece
+NaturePlus Jeans,Clothing,14.36,piece
+BrandB Butter,Dairy,0.78,liter
+EcoLife Lotion,Personal Care,3.62,piece
+BrandC Oats,Food,0.67,pack
+GoodFarm Cake,Bakery,1.37,piece
+BrandA Sweater,Clothing,19.97,piece
+EcoLife Lamb,Meat,10.32,kg
+BrandA Bagel,Bakery,1.28,kg
+GoodFarm Bagel,Bakery,1.5,kg
+EcoLife Tomato,Vegetables,1.05,kg
+BrandA Cheese,Dairy,2.91,kg
+EcoLife Pasta,Food,4.11,piece
+BrandA Headphones,Electronics,34.79,piece
+BrandA Bagel,Bakery,3.03,piece
+BrandA Bagel,Bakery,4.82,kg
+GoodFarm Lotion,Personal Care,3.66,piece
+GoodFarm Water,Beverages,2.91,liter
+BrandB Juice,Beverages,0.95,liter
+BrandC Muffin,Bakery,4.17,kg
+BrandB T-shirt,Clothing,4.55,piece
+BrandA Pasta,Food,2.68,pack
+GoodFarm Sweater,Clothing,13.44,piece
+NaturePlus Deodorant,Personal Care,3.74,piece
+NaturePlus Sweater,Clothing,18.37,piece
+BrandA Pork,Meat,16.37,kg
+NaturePlus Shampoo,Personal Care,4.13,piece
+BrandA Bagel,Bakery,2.67,kg
+EcoLife Tomato,Vegetables,1.78,piece
+GoodFarm Soap,Personal Care,0.24,piece
+BrandA Carrot,Vegetables,1.51,piece
+NaturePlus Lamb,Meat,18.86,kg
+NaturePlus Chicken,Meat,10.32,kg
+NaturePlus Oats,Food,0.84,piece
+BrandC Tablet,Electronics,57.14,piece
+EcoLife Pork,Meat,25.43,kg
+GoodFarm Pork,Meat,25.38,kg
+NaturePlus Mango,Fruits,0.89,kg
+BrandA Potato,Vegetables,1.77,kg
+BrandC Sweater,Clothing,10.03,piece
+GoodFarm Tomato,Vegetables,1.31,kg
+BrandC Orange,Fruits,0.43,kg
+NaturePlus Water,Beverages,2.14,bottle
+BrandA Jacket,Clothing,14.04,piece
+EcoLife Deodorant,Personal Care,1.22,piece
+BrandC Rice,Food,4.67,kg
+GoodFarm Mango,Fruits,0.18,piece
+EcoLife Mango,Fruits,0.96,kg
+BrandB Orange,Fruits,1.46,piece
+BrandA Tomato,Vegetables,0.37,piece
+NaturePlus Soap,Personal Care,1.27,piece
+BrandA Tablet,Electronics,81.75,piece
+NaturePlus Juice,Beverages,0.26,bottle
+NaturePlus Milk,Dairy,6.48,liter
+GoodFarm Chicken,Meat,6.93,kg
+BrandB Coke,Beverages,2.77,liter
+BrandC Mango,Fruits,0.21,kg
+BrandB Oats,Food,3.61,kg
+BrandA Pork,Meat,16.84,kg
+EcoLife Onion,Vegetables,1.99,piece
+NaturePlus Coke,Beverages,2.68,liter
+BrandA Tomato,Vegetables,0.64,piece
+NaturePlus Chicken,Meat,12.21,kg
+EcoLife Bread,Bakery,0.7,piece
+EcoLife Tea,Beverages,2.59,bottle
+BrandA Tea,Beverages,2.14,bottle
+NaturePlus Soap,Personal Care,2.04,piece
+BrandB Sweater,Clothing,16.64,piece
+BrandA Spinach,Vegetables,1.61,kg
+GoodFarm T-shirt,Clothing,4.96,piece
+GoodFarm Oats,Food,3.54,pack
+NaturePlus Bread,Bakery,2.24,kg
+GoodFarm Orange,Fruits,0.99,piece
+NaturePlus Cream,Dairy,9.3,liter
+EcoLife Coke,Beverages,0.21,bottle
+BrandC Headphones,Electronics,152.46,piece
+BrandB Cheese,Dairy,8.93,liter
+BrandB T-shirt,Clothing,13.98,piece
+BrandA Lamb,Meat,28.65,kg
+BrandB Tomato,Vegetables,1.35,kg
+EcoLife Jeans,Clothing,5.86,piece
+BrandA Coffee,Beverages,2.3,liter
+BrandB Rice,Food,2.78,piece
+BrandB Bread,Bakery,4.67,piece
+BrandA Lotion,Personal Care,1.71,piece
+GoodFarm Lamb,Meat,24.02,kg
+BrandC TV,Electronics,178.17,piece
+BrandB Deodorant,Personal Care,4.47,piece
+EcoLife Cake,Bakery,4.36,piece
+GoodFarm Shirt,Clothing,15.22,piece
+GoodFarm Lamb,Meat,9.29,kg
+GoodFarm Onion,Vegetables,0.35,piece
+EcoLife Bread,Bakery,4.94,piece
+NaturePlus Oats,Food,3.52,pack
+NaturePlus Cake,Bakery,2.55,kg
+EcoLife Headphones,Electronics,137.42,piece
+BrandB Rice,Food,1.88,kg
+BrandB Tea,Beverages,2.7,liter
+NaturePlus Mango,Fruits,1.27,piece
+NaturePlus Bagel,Bakery,1.37,kg
+EcoLife Headphones,Electronics,84.37,piece
+EcoLife Carrot,Vegetables,0.56,piece
+BrandB Bread,Bakery,1.45,kg
+BrandC Banana,Fruits,0.2,kg
+BrandA Toothpaste,Personal Care,4.67,piece
+GoodFarm Lamb,Meat,5.38,kg
+BrandB Lamb,Meat,23.14,kg
+NaturePlus Butter,Dairy,9.84,liter
+NaturePlus Tea,Beverages,2.52,bottle
+BrandC Tablet,Electronics,177.94,piece
+EcoLife Pork,Meat,16.21,kg
+BrandB Milk,Dairy,7.49,kg
+NaturePlus Spinach,Vegetables,0.9,piece
+BrandB Tea,Beverages,0.55,bottle
+BrandB Potato,Vegetables,1.9,piece
+BrandC Coke,Beverages,1.69,liter
+NaturePlus Jeans,Clothing,17.54,piece
+EcoLife Orange,Fruits,0.18,kg
+BrandB Bagel,Bakery,4.96,piece
+BrandC Spinach,Vegetables,1.65,piece
+EcoLife Rice,Food,2.57,kg
+NaturePlus Sweater,Clothing,12.26,piece
+EcoLife Laptop,Electronics,113.89,piece
+EcoLife Headphones,Electronics,160.64,piece
+BrandC Coke,Beverages,2.66,liter
+BrandC Jacket,Clothing,11.22,piece
+NaturePlus Phone,Electronics,34.64,piece
+BrandA Coke,Beverages,2.85,liter
+BrandA Tea,Beverages,2.16,bottle
+BrandB T-shirt,Clothing,14.44,piece
+EcoLife Lamb,Meat,22.91,kg
+BrandC Mango,Fruits,1.86,piece
+EcoLife Banana,Fruits,0.47,piece
+BrandA Cake,Bakery,3.82,kg
+BrandB Shirt,Clothing,12.01,piece
+EcoLife TV,Electronics,97.72,piece
+BrandB TV,Electronics,53.53,piece
+EcoLife Phone,Electronics,158.81,piece
+BrandB Shirt,Clothing,10.66,piece
+BrandA Laptop,Electronics,65.7,piece
+GoodFarm Jacket,Clothing,16.1,piece
+BrandB Pork,Meat,21.69,kg
+BrandC Cheese,Dairy,4.99,liter
+BrandB Lamb,Meat,9.56,kg
+EcoLife Juice,Beverages,2.35,liter
+GoodFarm Lentils,Food,4.55,kg
+NaturePlus Cake,Bakery,3.76,piece
+BrandB Phone,Electronics,190.2,piece
+GoodFarm Lentils,Food,0.33,pack
+BrandA Toothpaste,Personal Care,4.53,piece
+BrandC Beef,Meat,13.36,kg
+EcoLife Yogurt,Dairy,1.43,kg
+BrandA Cheese,Dairy,0.77,liter
+GoodFarm Lentils,Food,4.93,kg
+BrandB Sweater,Clothing,2.02,piece
+BrandA Deodorant,Personal Care,0.51,piece
+EcoLife Coffee,Beverages,1.14,liter
+BrandA Water,Beverages,0.2,bottle
+GoodFarm Jeans,Clothing,2.08,piece
+EcoLife T-shirt,Clothing,19.3,piece
+EcoLife Bread,Bakery,4.0,piece
+BrandC Butter,Dairy,6.06,liter
+BrandC Jacket,Clothing,16.45,piece
+NaturePlus Pork,Meat,9.62,kg
+EcoLife Tomato,Vegetables,1.01,piece
+BrandA T-shirt,Clothing,14.83,piece
+BrandA Coffee,Beverages,1.14,liter
+BrandA Bread,Bakery,1.33,kg
+NaturePlus Cake,Bakery,2.94,kg
+BrandB Tea,Beverages,1.27,bottle
+BrandB Milk,Dairy,6.07,kg
+EcoLife Yogurt,Dairy,8.09,liter
+BrandA Rice,Food,1.1,kg
+BrandC Spinach,Vegetables,1.52,kg
+BrandB Apple,Fruits,1.44,kg
+GoodFarm Tomato,Vegetables,1.87,kg
+BrandB Cheese,Dairy,7.22,kg
+GoodFarm Grapes,Fruits,1.96,kg
+BrandC Lotion,Personal Care,0.37,piece
+GoodFarm Tomato,Vegetables,0.2,piece
+BrandC Beef,Meat,7.32,kg
+BrandA Cream,Dairy,6.98,liter
+BrandA Phone,Electronics,32.74,piece
+BrandA Yogurt,Dairy,8.32,kg
+GoodFarm Cream,Dairy,9.59,kg
+EcoLife Lamb,Meat,26.95,kg
+BrandC Mango,Fruits,0.92,kg
+BrandB Chicken,Meat,19.51,kg
+BrandC Laptop,Electronics,122.34,piece
+NaturePlus Bagel,Bakery,3.53,piece
+BrandB Lotion,Personal Care,4.36,piece
+GoodFarm Oats,Food,3.48,kg
+BrandA Lamb,Meat,28.64,kg
+BrandB Banana,Fruits,1.36,kg
+GoodFarm Tomato,Vegetables,1.07,kg
+BrandC Headphones,Electronics,159.2,piece
+EcoLife Cheese,Dairy,0.78,kg
+BrandC Phone,Electronics,94.38,piece
+EcoLife Tablet,Electronics,43.38,piece
+NaturePlus Turkey,Meat,28.27,kg
+BrandB Apple,Fruits,0.63,piece
+BrandA Toothpaste,Personal Care,1.06,piece
+EcoLife T-shirt,Clothing,18.08,piece
+GoodFarm T-shirt,Clothing,11.31,piece
+BrandB Pasta,Food,4.71,kg
+BrandC Mango,Fruits,1.4,piece
+BrandA Juice,Beverages,2.94,liter
+BrandA Rice,Food,4.65,piece
+GoodFarm Cake,Bakery,4.63,kg
+BrandA Carrot,Vegetables,1.82,piece
+BrandA Apple,Fruits,1.33,kg
+NaturePlus Cheese,Dairy,4.24,kg
+BrandB Coffee,Beverages,2.18,bottle
+NaturePlus Mango,Fruits,0.66,piece
+BrandB Lotion,Personal Care,2.35,piece
+GoodFarm Coke,Beverages,2.51,bottle
+NaturePlus Jacket,Clothing,19.96,piece
+BrandC Phone,Electronics,87.54,piece
+GoodFarm Phone,Electronics,53.6,piece
+EcoLife Bread,Bakery,3.04,kg
+BrandC Potato,Vegetables,1.89,kg
+GoodFarm Lentils,Food,1.88,pack
+BrandC Bagel,Bakery,0.87,piece
+NaturePlus Tomato,Vegetables,1.76,piece
+GoodFarm Water,Beverages,1.59,bottle
+GoodFarm Mango,Fruits,0.96,piece
+NaturePlus Shampoo,Personal Care,4.26,piece
+BrandC Cake,Bakery,1.68,kg
+EcoLife Deodorant,Personal Care,4.07,piece
+NaturePlus Apple,Fruits,1.76,piece
+EcoLife Shirt,Clothing,5.0,piece
+NaturePlus Lentils,Food,2.82,pack
+GoodFarm TV,Electronics,171.46,piece
+EcoLife Phone,Electronics,37.69,piece
+BrandA Jacket,Clothing,18.96,piece
+EcoLife Onion,Vegetables,1.19,kg
+GoodFarm T-shirt,Clothing,13.02,piece
+BrandC Jacket,Clothing,9.05,piece
+BrandC Yogurt,Dairy,6.04,kg
+EcoLife Oats,Food,1.38,piece
+NaturePlus Shampoo,Personal Care,4.94,piece
+NaturePlus Juice,Beverages,1.78,liter
+GoodFarm Croissant,Bakery,4.89,piece
+BrandB Cake,Bakery,3.65,piece
+BrandC Pasta,Food,0.76,piece
+BrandB Cream,Dairy,7.29,liter
+BrandA Chicken,Meat,19.58,kg
+EcoLife Toothpaste,Personal Care,2.48,piece
+EcoLife Lentils,Food,2.63,pack
+NaturePlus Beef,Meat,17.63,kg
+NaturePlus TV,Electronics,33.4,piece
+BrandA Potato,Vegetables,1.42,piece
+EcoLife Shampoo,Personal Care,0.5,piece
+BrandB Apple,Fruits,1.0,piece
+BrandC Bagel,Bakery,2.7,piece
+BrandC Butter,Dairy,6.42,kg
+EcoLife Yogurt,Dairy,0.63,liter
+GoodFarm Grapes,Fruits,1.87,kg
+EcoLife Yogurt,Dairy,7.64,kg
+GoodFarm TV,Electronics,74.28,piece
+BrandA Onion,Vegetables,0.19,kg
+BrandC Turkey,Meat,13.29,kg
+BrandA Tablet,Electronics,57.23,piece
+EcoLife Tablet,Electronics,68.25,piece
+EcoLife Water,Beverages,2.75,liter
+GoodFarm Carrot,Vegetables,0.71,piece
+EcoLife Soap,Personal Care,0.24,piece
+GoodFarm Soap,Personal Care,3.51,piece
+EcoLife Cream,Dairy,4.1,kg
+BrandB Lentils,Food,0.28,pack
+BrandA Muffin,Bakery,0.84,piece
+NaturePlus T-shirt,Clothing,10.64,piece
+EcoLife Laptop,Electronics,135.08,piece
+BrandC Juice,Beverages,1.17,liter
+NaturePlus Lentils,Food,2.8,kg
+BrandC Muffin,Bakery,2.27,piece
+BrandC Banana,Fruits,0.92,kg
+EcoLife Croissant,Bakery,2.46,kg
+NaturePlus Tea,Beverages,1.18,bottle
+EcoLife Croissant,Bakery,4.03,kg
+BrandB Milk,Dairy,4.01,kg
+BrandC Yogurt,Dairy,5.58,kg
+BrandA Tablet,Electronics,127.32,piece
+NaturePlus Banana,Fruits,1.72,kg
+NaturePlus Cheese,Dairy,7.14,kg
+BrandB Mango,Fruits,1.44,kg
+BrandA Onion,Vegetables,0.62,piece
+BrandB Phone,Electronics,15.82,piece
+BrandA Milk,Dairy,5.68,liter
+BrandB Phone,Electronics,111.28,piece
+NaturePlus Oats,Food,0.22,pack
+BrandA T-shirt,Clothing,15.54,piece
+GoodFarm Yogurt,Dairy,5.33,kg
+BrandC Tomato,Vegetables,0.86,kg
+EcoLife Croissant,Bakery,2.93,kg
+GoodFarm Carrot,Vegetables,1.03,piece
+NaturePlus Spinach,Vegetables,1.3,piece
+EcoLife Onion,Vegetables,1.22,kg
+BrandA Onion,Vegetables,1.6,kg
+BrandB Bread,Bakery,3.83,kg
+BrandC Coffee,Beverages,1.98,liter
+GoodFarm Muffin,Bakery,1.29,piece
+EcoLife Shampoo,Personal Care,3.34,piece
+GoodFarm T-shirt,Clothing,15.04,piece
+GoodFarm Phone,Electronics,167.53,piece
+BrandA Soap,Personal Care,4.13,piece
+NaturePlus Milk,Dairy,4.14,liter
+BrandB Orange,Fruits,0.35,kg
+GoodFarm Shampoo,Personal Care,2.0,piece
+EcoLife Phone,Electronics,176.1,piece
+BrandB Bread,Bakery,0.61,piece
+NaturePlus Banana,Fruits,0.82,piece
+EcoLife Carrot,Vegetables,1.89,piece
+BrandA Laptop,Electronics,28.96,piece
+BrandB Pork,Meat,29.66,kg
+GoodFarm Headphones,Electronics,181.03,piece
+EcoLife Tomato,Vegetables,0.22,piece
+BrandA Coke,Beverages,1.08,liter
+BrandC TV,Electronics,171.98,piece
+BrandA Onion,Vegetables,1.46,kg
+EcoLife Cheese,Dairy,5.97,liter
+BrandB Jacket,Clothing,7.26,piece
+BrandB T-shirt,Clothing,3.74,piece
+BrandC Oats,Food,0.86,piece
+NaturePlus Cake,Bakery,4.56,piece
+BrandB Lentils,Food,3.44,kg
+BrandB Muffin,Bakery,3.7,kg
+BrandA Orange,Fruits,0.65,piece
+BrandB Cheese,Dairy,3.78,kg
+EcoLife T-shirt,Clothing,9.53,piece
+BrandB Cream,Dairy,4.64,liter
+GoodFarm Tomato,Vegetables,0.84,piece
+NaturePlus Oats,Food,2.08,pack
+NaturePlus Coffee,Beverages,2.41,bottle
+BrandA TV,Electronics,140.91,piece
+NaturePlus Lotion,Personal Care,3.41,piece
+GoodFarm Tea,Beverages,1.81,bottle
+NaturePlus Milk,Dairy,7.43,kg
+BrandA Muffin,Bakery,2.7,kg
+BrandB Bread,Bakery,1.73,kg
+GoodFarm Shampoo,Personal Care,2.65,piece
+BrandA Croissant,Bakery,4.29,piece
+BrandB Croissant,Bakery,0.86,kg
+GoodFarm Mango,Fruits,0.39,piece
+BrandA Potato,Vegetables,1.89,kg
+BrandC Tea,Beverages,0.77,liter
+NaturePlus Muffin,Bakery,3.47,piece
+GoodFarm TV,Electronics,31.11,piece
+NaturePlus Laptop,Electronics,14.23,piece
+GoodFarm Beans,Food,2.42,pack
+EcoLife Banana,Fruits,0.25,kg
+NaturePlus Deodorant,Personal Care,2.91,piece
+BrandB Potato,Vegetables,0.21,piece
+NaturePlus Coffee,Beverages,1.25,liter
+EcoLife Lentils,Food,4.37,kg
+BrandB Beans,Food,4.38,pack
+EcoLife Orange,Fruits,1.91,kg
+NaturePlus Onion,Vegetables,0.38,kg
+EcoLife Tomato,Vegetables,0.22,kg
+BrandC TV,Electronics,131.84,piece
+BrandB Chicken,Meat,29.57,kg
+BrandA Potato,Vegetables,1.13,piece
+NaturePlus Bread,Bakery,2.22,kg
+GoodFarm Turkey,Meat,30.0,kg
+BrandA Tablet,Electronics,117.08,piece
+EcoLife Rice,Food,0.66,kg
+EcoLife Oats,Food,2.58,pack
+BrandA Apple,Fruits,0.99,kg
+GoodFarm Bread,Bakery,2.46,piece
+BrandB Tea,Beverages,2.3,liter
+BrandC Lotion,Personal Care,3.63,piece
+GoodFarm Coffee,Beverages,0.68,liter
+NaturePlus Yogurt,Dairy,3.2,liter
+BrandA Laptop,Electronics,17.44,piece
+NaturePlus Toothpaste,Personal Care,4.0,piece
+BrandA Apple,Fruits,1.82,kg
+EcoLife Lamb,Meat,27.85,kg
+BrandC Bagel,Bakery,2.11,piece
+BrandB Orange,Fruits,1.57,kg
+EcoLife Lamb,Meat,28.55,kg
+BrandB Headphones,Electronics,10.2,piece
+NaturePlus Lentils,Food,4.13,piece
+BrandB T-shirt,Clothing,15.6,piece
+EcoLife Oats,Food,3.21,piece
+EcoLife Shirt,Clothing,6.27,piece
+EcoLife Mango,Fruits,1.23,piece
+NaturePlus Oats,Food,0.57,piece
+EcoLife Lamb,Meat,7.51,kg
+BrandA Bread,Bakery,4.21,kg
+BrandB Tablet,Electronics,61.04,piece
+NaturePlus Juice,Beverages,1.62,liter
+EcoLife Toothpaste,Personal Care,0.58,piece
+NaturePlus Pork,Meat,26.41,kg
+NaturePlus Headphones,Electronics,48.8,piece
+BrandA Muffin,Bakery,2.28,piece
+NaturePlus Cake,Bakery,2.68,piece
+NaturePlus Milk,Dairy,6.47,kg
+BrandB Water,Beverages,1.76,bottle
+GoodFarm Sweater,Clothing,3.51,piece
+NaturePlus Deodorant,Personal Care,1.11,piece
+BrandA Tablet,Electronics,117.9,piece
+BrandB Chicken,Meat,19.32,kg
+BrandC Beef,Meat,26.15,kg
+GoodFarm Rice,Food,0.95,piece
+BrandC Pork,Meat,15.46,kg
+NaturePlus Rice,Food,1.81,pack
+BrandC Banana,Fruits,1.51,kg
+BrandB TV,Electronics,111.55,piece
+NaturePlus Apple,Fruits,0.14,kg
+BrandA Lamb,Meat,24.54,kg
+GoodFarm Yogurt,Dairy,4.23,kg
+EcoLife Banana,Fruits,0.83,kg
+GoodFarm Water,Beverages,0.81,bottle
+BrandC Water,Beverages,0.39,liter
+NaturePlus Potato,Vegetables,0.06,kg
+BrandC Yogurt,Dairy,9.91,liter
+GoodFarm Yogurt,Dairy,5.55,liter
+EcoLife Sweater,Clothing,15.56,piece
+BrandA Milk,Dairy,5.46,liter
+BrandA Cream,Dairy,3.67,kg
+BrandA Turkey,Meat,28.43,kg
+BrandA Potato,Vegetables,1.45,kg
+BrandB Phone,Electronics,81.28,piece
+BrandB Jeans,Clothing,6.94,piece
+BrandC Yogurt,Dairy,9.6,liter
+GoodFarm Yogurt,Dairy,8.79,liter
+BrandB Yogurt,Dairy,4.84,liter
+EcoLife Spinach,Vegetables,0.62,kg
+GoodFarm Beef,Meat,12.28,kg
+NaturePlus Banana,Fruits,1.51,kg
+BrandC Beef,Meat,22.45,kg
+BrandB Lentils,Food,1.81,pack
+EcoLife Croissant,Bakery,3.01,kg
+BrandB Shampoo,Personal Care,4.23,piece
+BrandA Headphones,Electronics,15.14,piece
+BrandB Tea,Beverages,2.89,liter
+NaturePlus Bread,Bakery,0.55,kg
+BrandA Bread,Bakery,3.63,kg
+GoodFarm Jeans,Clothing,10.9,piece
+BrandB Cake,Bakery,0.54,piece
+NaturePlus Water,Beverages,1.13,liter
+EcoLife Headphones,Electronics,38.88,piece
+BrandA Oats,Food,0.77,kg
+NaturePlus Yogurt,Dairy,0.62,liter
+NaturePlus Bagel,Bakery,0.54,kg
+BrandC Phone,Electronics,44.52,piece
+BrandA Cheese,Dairy,4.13,liter
+NaturePlus Shampoo,Personal Care,1.53,piece
+BrandC Bagel,Bakery,0.62,piece
+BrandC Cream,Dairy,3.49,kg
+BrandA T-shirt,Clothing,13.46,piece
+NaturePlus Butter,Dairy,8.88,liter
+BrandB Coke,Beverages,1.01,liter
+EcoLife Phone,Electronics,82.06,piece
+NaturePlus Pasta,Food,4.17,pack
+EcoLife Tablet,Electronics,46.87,piece
+BrandA Phone,Electronics,85.9,piece
+BrandC Phone,Electronics,91.36,piece
+GoodFarm Deodorant,Personal Care,3.53,piece
+GoodFarm Beef,Meat,28.64,kg
+GoodFarm Jacket,Clothing,14.39,piece
+BrandA Yogurt,Dairy,8.39,liter
+BrandC Juice,Beverages,1.56,bottle
+BrandA Pork,Meat,21.51,kg
+BrandB Toothpaste,Personal Care,1.92,piece
+BrandC Oats,Food,1.22,kg
+GoodFarm Sweater,Clothing,10.64,piece
+NaturePlus Tea,Beverages,2.14,liter
+GoodFarm Banana,Fruits,0.51,piece
+EcoLife TV,Electronics,132.3,piece
+BrandA Pork,Meat,20.73,kg
+GoodFarm Oats,Food,1.96,kg
+BrandC Lotion,Personal Care,3.99,piece
+EcoLife Bread,Bakery,0.36,kg
+BrandC Laptop,Electronics,135.95,piece
+BrandB Bagel,Bakery,2.31,piece
+EcoLife Sweater,Clothing,8.23,piece
+BrandC Soap,Personal Care,2.71,piece
+BrandB Bagel,Bakery,3.77,piece
+BrandA Laptop,Electronics,178.21,piece
+NaturePlus Yogurt,Dairy,5.77,liter
+GoodFarm Tea,Beverages,0.73,liter
+EcoLife Onion,Vegetables,1.76,kg
+GoodFarm Tea,Beverages,1.5,liter
+BrandC Turkey,Meat,25.4,kg
+GoodFarm Onion,Vegetables,0.99,kg
+EcoLife Cake,Bakery,4.39,piece
+NaturePlus Phone,Electronics,64.23,piece
+GoodFarm Water,Beverages,1.83,bottle
+BrandC T-shirt,Clothing,13.91,piece
+GoodFarm Croissant,Bakery,4.79,kg
+NaturePlus Butter,Dairy,6.32,liter
+EcoLife Headphones,Electronics,49.63,piece
+BrandA Oats,Food,2.29,kg
+EcoLife Laptop,Electronics,63.2,piece
+BrandB Yogurt,Dairy,3.2,liter
+BrandC T-shirt,Clothing,13.34,piece
+GoodFarm Phone,Electronics,135.08,piece
+NaturePlus Orange,Fruits,1.58,kg
+EcoLife Turkey,Meat,23.22,kg
+NaturePlus Cream,Dairy,4.86,kg
+EcoLife Muffin,Bakery,3.6,piece
+BrandA Tablet,Electronics,102.78,piece
+NaturePlus T-shirt,Clothing,12.75,piece
+GoodFarm Rice,Food,2.5,piece
+NaturePlus Onion,Vegetables,0.33,piece
+GoodFarm Bread,Bakery,1.42,piece
+BrandC Apple,Fruits,1.26,kg
+GoodFarm Onion,Vegetables,1.69,kg
+GoodFarm Shampoo,Personal Care,4.0,piece
+NaturePlus Bread,Bakery,4.01,piece
+NaturePlus T-shirt,Clothing,16.91,piece
+BrandA Pork,Meat,7.01,kg
+BrandB Beef,Meat,14.78,kg
+BrandB Oats,Food,2.48,piece
+NaturePlus Coffee,Beverages,1.94,liter
+BrandB Jeans,Clothing,16.06,piece
+BrandC Bagel,Bakery,1.95,piece
+EcoLife Lentils,Food,3.42,piece
+NaturePlus Coke,Beverages,1.36,liter
+EcoLife Tea,Beverages,1.03,liter
+BrandB Muffin,Bakery,2.33,kg
+EcoLife Pork,Meat,12.4,kg
+GoodFarm Pasta,Food,3.38,pack
+BrandC Oats,Food,2.64,pack
+BrandB Deodorant,Personal Care,0.18,piece
+GoodFarm Bread,Bakery,3.33,kg
+BrandC Mango,Fruits,1.97,piece
+BrandB Water,Beverages,1.32,bottle
+BrandC Pasta,Food,1.43,pack
+EcoLife Onion,Vegetables,0.07,kg
+BrandB Lentils,Food,0.44,pack
+GoodFarm Sweater,Clothing,2.43,piece
+EcoLife Croissant,Bakery,4.11,kg
+GoodFarm Beef,Meat,16.25,kg
+BrandA Toothpaste,Personal Care,1.54,piece
+BrandA TV,Electronics,103.31,piece
+BrandA Tomato,Vegetables,0.51,piece
+BrandB Apple,Fruits,1.89,piece
+BrandA TV,Electronics,199.99,piece
+GoodFarm Cake,Bakery,3.79,kg
+BrandB Jeans,Clothing,13.84,piece
+BrandA Milk,Dairy,7.25,kg
+NaturePlus Carrot,Vegetables,0.21,kg
+GoodFarm Carrot,Vegetables,0.12,piece
+GoodFarm Banana,Fruits,1.92,kg
+BrandB Onion,Vegetables,1.51,piece
+BrandB Orange,Fruits,0.57,piece
+BrandA TV,Electronics,45.48,piece
+BrandB Laptop,Electronics,48.8,piece
+BrandB Headphones,Electronics,188.83,piece
+BrandC Tea,Beverages,1.5,bottle
+BrandA Beans,Food,1.51,pack
+BrandB Spinach,Vegetables,1.17,kg
+BrandA Spinach,Vegetables,0.26,piece
+BrandC Tea,Beverages,0.52,bottle
+BrandC TV,Electronics,90.17,piece
+NaturePlus Grapes,Fruits,0.13,piece
+GoodFarm Orange,Fruits,0.85,piece
+BrandB Beans,Food,3.0,pack
+NaturePlus Sweater,Clothing,12.44,piece
+GoodFarm Oats,Food,2.23,kg
+BrandA Apple,Fruits,0.94,kg
+BrandC Yogurt,Dairy,9.13,kg
+GoodFarm Water,Beverages,1.97,liter
+GoodFarm Lentils,Food,1.39,pack
+GoodFarm Tomato,Vegetables,0.05,kg
+BrandA Juice,Beverages,2.44,bottle
+BrandB Banana,Fruits,1.72,piece
+EcoLife Pasta,Food,0.17,kg
+BrandB Lamb,Meat,19.38,kg
+GoodFarm Shirt,Clothing,10.6,piece
+BrandA Lotion,Personal Care,2.69,piece
+GoodFarm Pork,Meat,14.64,kg
+GoodFarm Sweater,Clothing,14.18,piece
+GoodFarm TV,Electronics,165.46,piece
+BrandB Spinach,Vegetables,0.69,piece
+BrandA Lentils,Food,4.98,kg
+BrandC Jeans,Clothing,5.08,piece
+NaturePlus Lentils,Food,3.54,piece
+EcoLife Apple,Fruits,0.29,piece
+BrandC Apple,Fruits,1.93,piece
+BrandB Headphones,Electronics,159.78,piece
+EcoLife Water,Beverages,0.96,bottle
+NaturePlus Lotion,Personal Care,4.49,piece
+BrandC Croissant,Bakery,1.54,kg
+GoodFarm Apple,Fruits,1.56,piece
+EcoLife Toothpaste,Personal Care,3.66,piece
+BrandA Bagel,Bakery,3.28,kg
+BrandC Juice,Beverages,0.4,bottle
+EcoLife Turkey,Meat,12.59,kg
+NaturePlus Grapes,Fruits,0.98,kg
+BrandB Coffee,Beverages,2.48,liter
+BrandA Pasta,Food,0.96,kg
+NaturePlus Muffin,Bakery,3.35,kg
+BrandC Lentils,Food,3.86,piece
+NaturePlus Soap,Personal Care,3.8,piece
+BrandC Rice,Food,0.58,pack
+BrandB Onion,Vegetables,0.63,kg
+GoodFarm Rice,Food,1.68,pack
+EcoLife Cheese,Dairy,1.28,kg
+EcoLife Shirt,Clothing,17.77,piece
+NaturePlus Cake,Bakery,3.96,kg
+BrandA Milk,Dairy,0.7,liter
+GoodFarm Lotion,Personal Care,4.03,piece
+BrandC Tomato,Vegetables,1.99,kg
+BrandB Soap,Personal Care,0.6,piece
+BrandA Orange,Fruits,0.52,piece
+BrandB Juice,Beverages,2.13,liter
+BrandA Carrot,Vegetables,1.33,piece
+EcoLife Shampoo,Personal Care,3.26,piece
+GoodFarm Tablet,Electronics,99.79,piece
+BrandC Water,Beverages,1.21,bottle
+BrandC Deodorant,Personal Care,3.07,piece
+EcoLife Jacket,Clothing,12.7,piece
+BrandA Cake,Bakery,2.95,kg
+GoodFarm Coffee,Beverages,1.26,bottle
+GoodFarm Lamb,Meat,11.96,kg
+BrandB Coffee,Beverages,2.05,bottle
+BrandB Tomato,Vegetables,1.69,kg
+EcoLife T-shirt,Clothing,19.12,piece
+BrandA Toothpaste,Personal Care,3.92,piece
+GoodFarm Chicken,Meat,24.89,kg
+NaturePlus Shampoo,Personal Care,4.36,piece
+NaturePlus Milk,Dairy,3.51,liter
+BrandC Phone,Electronics,199.88,piece
+NaturePlus Cream,Dairy,6.46,liter
+BrandB Laptop,Electronics,124.09,piece
+NaturePlus Bagel,Bakery,0.93,piece
+EcoLife Shirt,Clothing,9.72,piece
+BrandB Pork,Meat,6.09,kg
+GoodFarm Juice,Beverages,0.79,liter
+BrandC Pork,Meat,10.45,kg
+BrandA Jacket,Clothing,16.3,piece
+BrandB Croissant,Bakery,2.72,kg
+NaturePlus T-shirt,Clothing,13.63,piece
+EcoLife Shampoo,Personal Care,2.39,piece
+BrandC Beans,Food,2.38,piece
+BrandA Croissant,Bakery,2.78,piece
+BrandA Cake,Bakery,0.8,piece
+BrandA Mango,Fruits,1.08,kg
+NaturePlus Juice,Beverages,2.92,liter
+BrandA Grapes,Fruits,0.57,kg
+NaturePlus Cheese,Dairy,2.01,liter
+EcoLife Tea,Beverages,2.97,liter
+BrandB Bagel,Bakery,4.67,kg
+EcoLife Onion,Vegetables,0.93,kg
+BrandC Turkey,Meat,21.82,kg
+NaturePlus Oats,Food,2.07,kg
+NaturePlus Bagel,Bakery,1.65,kg
+BrandA Onion,Vegetables,0.24,kg
+BrandB Grapes,Fruits,0.5,piece
+EcoLife Pork,Meat,27.47,kg
+BrandC Yogurt,Dairy,9.8,liter
+BrandB Soap,Personal Care,4.79,piece
+GoodFarm Croissant,Bakery,3.82,kg
+NaturePlus Cheese,Dairy,0.63,kg
+BrandA Beans,Food,3.31,kg
+NaturePlus Tablet,Electronics,123.8,piece
+NaturePlus Bagel,Bakery,0.71,piece
+GoodFarm Shampoo,Personal Care,4.39,piece
+BrandC Oats,Food,3.57,piece
+BrandC Croissant,Bakery,4.39,piece
+BrandB Water,Beverages,1.64,liter
+EcoLife Cheese,Dairy,6.19,kg
+BrandC Grapes,Fruits,1.63,kg
+BrandC Lamb,Meat,12.38,kg
+EcoLife Lamb,Meat,19.17,kg
+BrandC Jeans,Clothing,4.87,piece
+NaturePlus T-shirt,Clothing,8.0,piece
+BrandC Water,Beverages,1.97,liter
+NaturePlus Soap,Personal Care,0.48,piece
+BrandB Soap,Personal Care,2.55,piece
+EcoLife T-shirt,Clothing,11.98,piece
+GoodFarm Lamb,Meat,20.19,kg
+BrandB Bread,Bakery,4.22,piece
+BrandB Rice,Food,3.89,pack
+BrandB Tablet,Electronics,125.81,piece
+BrandC Tablet,Electronics,142.91,piece
+BrandC Muffin,Bakery,0.94,kg
+EcoLife Croissant,Bakery,2.71,piece
+NaturePlus Coffee,Beverages,0.59,bottle
+BrandC Mango,Fruits,0.96,kg
+BrandC Lentils,Food,1.69,pack
+EcoLife Tablet,Electronics,165.64,piece
+BrandA Bread,Bakery,0.36,kg
+GoodFarm Carrot,Vegetables,1.72,piece
+BrandB Orange,Fruits,1.11,kg
+BrandA Tea,Beverages,2.45,liter
+GoodFarm Grapes,Fruits,1.6,kg
+BrandB Butter,Dairy,3.24,liter
+NaturePlus Cheese,Dairy,5.1,liter
+BrandA Pasta,Food,2.22,pack
+BrandB Coffee,Beverages,1.51,bottle
+BrandB Lamb,Meat,25.49,kg
+BrandB Lamb,Meat,15.13,kg
+BrandC Butter,Dairy,1.22,kg
+GoodFarm Sweater,Clothing,10.31,piece
+NaturePlus Mango,Fruits,1.13,kg
+GoodFarm Spinach,Vegetables,0.2,piece
+NaturePlus Tomato,Vegetables,1.17,kg
+NaturePlus Potato,Vegetables,0.55,piece
+BrandC Potato,Vegetables,1.07,kg
+BrandB Bagel,Bakery,3.74,kg
+EcoLife Spinach,Vegetables,1.29,kg
+EcoLife Spinach,Vegetables,0.6,piece
+NaturePlus Croissant,Bakery,0.45,kg
+GoodFarm Cake,Bakery,1.68,kg
+BrandC Bagel,Bakery,3.9,kg
+GoodFarm Yogurt,Dairy,2.34,liter
+BrandA Tea,Beverages,0.59,bottle
+GoodFarm Jeans,Clothing,6.06,piece
+GoodFarm Jeans,Clothing,11.84,piece
+BrandB Milk,Dairy,3.05,liter
+EcoLife Coffee,Beverages,2.08,bottle
+EcoLife Jeans,Clothing,17.54,piece
+BrandA Grapes,Fruits,0.98,piece
+BrandA Mango,Fruits,1.08,piece
+GoodFarm Beef,Meat,15.42,kg
+BrandB Butter,Dairy,0.85,liter
+NaturePlus TV,Electronics,117.57,piece
+NaturePlus Bagel,Bakery,0.55,piece
+NaturePlus Orange,Fruits,0.3,kg
+NaturePlus Spinach,Vegetables,0.74,piece
+NaturePlus TV,Electronics,156.09,piece
+BrandA T-shirt,Clothing,18.31,piece
+NaturePlus Butter,Dairy,1.87,liter
+NaturePlus Laptop,Electronics,50.7,piece
+BrandB Turkey,Meat,18.76,kg
+EcoLife Pasta,Food,3.07,kg
+BrandA Yogurt,Dairy,6.89,liter
+EcoLife Grapes,Fruits,1.09,piece
+EcoLife Jacket,Clothing,13.63,piece
+BrandB Coke,Beverages,1.15,liter
+NaturePlus Croissant,Bakery,1.38,kg
+BrandC Grapes,Fruits,0.35,kg
+BrandC Pork,Meat,12.01,kg
+BrandC Bagel,Bakery,0.79,kg
+BrandA Shampoo,Personal Care,4.33,piece
+EcoLife Oats,Food,4.14,kg
+BrandB Tea,Beverages,0.52,liter
+NaturePlus Phone,Electronics,34.23,piece
+BrandA Beef,Meat,7.17,kg
+BrandB Chicken,Meat,10.28,kg
+EcoLife TV,Electronics,174.48,piece
+NaturePlus Phone,Electronics,52.75,piece
+EcoLife Apple,Fruits,0.63,kg
+EcoLife Cheese,Dairy,8.92,liter
+EcoLife Turkey,Meat,16.31,kg
+BrandA Tablet,Electronics,91.95,piece
+EcoLife Orange,Fruits,0.11,piece
+BrandB TV,Electronics,79.29,piece
+NaturePlus Shampoo,Personal Care,1.6,piece
+BrandA Cake,Bakery,4.68,kg
+BrandB Beans,Food,2.66,kg
+BrandA Soap,Personal Care,1.19,piece
+NaturePlus Beans,Food,0.83,kg
+NaturePlus Tea,Beverages,1.79,bottle
+BrandC Deodorant,Personal Care,4.75,piece
+BrandA Banana,Fruits,1.85,piece
+BrandA Sweater,Clothing,6.76,piece
+GoodFarm Mango,Fruits,1.11,piece
+BrandC Yogurt,Dairy,9.6,liter
+GoodFarm Toothpaste,Personal Care,4.75,piece
+NaturePlus Laptop,Electronics,32.32,piece
+GoodFarm Muffin,Bakery,2.38,piece
+BrandA Beans,Food,1.77,pack
+BrandB Coke,Beverages,2.49,liter
+NaturePlus Water,Beverages,2.75,liter
+BrandC Cake,Bakery,1.7,kg
+GoodFarm Lamb,Meat,22.81,kg
+BrandC Croissant,Bakery,3.36,kg
+BrandB TV,Electronics,189.68,piece
+BrandC Banana,Fruits,1.59,piece
+NaturePlus Headphones,Electronics,184.81,piece
+BrandA Tablet,Electronics,103.91,piece
+EcoLife Jacket,Clothing,14.66,piece
+BrandA Bagel,Bakery,0.59,piece
+NaturePlus Banana,Fruits,0.89,kg
+BrandA Shirt,Clothing,15.52,piece
+EcoLife Bagel,Bakery,0.83,kg
+BrandB Chicken,Meat,26.59,kg
+BrandA Orange,Fruits,0.52,kg
+NaturePlus Lamb,Meat,17.52,kg
+BrandC Sweater,Clothing,17.83,piece
+BrandB Laptop,Electronics,179.24,piece
+GoodFarm Lamb,Meat,5.94,kg
+BrandB Tea,Beverages,0.62,liter
+GoodFarm Water,Beverages,1.15,bottle
+BrandA Toothpaste,Personal Care,1.32,piece
+BrandB Cheese,Dairy,5.84,kg
+BrandB Lotion,Personal Care,3.68,piece
+EcoLife Cream,Dairy,6.74,liter
+BrandC Croissant,Bakery,4.42,piece
+BrandB Water,Beverages,0.56,liter
+NaturePlus Toothpaste,Personal Care,3.0,piece
+NaturePlus Shampoo,Personal Care,3.04,piece
+NaturePlus Pork,Meat,27.29,kg
+GoodFarm Cream,Dairy,6.63,kg
+GoodFarm Water,Beverages,1.61,liter
+BrandA Grapes,Fruits,1.66,kg
+NaturePlus Bread,Bakery,1.67,piece
+NaturePlus Toothpaste,Personal Care,1.21,piece
+BrandA Mango,Fruits,0.35,piece
+EcoLife Oats,Food,2.78,piece
+BrandA Orange,Fruits,0.18,kg
+BrandB Grapes,Fruits,0.8,kg
+NaturePlus Tablet,Electronics,130.5,piece
+NaturePlus Shampoo,Personal Care,2.05,piece
+BrandB Yogurt,Dairy,2.79,kg
+BrandA Banana,Fruits,0.96,kg
+NaturePlus Yogurt,Dairy,6.4,kg
+BrandB Beans,Food,0.17,pack
+GoodFarm TV,Electronics,138.55,piece
+GoodFarm Tablet,Electronics,101.76,piece
+BrandB Potato,Vegetables,1.34,kg
+EcoLife Onion,Vegetables,0.92,piece
+BrandB Deodorant,Personal Care,4.58,piece
+NaturePlus Laptop,Electronics,145.21,piece
+BrandB Coke,Beverages,2.99,liter
+BrandB Sweater,Clothing,9.73,piece
+NaturePlus Lentils,Food,4.13,pack
+BrandC Banana,Fruits,0.48,piece
+BrandA Jacket,Clothing,10.73,piece
+EcoLife Tablet,Electronics,87.64,piece
+BrandB Beef,Meat,12.83,kg
+BrandC Potato,Vegetables,1.92,kg
+BrandA Bread,Bakery,3.84,piece
+BrandA Phone,Electronics,44.12,piece
+NaturePlus Lentils,Food,0.86,kg
+EcoLife Water,Beverages,2.39,liter
+GoodFarm Beans,Food,3.83,kg
+BrandC Pasta,Food,4.31,piece
+EcoLife Shampoo,Personal Care,3.65,piece
+BrandA Coffee,Beverages,2.35,liter
+EcoLife Bagel,Bakery,3.49,kg
+BrandB Coffee,Beverages,0.64,bottle
+BrandB Sweater,Clothing,12.43,piece
+GoodFarm Tea,Beverages,2.67,liter
+EcoLife Bread,Bakery,2.36,piece
+BrandC Banana,Fruits,1.07,piece
+GoodFarm TV,Electronics,62.32,piece
+NaturePlus Lentils,Food,3.57,pack
+GoodFarm Soap,Personal Care,0.53,piece
+GoodFarm Croissant,Bakery,4.57,kg
+BrandA Cream,Dairy,7.79,kg
+BrandB Potato,Vegetables,1.94,kg
+GoodFarm Cheese,Dairy,6.07,liter
+BrandA Croissant,Bakery,3.08,piece
+BrandA Apple,Fruits,1.81,kg
+BrandA Lamb,Meat,24.31,kg
+BrandB Beef,Meat,20.07,kg
+GoodFarm Turkey,Meat,11.89,kg
+GoodFarm Water,Beverages,2.4,liter
+BrandB Mango,Fruits,0.69,kg
+EcoLife Water,Beverages,0.86,liter
+EcoLife Pasta,Food,0.75,pack
+BrandA Cream,Dairy,6.51,liter
+EcoLife Beans,Food,0.47,pack
+BrandB Laptop,Electronics,53.63,piece
+GoodFarm Mango,Fruits,1.05,piece
+BrandC T-shirt,Clothing,14.53,piece
+NaturePlus Bagel,Bakery,3.25,piece
+GoodFarm Pork,Meat,14.25,kg
+BrandB TV,Electronics,46.9,piece
+EcoLife Cheese,Dairy,1.46,liter
+NaturePlus TV,Electronics,179.71,piece
+BrandC Banana,Fruits,1.67,piece
+BrandC Soap,Personal Care,4.94,piece
+NaturePlus Beef,Meat,5.47,kg
+EcoLife Chicken,Meat,16.61,kg
+EcoLife Lentils,Food,4.64,pack
+GoodFarm Soap,Personal Care,3.59,piece
+BrandA Butter,Dairy,2.8,liter
+BrandB Lotion,Personal Care,4.49,piece
+BrandB Bagel,Bakery,3.88,kg
+EcoLife Spinach,Vegetables,1.46,piece
+BrandC Muffin,Bakery,3.19,kg
+GoodFarm Spinach,Vegetables,1.44,piece
+EcoLife Lamb,Meat,10.91,kg
+BrandC Lotion,Personal Care,4.53,piece
+BrandA Pasta,Food,2.13,piece
+GoodFarm Tea,Beverages,2.9,bottle
+BrandA Bread,Bakery,0.99,piece
+NaturePlus Milk,Dairy,0.61,liter
+BrandB Jeans,Clothing,8.27,piece
+BrandB Shirt,Clothing,8.97,piece
+BrandB Jeans,Clothing,5.5,piece
+BrandC Oats,Food,3.16,piece
+GoodFarm Beef,Meat,10.63,kg
+GoodFarm Rice,Food,3.96,kg
+BrandB Lotion,Personal Care,0.65,piece
+BrandC Phone,Electronics,90.62,piece
+GoodFarm Bagel,Bakery,3.79,piece
+EcoLife Juice,Beverages,2.66,liter
+BrandA Tea,Beverages,0.65,bottle
+BrandC Laptop,Electronics,178.33,piece
+EcoLife Croissant,Bakery,1.86,kg
+NaturePlus Beans,Food,1.22,pack
+BrandB Banana,Fruits,0.52,kg
+BrandA Milk,Dairy,9.76,liter
+BrandA Toothpaste,Personal Care,2.64,piece
+NaturePlus Carrot,Vegetables,1.12,kg
+BrandA Muffin,Bakery,2.28,kg
+GoodFarm Shirt,Clothing,7.19,piece
+BrandA Lotion,Personal Care,1.7,piece
+BrandA Yogurt,Dairy,2.08,liter
+NaturePlus Headphones,Electronics,77.92,piece
+GoodFarm Deodorant,Personal Care,2.14,piece
+BrandA Jacket,Clothing,18.83,piece
+BrandA Muffin,Bakery,1.84,kg
+BrandB Carrot,Vegetables,0.24,kg
+BrandC Jeans,Clothing,2.6,piece
+BrandB Grapes,Fruits,1.44,piece
+GoodFarm Soap,Personal Care,0.18,piece
+NaturePlus Grapes,Fruits,1.92,kg
+EcoLife Cake,Bakery,3.13,piece
+BrandC Oats,Food,3.09,pack
+NaturePlus Soap,Personal Care,2.14,piece
+BrandA Coke,Beverages,1.09,bottle
+BrandA Mango,Fruits,0.77,kg
+EcoLife Orange,Fruits,1.49,piece
+BrandC Sweater,Clothing,19.87,piece
+BrandB Banana,Fruits,0.76,kg
+BrandB Sweater,Clothing,12.09,piece
+EcoLife Tomato,Vegetables,0.19,piece
+BrandB Oats,Food,0.29,kg
+BrandA Coke,Beverages,2.93,liter
+BrandA Tablet,Electronics,190.4,piece
+BrandC Pork,Meat,25.09,kg
+BrandA Milk,Dairy,2.91,liter
+NaturePlus Jacket,Clothing,17.98,piece
+GoodFarm Phone,Electronics,117.48,piece
+BrandA Beef,Meat,24.72,kg
+EcoLife Jeans,Clothing,2.98,piece
+NaturePlus Cake,Bakery,3.57,piece
+EcoLife Cream,Dairy,4.02,liter
+BrandA Turkey,Meat,27.56,kg
+BrandA Deodorant,Personal Care,1.5,piece
+BrandB Headphones,Electronics,63.06,piece
+BrandA Beans,Food,1.41,pack
+NaturePlus Cream,Dairy,1.59,kg
+NaturePlus Pork,Meat,21.61,kg
+BrandA Potato,Vegetables,0.47,piece
+BrandA Toothpaste,Personal Care,2.66,piece
+GoodFarm Carrot,Vegetables,1.45,kg
+EcoLife Chicken,Meat,17.19,kg
+BrandC TV,Electronics,85.1,piece
+BrandA Tomato,Vegetables,0.53,kg
+BrandB Lentils,Food,3.43,piece
+NaturePlus Oats,Food,2.86,piece
+GoodFarm Beans,Food,2.73,pack
+NaturePlus T-shirt,Clothing,17.51,piece
+BrandC Toothpaste,Personal Care,2.62,piece
+BrandC Mango,Fruits,0.51,kg
+BrandA Chicken,Meat,26.13,kg
+NaturePlus Cake,Bakery,1.75,piece
+BrandC Chicken,Meat,20.01,kg
+BrandB Tea,Beverages,0.69,liter
+BrandB Butter,Dairy,7.59,liter
+NaturePlus Toothpaste,Personal Care,2.45,piece
+EcoLife Lamb,Meat,22.26,kg
+EcoLife Jacket,Clothing,4.36,piece
+GoodFarm Spinach,Vegetables,1.24,kg
+BrandB Butter,Dairy,4.76,kg
+BrandA Beans,Food,1.01,pack
+EcoLife Bagel,Bakery,2.46,kg
+BrandC Juice,Beverages,1.65,bottle
+EcoLife Lentils,Food,4.35,pack
+BrandB Grapes,Fruits,1.64,kg
+BrandB Water,Beverages,0.95,liter
+EcoLife Muffin,Bakery,3.99,piece
+GoodFarm Muffin,Bakery,3.53,kg
+BrandC Croissant,Bakery,4.84,kg
+BrandA Chicken,Meat,12.34,kg
+BrandC Muffin,Bakery,1.4,kg
+GoodFarm Mango,Fruits,0.16,kg
+BrandA Coffee,Beverages,1.66,bottle
+BrandA Headphones,Electronics,107.91,piece
+NaturePlus Toothpaste,Personal Care,1.27,piece
+BrandA Laptop,Electronics,103.92,piece
+EcoLife Beef,Meat,19.85,kg
+BrandC Deodorant,Personal Care,0.94,piece
+BrandB Tea,Beverages,1.37,liter
+EcoLife Apple,Fruits,0.73,piece
+GoodFarm Shirt,Clothing,17.26,piece
+NaturePlus Orange,Fruits,0.97,piece
+GoodFarm Apple,Fruits,0.89,piece
+BrandA Shampoo,Personal Care,3.8,piece
+BrandB Tea,Beverages,0.48,bottle
+BrandC Shirt,Clothing,9.12,piece
+NaturePlus Oats,Food,2.14,pack
+BrandA Bagel,Bakery,0.61,kg
+NaturePlus Banana,Fruits,0.7,kg
+BrandA Headphones,Electronics,97.08,piece
+GoodFarm Shirt,Clothing,8.18,piece
+GoodFarm Butter,Dairy,1.46,kg
+NaturePlus Bagel,Bakery,1.68,piece
+EcoLife Grapes,Fruits,1.72,piece
+BrandA Tea,Beverages,1.41,liter
+BrandC Jeans,Clothing,16.8,piece
+BrandB Lentils,Food,0.45,kg
+NaturePlus Cheese,Dairy,9.62,kg
+GoodFarm Banana,Fruits,0.26,kg
+GoodFarm Coffee,Beverages,1.31,bottle
+NaturePlus Coffee,Beverages,1.73,liter
+BrandB Beef,Meat,14.06,kg
+EcoLife Jeans,Clothing,19.99,piece
+BrandC Sweater,Clothing,2.22,piece
+BrandA Yogurt,Dairy,6.53,kg
+EcoLife Orange,Fruits,1.54,kg
+GoodFarm Phone,Electronics,86.62,piece
+BrandB Cream,Dairy,3.68,liter
+BrandA Carrot,Vegetables,1.67,piece
+BrandA Spinach,Vegetables,0.91,kg
+BrandA Lotion,Personal Care,0.86,piece
+BrandB Grapes,Fruits,0.97,piece
+EcoLife Deodorant,Personal Care,1.88,piece
+BrandB Shirt,Clothing,2.97,piece
+EcoLife Rice,Food,2.21,piece
+BrandC Onion,Vegetables,1.85,kg
+GoodFarm Pasta,Food,0.76,pack
+BrandC Lentils,Food,2.19,pack
+BrandC Apple,Fruits,1.11,piece
+BrandB Juice,Beverages,1.87,liter
+BrandA T-shirt,Clothing,11.24,piece
+BrandC Coffee,Beverages,1.69,liter
+NaturePlus Carrot,Vegetables,1.59,kg
+EcoLife Chicken,Meat,24.48,kg
+GoodFarm Lamb,Meat,12.26,kg
+EcoLife T-shirt,Clothing,16.55,piece
+GoodFarm Shirt,Clothing,18.19,piece
+NaturePlus Lamb,Meat,27.59,kg
+EcoLife Chicken,Meat,12.23,kg
+NaturePlus Beans,Food,0.57,pack
+EcoLife Pasta,Food,3.94,piece
+NaturePlus Jeans,Clothing,2.85,piece
+NaturePlus T-shirt,Clothing,19.82,piece
+BrandB Tomato,Vegetables,0.73,kg
+NaturePlus Water,Beverages,2.37,bottle
+GoodFarm Jeans,Clothing,18.8,piece
+BrandB Orange,Fruits,1.74,piece
+BrandA Spinach,Vegetables,0.47,kg
+BrandC Mango,Fruits,1.5,piece
+BrandC Pork,Meat,22.82,kg
+BrandC Lotion,Personal Care,2.1,piece
+NaturePlus Headphones,Electronics,138.27,piece
+BrandA Apple,Fruits,1.39,piece
+GoodFarm Water,Beverages,0.6,bottle
+GoodFarm Butter,Dairy,1.74,kg
+NaturePlus Milk,Dairy,8.66,kg
+NaturePlus Coffee,Beverages,0.37,bottle
+BrandA Milk,Dairy,3.99,kg
+NaturePlus Rice,Food,3.14,piece
+GoodFarm Croissant,Bakery,1.32,kg
+GoodFarm Rice,Food,0.36,kg
+EcoLife Grapes,Fruits,0.37,piece
+BrandC Sweater,Clothing,2.23,piece
+BrandA Deodorant,Personal Care,0.18,piece
+BrandA Coke,Beverages,2.02,liter
+BrandA Oats,Food,0.24,kg
+BrandB Phone,Electronics,25.12,piece
+BrandB Jeans,Clothing,10.19,piece
+NaturePlus Cake,Bakery,3.03,kg
+NaturePlus Phone,Electronics,143.15,piece
+BrandA Turkey,Meat,27.51,kg
+EcoLife Laptop,Electronics,53.69,piece
+NaturePlus Bread,Bakery,3.73,piece
+BrandB Cheese,Dairy,2.67,kg
+NaturePlus Deodorant,Personal Care,3.87,piece
+NaturePlus Cream,Dairy,3.18,liter
+BrandC Bread,Bakery,3.17,piece
+BrandA Coffee,Beverages,2.38,liter
+NaturePlus Grapes,Fruits,1.0,piece
+NaturePlus Laptop,Electronics,13.51,piece
+EcoLife Carrot,Vegetables,0.52,kg
+BrandC Sweater,Clothing,5.74,piece
+GoodFarm Shampoo,Personal Care,1.29,piece
+GoodFarm Lotion,Personal Care,3.92,piece
+BrandB Onion,Vegetables,1.62,piece
+BrandB Spinach,Vegetables,0.9,piece
+BrandA Lamb,Meat,12.53,kg
+GoodFarm Deodorant,Personal Care,4.58,piece
+EcoLife Rice,Food,3.18,piece
+NaturePlus Chicken,Meat,11.55,kg
+BrandB Tomato,Vegetables,1.69,piece
+GoodFarm Lentils,Food,3.74,piece
+EcoLife Cream,Dairy,4.34,kg
+BrandA Lamb,Meat,9.18,kg
+BrandA Cheese,Dairy,4.58,kg
+BrandB Spinach,Vegetables,0.39,piece
+NaturePlus Deodorant,Personal Care,1.48,piece
+NaturePlus Pork,Meat,25.93,kg
+GoodFarm Deodorant,Personal Care,1.02,piece
+BrandB T-shirt,Clothing,13.49,piece
+EcoLife Turkey,Meat,9.37,kg
+BrandC Coke,Beverages,2.89,bottle
+BrandA Soap,Personal Care,0.24,piece
+EcoLife Spinach,Vegetables,0.29,piece
+GoodFarm Potato,Vegetables,1.09,kg
+BrandB Jeans,Clothing,18.95,piece
+BrandC Beans,Food,4.48,piece
+GoodFarm Onion,Vegetables,0.67,kg
+GoodFarm Deodorant,Personal Care,0.62,piece
+BrandC Mango,Fruits,0.7,piece
+BrandB Phone,Electronics,37.3,piece
+BrandC Lotion,Personal Care,0.47,piece
+GoodFarm Onion,Vegetables,0.6,kg
+NaturePlus Headphones,Electronics,40.27,piece
+NaturePlus Oats,Food,2.91,pack
+BrandC Turkey,Meat,21.9,kg
+BrandA Soap,Personal Care,0.14,piece
+GoodFarm Soap,Personal Care,1.44,piece
+BrandC Milk,Dairy,2.83,liter
+GoodFarm Coke,Beverages,2.08,bottle
+GoodFarm T-shirt,Clothing,9.47,piece
+BrandC Spinach,Vegetables,0.87,piece
+BrandA Grapes,Fruits,0.79,kg
+EcoLife Water,Beverages,2.18,liter
+BrandA Onion,Vegetables,0.31,piece
+GoodFarm Lamb,Meat,6.31,kg
+BrandB Beef,Meat,15.5,kg
+BrandA Apple,Fruits,0.14,piece
+BrandB Coke,Beverages,0.91,liter
+NaturePlus Jeans,Clothing,8.94,piece
+EcoLife Yogurt,Dairy,3.2,liter
+EcoLife Shirt,Clothing,3.4,piece
+NaturePlus Jacket,Clothing,6.58,piece
+BrandB Potato,Vegetables,1.41,kg
+NaturePlus Bagel,Bakery,2.4,kg
+GoodFarm Carrot,Vegetables,0.9,kg
+GoodFarm Muffin,Bakery,4.53,piece
+BrandB Coke,Beverages,1.79,bottle
+NaturePlus Mango,Fruits,1.11,piece
+BrandA Orange,Fruits,1.7,kg
+NaturePlus Cake,Bakery,2.76,kg
+EcoLife Lotion,Personal Care,1.15,piece
+BrandB Juice,Beverages,0.85,bottle
+GoodFarm TV,Electronics,141.29,piece
+BrandB Bagel,Bakery,4.66,kg
+GoodFarm Soap,Personal Care,4.35,piece
+EcoLife Rice,Food,4.02,kg
+EcoLife Rice,Food,0.91,pack
+BrandC Jeans,Clothing,14.55,piece
+NaturePlus Toothpaste,Personal Care,3.49,piece
+BrandC Turkey,Meat,6.01,kg
+EcoLife Phone,Electronics,34.41,piece
+BrandB Pasta,Food,4.55,piece
+EcoLife TV,Electronics,90.54,piece
+BrandA Phone,Electronics,178.61,piece
+BrandB Juice,Beverages,1.53,liter
+NaturePlus Milk,Dairy,2.87,liter
+BrandC Sweater,Clothing,19.71,piece
+BrandA Lentils,Food,2.15,piece
+BrandB Lotion,Personal Care,3.85,piece
+GoodFarm Shampoo,Personal Care,0.39,piece
+NaturePlus Juice,Beverages,1.84,liter
+BrandA Spinach,Vegetables,0.54,kg
+GoodFarm Orange,Fruits,0.96,piece
+BrandA Muffin,Bakery,4.14,kg
+BrandC Headphones,Electronics,133.46,piece
+BrandB Bread,Bakery,1.7,kg
+EcoLife Lamb,Meat,29.78,kg
+GoodFarm Pasta,Food,4.52,piece
+BrandC Beans,Food,0.78,pack
+GoodFarm Tablet,Electronics,169.05,piece
+BrandB Cake,Bakery,4.43,piece
+GoodFarm Croissant,Bakery,2.87,kg
+NaturePlus Orange,Fruits,1.58,kg
+BrandC Water,Beverages,2.1,bottle
+BrandC Potato,Vegetables,1.04,kg
+BrandA Pork,Meat,25.94,kg
+BrandB Carrot,Vegetables,1.11,kg
+BrandB Carrot,Vegetables,1.82,kg
+GoodFarm Toothpaste,Personal Care,2.6,piece
+EcoLife Cheese,Dairy,2.03,liter
+GoodFarm Rice,Food,2.6,pack
+BrandB Jeans,Clothing,16.57,piece
+NaturePlus Coke,Beverages,0.98,liter
+BrandC Beef,Meat,24.05,kg
+BrandC Rice,Food,0.73,kg
+NaturePlus TV,Electronics,158.3,piece
+NaturePlus Tomato,Vegetables,1.93,piece
+BrandA Sweater,Clothing,18.29,piece
+NaturePlus TV,Electronics,198.62,piece
+BrandC Shirt,Clothing,8.44,piece
+EcoLife Lentils,Food,0.23,piece
+BrandC Mango,Fruits,0.1,kg
+NaturePlus Coke,Beverages,0.36,bottle
+BrandB Laptop,Electronics,32.71,piece
+NaturePlus TV,Electronics,98.84,piece
+GoodFarm Beef,Meat,26.24,kg
+BrandB Cake,Bakery,1.98,kg
+NaturePlus Potato,Vegetables,1.3,kg
+NaturePlus Phone,Electronics,13.26,piece
+BrandA Tea,Beverages,0.89,liter
+GoodFarm Headphones,Electronics,86.71,piece
+EcoLife Yogurt,Dairy,6.85,liter
+EcoLife Mango,Fruits,0.3,piece
+BrandC Soap,Personal Care,2.1,piece
+GoodFarm Muffin,Bakery,4.44,piece
+EcoLife Bagel,Bakery,4.69,piece
+NaturePlus Yogurt,Dairy,6.41,liter
+NaturePlus Sweater,Clothing,10.15,piece
+BrandC Apple,Fruits,0.96,piece
+GoodFarm Headphones,Electronics,54.69,piece
+BrandA Lentils,Food,3.07,kg
+GoodFarm Lotion,Personal Care,2.5,piece
+BrandA Rice,Food,1.45,piece
+BrandA Butter,Dairy,8.31,kg
+GoodFarm Sweater,Clothing,4.06,piece
+GoodFarm Croissant,Bakery,1.29,kg
+NaturePlus Spinach,Vegetables,1.87,piece
+BrandB Laptop,Electronics,135.92,piece
+BrandA Apple,Fruits,1.3,piece
+NaturePlus Milk,Dairy,0.95,liter
+EcoLife Juice,Beverages,1.22,bottle
+GoodFarm Chicken,Meat,26.1,kg
+BrandA Toothpaste,Personal Care,2.18,piece
+GoodFarm Headphones,Electronics,65.96,piece
+GoodFarm Soap,Personal Care,4.29,piece
+BrandA Shirt,Clothing,18.98,piece
+EcoLife Beef,Meat,21.74,kg
+EcoLife Deodorant,Personal Care,2.41,piece
+NaturePlus Oats,Food,4.15,piece
+BrandB Headphones,Electronics,31.97,piece
+GoodFarm Grapes,Fruits,0.85,piece
+BrandC Oats,Food,2.09,kg
+NaturePlus Spinach,Vegetables,1.74,kg
+BrandB Chicken,Meat,7.01,kg
+EcoLife Rice,Food,1.43,piece
+EcoLife Bagel,Bakery,2.91,kg
+BrandB Bread,Bakery,1.8,piece
+BrandB Mango,Fruits,1.14,piece
+GoodFarm Oats,Food,4.99,piece
+BrandC Orange,Fruits,1.25,piece
+BrandB Juice,Beverages,2.08,liter
+BrandB Turkey,Meat,22.47,kg
+GoodFarm Shirt,Clothing,11.48,piece
+GoodFarm Banana,Fruits,1.68,piece
+EcoLife Deodorant,Personal Care,1.91,piece
+NaturePlus Bagel,Bakery,1.06,piece
+BrandA Mango,Fruits,1.93,piece
+BrandB Potato,Vegetables,0.51,kg
+BrandB Bagel,Bakery,3.14,piece
+EcoLife Shampoo,Personal Care,1.04,piece
+EcoLife Water,Beverages,2.78,liter
+EcoLife Water,Beverages,1.95,bottle
+NaturePlus Soap,Personal Care,0.84,piece
+NaturePlus Shirt,Clothing,6.34,piece
+BrandB Sweater,Clothing,13.53,piece
+BrandA Rice,Food,4.12,pack
+BrandA Bagel,Bakery,2.66,piece
+BrandA Yogurt,Dairy,4.18,kg
+EcoLife Carrot,Vegetables,1.99,kg
+EcoLife Pasta,Food,2.67,kg
+BrandA Cream,Dairy,6.35,kg
+EcoLife Rice,Food,4.54,piece
+GoodFarm Toothpaste,Personal Care,3.72,piece
+BrandB Phone,Electronics,107.73,piece
+NaturePlus Cake,Bakery,3.48,piece
+NaturePlus Spinach,Vegetables,0.37,piece
+NaturePlus Coffee,Beverages,0.22,liter
+BrandB Beef,Meat,23.98,kg
+NaturePlus Tablet,Electronics,51.72,piece
+BrandA TV,Electronics,42.39,piece
+BrandB Lentils,Food,4.4,kg
+BrandB Grapes,Fruits,1.48,piece
+GoodFarm Chicken,Meat,10.55,kg
+BrandA Pasta,Food,3.71,kg
+EcoLife Milk,Dairy,2.11,liter
+BrandB Lotion,Personal Care,1.79,piece
+BrandC Cream,Dairy,8.0,liter
+BrandB Shampoo,Personal Care,4.76,piece
+NaturePlus Milk,Dairy,1.45,kg
+BrandB Lentils,Food,1.83,kg
+BrandA TV,Electronics,188.15,piece
+GoodFarm Milk,Dairy,6.45,liter
+NaturePlus Jeans,Clothing,3.93,piece
+NaturePlus Coffee,Beverages,2.84,liter
+BrandA Cheese,Dairy,8.32,kg
+EcoLife Onion,Vegetables,1.48,piece
+GoodFarm Milk,Dairy,3.24,kg
+NaturePlus Pasta,Food,3.97,pack
+GoodFarm Onion,Vegetables,0.45,kg
+BrandA Phone,Electronics,76.13,piece
+BrandA Bagel,Bakery,2.97,piece
+GoodFarm Yogurt,Dairy,9.35,kg
+BrandB Tomato,Vegetables,1.61,piece
+BrandB Lamb,Meat,10.73,kg
+EcoLife Potato,Vegetables,0.82,piece
+BrandC Chicken,Meat,26.82,kg
+BrandA Orange,Fruits,1.35,kg
+EcoLife Cake,Bakery,4.97,kg
+GoodFarm Spinach,Vegetables,0.73,kg
+NaturePlus Spinach,Vegetables,1.94,kg
+BrandB Chicken,Meat,8.09,kg
+BrandA Rice,Food,1.8,pack
+BrandA Tomato,Vegetables,0.45,piece
+NaturePlus Beans,Food,1.33,kg
+EcoLife Lamb,Meat,27.51,kg
+GoodFarm Cake,Bakery,4.44,piece
+BrandA Cream,Dairy,2.93,kg
+EcoLife Toothpaste,Personal Care,0.96,piece
+BrandC Tea,Beverages,0.59,liter
+NaturePlus Onion,Vegetables,1.81,piece
+BrandB Mango,Fruits,0.25,piece
+NaturePlus Coffee,Beverages,0.98,bottle
+GoodFarm Mango,Fruits,0.35,kg
+GoodFarm Cake,Bakery,0.47,kg
+GoodFarm Pork,Meat,25.43,kg
+BrandB Tablet,Electronics,146.67,piece
+NaturePlus Croissant,Bakery,4.55,piece
+BrandB Juice,Beverages,2.96,liter
+GoodFarm Laptop,Electronics,105.5,piece
+BrandA Croissant,Bakery,4.63,kg
+NaturePlus Bagel,Bakery,0.56,piece
+GoodFarm Laptop,Electronics,126.39,piece
+BrandB Toothpaste,Personal Care,1.75,piece
+BrandB Milk,Dairy,9.86,kg
+BrandC Potato,Vegetables,1.27,kg
+BrandC Cake,Bakery,3.28,piece
+BrandA Rice,Food,3.06,kg
+GoodFarm Yogurt,Dairy,6.46,kg
+BrandA Lamb,Meat,7.68,kg
+BrandA Lotion,Personal Care,2.15,piece
+BrandA Mango,Fruits,0.92,kg
+NaturePlus Lotion,Personal Care,2.99,piece
+BrandB Bread,Bakery,0.39,piece
+BrandA Bagel,Bakery,2.05,kg
+BrandC Coke,Beverages,1.48,bottle
+GoodFarm Jacket,Clothing,5.59,piece
+NaturePlus Beef,Meat,20.75,kg
+NaturePlus Water,Beverages,0.71,bottle
+BrandA Tomato,Vegetables,1.63,kg
+BrandC Milk,Dairy,1.7,kg
+BrandC Bagel,Bakery,0.84,kg
+BrandA Cake,Bakery,3.68,piece
+EcoLife Lamb,Meat,13.69,kg
+EcoLife Lotion,Personal Care,0.28,piece
+GoodFarm Lotion,Personal Care,1.24,piece
+GoodFarm Onion,Vegetables,1.78,kg
+GoodFarm Soap,Personal Care,3.8,piece
+GoodFarm Toothpaste,Personal Care,2.6,piece
+GoodFarm Jacket,Clothing,5.12,piece
+BrandB Orange,Fruits,0.1,piece
+EcoLife Rice,Food,1.7,kg
+BrandB Jeans,Clothing,17.67,piece
+GoodFarm Turkey,Meat,9.29,kg
+BrandB Turkey,Meat,23.72,kg
+BrandA Soap,Personal Care,1.86,piece
+GoodFarm Coffee,Beverages,2.34,liter
+NaturePlus Banana,Fruits,0.23,kg
+BrandB Sweater,Clothing,16.51,piece
+BrandB Cake,Bakery,0.47,piece
+EcoLife Cream,Dairy,7.06,kg
+NaturePlus Headphones,Electronics,158.42,piece
+NaturePlus Mango,Fruits,0.36,piece
+NaturePlus Jacket,Clothing,19.29,piece
+GoodFarm Water,Beverages,1.73,liter
+BrandB Lentils,Food,2.98,piece
+NaturePlus Jacket,Clothing,13.06,piece
+EcoLife Sweater,Clothing,18.26,piece
+NaturePlus Water,Beverages,1.34,liter
+EcoLife Lamb,Meat,25.4,kg
+BrandB Oats,Food,4.5,kg
+NaturePlus Cake,Bakery,1.14,piece
+BrandB Cheese,Dairy,1.01,kg
+EcoLife Croissant,Bakery,4.54,piece
+NaturePlus Bagel,Bakery,0.96,kg
+EcoLife Deodorant,Personal Care,3.63,piece
+NaturePlus Sweater,Clothing,14.89,piece
+NaturePlus Tomato,Vegetables,0.39,piece
+BrandA Carrot,Vegetables,0.72,piece
+GoodFarm Jacket,Clothing,5.47,piece
+GoodFarm Oats,Food,3.9,piece
+EcoLife T-shirt,Clothing,14.04,piece
+BrandB Juice,Beverages,0.9,bottle
+GoodFarm Coke,Beverages,0.37,liter
+NaturePlus Orange,Fruits,1.52,kg
+GoodFarm Butter,Dairy,8.95,kg
+EcoLife Phone,Electronics,162.59,piece
+GoodFarm Carrot,Vegetables,1.8,kg
+BrandC Lamb,Meat,28.58,kg
+BrandB Orange,Fruits,0.24,piece
+EcoLife Toothpaste,Personal Care,0.46,piece
+NaturePlus T-shirt,Clothing,18.72,piece
+NaturePlus Orange,Fruits,0.72,kg
+GoodFarm Bagel,Bakery,4.63,piece
+EcoLife Milk,Dairy,8.43,liter
+BrandC Lentils,Food,1.9,pack
+BrandB Toothpaste,Personal Care,3.14,piece
+BrandC Apple,Fruits,0.88,kg
+GoodFarm Bread,Bakery,2.91,kg
+BrandA Spinach,Vegetables,1.76,kg
+GoodFarm Tablet,Electronics,123.13,piece
+EcoLife Potato,Vegetables,1.43,piece
+EcoLife Cheese,Dairy,6.58,kg
+EcoLife Carrot,Vegetables,1.98,kg
+NaturePlus Phone,Electronics,64.36,piece
+BrandB Cheese,Dairy,5.19,liter
+BrandC Soap,Personal Care,3.3,piece
+EcoLife Potato,Vegetables,1.04,piece
+BrandC Apple,Fruits,0.82,kg
+BrandC Jacket,Clothing,10.37,piece
+EcoLife Phone,Electronics,31.74,piece
+GoodFarm Apple,Fruits,0.55,piece
+BrandB Coke,Beverages,0.49,liter
+BrandB Tablet,Electronics,42.63,piece
+BrandA Turkey,Meat,26.09,kg
+BrandC Onion,Vegetables,1.25,kg
+EcoLife Milk,Dairy,4.72,kg
+EcoLife Mango,Fruits,1.13,kg
+NaturePlus Laptop,Electronics,101.52,piece
+GoodFarm Potato,Vegetables,0.75,piece
+BrandB Mango,Fruits,0.76,piece
+BrandA Shirt,Clothing,6.07,piece
+EcoLife Lamb,Meat,23.53,kg
+NaturePlus Coffee,Beverages,0.61,liter
+BrandA T-shirt,Clothing,16.44,piece
+EcoLife TV,Electronics,127.6,piece
+NaturePlus Bagel,Bakery,4.53,kg
+EcoLife Deodorant,Personal Care,2.41,piece
+BrandB Orange,Fruits,1.06,piece
+BrandA Tea,Beverages,0.51,liter
+GoodFarm Chicken,Meat,11.0,kg
+BrandA Jacket,Clothing,18.57,piece
+BrandA Tomato,Vegetables,1.63,piece
+BrandC Toothpaste,Personal Care,0.87,piece
+EcoLife Coke,Beverages,1.84,bottle
+BrandC Turkey,Meat,14.45,kg
+BrandA Cake,Bakery,3.9,kg
+BrandA Lentils,Food,1.68,kg
+BrandC Tea,Beverages,1.15,bottle
+GoodFarm Shampoo,Personal Care,0.56,piece
+GoodFarm Oats,Food,4.01,kg
+BrandC Headphones,Electronics,112.78,piece
+GoodFarm Milk,Dairy,4.65,liter
+BrandB Lamb,Meat,5.34,kg
+EcoLife Muffin,Bakery,2.55,kg
+BrandB Toothpaste,Personal Care,1.64,piece
+GoodFarm Croissant,Bakery,3.94,piece
+BrandA Lotion,Personal Care,0.66,piece
+EcoLife Mango,Fruits,1.73,piece
+NaturePlus Croissant,Bakery,1.99,piece
+BrandB Grapes,Fruits,1.46,kg
+BrandA Turkey,Meat,20.29,kg
+EcoLife Pork,Meat,25.92,kg
+GoodFarm Mango,Fruits,0.56,piece
+EcoLife Tomato,Vegetables,1.4,piece
+BrandB Lentils,Food,0.54,pack
+BrandA Orange,Fruits,1.48,kg
+BrandA Water,Beverages,2.57,liter
+GoodFarm Bagel,Bakery,1.14,kg
+BrandA Coffee,Beverages,0.79,liter
+NaturePlus Tablet,Electronics,118.82,piece
+EcoLife Lotion,Personal Care,2.19,piece
+BrandA Oats,Food,0.74,kg
+NaturePlus Coke,Beverages,0.65,bottle
+BrandC Cheese,Dairy,3.06,kg
+BrandA Beef,Meat,18.07,kg
+EcoLife Sweater,Clothing,15.13,piece
+GoodFarm Headphones,Electronics,108.08,piece
+BrandB Muffin,Bakery,4.87,piece
+BrandB Grapes,Fruits,1.28,kg
+NaturePlus T-shirt,Clothing,6.93,piece
+BrandC Laptop,Electronics,58.48,piece
+BrandA Milk,Dairy,8.6,kg
+NaturePlus Bagel,Bakery,2.23,kg
+BrandA Oats,Food,4.78,kg
+GoodFarm Soap,Personal Care,0.99,piece
+BrandA Muffin,Bakery,3.61,piece
+EcoLife Spinach,Vegetables,0.69,piece
+EcoLife Tea,Beverages,1.43,bottle
+NaturePlus Bread,Bakery,1.98,kg
+BrandC Apple,Fruits,0.33,piece
+NaturePlus Juice,Beverages,2.89,bottle
+EcoLife TV,Electronics,99.94,piece
+NaturePlus Carrot,Vegetables,1.37,piece
+BrandC Oats,Food,0.38,piece
+EcoLife TV,Electronics,129.12,piece
+BrandA Turkey,Meat,5.94,kg
+GoodFarm Toothpaste,Personal Care,4.21,piece
+BrandB Beans,Food,2.47,piece
+BrandC Rice,Food,2.43,piece
+NaturePlus Shirt,Clothing,8.32,piece
+BrandC Headphones,Electronics,132.78,piece
+NaturePlus Potato,Vegetables,1.19,kg
+BrandA Sweater,Clothing,9.45,piece
+BrandC TV,Electronics,120.81,piece
+BrandA Yogurt,Dairy,5.82,liter
+BrandC Chicken,Meat,19.94,kg
+BrandA Banana,Fruits,0.84,kg
+NaturePlus TV,Electronics,40.22,piece
+NaturePlus Bread,Bakery,2.11,kg
+NaturePlus Yogurt,Dairy,6.15,liter
+BrandB Pasta,Food,0.56,piece
+BrandC Juice,Beverages,1.85,bottle
+BrandC Laptop,Electronics,86.8,piece
+EcoLife Banana,Fruits,1.69,piece
+GoodFarm Juice,Beverages,0.91,bottle
+BrandC Butter,Dairy,3.57,liter
+NaturePlus Pasta,Food,2.07,pack
+GoodFarm Potato,Vegetables,0.31,piece
+NaturePlus Potato,Vegetables,0.32,kg
+GoodFarm Spinach,Vegetables,1.01,piece
+EcoLife Muffin,Bakery,0.98,piece
+BrandC Apple,Fruits,1.84,piece
+BrandB Jeans,Clothing,4.8,piece
+EcoLife Muffin,Bakery,1.02,kg
+GoodFarm Bread,Bakery,1.41,kg
+EcoLife Beans,Food,4.18,pack
+GoodFarm Beef,Meat,10.36,kg
+BrandB Lotion,Personal Care,3.83,piece
+BrandB Oats,Food,4.95,pack
+BrandB Chicken,Meat,28.01,kg
+BrandA Potato,Vegetables,0.63,piece
+NaturePlus Lentils,Food,3.9,pack
+NaturePlus Croissant,Bakery,3.46,kg
+BrandA Oats,Food,4.97,pack
+BrandB Milk,Dairy,0.98,kg
+EcoLife Milk,Dairy,7.03,kg
+GoodFarm Apple,Fruits,1.27,piece
+BrandA Jacket,Clothing,10.99,piece
+BrandA Lotion,Personal Care,0.58,piece
+EcoLife Deodorant,Personal Care,1.52,piece
+BrandB Potato,Vegetables,1.51,piece
+BrandB Apple,Fruits,0.27,piece
+NaturePlus Beans,Food,0.13,pack
+BrandB Rice,Food,1.28,piece
+BrandA Beef,Meat,23.05,kg
+NaturePlus Beans,Food,1.63,piece
+GoodFarm T-shirt,Clothing,19.06,piece
+BrandA Muffin,Bakery,2.86,piece
+NaturePlus Butter,Dairy,8.96,kg
+BrandA Muffin,Bakery,1.03,kg
+EcoLife Shirt,Clothing,5.93,piece
+EcoLife Jeans,Clothing,3.25,piece
+NaturePlus Muffin,Bakery,1.3,piece
+GoodFarm Oats,Food,2.75,kg
+EcoLife Lamb,Meat,19.28,kg
+GoodFarm Potato,Vegetables,0.94,kg
+GoodFarm Chicken,Meat,23.66,kg
+BrandB Beans,Food,1.56,pack
+NaturePlus Pasta,Food,4.08,kg
+BrandB Jacket,Clothing,9.22,piece
+EcoLife Oats,Food,2.03,pack
+GoodFarm Soap,Personal Care,4.78,piece
+BrandC Pork,Meat,29.96,kg
+GoodFarm Headphones,Electronics,165.15,piece
+BrandB Tea,Beverages,0.7,liter
+BrandB Cake,Bakery,2.35,piece
+BrandC Coke,Beverages,0.87,bottle
+NaturePlus Grapes,Fruits,1.6,piece
+EcoLife Juice,Beverages,0.26,liter
+BrandB Mango,Fruits,1.43,kg
+NaturePlus Beans,Food,1.33,piece
+BrandB Cheese,Dairy,1.3,kg
+BrandB Onion,Vegetables,1.61,piece
+GoodFarm Pork,Meat,20.58,kg
+EcoLife Turkey,Meat,7.21,kg
+BrandC Beans,Food,4.44,piece
+BrandA Tomato,Vegetables,1.19,piece
+NaturePlus Coke,Beverages,2.01,bottle
+BrandB Lentils,Food,0.44,kg
+EcoLife Toothpaste,Personal Care,2.36,piece
+BrandC Pasta,Food,0.7,kg
+GoodFarm Coffee,Beverages,2.66,bottle
+EcoLife Spinach,Vegetables,0.05,piece
+GoodFarm Jeans,Clothing,12.62,piece
+BrandC Yogurt,Dairy,2.15,liter
+BrandC Grapes,Fruits,0.25,kg
+NaturePlus Cheese,Dairy,4.65,liter
+BrandB Tea,Beverages,1.08,liter
+BrandB Turkey,Meat,23.76,kg
+BrandC Carrot,Vegetables,0.8,kg
+GoodFarm Laptop,Electronics,66.14,piece
+BrandC Coke,Beverages,0.26,bottle
+NaturePlus Lamb,Meat,27.65,kg
+BrandC Butter,Dairy,8.61,liter
+EcoLife Laptop,Electronics,77.83,piece
+EcoLife Shampoo,Personal Care,3.34,piece
+EcoLife Mango,Fruits,0.22,piece
+GoodFarm Laptop,Electronics,116.34,piece
+EcoLife Grapes,Fruits,0.42,piece
+NaturePlus Water,Beverages,1.73,bottle
+GoodFarm Beef,Meat,6.12,kg
+BrandC Cream,Dairy,7.89,kg
+BrandB Spinach,Vegetables,1.46,piece
+EcoLife Chicken,Meat,15.78,kg
+BrandC Butter,Dairy,7.97,kg
+NaturePlus Water,Beverages,1.52,bottle
+BrandC Shampoo,Personal Care,3.73,piece
+GoodFarm Butter,Dairy,9.5,kg
+BrandC Sweater,Clothing,11.1,piece
+EcoLife Potato,Vegetables,1.09,piece
+BrandB Apple,Fruits,1.28,kg
+NaturePlus Potato,Vegetables,1.15,piece
+BrandB Juice,Beverages,2.41,liter
+BrandB Butter,Dairy,2.77,kg
+NaturePlus Laptop,Electronics,60.76,piece
+BrandA Chicken,Meat,15.3,kg
+GoodFarm Jeans,Clothing,15.43,piece
+NaturePlus Shampoo,Personal Care,0.9,piece
+BrandA Potato,Vegetables,0.38,piece
+BrandB Oats,Food,1.63,kg
+BrandA Rice,Food,1.15,pack
+NaturePlus Bread,Bakery,1.22,piece
+EcoLife Butter,Dairy,2.41,kg
+GoodFarm Grapes,Fruits,0.38,kg
+BrandB T-shirt,Clothing,16.27,piece
+BrandB Pork,Meat,23.81,kg
+BrandC Pasta,Food,2.16,kg
+BrandA Turkey,Meat,16.97,kg
+GoodFarm Chicken,Meat,28.2,kg
+BrandA Spinach,Vegetables,1.2,piece
+BrandB Tablet,Electronics,104.87,piece
+GoodFarm Milk,Dairy,5.27,kg
+BrandA Beef,Meat,14.61,kg
+EcoLife Croissant,Bakery,1.73,kg
+BrandA Coffee,Beverages,1.2,bottle
+GoodFarm Orange,Fruits,1.51,kg
+EcoLife Headphones,Electronics,113.81,piece
+EcoLife Deodorant,Personal Care,3.53,piece
+BrandB Cheese,Dairy,3.98,kg
+GoodFarm Mango,Fruits,0.41,piece
+GoodFarm Turkey,Meat,10.87,kg
+BrandB TV,Electronics,106.65,piece
+BrandC Water,Beverages,2.16,bottle
+EcoLife Shirt,Clothing,8.26,piece
+BrandA Grapes,Fruits,1.39,kg
+BrandA Onion,Vegetables,1.15,piece
+BrandC Cake,Bakery,0.56,piece
+BrandB Shirt,Clothing,15.24,piece
+BrandB Phone,Electronics,72.65,piece
+EcoLife Tomato,Vegetables,1.26,kg
+BrandC Shirt,Clothing,3.93,piece
+BrandA Tea,Beverages,2.86,bottle
+BrandB Shirt,Clothing,2.73,piece
+BrandC Toothpaste,Personal Care,1.41,piece
+BrandA Beans,Food,2.05,pack
+BrandC Coffee,Beverages,0.28,bottle
+EcoLife Oats,Food,1.17,kg
+EcoLife Pasta,Food,3.87,pack
+BrandA Croissant,Bakery,0.8,piece
+BrandA Orange,Fruits,1.51,piece
+BrandA Tablet,Electronics,176.89,piece
+NaturePlus Lentils,Food,3.27,pack
+BrandC Potato,Vegetables,0.25,piece
+NaturePlus Beef,Meat,26.03,kg
+BrandC Apple,Fruits,0.43,piece
+EcoLife Carrot,Vegetables,0.23,piece
+GoodFarm Jacket,Clothing,16.7,piece
+BrandC Coke,Beverages,1.63,bottle
+BrandA Headphones,Electronics,91.54,piece
+BrandC Banana,Fruits,1.33,kg
+GoodFarm Beans,Food,4.25,pack
+BrandB Beans,Food,1.69,pack
+BrandB T-shirt,Clothing,13.09,piece
+NaturePlus Milk,Dairy,5.57,kg
+BrandB Lentils,Food,2.04,pack
+BrandC Shampoo,Personal Care,2.25,piece
+NaturePlus Potato,Vegetables,0.82,kg
+BrandA Apple,Fruits,1.6,kg
+BrandB Chicken,Meat,23.67,kg
+BrandB Coke,Beverages,0.99,bottle
+BrandA Toothpaste,Personal Care,0.6,piece
+BrandA Potato,Vegetables,0.38,kg
+BrandC Bread,Bakery,4.94,piece
+EcoLife Juice,Beverages,3.0,liter
+GoodFarm Laptop,Electronics,109.0,piece
+BrandA Oats,Food,3.48,pack
+GoodFarm Rice,Food,4.35,piece
+NaturePlus Tea,Beverages,0.86,bottle
+BrandA Water,Beverages,1.63,liter
+BrandB Cake,Bakery,1.26,kg
+BrandB Tea,Beverages,0.48,liter
+NaturePlus Jacket,Clothing,16.55,piece
+BrandC Croissant,Bakery,4.67,kg
+NaturePlus Tomato,Vegetables,1.15,kg
+BrandB Headphones,Electronics,137.43,piece
+BrandC Rice,Food,0.18,pack
+NaturePlus Turkey,Meat,25.72,kg
+BrandC Tea,Beverages,0.98,liter
+GoodFarm Pasta,Food,3.53,piece
+BrandB T-shirt,Clothing,15.9,piece
+NaturePlus Banana,Fruits,1.59,kg
+BrandC Pasta,Food,3.77,kg
+BrandC Phone,Electronics,40.86,piece
+BrandB Pasta,Food,3.26,kg
+NaturePlus Tea,Beverages,0.77,liter
+EcoLife Laptop,Electronics,33.63,piece
+NaturePlus Toothpaste,Personal Care,1.19,piece
+BrandA Deodorant,Personal Care,0.86,piece
+BrandB Lotion,Personal Care,2.45,piece
+NaturePlus Jeans,Clothing,7.03,piece
+BrandB Chicken,Meat,6.86,kg
+BrandC Pork,Meat,15.94,kg
+EcoLife Milk,Dairy,6.66,liter
+BrandB Coffee,Beverages,0.63,bottle
+BrandB Chicken,Meat,5.21,kg
+BrandB Jeans,Clothing,8.35,piece
+BrandB Oats,Food,4.77,pack
+GoodFarm Lotion,Personal Care,0.88,piece
+NaturePlus Orange,Fruits,1.14,kg
+GoodFarm Onion,Vegetables,0.14,kg
+GoodFarm Lamb,Meat,16.95,kg
+BrandB Jacket,Clothing,2.17,piece
+BrandA Cake,Bakery,2.6,piece
+NaturePlus Chicken,Meat,26.25,kg
+GoodFarm Soap,Personal Care,4.54,piece
+EcoLife Orange,Fruits,1.97,kg
+GoodFarm Spinach,Vegetables,0.17,kg
+NaturePlus T-shirt,Clothing,11.03,piece
+EcoLife Beans,Food,4.18,kg
+BrandA Croissant,Bakery,2.14,kg
+NaturePlus Yogurt,Dairy,3.53,kg
+NaturePlus Water,Beverages,2.41,bottle
+BrandA Toothpaste,Personal Care,2.94,piece
+BrandC Shirt,Clothing,16.6,piece
+NaturePlus Yogurt,Dairy,5.7,liter
+BrandC Laptop,Electronics,121.32,piece
+BrandA Shirt,Clothing,15.24,piece
+EcoLife Chicken,Meat,11.29,kg
+BrandC Bagel,Bakery,3.45,kg
+NaturePlus Phone,Electronics,12.0,piece
+EcoLife Shirt,Clothing,16.82,piece
+BrandB Grapes,Fruits,1.67,piece
+BrandB Headphones,Electronics,178.47,piece
+GoodFarm Tomato,Vegetables,0.73,piece
+NaturePlus Jeans,Clothing,16.05,piece
+BrandA Apple,Fruits,0.9,kg
+NaturePlus Coke,Beverages,2.76,bottle
+EcoLife Banana,Fruits,1.67,piece
+NaturePlus Butter,Dairy,1.23,liter
+BrandC Coffee,Beverages,1.3,liter
+BrandC Tablet,Electronics,162.44,piece
+NaturePlus Coffee,Beverages,1.34,liter
+BrandA Milk,Dairy,4.26,kg
+NaturePlus Mango,Fruits,0.87,piece
+BrandC Orange,Fruits,0.15,piece
+NaturePlus Lotion,Personal Care,3.31,piece
+BrandB Soap,Personal Care,1.17,piece
+NaturePlus Spinach,Vegetables,1.31,piece
+EcoLife Pork,Meat,8.39,kg
+BrandA T-shirt,Clothing,3.37,piece
+BrandC Cream,Dairy,2.43,liter
+EcoLife Shirt,Clothing,5.04,piece
+BrandA T-shirt,Clothing,11.08,piece
+NaturePlus Banana,Fruits,1.57,kg
+BrandA Water,Beverages,1.12,bottle
+EcoLife Bagel,Bakery,4.43,piece
+EcoLife Muffin,Bakery,3.26,kg
+BrandB Carrot,Vegetables,0.98,kg
+BrandC Shirt,Clothing,3.34,piece
+BrandC Coke,Beverages,2.63,bottle
+GoodFarm Orange,Fruits,0.71,kg
+GoodFarm Butter,Dairy,7.98,liter
+BrandB Shirt,Clothing,8.66,piece
+BrandA TV,Electronics,39.75,piece
+BrandA Oats,Food,4.1,kg
+BrandB Croissant,Bakery,0.59,piece
+GoodFarm Headphones,Electronics,188.59,piece
+BrandB Rice,Food,4.81,kg
+BrandA Lamb,Meat,24.02,kg
+GoodFarm Yogurt,Dairy,8.02,kg
+BrandA Toothpaste,Personal Care,4.29,piece
+BrandA Butter,Dairy,3.28,liter
+GoodFarm Bread,Bakery,4.83,piece
+BrandA T-shirt,Clothing,16.55,piece
+BrandB Toothpaste,Personal Care,3.8,piece
+BrandC Shampoo,Personal Care,4.31,piece
+BrandA Turkey,Meat,20.8,kg
+BrandA Muffin,Bakery,1.8,piece
+BrandA Laptop,Electronics,129.12,piece
+GoodFarm Shirt,Clothing,16.26,piece
+EcoLife Turkey,Meat,25.64,kg
+NaturePlus Lentils,Food,3.53,piece
+BrandC Jacket,Clothing,2.78,piece
+GoodFarm Lentils,Food,0.12,piece
+BrandA Milk,Dairy,5.72,kg
+GoodFarm Lamb,Meat,27.53,kg
+EcoLife Water,Beverages,2.31,liter
+NaturePlus Tomato,Vegetables,1.82,kg
+BrandC Soap,Personal Care,1.82,piece
+BrandA Yogurt,Dairy,5.36,kg
+GoodFarm Tomato,Vegetables,1.34,kg
+EcoLife Toothpaste,Personal Care,3.8,piece
+GoodFarm Cheese,Dairy,4.79,liter
+BrandA Coffee,Beverages,1.94,liter
+BrandB Carrot,Vegetables,1.8,kg
+BrandB Tea,Beverages,0.56,liter
+GoodFarm Phone,Electronics,107.86,piece
+BrandA Cheese,Dairy,3.75,kg
+BrandC Lentils,Food,2.94,pack
+NaturePlus Sweater,Clothing,3.83,piece
+BrandB Beans,Food,1.66,piece
+BrandA Tea,Beverages,0.4,liter
+NaturePlus Pasta,Food,0.65,pack
+GoodFarm Turkey,Meat,26.83,kg
+BrandB Tomato,Vegetables,0.61,piece
+BrandB Pork,Meat,8.82,kg
+NaturePlus Tablet,Electronics,40.86,piece
+BrandA Rice,Food,3.74,piece
+EcoLife Lamb,Meat,14.59,kg
+EcoLife Juice,Beverages,2.68,liter
+BrandC Milk,Dairy,7.18,kg
+BrandC Tomato,Vegetables,1.71,kg
+EcoLife Sweater,Clothing,6.53,piece
+BrandC Tablet,Electronics,52.61,piece
+EcoLife Tablet,Electronics,69.12,piece
+BrandB Lamb,Meat,18.77,kg
+NaturePlus Phone,Electronics,95.29,piece
+BrandA Croissant,Bakery,2.02,kg
+EcoLife Muffin,Bakery,3.86,piece
+BrandA Soap,Personal Care,2.6,piece
+GoodFarm Water,Beverages,1.69,liter
+BrandB Yogurt,Dairy,7.39,kg
+BrandC Juice,Beverages,2.2,bottle
+BrandC Grapes,Fruits,1.93,piece
+NaturePlus Shampoo,Personal Care,0.89,piece
+EcoLife Jeans,Clothing,5.14,piece
+NaturePlus Lamb,Meat,29.69,kg
+EcoLife Croissant,Bakery,4.8,kg
+BrandA Lamb,Meat,7.48,kg
+BrandC Deodorant,Personal Care,4.1,piece
+EcoLife Apple,Fruits,1.02,kg
+BrandA Carrot,Vegetables,0.58,kg
+EcoLife Milk,Dairy,7.41,kg
+NaturePlus Pork,Meat,7.16,kg
+EcoLife Milk,Dairy,5.81,kg
+BrandA Headphones,Electronics,54.41,piece
+GoodFarm Pork,Meat,20.26,kg
+NaturePlus Yogurt,Dairy,6.76,liter
+EcoLife Lamb,Meat,26.19,kg
+NaturePlus Carrot,Vegetables,0.41,kg
+GoodFarm Lotion,Personal Care,2.5,piece
+BrandB Shampoo,Personal Care,0.98,piece
+BrandC Beef,Meat,13.76,kg
+BrandB Potato,Vegetables,1.65,piece
+EcoLife Pork,Meat,5.05,kg
+BrandA Carrot,Vegetables,0.73,kg
+EcoLife Beef,Meat,18.98,kg
+BrandB Potato,Vegetables,1.09,piece
+BrandC Sweater,Clothing,5.36,piece
+NaturePlus TV,Electronics,138.93,piece
+NaturePlus Croissant,Bakery,3.09,kg
+EcoLife Shampoo,Personal Care,4.7,piece
+EcoLife Butter,Dairy,9.88,liter
+GoodFarm Cheese,Dairy,6.74,liter
+BrandB Coke,Beverages,1.2,liter
+BrandC Lotion,Personal Care,3.95,piece
+GoodFarm Potato,Vegetables,1.2,piece
+GoodFarm Cheese,Dairy,2.59,kg
+BrandC Shampoo,Personal Care,0.28,piece
+BrandC Bagel,Bakery,3.04,piece
+NaturePlus Jeans,Clothing,7.35,piece
+GoodFarm Chicken,Meat,23.97,kg
+BrandB Grapes,Fruits,1.16,kg
+BrandC Coke,Beverages,2.94,bottle
+BrandB Water,Beverages,1.0,liter
+EcoLife Tablet,Electronics,32.59,piece
+BrandC Rice,Food,2.79,pack
+BrandC Coffee,Beverages,1.26,bottle
+BrandB Cream,Dairy,9.27,liter
+EcoLife Coke,Beverages,2.06,bottle
+BrandA Jeans,Clothing,12.07,piece
+EcoLife Coke,Beverages,1.12,bottle
+NaturePlus Rice,Food,1.98,pack
+BrandA Water,Beverages,2.03,liter
+BrandC Coke,Beverages,1.48,liter
+BrandA Oats,Food,3.09,kg
+BrandA Lotion,Personal Care,0.31,piece
+NaturePlus Tomato,Vegetables,1.77,piece
+EcoLife Cheese,Dairy,5.6,liter
+GoodFarm Phone,Electronics,125.3,piece
+EcoLife Lamb,Meat,18.88,kg
+EcoLife Pasta,Food,1.96,kg
+BrandA Chicken,Meat,6.19,kg
+GoodFarm Turkey,Meat,23.04,kg
+BrandC Chicken,Meat,11.14,kg
+BrandB Shirt,Clothing,2.09,piece
+EcoLife Onion,Vegetables,0.54,piece
+BrandA Headphones,Electronics,179.98,piece
+EcoLife Milk,Dairy,2.64,liter
+BrandB Cream,Dairy,9.46,liter
+NaturePlus Juice,Beverages,2.51,bottle
+GoodFarm Beans,Food,4.01,kg
+BrandB Muffin,Bakery,1.74,piece
+BrandA Mango,Fruits,1.15,piece
+BrandA Apple,Fruits,1.85,kg
+NaturePlus Mango,Fruits,1.44,piece
+EcoLife Water,Beverages,0.76,liter
+NaturePlus Tablet,Electronics,23.6,piece
+EcoLife Rice,Food,3.64,kg
+GoodFarm Chicken,Meat,12.17,kg
+BrandB Jacket,Clothing,11.0,piece
+GoodFarm Banana,Fruits,0.29,kg
+BrandA Juice,Beverages,2.63,liter
+BrandB Deodorant,Personal Care,4.76,piece
+NaturePlus Headphones,Electronics,15.47,piece
+BrandB Carrot,Vegetables,0.2,piece
+BrandC Bread,Bakery,3.41,kg
+GoodFarm Shampoo,Personal Care,1.03,piece
+BrandB Shampoo,Personal Care,1.01,piece
+NaturePlus Sweater,Clothing,3.89,piece
+EcoLife Apple,Fruits,1.68,piece
+BrandA Potato,Vegetables,0.35,kg
+BrandC Water,Beverages,2.65,bottle
+GoodFarm TV,Electronics,85.72,piece
+BrandC Beef,Meat,13.42,kg
+BrandC Onion,Vegetables,0.37,kg
+NaturePlus T-shirt,Clothing,6.23,piece
+BrandA Tea,Beverages,0.85,liter
+BrandC Lotion,Personal Care,3.53,piece
+GoodFarm Lotion,Personal Care,4.58,piece
+NaturePlus Cream,Dairy,4.53,kg
+BrandA Cake,Bakery,0.59,kg
+BrandC Shirt,Clothing,10.07,piece
+BrandA Coffee,Beverages,2.22,liter
+NaturePlus Tomato,Vegetables,1.1,kg
+BrandB Sweater,Clothing,5.58,piece
+BrandB Shirt,Clothing,3.04,piece
+BrandA Juice,Beverages,1.6,bottle
+BrandB Orange,Fruits,0.92,piece
+EcoLife Rice,Food,1.55,pack
+BrandC Bagel,Bakery,1.52,kg
+BrandA Pork,Meat,26.81,kg
+EcoLife Cake,Bakery,0.52,piece
+BrandC Croissant,Bakery,1.71,kg
+BrandA Water,Beverages,2.24,bottle
+BrandC Tablet,Electronics,79.1,piece
+BrandA Milk,Dairy,9.91,liter
+BrandC Spinach,Vegetables,0.9,piece
+GoodFarm Lotion,Personal Care,1.08,piece
+GoodFarm Croissant,Bakery,0.5,piece
+NaturePlus Laptop,Electronics,83.91,piece
+BrandA Oats,Food,3.23,kg
+BrandC Coke,Beverages,2.8,liter
+GoodFarm Jeans,Clothing,9.57,piece
+EcoLife Deodorant,Personal Care,1.7,piece
+NaturePlus Coke,Beverages,2.12,liter
+BrandC Bagel,Bakery,2.76,kg
+EcoLife Shirt,Clothing,14.34,piece
+EcoLife Bagel,Bakery,4.39,piece
+EcoLife Coke,Beverages,1.27,bottle
+NaturePlus Lentils,Food,1.07,pack
+NaturePlus Orange,Fruits,1.72,piece
+BrandC Shirt,Clothing,13.61,piece
+BrandC Bread,Bakery,3.32,kg
+BrandC Cheese,Dairy,2.66,kg
+NaturePlus Croissant,Bakery,4.04,piece
+EcoLife Mango,Fruits,0.11,piece
+BrandA Juice,Beverages,0.58,liter
+BrandB Cake,Bakery,2.19,kg
+BrandA Oats,Food,1.78,piece
+EcoLife Muffin,Bakery,1.15,kg
+NaturePlus Deodorant,Personal Care,4.26,piece
+BrandB Shampoo,Personal Care,3.16,piece
+BrandB Soap,Personal Care,2.24,piece
+NaturePlus Lamb,Meat,29.57,kg
+BrandC Milk,Dairy,8.37,kg
+NaturePlus Muffin,Bakery,3.92,kg
+GoodFarm Cheese,Dairy,0.95,kg
+BrandB Juice,Beverages,1.53,liter
+EcoLife TV,Electronics,21.42,piece
+NaturePlus Potato,Vegetables,1.3,piece
+BrandC Jacket,Clothing,2.85,piece
+EcoLife Soap,Personal Care,3.21,piece
+EcoLife Coke,Beverages,1.43,bottle
+GoodFarm Lotion,Personal Care,0.91,piece
+BrandA Milk,Dairy,1.39,kg
+NaturePlus Bread,Bakery,3.48,piece
+BrandB Shampoo,Personal Care,0.41,piece
+BrandA Bread,Bakery,1.49,kg
+EcoLife Tea,Beverages,0.92,bottle
+BrandB Mango,Fruits,1.48,kg
+EcoLife Lamb,Meat,5.92,kg
+BrandB Bread,Bakery,0.5,piece
+BrandA Juice,Beverages,1.5,bottle
+BrandC Tea,Beverages,2.79,liter
+BrandB Mango,Fruits,1.93,piece
+BrandA Coffee,Beverages,1.22,bottle
+EcoLife Pork,Meat,13.46,kg
+GoodFarm Cake,Bakery,4.2,piece
+BrandC Spinach,Vegetables,1.08,kg
+BrandC Bread,Bakery,1.46,piece
+NaturePlus Carrot,Vegetables,0.13,piece
+BrandA Banana,Fruits,0.6,kg
+EcoLife Phone,Electronics,65.57,piece
+BrandA Beans,Food,2.24,kg
+GoodFarm Water,Beverages,2.27,liter
+BrandC Pork,Meat,17.18,kg
+BrandC Tomato,Vegetables,1.87,kg
+EcoLife Butter,Dairy,7.7,liter
+BrandB Sweater,Clothing,3.19,piece
+BrandB Apple,Fruits,0.75,kg
+BrandB Muffin,Bakery,1.82,kg
+GoodFarm Lentils,Food,3.17,pack
+NaturePlus Lotion,Personal Care,1.91,piece
+EcoLife Juice,Beverages,1.05,liter
+NaturePlus Orange,Fruits,0.68,piece
+BrandC Onion,Vegetables,1.96,piece
+BrandC Lentils,Food,1.33,piece
+EcoLife TV,Electronics,21.93,piece
+BrandA Turkey,Meat,14.89,kg
+GoodFarm Laptop,Electronics,166.93,piece
+NaturePlus Orange,Fruits,1.19,kg
+BrandB Coke,Beverages,2.83,liter
+NaturePlus TV,Electronics,97.56,piece
+NaturePlus Mango,Fruits,0.14,kg
+EcoLife Tomato,Vegetables,0.33,kg
+GoodFarm Lamb,Meat,18.14,kg
+GoodFarm Shampoo,Personal Care,3.52,piece
+GoodFarm Deodorant,Personal Care,2.07,piece
+NaturePlus Tablet,Electronics,26.24,piece
+BrandC Potato,Vegetables,0.34,kg
+BrandC Pasta,Food,2.47,piece
+BrandC Cheese,Dairy,5.84,liter
+EcoLife Water,Beverages,0.85,bottle
+NaturePlus Coke,Beverages,1.81,bottle
+BrandC Pasta,Food,4.02,pack
+BrandA Milk,Dairy,5.08,liter
+BrandB Sweater,Clothing,12.72,piece
+BrandC Banana,Fruits,0.37,piece
+NaturePlus Jacket,Clothing,17.19,piece
+BrandC Spinach,Vegetables,0.69,kg
+GoodFarm Bread,Bakery,1.18,kg
+BrandC Pork,Meat,29.58,kg
+EcoLife Headphones,Electronics,161.6,piece
+GoodFarm Mango,Fruits,1.15,piece
+NaturePlus Oats,Food,0.48,kg
+EcoLife Lamb,Meat,25.55,kg
+BrandA Beans,Food,4.49,pack
+NaturePlus Banana,Fruits,0.13,kg
+EcoLife Sweater,Clothing,16.38,piece
+NaturePlus Rice,Food,2.07,kg
+BrandC Banana,Fruits,0.26,piece
+GoodFarm Croissant,Bakery,1.61,piece
+NaturePlus Bread,Bakery,2.59,kg
+BrandB Lotion,Personal Care,4.19,piece
+GoodFarm Toothpaste,Personal Care,1.23,piece
+BrandC Deodorant,Personal Care,3.86,piece
+NaturePlus Tomato,Vegetables,0.27,piece
+GoodFarm Cake,Bakery,1.39,kg
+BrandB Yogurt,Dairy,3.29,liter
+NaturePlus Pasta,Food,1.97,piece
+EcoLife Carrot,Vegetables,1.82,piece
+BrandC Shirt,Clothing,6.9,piece
+BrandA Turkey,Meat,18.57,kg
+NaturePlus Orange,Fruits,0.65,kg
+EcoLife Grapes,Fruits,0.64,kg
+BrandA Butter,Dairy,6.21,liter
+EcoLife Coffee,Beverages,1.37,bottle
+GoodFarm Mango,Fruits,0.22,piece
+EcoLife Toothpaste,Personal Care,4.0,piece
+BrandB Oats,Food,2.38,kg
+BrandA Butter,Dairy,1.63,kg
+BrandC Oats,Food,1.48,kg
+BrandB Beans,Food,3.98,pack
+BrandC Beans,Food,2.45,pack
+BrandC Cream,Dairy,8.89,kg
+EcoLife Milk,Dairy,3.26,kg
+BrandC Turkey,Meat,6.33,kg
+NaturePlus Lamb,Meat,27.66,kg
+NaturePlus Phone,Electronics,106.95,piece
+BrandC Phone,Electronics,163.23,piece
+EcoLife Rice,Food,4.73,piece
+NaturePlus Soap,Personal Care,2.66,piece
+GoodFarm Banana,Fruits,0.1,kg
+BrandC Coke,Beverages,0.42,bottle
+BrandB Croissant,Bakery,0.48,kg
+GoodFarm Laptop,Electronics,61.02,piece
+BrandC Shampoo,Personal Care,1.86,piece
+GoodFarm Lotion,Personal Care,4.32,piece
+BrandB Banana,Fruits,0.71,kg
+EcoLife Butter,Dairy,0.82,liter
+BrandC Shirt,Clothing,14.19,piece
+BrandB Bagel,Bakery,3.44,piece
+GoodFarm Milk,Dairy,3.91,liter
+GoodFarm Coffee,Beverages,1.39,bottle
+BrandA Carrot,Vegetables,0.66,kg
+BrandB Bagel,Bakery,0.68,piece
+BrandC Turkey,Meat,25.93,kg
+GoodFarm Coke,Beverages,2.18,liter
+GoodFarm Bread,Bakery,2.01,piece
+EcoLife Muffin,Bakery,0.7,kg
+GoodFarm Juice,Beverages,1.63,liter
+NaturePlus Beans,Food,0.22,kg
+NaturePlus Cake,Bakery,3.5,kg
+BrandB Croissant,Bakery,3.35,piece
+BrandB Banana,Fruits,0.97,kg
+EcoLife Tablet,Electronics,187.4,piece
+GoodFarm T-shirt,Clothing,14.71,piece
+GoodFarm Chicken,Meat,8.93,kg
+BrandB Oats,Food,3.86,piece
+BrandA Muffin,Bakery,0.59,kg
+GoodFarm Headphones,Electronics,100.73,piece
+BrandA TV,Electronics,57.97,piece
+BrandC Bread,Bakery,0.53,kg
+BrandC Beans,Food,4.57,piece
+NaturePlus Lentils,Food,4.55,piece
+GoodFarm Toothpaste,Personal Care,2.18,piece
+GoodFarm Apple,Fruits,0.91,kg
+NaturePlus Apple,Fruits,0.46,kg
+BrandC Yogurt,Dairy,9.28,liter
+EcoLife Juice,Beverages,0.26,liter
+NaturePlus Soap,Personal Care,3.91,piece
+NaturePlus Cream,Dairy,7.82,kg
+BrandB Banana,Fruits,0.54,kg
+GoodFarm Rice,Food,2.89,pack
+BrandC Sweater,Clothing,14.32,piece
+EcoLife Rice,Food,3.21,piece
+GoodFarm Apple,Fruits,1.01,piece
+GoodFarm Chicken,Meat,23.28,kg
+BrandB Spinach,Vegetables,1.24,kg
+BrandC T-shirt,Clothing,16.68,piece
+EcoLife Pasta,Food,4.92,kg
+BrandC Cake,Bakery,2.25,piece
+GoodFarm Shampoo,Personal Care,4.17,piece
+BrandC Toothpaste,Personal Care,1.18,piece
+BrandA Lotion,Personal Care,4.17,piece
+BrandA TV,Electronics,41.39,piece
+NaturePlus Milk,Dairy,1.62,liter
+BrandA Mango,Fruits,0.46,kg
+NaturePlus Jeans,Clothing,10.55,piece
+EcoLife Deodorant,Personal Care,4.7,piece
+NaturePlus Toothpaste,Personal Care,4.92,piece
+EcoLife Chicken,Meat,9.32,kg
+NaturePlus Headphones,Electronics,115.73,piece
+BrandB T-shirt,Clothing,12.96,piece
+NaturePlus Lotion,Personal Care,4.72,piece
+GoodFarm Orange,Fruits,0.94,kg
+BrandA Jeans,Clothing,8.85,piece
+BrandB Soap,Personal Care,2.83,piece
+BrandA Phone,Electronics,130.9,piece
+BrandC Cheese,Dairy,3.18,kg
+BrandB Juice,Beverages,0.84,liter
+NaturePlus Lotion,Personal Care,3.55,piece
+EcoLife Lamb,Meat,23.15,kg
+GoodFarm Carrot,Vegetables,1.95,piece
+EcoLife Turkey,Meat,27.81,kg
+NaturePlus Bread,Bakery,1.8,kg
+NaturePlus Headphones,Electronics,95.1,piece
+BrandC Phone,Electronics,101.36,piece
+EcoLife Tea,Beverages,2.5,liter
+BrandA Lotion,Personal Care,0.33,piece
+BrandC Cake,Bakery,1.56,piece
+NaturePlus Shirt,Clothing,5.98,piece
+GoodFarm Banana,Fruits,1.95,piece
+BrandA Oats,Food,1.03,piece
+BrandB Beans,Food,0.71,kg
+BrandB Mango,Fruits,0.8,kg
+EcoLife Pasta,Food,2.43,kg
+BrandB Muffin,Bakery,3.02,piece
+NaturePlus Tablet,Electronics,121.25,piece
+EcoLife Shirt,Clothing,14.15,piece
+NaturePlus Coke,Beverages,1.82,bottle
+BrandC Butter,Dairy,7.49,liter
+BrandC Butter,Dairy,5.91,kg
+BrandC Apple,Fruits,1.15,piece
+BrandB Yogurt,Dairy,8.54,kg
+BrandB Potato,Vegetables,0.67,kg
+BrandA Jeans,Clothing,8.55,piece
+NaturePlus Orange,Fruits,1.73,kg
+BrandC Milk,Dairy,4.0,kg
+EcoLife Tomato,Vegetables,1.48,kg
+BrandB Tomato,Vegetables,0.67,kg
+BrandB Croissant,Bakery,3.76,piece
+EcoLife Butter,Dairy,6.21,liter
+NaturePlus Croissant,Bakery,1.45,piece
+GoodFarm Coke,Beverages,2.55,bottle
+BrandC Cake,Bakery,2.63,piece
+GoodFarm Lotion,Personal Care,3.83,piece
+BrandB Milk,Dairy,5.18,liter
+BrandA Tea,Beverages,0.28,liter
+NaturePlus Tomato,Vegetables,0.99,kg
+BrandA Pasta,Food,0.25,pack
+BrandC Chicken,Meat,27.31,kg
+BrandB Bread,Bakery,2.06,kg
+BrandC Headphones,Electronics,147.88,piece
+EcoLife Oats,Food,4.21,kg
+EcoLife Mango,Fruits,1.78,piece
+EcoLife Shampoo,Personal Care,1.63,piece
+BrandA Apple,Fruits,1.05,piece
+EcoLife Coke,Beverages,2.08,liter
+BrandA Grapes,Fruits,1.5,kg
+NaturePlus Beans,Food,3.99,pack
+BrandB Onion,Vegetables,1.67,kg
+NaturePlus Bread,Bakery,0.38,piece
+GoodFarm Cream,Dairy,7.11,liter
+BrandA Jeans,Clothing,12.67,piece
+NaturePlus Jacket,Clothing,7.99,piece
+BrandB Cream,Dairy,5.19,kg
+GoodFarm TV,Electronics,95.96,piece
+BrandA Deodorant,Personal Care,4.18,piece
+GoodFarm Soap,Personal Care,1.93,piece
+BrandC Jacket,Clothing,5.43,piece
+BrandC Beef,Meat,28.42,kg
+EcoLife Turkey,Meat,9.53,kg
+BrandA Deodorant,Personal Care,1.41,piece
+BrandA Oats,Food,3.04,kg
+GoodFarm Rice,Food,3.69,pack
+NaturePlus Cream,Dairy,4.84,liter
+NaturePlus Sweater,Clothing,19.75,piece
+GoodFarm Pasta,Food,1.54,kg
+BrandB Milk,Dairy,2.34,kg
+GoodFarm Shirt,Clothing,19.07,piece
+EcoLife Coffee,Beverages,1.17,liter
+BrandA Cheese,Dairy,1.33,kg
+BrandB Pork,Meat,13.45,kg
+EcoLife Pork,Meat,15.29,kg
+NaturePlus Butter,Dairy,8.32,liter
+BrandB Cream,Dairy,8.13,liter
+BrandC Turkey,Meat,20.65,kg
+GoodFarm Sweater,Clothing,3.24,piece
+BrandA Deodorant,Personal Care,2.03,piece
+NaturePlus Turkey,Meat,16.52,kg
+BrandB Shampoo,Personal Care,0.48,piece
+EcoLife Jeans,Clothing,17.81,piece
+GoodFarm Turkey,Meat,5.8,kg
+GoodFarm Yogurt,Dairy,6.52,kg
+EcoLife Coke,Beverages,2.75,liter
+BrandA Muffin,Bakery,0.64,kg
+EcoLife Orange,Fruits,1.18,piece
+GoodFarm Coke,Beverages,1.3,liter
+BrandC Mango,Fruits,1.71,piece
+BrandC TV,Electronics,120.01,piece
+GoodFarm Yogurt,Dairy,6.2,liter
+BrandB Rice,Food,1.03,piece
+NaturePlus T-shirt,Clothing,7.48,piece
+NaturePlus Onion,Vegetables,0.21,piece
+BrandA Cake,Bakery,4.99,piece
+BrandC TV,Electronics,177.7,piece
+GoodFarm Croissant,Bakery,1.71,piece
+BrandA Tablet,Electronics,20.5,piece
+BrandA TV,Electronics,165.97,piece
+BrandA Juice,Beverages,0.69,liter
+BrandA Rice,Food,4.44,pack
+GoodFarm Bagel,Bakery,3.98,kg
+EcoLife Apple,Fruits,0.16,kg
+GoodFarm Cake,Bakery,2.95,piece
+BrandC Spinach,Vegetables,1.34,piece
+EcoLife Cake,Bakery,1.2,piece
+BrandC Oats,Food,1.34,piece
+NaturePlus Banana,Fruits,1.06,kg
+BrandB Soap,Personal Care,3.94,piece
+BrandC Milk,Dairy,5.25,liter
+EcoLife Beans,Food,3.6,pack
+EcoLife Shirt,Clothing,6.15,piece
+NaturePlus Carrot,Vegetables,1.59,piece
+EcoLife Lentils,Food,4.62,piece
+GoodFarm Water,Beverages,0.5,bottle
+EcoLife Croissant,Bakery,0.76,kg
+BrandB Onion,Vegetables,1.13,kg
+BrandB Bread,Bakery,2.57,piece
+BrandB Laptop,Electronics,128.33,piece
+GoodFarm Croissant,Bakery,2.96,piece
+BrandC Lamb,Meat,9.04,kg
+BrandB Shirt,Clothing,9.98,piece
+GoodFarm Beef,Meat,22.45,kg
+EcoLife Toothpaste,Personal Care,0.35,piece
+EcoLife Coffee,Beverages,1.72,bottle
+NaturePlus Orange,Fruits,0.5,piece
+BrandC Lotion,Personal Care,1.4,piece
+GoodFarm Carrot,Vegetables,0.41,piece
+BrandC Phone,Electronics,102.55,piece
+NaturePlus Tomato,Vegetables,0.51,piece
+GoodFarm Soap,Personal Care,1.74,piece
+BrandC Pasta,Food,3.12,pack
+EcoLife Banana,Fruits,1.94,kg
+NaturePlus Spinach,Vegetables,1.63,kg
+GoodFarm Shirt,Clothing,4.8,piece
+BrandC Tea,Beverages,0.28,bottle
+BrandC Cream,Dairy,7.47,liter
+BrandB Rice,Food,2.35,pack
+GoodFarm Turkey,Meat,16.84,kg
+BrandB Onion,Vegetables,1.2,kg
+NaturePlus Laptop,Electronics,30.55,piece
+EcoLife Cheese,Dairy,5.52,kg
+GoodFarm Tomato,Vegetables,0.31,piece
+EcoLife Lamb,Meat,23.27,kg
+EcoLife Turkey,Meat,16.07,kg
+BrandC Deodorant,Personal Care,4.03,piece
+BrandA Apple,Fruits,0.91,kg
+NaturePlus Cream,Dairy,3.36,kg
+GoodFarm Turkey,Meat,28.68,kg
+EcoLife T-shirt,Clothing,7.9,piece
+BrandA Coke,Beverages,2.37,liter
+EcoLife Lamb,Meat,6.29,kg
+BrandB Sweater,Clothing,7.48,piece
+BrandB Carrot,Vegetables,1.0,piece
+NaturePlus Cake,Bakery,1.42,piece
+NaturePlus Tomato,Vegetables,0.91,piece
+GoodFarm Lamb,Meat,21.18,kg
+NaturePlus Deodorant,Personal Care,4.89,piece
+GoodFarm Butter,Dairy,4.42,liter
+GoodFarm Lotion,Personal Care,4.27,piece
+NaturePlus T-shirt,Clothing,5.67,piece
+BrandA Coke,Beverages,1.41,liter
+BrandA Bread,Bakery,1.58,kg
+NaturePlus Soap,Personal Care,0.24,piece
+BrandA T-shirt,Clothing,7.53,piece
+BrandA Butter,Dairy,7.16,liter
+NaturePlus Cream,Dairy,6.09,kg
+BrandA Bread,Bakery,0.87,kg
+NaturePlus Lamb,Meat,5.71,kg
+BrandB Rice,Food,2.66,kg
+BrandA Pork,Meat,11.61,kg
+EcoLife Coffee,Beverages,0.25,liter
+BrandB Lamb,Meat,23.83,kg
+GoodFarm Lamb,Meat,26.65,kg
+BrandA Milk,Dairy,8.46,liter
+BrandC Carrot,Vegetables,0.12,kg
+GoodFarm TV,Electronics,31.86,piece
+GoodFarm Grapes,Fruits,2.0,piece
+BrandA Cake,Bakery,1.39,kg
+GoodFarm Lotion,Personal Care,0.43,piece
+BrandA Cream,Dairy,1.35,kg
+GoodFarm Pork,Meat,12.82,kg
+GoodFarm Potato,Vegetables,1.86,kg
+EcoLife Mango,Fruits,1.04,kg
+BrandC Pork,Meat,20.33,kg
+GoodFarm Laptop,Electronics,88.35,piece
+BrandC Cream,Dairy,3.24,liter
+GoodFarm Cream,Dairy,8.31,liter
+NaturePlus Cake,Bakery,4.64,kg
+BrandA Jeans,Clothing,18.71,piece
+BrandB Water,Beverages,0.95,bottle
+BrandA Mango,Fruits,1.83,kg
+BrandA Tea,Beverages,0.69,liter
+BrandC T-shirt,Clothing,16.84,piece
+BrandB Tablet,Electronics,174.96,piece
+BrandC Banana,Fruits,1.96,piece
+EcoLife Milk,Dairy,9.52,liter
+NaturePlus Apple,Fruits,1.11,kg
+BrandA Tea,Beverages,1.77,bottle
+NaturePlus Yogurt,Dairy,4.3,kg
+BrandB Soap,Personal Care,4.04,piece
+GoodFarm Potato,Vegetables,0.31,piece
+NaturePlus Rice,Food,3.52,kg
+GoodFarm Cheese,Dairy,8.23,kg
+BrandB Sweater,Clothing,2.87,piece
+GoodFarm Pasta,Food,0.43,pack
+BrandC Banana,Fruits,0.26,piece
+GoodFarm Turkey,Meat,19.1,kg
+NaturePlus Cake,Bakery,1.01,kg
+EcoLife Muffin,Bakery,3.52,piece
+NaturePlus Sweater,Clothing,16.59,piece
+BrandA Banana,Fruits,1.32,kg
+GoodFarm Apple,Fruits,1.02,piece
+BrandC TV,Electronics,149.14,piece
+EcoLife Jeans,Clothing,12.49,piece
+NaturePlus Deodorant,Personal Care,3.04,piece
+NaturePlus Orange,Fruits,1.87,piece
+NaturePlus Oats,Food,1.07,pack
+BrandC Coffee,Beverages,1.28,liter
+BrandB Cake,Bakery,4.52,piece
+NaturePlus Sweater,Clothing,16.26,piece
+BrandA Jeans,Clothing,12.17,piece
+GoodFarm Mango,Fruits,0.14,piece
+BrandC Cream,Dairy,0.81,kg
+BrandB Onion,Vegetables,0.64,kg
+BrandB Lotion,Personal Care,4.76,piece
+BrandC Jeans,Clothing,6.56,piece
+BrandA Lentils,Food,3.01,pack
+BrandA Beef,Meat,8.82,kg
+NaturePlus Lentils,Food,5.0,pack
+BrandB Rice,Food,0.11,kg
+BrandC Headphones,Electronics,162.82,piece
+BrandB Oats,Food,1.47,pack
+BrandC Chicken,Meat,29.19,kg
+BrandC Phone,Electronics,29.33,piece
+EcoLife Toothpaste,Personal Care,1.82,piece
+BrandB Banana,Fruits,1.94,kg
+GoodFarm Juice,Beverages,2.39,bottle
+GoodFarm Yogurt,Dairy,4.59,liter
+GoodFarm Coke,Beverages,1.31,liter
+EcoLife Coffee,Beverages,0.59,liter
+BrandA Turkey,Meat,10.52,kg
+EcoLife Oats,Food,1.02,pack
+EcoLife Jacket,Clothing,10.18,piece
+GoodFarm Toothpaste,Personal Care,1.5,piece
+BrandC Onion,Vegetables,0.67,kg
+BrandB Bread,Bakery,1.43,piece
+GoodFarm Shampoo,Personal Care,4.62,piece
+NaturePlus Lotion,Personal Care,0.7,piece
+GoodFarm Coke,Beverages,1.7,liter
+EcoLife Shampoo,Personal Care,4.21,piece
+BrandB Bagel,Bakery,3.25,kg
+BrandC Juice,Beverages,1.44,bottle
+BrandA Sweater,Clothing,10.2,piece
+BrandA Milk,Dairy,0.61,liter
+EcoLife Coffee,Beverages,2.49,liter
+BrandB Beans,Food,0.1,piece
+NaturePlus Chicken,Meat,27.52,kg
+EcoLife Banana,Fruits,0.94,kg
+BrandC Milk,Dairy,4.07,kg
+BrandA Tablet,Electronics,124.61,piece
+NaturePlus Headphones,Electronics,81.91,piece
+EcoLife Apple,Fruits,0.27,kg
+BrandC Shampoo,Personal Care,0.34,piece
+GoodFarm Jacket,Clothing,13.09,piece
+BrandC Grapes,Fruits,1.93,kg
+EcoLife Tablet,Electronics,151.06,piece
+GoodFarm TV,Electronics,57.69,piece
+BrandC Bread,Bakery,1.45,kg
+BrandB Bread,Bakery,1.96,kg
+BrandC Banana,Fruits,1.03,kg
+BrandA Muffin,Bakery,2.39,piece
+NaturePlus Turkey,Meat,27.51,kg
+NaturePlus Grapes,Fruits,1.6,kg
+BrandB Lamb,Meat,24.04,kg
+BrandB Bread,Bakery,3.98,kg
+BrandB Croissant,Bakery,1.21,kg
+GoodFarm Sweater,Clothing,19.54,piece
+NaturePlus Lamb,Meat,14.76,kg
+BrandC Coffee,Beverages,2.84,liter
+BrandB Rice,Food,2.03,pack
+BrandA Oats,Food,0.8,pack
+BrandC Potato,Vegetables,1.07,piece
+GoodFarm Laptop,Electronics,84.72,piece
+BrandA Potato,Vegetables,1.07,piece
+GoodFarm Soap,Personal Care,2.98,piece
+BrandC Oats,Food,2.0,piece
+GoodFarm Grapes,Fruits,1.23,piece
+BrandC Tomato,Vegetables,0.45,piece
+BrandA Shampoo,Personal Care,1.09,piece
+EcoLife Tea,Beverages,0.31,liter
+BrandA Chicken,Meat,22.58,kg
+BrandA Bagel,Bakery,3.23,piece
+EcoLife Potato,Vegetables,1.65,piece
+BrandB Grapes,Fruits,1.21,piece
+BrandB Spinach,Vegetables,1.02,kg
+BrandB Oats,Food,1.04,kg
+NaturePlus Chicken,Meat,24.1,kg
+GoodFarm Bagel,Bakery,2.1,piece
+GoodFarm Butter,Dairy,7.34,liter
+EcoLife Grapes,Fruits,1.88,piece
+BrandC Lamb,Meat,6.96,kg
+GoodFarm Croissant,Bakery,1.62,kg
+BrandA Muffin,Bakery,0.33,kg
+BrandA Lamb,Meat,19.83,kg
+GoodFarm Juice,Beverages,1.06,bottle
+NaturePlus Grapes,Fruits,0.16,piece
+BrandC TV,Electronics,121.59,piece
+BrandC Carrot,Vegetables,1.78,piece
+GoodFarm Lentils,Food,1.68,kg
+NaturePlus Chicken,Meat,23.67,kg
+NaturePlus Phone,Electronics,102.48,piece
+BrandA Bagel,Bakery,0.5,piece
+EcoLife Orange,Fruits,1.88,piece
+BrandB Soap,Personal Care,3.7,piece
+GoodFarm Bagel,Bakery,1.68,kg
+BrandC Laptop,Electronics,83.0,piece
+NaturePlus Beef,Meat,10.06,kg
+GoodFarm Spinach,Vegetables,0.67,kg
+BrandC Lamb,Meat,20.47,kg
+GoodFarm Bagel,Bakery,4.05,piece
+BrandB Pork,Meat,28.71,kg
+NaturePlus Bagel,Bakery,1.75,piece
+GoodFarm Potato,Vegetables,1.15,kg
+NaturePlus Coke,Beverages,2.02,bottle
+NaturePlus Croissant,Bakery,3.29,kg
+NaturePlus Turkey,Meat,25.75,kg
+BrandA Spinach,Vegetables,1.68,kg
+NaturePlus Lamb,Meat,16.05,kg
+NaturePlus Oats,Food,0.77,piece
+NaturePlus Pasta,Food,1.63,piece
+EcoLife Pork,Meat,7.44,kg
+GoodFarm Sweater,Clothing,13.93,piece
+NaturePlus Cake,Bakery,4.36,piece
+BrandB Lentils,Food,0.41,kg
+GoodFarm Soap,Personal Care,1.44,piece
+EcoLife Toothpaste,Personal Care,1.53,piece
+GoodFarm Lentils,Food,0.96,kg
+NaturePlus Tomato,Vegetables,1.65,kg
+EcoLife Oats,Food,3.04,piece
+BrandB Croissant,Bakery,2.13,kg
+BrandA Lentils,Food,0.92,piece
+NaturePlus Lamb,Meat,22.83,kg
+GoodFarm Soap,Personal Care,0.58,piece
+GoodFarm Jeans,Clothing,14.25,piece
+BrandA Cheese,Dairy,3.84,kg
+BrandB Pasta,Food,1.31,kg
+EcoLife Sweater,Clothing,3.97,piece
+BrandC Croissant,Bakery,4.48,piece
+BrandC Beans,Food,4.28,kg
+NaturePlus Grapes,Fruits,0.44,kg
+EcoLife Pork,Meat,20.78,kg
+BrandA Croissant,Bakery,3.21,kg
+GoodFarm Shirt,Clothing,4.31,piece
+NaturePlus Beef,Meat,10.69,kg
+BrandC Bread,Bakery,4.35,piece
+NaturePlus Lamb,Meat,15.45,kg
+BrandB Bread,Bakery,4.82,kg
+BrandC Mango,Fruits,0.34,piece
+GoodFarm Coffee,Beverages,0.22,bottle
+BrandB Carrot,Vegetables,0.62,piece
+BrandB Deodorant,Personal Care,1.13,piece
+BrandA Butter,Dairy,8.43,kg
+BrandC Cheese,Dairy,3.25,kg
+NaturePlus Lentils,Food,3.12,pack
+NaturePlus Jacket,Clothing,5.8,piece
+GoodFarm Soap,Personal Care,2.48,piece
+BrandA Butter,Dairy,6.33,kg
+BrandA TV,Electronics,59.3,piece
+BrandA Tablet,Electronics,155.5,piece
+NaturePlus Sweater,Clothing,19.38,piece
+BrandA Lamb,Meat,20.34,kg
+EcoLife Water,Beverages,1.13,liter
+EcoLife Lotion,Personal Care,3.56,piece
+NaturePlus Tomato,Vegetables,0.93,kg
+NaturePlus Muffin,Bakery,1.27,piece
+BrandA Phone,Electronics,97.38,piece
+BrandB Soap,Personal Care,3.17,piece
+NaturePlus Cake,Bakery,1.81,piece
+BrandB Beef,Meat,13.72,kg
+NaturePlus Banana,Fruits,1.61,piece
+BrandB Phone,Electronics,150.47,piece
+EcoLife Headphones,Electronics,167.55,piece
+NaturePlus Yogurt,Dairy,3.29,kg
+GoodFarm Tea,Beverages,0.83,bottle
+NaturePlus Bread,Bakery,3.59,piece
+BrandA Lamb,Meat,7.32,kg
+GoodFarm Lentils,Food,0.5,kg
+EcoLife Turkey,Meat,29.64,kg
+BrandC Mango,Fruits,1.3,piece
+NaturePlus Beans,Food,2.45,pack
+BrandA Pasta,Food,0.54,pack
+BrandC Tomato,Vegetables,0.36,piece
+BrandC Sweater,Clothing,17.39,piece
+EcoLife Chicken,Meat,19.15,kg
+EcoLife Coke,Beverages,0.64,liter
+BrandB Lotion,Personal Care,1.24,piece
+BrandC Croissant,Bakery,4.82,piece
+GoodFarm Shirt,Clothing,5.91,piece
+EcoLife Tea,Beverages,0.77,bottle
+GoodFarm Coke,Beverages,1.6,bottle
+EcoLife Cream,Dairy,4.06,kg
+BrandA Laptop,Electronics,56.92,piece
+NaturePlus Cheese,Dairy,2.47,kg
+BrandB Rice,Food,1.09,pack
+BrandA Toothpaste,Personal Care,4.18,piece
+BrandB Pasta,Food,1.95,pack
+GoodFarm Orange,Fruits,1.0,kg
+BrandB Soap,Personal Care,2.95,piece
+GoodFarm Pasta,Food,2.38,piece
+BrandC Beef,Meat,24.9,kg
+BrandA Lamb,Meat,16.69,kg
+GoodFarm Tablet,Electronics,163.58,piece
+EcoLife Croissant,Bakery,1.34,kg
+BrandC Shirt,Clothing,5.21,piece
+BrandC Cake,Bakery,4.52,kg
+GoodFarm Deodorant,Personal Care,2.46,piece
+NaturePlus Soap,Personal Care,1.71,piece
+NaturePlus Cream,Dairy,5.32,kg
+GoodFarm Phone,Electronics,108.87,piece
+EcoLife Coke,Beverages,2.22,liter
+GoodFarm Juice,Beverages,1.75,liter
+BrandB Laptop,Electronics,183.2,piece
+BrandC Onion,Vegetables,0.42,piece
+GoodFarm Headphones,Electronics,45.98,piece
+NaturePlus Lentils,Food,3.25,pack
+EcoLife Lamb,Meat,27.16,kg
+BrandC Mango,Fruits,0.1,kg
+EcoLife Mango,Fruits,1.33,kg
+BrandB Cream,Dairy,7.06,kg
+BrandA Coffee,Beverages,2.02,bottle
+GoodFarm Muffin,Bakery,3.96,kg
+GoodFarm Yogurt,Dairy,1.15,liter
+NaturePlus Headphones,Electronics,65.98,piece
+BrandB Chicken,Meat,11.05,kg
+EcoLife Bread,Bakery,0.69,piece
+EcoLife Headphones,Electronics,170.98,piece
+NaturePlus Coffee,Beverages,2.63,liter
+BrandA Shampoo,Personal Care,1.41,piece
+BrandC Tomato,Vegetables,0.39,kg
+BrandA Turkey,Meat,6.25,kg
+BrandB Croissant,Bakery,3.12,kg
+NaturePlus Jeans,Clothing,5.67,piece
+NaturePlus Sweater,Clothing,4.11,piece
+BrandB Laptop,Electronics,169.3,piece
+BrandB Cream,Dairy,5.17,kg
+NaturePlus Jacket,Clothing,7.66,piece
+EcoLife Chicken,Meat,23.44,kg
+BrandA Muffin,Bakery,3.24,piece
+EcoLife Spinach,Vegetables,0.89,piece
+NaturePlus Carrot,Vegetables,1.47,kg
+NaturePlus Shampoo,Personal Care,3.06,piece
+BrandC Beef,Meat,23.77,kg
+GoodFarm Jacket,Clothing,14.87,piece
+NaturePlus Grapes,Fruits,1.85,piece
+NaturePlus Lotion,Personal Care,1.89,piece
+NaturePlus Beans,Food,0.54,kg
+NaturePlus Toothpaste,Personal Care,3.17,piece
+BrandA Beans,Food,3.74,piece
+BrandA Tablet,Electronics,93.08,piece
+NaturePlus Soap,Personal Care,3.11,piece
+BrandC Muffin,Bakery,1.05,kg
+BrandB Headphones,Electronics,65.16,piece
+NaturePlus Oats,Food,4.55,piece
+GoodFarm Water,Beverages,2.91,liter
+BrandC Orange,Fruits,1.73,kg
+BrandA Spinach,Vegetables,1.4,kg
+BrandA Oats,Food,3.02,kg
+GoodFarm Muffin,Bakery,2.08,kg
+BrandC Carrot,Vegetables,0.35,piece
+NaturePlus Potato,Vegetables,0.91,piece
+NaturePlus Muffin,Bakery,3.78,kg
+GoodFarm Banana,Fruits,1.91,kg
+NaturePlus Lamb,Meat,16.36,kg
+NaturePlus Tea,Beverages,2.57,bottle
+BrandC Milk,Dairy,0.54,liter
+BrandC Grapes,Fruits,0.65,piece
+BrandC Muffin,Bakery,4.24,piece
+BrandB Mango,Fruits,1.17,kg
+BrandB Tea,Beverages,2.69,bottle
+EcoLife Banana,Fruits,0.7,kg
+BrandC T-shirt,Clothing,7.93,piece
+BrandB Tablet,Electronics,33.55,piece
+BrandB Turkey,Meat,15.4,kg
+EcoLife Banana,Fruits,1.57,piece
+EcoLife Orange,Fruits,1.42,kg
+BrandA Tablet,Electronics,125.67,piece
+BrandC Lamb,Meat,19.53,kg
+BrandB Yogurt,Dairy,2.96,liter
+NaturePlus Bagel,Bakery,4.11,kg
+BrandA Coke,Beverages,2.76,liter
+NaturePlus Onion,Vegetables,0.27,kg
+NaturePlus Shampoo,Personal Care,0.65,piece
+EcoLife Mango,Fruits,0.43,piece
+EcoLife Orange,Fruits,1.04,piece
+GoodFarm Laptop,Electronics,127.64,piece
+NaturePlus Cheese,Dairy,5.97,kg
+EcoLife Cheese,Dairy,4.09,liter
+GoodFarm Turkey,Meat,13.86,kg
+GoodFarm Phone,Electronics,153.08,piece
+BrandC Jacket,Clothing,18.83,piece
+BrandB Cake,Bakery,4.4,piece
+BrandC TV,Electronics,181.61,piece
+BrandB Shampoo,Personal Care,4.4,piece
+EcoLife Carrot,Vegetables,0.23,piece
+NaturePlus T-shirt,Clothing,11.63,piece
+BrandB Grapes,Fruits,0.31,piece
+BrandC Apple,Fruits,1.7,kg
+GoodFarm Shirt,Clothing,13.6,piece
+BrandB Laptop,Electronics,101.4,piece
+BrandC Apple,Fruits,0.29,kg
+BrandC Tea,Beverages,1.3,liter
+BrandA Grapes,Fruits,0.88,piece
+BrandA Tomato,Vegetables,1.38,kg
+BrandC Tomato,Vegetables,1.75,kg
+BrandB Croissant,Bakery,1.57,kg
+EcoLife Cream,Dairy,9.4,liter
+NaturePlus Beans,Food,1.61,pack
+BrandA Pasta,Food,2.3,piece
+BrandB Milk,Dairy,3.49,kg
+NaturePlus Phone,Electronics,66.4,piece
+GoodFarm Cheese,Dairy,9.18,kg
+BrandB Phone,Electronics,40.77,piece
+GoodFarm Lotion,Personal Care,4.64,piece
+BrandB Cake,Bakery,2.48,kg
+BrandA Jacket,Clothing,16.43,piece
+EcoLife Bread,Bakery,2.43,piece
+EcoLife Coke,Beverages,2.56,liter
+BrandC TV,Electronics,126.08,piece
+EcoLife Carrot,Vegetables,1.69,kg
+BrandC T-shirt,Clothing,14.43,piece
+NaturePlus Soap,Personal Care,2.87,piece
+GoodFarm Jeans,Clothing,18.27,piece
+BrandC Coffee,Beverages,1.5,bottle
+BrandA Mango,Fruits,0.59,kg
+EcoLife Bread,Bakery,3.03,piece
+EcoLife Oats,Food,2.99,pack
+EcoLife Croissant,Bakery,4.18,kg
+GoodFarm Phone,Electronics,112.14,piece
+GoodFarm Croissant,Bakery,4.68,kg
+BrandB Sweater,Clothing,5.37,piece
+BrandA Butter,Dairy,5.37,kg
+GoodFarm Beans,Food,4.41,kg
+NaturePlus Grapes,Fruits,0.14,piece
+GoodFarm Lamb,Meat,14.45,kg
+GoodFarm Coffee,Beverages,2.59,liter
+BrandC Juice,Beverages,2.53,liter
+BrandA Jeans,Clothing,14.92,piece
+BrandB Oats,Food,0.3,piece
+NaturePlus Tablet,Electronics,14.64,piece
+BrandC Soap,Personal Care,4.95,piece
+EcoLife Croissant,Bakery,4.04,kg
+NaturePlus Water,Beverages,2.73,bottle
+BrandC Headphones,Electronics,168.49,piece
+NaturePlus Turkey,Meat,25.66,kg
+GoodFarm Apple,Fruits,1.63,piece
+BrandA Jacket,Clothing,18.1,piece
+BrandB Rice,Food,4.51,piece
+NaturePlus Butter,Dairy,7.91,liter
+BrandA Cheese,Dairy,9.25,liter
+BrandB Juice,Beverages,1.66,liter
+BrandC Mango,Fruits,1.25,kg
+BrandB Bread,Bakery,0.8,piece
+EcoLife Carrot,Vegetables,0.91,kg
+BrandA Toothpaste,Personal Care,1.68,piece
+BrandB TV,Electronics,113.72,piece
+BrandA Tomato,Vegetables,1.52,piece
+EcoLife Onion,Vegetables,1.95,piece
+GoodFarm Beef,Meat,24.87,kg
+BrandA Onion,Vegetables,1.64,kg
+NaturePlus Rice,Food,1.41,piece
+BrandA Headphones,Electronics,51.34,piece
+BrandC Coffee,Beverages,0.9,bottle
+GoodFarm Jacket,Clothing,11.48,piece
+BrandA Bread,Bakery,2.42,kg
+NaturePlus Lamb,Meat,7.34,kg
+NaturePlus Tomato,Vegetables,0.18,piece
+NaturePlus Milk,Dairy,6.44,kg
+BrandB Rice,Food,2.6,pack
+EcoLife Jeans,Clothing,6.78,piece
+GoodFarm Bread,Bakery,1.21,kg
+BrandC Bread,Bakery,0.66,piece
+BrandB Lamb,Meat,12.55,kg
+NaturePlus Lotion,Personal Care,1.94,piece
+BrandC Cream,Dairy,1.37,liter
+NaturePlus Cheese,Dairy,2.95,kg
+GoodFarm Jacket,Clothing,5.23,piece
+NaturePlus Sweater,Clothing,11.6,piece
+NaturePlus Headphones,Electronics,185.63,piece
+BrandB Lamb,Meat,21.27,kg
+BrandC Onion,Vegetables,0.23,kg
+BrandB Shampoo,Personal Care,1.94,piece
+BrandB Beef,Meat,17.47,kg
+BrandC Headphones,Electronics,151.61,piece
+BrandB Chicken,Meat,6.27,kg
+GoodFarm Tablet,Electronics,40.41,piece
+BrandB Beef,Meat,21.08,kg
+BrandA Toothpaste,Personal Care,2.96,piece
+BrandA Pasta,Food,0.5,kg
+NaturePlus Pasta,Food,3.2,pack
+BrandA Shampoo,Personal Care,1.61,piece
+BrandA Pasta,Food,4.56,kg
+NaturePlus Onion,Vegetables,1.16,kg
+NaturePlus Coffee,Beverages,2.56,liter
+NaturePlus Lentils,Food,2.33,piece
+BrandA Lotion,Personal Care,0.31,piece
+EcoLife Yogurt,Dairy,1.25,kg
+BrandC Tomato,Vegetables,1.17,kg
+GoodFarm Juice,Beverages,2.97,bottle
+NaturePlus Phone,Electronics,42.64,piece
+BrandA Muffin,Bakery,1.82,kg
+BrandA Water,Beverages,1.28,bottle
+BrandB Orange,Fruits,0.49,piece
+BrandA Rice,Food,1.43,kg
+BrandA Rice,Food,2.11,pack
+NaturePlus Deodorant,Personal Care,0.23,piece
+NaturePlus Lentils,Food,1.93,pack
+BrandA Lotion,Personal Care,2.49,piece
+BrandB Spinach,Vegetables,0.84,kg
+BrandC Cake,Bakery,2.68,kg
+BrandB Deodorant,Personal Care,4.61,piece
+BrandC Muffin,Bakery,2.76,piece
+NaturePlus Sweater,Clothing,13.07,piece
+NaturePlus Sweater,Clothing,4.58,piece
+BrandA Headphones,Electronics,182.05,piece
+NaturePlus Oats,Food,3.15,pack
+EcoLife TV,Electronics,114.09,piece
+BrandC Tablet,Electronics,128.07,piece
+BrandA Yogurt,Dairy,8.4,kg
+BrandB Carrot,Vegetables,1.19,piece
+BrandC Tablet,Electronics,96.2,piece
+BrandA Sweater,Clothing,2.29,piece
+BrandB Beans,Food,2.56,piece
+BrandB Muffin,Bakery,2.49,piece
+BrandB Sweater,Clothing,14.01,piece
+EcoLife Chicken,Meat,13.38,kg
+GoodFarm Pork,Meat,9.77,kg
+EcoLife Spinach,Vegetables,0.35,kg
+EcoLife Beans,Food,3.37,kg
+BrandC Deodorant,Personal Care,2.25,piece
+EcoLife Muffin,Bakery,4.69,kg
+BrandA Chicken,Meat,21.67,kg
+BrandC Butter,Dairy,2.47,kg
+BrandC Pork,Meat,9.18,kg
+GoodFarm Cake,Bakery,2.3,piece
+NaturePlus Toothpaste,Personal Care,1.99,piece
+BrandB Grapes,Fruits,0.29,piece
+BrandC Tea,Beverages,1.66,liter
+BrandB Milk,Dairy,5.76,kg
+BrandA Lamb,Meat,12.22,kg
+BrandA Phone,Electronics,64.62,piece
+BrandC Apple,Fruits,0.48,kg
+BrandB Chicken,Meat,17.75,kg
+EcoLife Laptop,Electronics,140.87,piece
+BrandB Turkey,Meat,16.99,kg
+BrandC Tablet,Electronics,38.3,piece
+EcoLife Jacket,Clothing,16.53,piece
+BrandA Potato,Vegetables,1.45,kg
+BrandA Soap,Personal Care,3.95,piece
+NaturePlus Headphones,Electronics,36.63,piece
+BrandA Water,Beverages,2.63,liter
+EcoLife Toothpaste,Personal Care,0.52,piece
+BrandA T-shirt,Clothing,17.23,piece
+BrandB Orange,Fruits,1.45,kg
+GoodFarm Grapes,Fruits,1.35,piece
+EcoLife Jacket,Clothing,16.34,piece
+BrandB Mango,Fruits,1.88,piece
+NaturePlus Beef,Meat,15.71,kg
+BrandC Beef,Meat,10.02,kg
+EcoLife Shampoo,Personal Care,0.79,piece
+GoodFarm Milk,Dairy,5.94,liter
+NaturePlus Shirt,Clothing,7.42,piece
+GoodFarm Laptop,Electronics,144.92,piece
+GoodFarm Lamb,Meat,21.07,kg
+GoodFarm Bagel,Bakery,0.31,kg
+BrandC Laptop,Electronics,132.14,piece
+BrandC Potato,Vegetables,1.12,kg
+NaturePlus Tablet,Electronics,17.96,piece
+EcoLife T-shirt,Clothing,4.88,piece
+EcoLife Deodorant,Personal Care,0.54,piece
+BrandC Juice,Beverages,0.36,bottle
+BrandB Carrot,Vegetables,0.84,piece
+GoodFarm Onion,Vegetables,1.59,kg
+NaturePlus Turkey,Meat,16.13,kg
+BrandB Shirt,Clothing,10.93,piece
+EcoLife Cheese,Dairy,0.8,kg
+NaturePlus Beans,Food,3.81,kg
+NaturePlus Potato,Vegetables,1.68,kg
+BrandB Cake,Bakery,3.42,piece
+EcoLife Potato,Vegetables,0.8,piece
+EcoLife Lamb,Meat,16.48,kg
+NaturePlus Toothpaste,Personal Care,2.07,piece
+NaturePlus Orange,Fruits,0.7,piece
+NaturePlus Banana,Fruits,0.23,piece
+NaturePlus Cream,Dairy,4.83,liter
+EcoLife Onion,Vegetables,0.1,piece
+NaturePlus Water,Beverages,1.51,bottle
+GoodFarm Tea,Beverages,2.48,liter
+GoodFarm Sweater,Clothing,11.66,piece
+NaturePlus Jeans,Clothing,10.22,piece
+BrandC Laptop,Electronics,76.5,piece
+EcoLife Onion,Vegetables,1.98,kg
+EcoLife Bread,Bakery,2.83,piece
+GoodFarm Phone,Electronics,41.45,piece
+BrandB Water,Beverages,2.88,liter
+BrandC Pork,Meat,19.09,kg
+BrandB Coke,Beverages,1.49,liter
+GoodFarm Lamb,Meat,19.42,kg
+GoodFarm Apple,Fruits,1.17,kg
+BrandC Lamb,Meat,16.05,kg
+NaturePlus Chicken,Meat,19.63,kg
+BrandB Spinach,Vegetables,0.64,piece
+GoodFarm Beef,Meat,14.86,kg
+EcoLife Tablet,Electronics,163.23,piece
+BrandC TV,Electronics,124.35,piece
+EcoLife Phone,Electronics,198.65,piece
+BrandB Bread,Bakery,3.43,kg
+EcoLife Lotion,Personal Care,2.14,piece
+BrandA Tea,Beverages,2.97,liter
+BrandA Cheese,Dairy,7.9,kg
+BrandB Beans,Food,3.59,kg
+BrandC Onion,Vegetables,1.49,piece
+GoodFarm Bagel,Bakery,3.49,piece
+BrandB Butter,Dairy,8.8,kg
+BrandC Headphones,Electronics,165.16,piece
+EcoLife Butter,Dairy,6.71,kg
+NaturePlus T-shirt,Clothing,11.53,piece
+BrandB Lamb,Meat,10.45,kg
+GoodFarm Onion,Vegetables,0.89,kg
+BrandA Water,Beverages,1.7,liter
+NaturePlus Apple,Fruits,1.77,piece
+NaturePlus T-shirt,Clothing,7.38,piece
+BrandA Coke,Beverages,2.26,liter
+BrandC Coke,Beverages,1.5,liter
+EcoLife Tea,Beverages,1.97,liter
+BrandA Beef,Meat,11.29,kg
+BrandC Headphones,Electronics,40.7,piece
+EcoLife Water,Beverages,0.82,liter
+BrandA Tea,Beverages,2.73,bottle
+BrandA Cake,Bakery,1.79,kg
+EcoLife Yogurt,Dairy,6.27,liter
+BrandA Phone,Electronics,75.98,piece
+GoodFarm Apple,Fruits,1.09,kg
+BrandC Orange,Fruits,0.83,piece
+EcoLife Toothpaste,Personal Care,3.12,piece
+GoodFarm Coffee,Beverages,0.78,bottle
+GoodFarm Rice,Food,4.15,kg
+BrandA Potato,Vegetables,0.8,piece
+BrandA Carrot,Vegetables,0.63,kg
+GoodFarm Water,Beverages,0.27,bottle
+EcoLife Yogurt,Dairy,3.19,kg
+EcoLife Rice,Food,3.79,piece
+EcoLife Potato,Vegetables,0.63,piece
+BrandA Yogurt,Dairy,9.4,kg
+EcoLife Onion,Vegetables,1.78,piece
+NaturePlus Jacket,Clothing,18.55,piece
+BrandB Muffin,Bakery,3.1,piece
+BrandC Orange,Fruits,1.34,kg
+BrandA Onion,Vegetables,1.22,kg
+NaturePlus Sweater,Clothing,9.57,piece
+BrandA Phone,Electronics,11.72,piece
+NaturePlus Beef,Meat,12.19,kg
+BrandB TV,Electronics,197.42,piece
+BrandA Lentils,Food,1.12,pack
+NaturePlus Spinach,Vegetables,1.08,piece
+GoodFarm Cream,Dairy,7.36,liter
+GoodFarm Coffee,Beverages,2.13,bottle
+GoodFarm Pasta,Food,4.22,pack
+GoodFarm Chicken,Meat,28.62,kg
+BrandA Yogurt,Dairy,6.83,liter
+BrandA Juice,Beverages,1.56,bottle
+BrandC Bagel,Bakery,2.76,piece
+BrandC Cheese,Dairy,4.07,liter
+GoodFarm Lamb,Meat,18.42,kg
+NaturePlus Bread,Bakery,1.8,kg
+BrandB Cream,Dairy,8.25,liter
+BrandB Croissant,Bakery,2.29,piece
+BrandC Turkey,Meat,7.0,kg
+BrandB Phone,Electronics,145.15,piece
+GoodFarm Lentils,Food,1.64,piece
+NaturePlus Tea,Beverages,2.26,liter
+GoodFarm Lentils,Food,4.33,kg
+GoodFarm Toothpaste,Personal Care,4.77,piece
+BrandB Pork,Meat,13.3,kg
+BrandC Bagel,Bakery,4.77,kg
+BrandB Sweater,Clothing,5.98,piece
+BrandC Laptop,Electronics,132.79,piece
+BrandB Croissant,Bakery,4.88,piece
+GoodFarm Bagel,Bakery,1.54,piece
+NaturePlus Coffee,Beverages,1.18,bottle
+BrandC Chicken,Meat,25.48,kg
+BrandB Muffin,Bakery,0.51,kg
+BrandA Bread,Bakery,1.66,piece
+NaturePlus Spinach,Vegetables,1.07,kg
+BrandA Phone,Electronics,14.49,piece
+EcoLife Muffin,Bakery,1.54,piece
+GoodFarm Oats,Food,3.64,kg
+GoodFarm Cheese,Dairy,5.53,kg
+EcoLife Coffee,Beverages,1.19,liter
+NaturePlus Jeans,Clothing,18.09,piece
+NaturePlus Rice,Food,1.6,piece
+GoodFarm Jeans,Clothing,4.63,piece
+NaturePlus Turkey,Meat,13.08,kg
+BrandC Bagel,Bakery,0.94,piece
+NaturePlus Potato,Vegetables,0.69,piece
+GoodFarm Tea,Beverages,1.92,bottle
+NaturePlus Rice,Food,4.37,piece
+NaturePlus Shirt,Clothing,13.37,piece
+NaturePlus Sweater,Clothing,9.54,piece
+NaturePlus Cake,Bakery,4.19,kg
+BrandC Bread,Bakery,2.01,kg
+EcoLife Pork,Meat,12.54,kg
+BrandB Grapes,Fruits,1.14,kg
+BrandB Water,Beverages,2.35,liter
+BrandC Tea,Beverages,2.99,liter
+BrandC Shampoo,Personal Care,1.01,piece
+BrandB Butter,Dairy,0.9,kg
+BrandB Cheese,Dairy,6.89,kg
+BrandC Chicken,Meat,9.16,kg
+GoodFarm Pork,Meat,11.52,kg
+BrandB Pork,Meat,7.34,kg
+BrandA Spinach,Vegetables,0.23,kg
+BrandA Phone,Electronics,59.8,piece
+EcoLife Lotion,Personal Care,2.52,piece
+BrandA Shirt,Clothing,14.6,piece
+BrandB Phone,Electronics,143.82,piece
+NaturePlus Lotion,Personal Care,1.38,piece
+GoodFarm Jeans,Clothing,7.33,piece
+BrandB T-shirt,Clothing,9.41,piece
+NaturePlus Pork,Meat,19.65,kg
+EcoLife Soap,Personal Care,0.46,piece
+BrandC Yogurt,Dairy,6.06,kg
+EcoLife Onion,Vegetables,0.17,piece
+BrandA Tomato,Vegetables,0.68,piece
+BrandA Bagel,Bakery,1.58,piece
+NaturePlus Bread,Bakery,0.51,piece
+EcoLife Beef,Meat,23.17,kg
+BrandB Carrot,Vegetables,1.65,piece
+EcoLife Lentils,Food,2.02,kg
+BrandC Carrot,Vegetables,0.07,kg
+EcoLife Lamb,Meat,19.1,kg
+GoodFarm Beef,Meat,23.16,kg
+BrandA Pork,Meat,9.85,kg
+BrandB Lamb,Meat,18.91,kg
+GoodFarm Soap,Personal Care,0.86,piece
+NaturePlus Water,Beverages,0.97,liter
+BrandA Tea,Beverages,2.86,liter
+BrandC Turkey,Meat,18.72,kg
+BrandB Shampoo,Personal Care,1.88,piece
+NaturePlus Milk,Dairy,4.48,kg
+BrandB Lamb,Meat,29.22,kg
+EcoLife Yogurt,Dairy,3.17,kg
+BrandB Mango,Fruits,1.99,piece
+BrandA Pork,Meat,27.76,kg
+NaturePlus Lotion,Personal Care,4.48,piece
+NaturePlus Potato,Vegetables,1.97,kg
+BrandA Beef,Meat,15.52,kg
+BrandA Potato,Vegetables,1.52,piece
+GoodFarm Cream,Dairy,9.01,kg
+BrandB Muffin,Bakery,4.88,kg
+BrandA Pasta,Food,3.37,pack
+BrandB Coke,Beverages,2.09,liter
+BrandC Pork,Meat,28.5,kg
+GoodFarm Tablet,Electronics,116.02,piece
+NaturePlus Muffin,Bakery,2.04,piece
+NaturePlus Sweater,Clothing,5.67,piece
+BrandB Phone,Electronics,159.69,piece
+BrandC Cake,Bakery,1.24,piece
+GoodFarm Tablet,Electronics,94.3,piece
+BrandC Cake,Bakery,1.19,piece
+BrandA Coke,Beverages,2.24,liter
+GoodFarm Cream,Dairy,5.54,liter
+NaturePlus Mango,Fruits,1.72,kg
+EcoLife Cheese,Dairy,4.85,liter
+NaturePlus Croissant,Bakery,2.18,piece
+BrandC Headphones,Electronics,195.23,piece
+NaturePlus Phone,Electronics,43.6,piece
+NaturePlus Potato,Vegetables,0.09,kg
+BrandC Sweater,Clothing,18.07,piece
+GoodFarm Tea,Beverages,2.48,bottle
+NaturePlus Juice,Beverages,1.13,bottle
+NaturePlus Potato,Vegetables,1.45,piece
+BrandA Banana,Fruits,1.72,kg
+NaturePlus Milk,Dairy,5.49,liter
+BrandB Orange,Fruits,0.79,kg
+EcoLife Lentils,Food,0.71,piece
+EcoLife Potato,Vegetables,0.99,piece
+BrandC Onion,Vegetables,0.56,kg
+EcoLife Cheese,Dairy,2.43,kg
+GoodFarm Beans,Food,2.63,pack
+EcoLife Banana,Fruits,0.97,piece
+NaturePlus Coke,Beverages,2.41,bottle
+BrandC Bagel,Bakery,3.65,kg
+BrandB Chicken,Meat,12.68,kg
+BrandA Milk,Dairy,4.74,kg
+BrandB Coffee,Beverages,2.83,bottle
+GoodFarm Yogurt,Dairy,6.9,kg
+GoodFarm TV,Electronics,20.94,piece
+BrandC Phone,Electronics,185.87,piece
+EcoLife Phone,Electronics,45.67,piece
+BrandB Apple,Fruits,0.94,kg
+EcoLife Yogurt,Dairy,8.18,liter
+EcoLife Onion,Vegetables,0.06,piece
+BrandC Banana,Fruits,0.38,kg
+GoodFarm Tea,Beverages,1.7,bottle
+GoodFarm Grapes,Fruits,1.76,piece
+BrandC Bagel,Bakery,2.03,piece
+NaturePlus Spinach,Vegetables,0.55,kg
+BrandB Tablet,Electronics,85.9,piece
+BrandA Apple,Fruits,1.61,kg
+BrandB Spinach,Vegetables,1.76,kg
+GoodFarm Laptop,Electronics,37.98,piece
+BrandC Coffee,Beverages,0.75,bottle
+GoodFarm Croissant,Bakery,3.01,piece
+EcoLife Soap,Personal Care,4.94,piece
+BrandA Laptop,Electronics,89.9,piece
+BrandB Soap,Personal Care,3.7,piece
+GoodFarm Rice,Food,1.16,kg
+BrandA Bread,Bakery,2.2,piece
+GoodFarm Water,Beverages,2.65,bottle
+EcoLife Coke,Beverages,1.45,liter
+EcoLife Carrot,Vegetables,1.82,piece
+NaturePlus Potato,Vegetables,0.25,piece
+GoodFarm Pork,Meat,5.04,kg
+EcoLife Shampoo,Personal Care,2.99,piece
+NaturePlus Banana,Fruits,0.32,kg
+NaturePlus TV,Electronics,144.27,piece
+BrandB Sweater,Clothing,17.62,piece
+BrandC Croissant,Bakery,1.48,piece
+EcoLife Milk,Dairy,8.55,liter
+BrandC Headphones,Electronics,124.49,piece
+BrandB Cream,Dairy,9.2,liter
+BrandA Soap,Personal Care,0.92,piece
+NaturePlus Lentils,Food,0.64,kg
+BrandB Beans,Food,4.05,kg
+EcoLife Carrot,Vegetables,1.23,kg
+GoodFarm Soap,Personal Care,3.85,piece
+EcoLife Beans,Food,3.07,pack
+BrandC Sweater,Clothing,10.0,piece
+NaturePlus Coke,Beverages,1.36,bottle
+EcoLife Beans,Food,1.12,piece
+EcoLife Toothpaste,Personal Care,3.41,piece
+BrandA Potato,Vegetables,1.85,kg
+BrandC Laptop,Electronics,68.18,piece
+BrandB Coke,Beverages,0.62,bottle
+BrandC Yogurt,Dairy,1.62,liter
+EcoLife Apple,Fruits,1.73,kg
+EcoLife Juice,Beverages,0.75,liter
+BrandA Tomato,Vegetables,0.76,kg
+GoodFarm Coffee,Beverages,1.49,bottle
+GoodFarm Coke,Beverages,1.6,liter
+GoodFarm Pork,Meat,29.3,kg
+NaturePlus Tablet,Electronics,58.99,piece
+NaturePlus Croissant,Bakery,2.24,piece
+EcoLife Milk,Dairy,5.35,liter
+EcoLife Headphones,Electronics,100.6,piece
+GoodFarm Jacket,Clothing,7.6,piece
+BrandC Cake,Bakery,0.59,piece
+EcoLife T-shirt,Clothing,5.33,piece
+EcoLife Tablet,Electronics,172.91,piece
+BrandB Tablet,Electronics,119.28,piece
+BrandB Rice,Food,4.87,piece
+BrandA Carrot,Vegetables,1.05,piece
+EcoLife Lentils,Food,3.45,piece
+BrandB Carrot,Vegetables,1.24,piece
+EcoLife Lentils,Food,1.41,kg
+EcoLife Tomato,Vegetables,1.52,kg
+GoodFarm Tomato,Vegetables,1.48,kg
+BrandC Milk,Dairy,9.37,liter
+NaturePlus Yogurt,Dairy,6.43,liter
+GoodFarm Coffee,Beverages,0.32,liter
+BrandC Tomato,Vegetables,0.96,piece
+NaturePlus Carrot,Vegetables,1.71,kg
+BrandB Grapes,Fruits,0.65,piece
+BrandC Deodorant,Personal Care,3.04,piece
+BrandB Beef,Meat,25.66,kg
+GoodFarm Tablet,Electronics,127.3,piece
+BrandC Soap,Personal Care,0.32,piece
+BrandA Laptop,Electronics,143.35,piece
+NaturePlus Orange,Fruits,0.93,kg
+BrandC Beef,Meat,28.15,kg
+EcoLife Toothpaste,Personal Care,0.16,piece
+BrandB Coffee,Beverages,2.07,liter
+BrandA Soap,Personal Care,1.72,piece
+GoodFarm Beans,Food,3.08,pack
+BrandB Cream,Dairy,7.35,kg
+BrandA Cake,Bakery,4.67,piece
+GoodFarm Lamb,Meat,28.39,kg
+BrandA Onion,Vegetables,0.76,kg
+GoodFarm TV,Electronics,157.14,piece
+GoodFarm Soap,Personal Care,0.54,piece
+GoodFarm Butter,Dairy,6.21,kg
+EcoLife Mango,Fruits,1.75,kg
+EcoLife Jacket,Clothing,16.99,piece
+BrandB Milk,Dairy,3.52,liter
+EcoLife Grapes,Fruits,0.73,piece
+GoodFarm Tablet,Electronics,118.24,piece
+GoodFarm Pork,Meat,17.2,kg
+EcoLife Yogurt,Dairy,7.36,kg
+BrandB Potato,Vegetables,0.71,piece
+BrandC Water,Beverages,2.4,liter
+EcoLife Cheese,Dairy,4.51,liter
+GoodFarm Onion,Vegetables,1.47,kg
+BrandC Pasta,Food,2.64,kg
+BrandB Banana,Fruits,0.49,kg
+EcoLife Laptop,Electronics,192.76,piece
+BrandC Juice,Beverages,1.98,bottle
+BrandA Yogurt,Dairy,3.33,kg
+BrandC Croissant,Bakery,4.17,kg
+BrandA Cream,Dairy,3.4,kg
+BrandA Lamb,Meat,5.11,kg
+BrandA Mango,Fruits,0.27,piece
+BrandB Lotion,Personal Care,1.96,piece
+NaturePlus Potato,Vegetables,1.27,piece
+EcoLife Laptop,Electronics,76.06,piece
+EcoLife Orange,Fruits,0.77,kg
+BrandB Butter,Dairy,5.13,kg
+GoodFarm Coke,Beverages,0.4,bottle
+EcoLife Lentils,Food,0.88,kg
+BrandB Shampoo,Personal Care,0.95,piece
+EcoLife Bagel,Bakery,1.36,kg
+NaturePlus Tomato,Vegetables,0.15,kg
+BrandA Cheese,Dairy,2.65,kg
+EcoLife Coffee,Beverages,2.52,liter
+GoodFarm Water,Beverages,0.7,bottle
+GoodFarm Potato,Vegetables,1.36,piece
+BrandC Milk,Dairy,8.18,kg
+BrandC Jacket,Clothing,15.21,piece
+EcoLife Rice,Food,1.67,piece
+EcoLife Laptop,Electronics,103.71,piece
+BrandC Tea,Beverages,2.83,liter
+BrandB Spinach,Vegetables,1.22,kg
+BrandA Yogurt,Dairy,5.85,kg
+BrandA Rice,Food,2.57,kg
+EcoLife Laptop,Electronics,88.1,piece
+GoodFarm Muffin,Bakery,0.51,kg
+GoodFarm Headphones,Electronics,81.17,piece
+BrandA Butter,Dairy,4.91,liter
+BrandB Jeans,Clothing,13.41,piece
+BrandC Tea,Beverages,0.93,bottle
+BrandA Rice,Food,0.5,kg
+EcoLife Cake,Bakery,1.56,piece
+NaturePlus Beef,Meat,23.9,kg
+BrandA Water,Beverages,2.69,liter
+BrandB Lentils,Food,0.28,pack
+EcoLife Rice,Food,0.3,piece
+BrandA Soap,Personal Care,3.95,piece
+NaturePlus Lentils,Food,4.49,piece
+BrandA Rice,Food,3.07,kg
+NaturePlus Shampoo,Personal Care,3.26,piece
+BrandA Banana,Fruits,1.02,kg
+BrandA Butter,Dairy,1.61,liter
+EcoLife Chicken,Meat,27.89,kg
+BrandA Tea,Beverages,2.77,liter
+BrandC T-shirt,Clothing,11.62,piece
+BrandB Mango,Fruits,0.96,kg
+EcoLife Chicken,Meat,27.17,kg
+NaturePlus Pork,Meat,21.48,kg
+NaturePlus Tea,Beverages,1.25,bottle
+GoodFarm Banana,Fruits,0.59,kg
+BrandC Muffin,Bakery,3.06,kg
+BrandA Lotion,Personal Care,3.93,piece
+EcoLife TV,Electronics,110.86,piece
+BrandB Headphones,Electronics,118.64,piece
+NaturePlus Jacket,Clothing,15.92,piece
+NaturePlus Deodorant,Personal Care,2.74,piece
+BrandC Pasta,Food,2.31,kg
+BrandB Deodorant,Personal Care,3.84,piece
+EcoLife Pork,Meat,27.33,kg
+BrandB Lentils,Food,0.36,kg
+EcoLife Apple,Fruits,1.89,piece
+BrandA Bread,Bakery,4.02,kg
+NaturePlus Carrot,Vegetables,0.22,piece
+GoodFarm Rice,Food,2.1,pack
+BrandB Sweater,Clothing,9.44,piece
+BrandA Muffin,Bakery,1.83,piece
+GoodFarm Juice,Beverages,1.01,bottle
+BrandA Bagel,Bakery,1.17,piece
+BrandA Phone,Electronics,50.95,piece
+BrandA Orange,Fruits,0.53,piece
+BrandC Phone,Electronics,36.59,piece
+NaturePlus Lotion,Personal Care,3.98,piece
+NaturePlus Beans,Food,1.13,kg
+BrandA Turkey,Meat,8.79,kg
+BrandB Pork,Meat,6.04,kg
+BrandA Yogurt,Dairy,3.04,kg
+GoodFarm Jeans,Clothing,14.11,piece
+BrandA Bread,Bakery,1.69,piece
+EcoLife Sweater,Clothing,5.35,piece
+BrandC Spinach,Vegetables,1.65,piece
+BrandC Croissant,Bakery,2.21,piece
+NaturePlus Cake,Bakery,0.93,kg
+EcoLife Chicken,Meat,27.98,kg
+BrandB Beans,Food,1.76,kg
+BrandA Cheese,Dairy,9.89,kg
+NaturePlus Phone,Electronics,110.5,piece
+BrandA Bread,Bakery,3.33,piece
+GoodFarm Muffin,Bakery,1.41,piece
+NaturePlus Apple,Fruits,0.49,piece
+BrandC Sweater,Clothing,12.98,piece
+EcoLife Coke,Beverages,1.35,bottle
+BrandB Turkey,Meat,22.38,kg
+BrandC Yogurt,Dairy,5.63,kg
+EcoLife Potato,Vegetables,1.6,kg
+BrandC Tea,Beverages,2.63,liter
+GoodFarm Toothpaste,Personal Care,4.26,piece
+BrandC Water,Beverages,1.46,bottle
+NaturePlus Lamb,Meat,26.98,kg
+BrandC Yogurt,Dairy,0.52,kg
+BrandA Bagel,Bakery,0.65,piece
+BrandB Jacket,Clothing,6.02,piece
+EcoLife T-shirt,Clothing,16.45,piece
+EcoLife Apple,Fruits,1.01,kg
+GoodFarm TV,Electronics,101.51,piece
+EcoLife Chicken,Meat,13.9,kg
+NaturePlus Mango,Fruits,1.17,piece
+GoodFarm Toothpaste,Personal Care,0.21,piece
+BrandB Chicken,Meat,24.77,kg
+BrandC TV,Electronics,132.05,piece
+BrandC Banana,Fruits,0.52,kg
+BrandB Bread,Bakery,1.96,piece
+GoodFarm Tomato,Vegetables,0.67,kg
+EcoLife Rice,Food,3.03,piece
+NaturePlus Pasta,Food,0.32,piece
+BrandA Water,Beverages,0.68,bottle
+NaturePlus Muffin,Bakery,4.3,piece
+BrandC Soap,Personal Care,2.43,piece
+BrandA Lentils,Food,3.29,piece
+BrandA Jacket,Clothing,19.24,piece
+NaturePlus Rice,Food,1.77,piece
+NaturePlus Tea,Beverages,2.98,bottle
+BrandC Carrot,Vegetables,0.54,kg
+BrandC Orange,Fruits,1.53,kg
+NaturePlus Onion,Vegetables,0.27,piece
+GoodFarm Milk,Dairy,9.83,liter
+BrandA Pork,Meat,17.06,kg
+NaturePlus Tomato,Vegetables,0.92,piece
+GoodFarm Coffee,Beverages,0.95,liter
+EcoLife Yogurt,Dairy,8.12,kg
+BrandB T-shirt,Clothing,2.85,piece
+EcoLife Headphones,Electronics,157.2,piece
+BrandC Lamb,Meat,13.12,kg
+GoodFarm Lotion,Personal Care,4.67,piece
+BrandC Sweater,Clothing,12.76,piece
+GoodFarm Tomato,Vegetables,0.42,kg
+BrandC Coke,Beverages,0.59,liter
+GoodFarm Lotion,Personal Care,4.65,piece
+BrandC Sweater,Clothing,15.29,piece
+BrandC Cheese,Dairy,2.67,kg
+GoodFarm Juice,Beverages,0.23,liter
+BrandA Beans,Food,0.25,kg
+BrandC Turkey,Meat,8.03,kg
+BrandB Mango,Fruits,0.16,kg
+NaturePlus Shirt,Clothing,18.05,piece
+BrandA Coke,Beverages,2.57,liter
+BrandC Tablet,Electronics,165.96,piece
+NaturePlus Muffin,Bakery,2.82,kg
+BrandB Carrot,Vegetables,1.57,kg
+BrandA Toothpaste,Personal Care,4.08,piece
+GoodFarm Laptop,Electronics,54.22,piece
+NaturePlus Beef,Meat,23.57,kg
+NaturePlus Cream,Dairy,1.16,kg
+GoodFarm Turkey,Meat,15.37,kg
+BrandA Croissant,Bakery,0.51,piece
+GoodFarm Tea,Beverages,0.48,bottle
+NaturePlus Beef,Meat,20.48,kg
+GoodFarm Juice,Beverages,0.53,liter
+NaturePlus Orange,Fruits,0.42,piece
+BrandC Lotion,Personal Care,2.98,piece
+GoodFarm Rice,Food,3.32,kg
+BrandA Laptop,Electronics,115.03,piece
+BrandB Cream,Dairy,4.15,kg
+BrandB Spinach,Vegetables,0.84,piece
+BrandA Muffin,Bakery,4.3,piece
+NaturePlus Cake,Bakery,0.45,kg
+BrandC Cake,Bakery,1.55,piece
+BrandB Jacket,Clothing,2.65,piece
+NaturePlus Cheese,Dairy,4.81,liter
+BrandC Spinach,Vegetables,0.28,piece
+GoodFarm Banana,Fruits,0.77,piece
+NaturePlus Pork,Meat,5.95,kg
+EcoLife Jacket,Clothing,19.01,piece
+EcoLife Laptop,Electronics,119.96,piece
+BrandB Oats,Food,4.03,pack
+NaturePlus T-shirt,Clothing,8.66,piece
+BrandA Mango,Fruits,1.05,piece
+BrandA Beef,Meat,5.98,kg
+NaturePlus Lamb,Meat,7.13,kg
+NaturePlus Potato,Vegetables,0.46,piece
+BrandB Lamb,Meat,6.03,kg
+BrandA Mango,Fruits,0.72,piece
+BrandB Banana,Fruits,1.26,piece
+EcoLife Banana,Fruits,1.16,piece
+BrandB Pasta,Food,0.11,kg
+BrandB Coke,Beverages,2.6,bottle
+BrandB Shirt,Clothing,15.36,piece
+NaturePlus Phone,Electronics,117.32,piece
+NaturePlus Beef,Meat,17.08,kg
+GoodFarm T-shirt,Clothing,18.36,piece
+BrandB Banana,Fruits,0.81,kg
+BrandB Yogurt,Dairy,4.03,liter
+BrandA Cake,Bakery,4.64,piece
+EcoLife Coffee,Beverages,0.77,liter
+BrandB Soap,Personal Care,2.39,piece
+EcoLife Jacket,Clothing,4.15,piece
+BrandA Mango,Fruits,0.34,kg
+BrandB Grapes,Fruits,1.86,piece
+NaturePlus Beans,Food,1.42,piece
+EcoLife Grapes,Fruits,0.58,kg
+NaturePlus Tomato,Vegetables,1.16,kg
+BrandB Beef,Meat,9.38,kg
+BrandA Soap,Personal Care,2.32,piece
+NaturePlus Turkey,Meat,23.44,kg
+GoodFarm Juice,Beverages,2.02,bottle
+BrandB Bread,Bakery,2.18,kg
+BrandC Pasta,Food,3.28,pack
+GoodFarm Sweater,Clothing,11.37,piece
+GoodFarm Cake,Bakery,0.64,piece
+NaturePlus Lentils,Food,4.75,piece
+BrandB Milk,Dairy,8.96,liter
+BrandB Laptop,Electronics,135.1,piece
+GoodFarm Grapes,Fruits,0.68,piece
+NaturePlus Shirt,Clothing,7.82,piece
+BrandA T-shirt,Clothing,8.88,piece
+BrandC T-shirt,Clothing,7.37,piece
+BrandA Deodorant,Personal Care,1.17,piece
+EcoLife Grapes,Fruits,0.79,piece
+GoodFarm Laptop,Electronics,187.63,piece
+BrandA Lamb,Meat,27.53,kg
+NaturePlus Rice,Food,2.26,piece
+BrandC Croissant,Bakery,3.14,piece
+GoodFarm Carrot,Vegetables,1.1,kg
+GoodFarm Soap,Personal Care,2.86,piece
+GoodFarm Cream,Dairy,2.07,liter
+GoodFarm Muffin,Bakery,3.22,kg
+BrandA Chicken,Meat,24.25,kg
+BrandA Pork,Meat,11.78,kg
+BrandC Soap,Personal Care,1.48,piece
+NaturePlus Beef,Meat,11.19,kg
+NaturePlus Pasta,Food,1.28,pack
+BrandC Potato,Vegetables,1.63,kg
+EcoLife Turkey,Meat,11.63,kg
+NaturePlus Tomato,Vegetables,0.67,piece
+BrandC Coffee,Beverages,2.44,bottle
+BrandB T-shirt,Clothing,15.27,piece
+BrandC Mango,Fruits,0.42,kg
+EcoLife Grapes,Fruits,0.58,kg
+BrandB Jacket,Clothing,16.44,piece
+BrandB Lotion,Personal Care,3.1,piece
+BrandC TV,Electronics,48.1,piece
+NaturePlus Orange,Fruits,1.73,piece
+GoodFarm Onion,Vegetables,0.86,piece
+GoodFarm Tablet,Electronics,99.72,piece
+BrandB Tea,Beverages,1.51,liter
+BrandB Milk,Dairy,3.89,kg
+GoodFarm Butter,Dairy,4.01,liter
+BrandA Juice,Beverages,1.93,liter
+NaturePlus Beans,Food,0.38,kg
+GoodFarm Cake,Bakery,1.04,piece
+BrandA Cream,Dairy,1.51,kg
+BrandA Soap,Personal Care,3.02,piece
+BrandC Tea,Beverages,1.54,bottle
+BrandB Pork,Meat,28.84,kg
+BrandA Coke,Beverages,0.88,liter
+NaturePlus Cake,Bakery,3.58,piece
+GoodFarm Milk,Dairy,9.47,liter
+NaturePlus Tablet,Electronics,148.17,piece
+BrandC Headphones,Electronics,183.23,piece
+BrandC Beans,Food,4.44,kg
+NaturePlus TV,Electronics,26.17,piece
+NaturePlus Onion,Vegetables,0.53,kg
+BrandA Muffin,Bakery,2.34,kg
+EcoLife Coffee,Beverages,0.37,bottle
+GoodFarm Rice,Food,4.68,pack
+EcoLife Carrot,Vegetables,0.34,piece
+BrandB Coffee,Beverages,0.65,liter
+BrandA Rice,Food,3.78,pack
+NaturePlus Oats,Food,1.02,pack
+EcoLife Shampoo,Personal Care,1.45,piece
+BrandC Muffin,Bakery,3.06,kg
+GoodFarm Pasta,Food,2.71,piece
+NaturePlus Tea,Beverages,0.89,bottle
+BrandA Orange,Fruits,0.17,piece
+BrandA Muffin,Bakery,2.09,piece
+BrandC Shampoo,Personal Care,0.45,piece
+NaturePlus Coffee,Beverages,0.54,bottle
+GoodFarm Pork,Meat,15.37,kg
+BrandB Bagel,Bakery,3.34,piece
+EcoLife Bagel,Bakery,2.8,kg
+NaturePlus Rice,Food,3.28,pack
+BrandC Shampoo,Personal Care,2.75,piece
+EcoLife Onion,Vegetables,1.84,kg
+GoodFarm Soap,Personal Care,3.62,piece
+GoodFarm Coffee,Beverages,1.72,bottle
+BrandC TV,Electronics,48.03,piece
+EcoLife Toothpaste,Personal Care,2.63,piece
+EcoLife Grapes,Fruits,0.21,piece
+BrandC Bread,Bakery,0.51,piece
+GoodFarm Bread,Bakery,4.25,piece
+EcoLife Turkey,Meat,16.31,kg
+NaturePlus Mango,Fruits,0.67,piece
+NaturePlus Butter,Dairy,6.09,liter
+BrandC Tablet,Electronics,16.73,piece
+BrandB Spinach,Vegetables,0.59,kg
+BrandB Lotion,Personal Care,3.97,piece
+BrandB Headphones,Electronics,117.03,piece
+NaturePlus Yogurt,Dairy,9.81,kg
+BrandA Carrot,Vegetables,1.8,kg
+EcoLife Shirt,Clothing,8.04,piece
+BrandC Coffee,Beverages,1.78,bottle
+EcoLife Headphones,Electronics,54.89,piece
+NaturePlus Grapes,Fruits,0.14,kg
+BrandB Potato,Vegetables,1.59,kg
+BrandA Muffin,Bakery,4.36,kg
+BrandA Butter,Dairy,2.47,liter
+NaturePlus Soap,Personal Care,3.74,piece
+NaturePlus Butter,Dairy,4.93,liter
+GoodFarm Bread,Bakery,1.98,kg
+EcoLife Beans,Food,0.55,pack
+BrandB Yogurt,Dairy,1.88,liter
+BrandB T-shirt,Clothing,15.1,piece
+GoodFarm Spinach,Vegetables,0.74,piece
+BrandB Deodorant,Personal Care,3.31,piece
+NaturePlus T-shirt,Clothing,9.45,piece
+BrandA Shirt,Clothing,12.87,piece
+GoodFarm Lentils,Food,1.09,piece
+NaturePlus Lotion,Personal Care,1.6,piece
+BrandC Beans,Food,3.56,pack
+NaturePlus Tea,Beverages,1.53,bottle
+BrandA Banana,Fruits,0.38,kg
+BrandC Sweater,Clothing,7.26,piece
+GoodFarm Milk,Dairy,9.23,liter
+EcoLife Mango,Fruits,0.6,kg
+BrandC Bagel,Bakery,4.42,kg
+GoodFarm Potato,Vegetables,1.57,piece
+BrandC Phone,Electronics,37.61,piece
+BrandB Cream,Dairy,6.99,liter
+EcoLife Water,Beverages,1.78,liter
+GoodFarm Pasta,Food,1.0,kg
+BrandC Yogurt,Dairy,8.61,kg
+NaturePlus Carrot,Vegetables,1.62,kg
+EcoLife T-shirt,Clothing,5.24,piece
+BrandC Coffee,Beverages,2.03,bottle
+BrandB Milk,Dairy,3.76,kg
+EcoLife Shampoo,Personal Care,3.72,piece
+BrandB Grapes,Fruits,0.82,piece
+GoodFarm Phone,Electronics,181.68,piece
+BrandC TV,Electronics,96.05,piece
+BrandC Water,Beverages,1.07,bottle
+BrandB Muffin,Bakery,1.17,kg
+BrandC Phone,Electronics,66.86,piece
+BrandC Coke,Beverages,0.41,liter
+NaturePlus Coke,Beverages,2.29,bottle
+BrandB Phone,Electronics,45.81,piece
+BrandB Bagel,Bakery,0.51,kg
+BrandA Shampoo,Personal Care,4.62,piece
+BrandA Muffin,Bakery,2.59,piece
+BrandC TV,Electronics,136.43,piece
+BrandB Banana,Fruits,1.21,kg
+BrandB Sweater,Clothing,9.27,piece
+EcoLife Beans,Food,1.15,piece
+BrandC Croissant,Bakery,3.39,kg
+BrandC T-shirt,Clothing,8.95,piece
+BrandB Pasta,Food,3.92,kg
+BrandC Lamb,Meat,26.84,kg
+BrandB Rice,Food,1.92,pack
+GoodFarm Croissant,Bakery,1.77,kg
+GoodFarm Banana,Fruits,1.98,piece
+EcoLife Cheese,Dairy,8.16,kg
+GoodFarm Sweater,Clothing,7.27,piece
+EcoLife Headphones,Electronics,141.26,piece
+BrandC Soap,Personal Care,4.56,piece
+NaturePlus Bagel,Bakery,4.87,piece
+EcoLife Milk,Dairy,8.27,liter
+BrandC Bagel,Bakery,0.55,kg
+BrandB Shirt,Clothing,15.2,piece
+NaturePlus Phone,Electronics,11.01,piece
+BrandC Oats,Food,2.33,piece
+GoodFarm Onion,Vegetables,0.2,piece
+GoodFarm Cheese,Dairy,8.46,liter
+GoodFarm Shampoo,Personal Care,2.81,piece
+BrandC Chicken,Meat,17.32,kg
+BrandB Orange,Fruits,1.38,kg
+EcoLife Butter,Dairy,4.63,liter
+GoodFarm Bread,Bakery,3.11,kg
+BrandC Shirt,Clothing,5.41,piece
+GoodFarm Soap,Personal Care,4.57,piece
+GoodFarm Jacket,Clothing,12.86,piece
+GoodFarm Coffee,Beverages,2.77,bottle
+NaturePlus Coke,Beverages,0.48,liter
+BrandC Lentils,Food,3.02,pack
+NaturePlus Coke,Beverages,2.16,liter
+BrandC Coke,Beverages,1.34,bottle
+BrandC Shirt,Clothing,9.8,piece
+GoodFarm Pork,Meat,6.75,kg
+EcoLife Chicken,Meat,20.41,kg
+BrandC Water,Beverages,2.76,bottle
+BrandB Cream,Dairy,8.32,liter
+BrandB Lentils,Food,2.58,piece
+BrandB Pasta,Food,4.29,kg
+BrandA Coke,Beverages,2.76,liter
+BrandA Apple,Fruits,1.11,piece
+NaturePlus Cake,Bakery,1.07,piece
+BrandA Beans,Food,4.91,kg
+BrandC Milk,Dairy,6.97,liter
+EcoLife Shirt,Clothing,17.4,piece
+NaturePlus Tomato,Vegetables,1.67,piece
+BrandB Muffin,Bakery,0.73,kg
+EcoLife Coke,Beverages,0.58,bottle
+BrandB Butter,Dairy,6.35,liter
+NaturePlus Orange,Fruits,1.78,kg
+BrandB TV,Electronics,17.46,piece
+EcoLife Muffin,Bakery,0.41,piece
+EcoLife Banana,Fruits,0.97,kg
+GoodFarm Lotion,Personal Care,4.97,piece
+NaturePlus Milk,Dairy,7.25,liter
+GoodFarm Croissant,Bakery,2.89,kg
+BrandB Butter,Dairy,9.83,kg
+GoodFarm Beans,Food,1.33,piece
+BrandB Shampoo,Personal Care,1.65,piece
+GoodFarm Chicken,Meat,5.19,kg
+BrandB Butter,Dairy,6.16,kg
+BrandB Toothpaste,Personal Care,2.72,piece
+BrandA Carrot,Vegetables,1.32,piece
+EcoLife Lotion,Personal Care,4.49,piece
+BrandA Cake,Bakery,2.54,kg
+NaturePlus Rice,Food,1.66,pack
+NaturePlus Soap,Personal Care,3.61,piece
+EcoLife Butter,Dairy,7.29,liter
+GoodFarm Cake,Bakery,4.72,piece
+EcoLife Shampoo,Personal Care,4.34,piece
+EcoLife Pasta,Food,1.56,pack
+EcoLife Milk,Dairy,6.77,kg
+EcoLife Deodorant,Personal Care,1.59,piece
+EcoLife Milk,Dairy,3.77,liter
+EcoLife Croissant,Bakery,2.6,piece
+BrandC Sweater,Clothing,5.42,piece
+GoodFarm Cream,Dairy,7.43,liter
+NaturePlus Soap,Personal Care,0.81,piece
+BrandC Apple,Fruits,0.88,piece
+GoodFarm Potato,Vegetables,1.1,piece
+BrandA Mango,Fruits,0.72,kg
+GoodFarm Shirt,Clothing,8.43,piece
+BrandA Lotion,Personal Care,2.48,piece
+EcoLife Jacket,Clothing,18.86,piece
+BrandB Cake,Bakery,4.96,piece
+NaturePlus Bread,Bakery,2.48,kg
+BrandA Milk,Dairy,1.34,kg
+GoodFarm Beef,Meat,12.27,kg
+NaturePlus Beans,Food,2.84,kg
+EcoLife Toothpaste,Personal Care,1.09,piece
+NaturePlus Coffee,Beverages,0.59,bottle
+NaturePlus Mango,Fruits,1.5,kg
+BrandB Lotion,Personal Care,3.97,piece
+BrandB Lamb,Meat,6.36,kg
+BrandA Grapes,Fruits,1.48,piece
+GoodFarm Milk,Dairy,8.0,kg
+NaturePlus Carrot,Vegetables,1.06,kg
+BrandC Apple,Fruits,1.52,kg
+BrandC Pasta,Food,3.0,pack
+EcoLife Beef,Meat,13.25,kg
+BrandC Orange,Fruits,1.8,kg
+EcoLife Chicken,Meat,14.69,kg
+BrandB Onion,Vegetables,1.77,piece
+NaturePlus Butter,Dairy,8.99,liter
+BrandB Shirt,Clothing,13.55,piece
+BrandB Pasta,Food,2.29,pack
+BrandA Deodorant,Personal Care,2.61,piece
+NaturePlus Onion,Vegetables,1.83,piece
+GoodFarm Orange,Fruits,1.81,piece
+BrandB Onion,Vegetables,1.61,piece
+NaturePlus Chicken,Meat,27.4,kg
+NaturePlus Toothpaste,Personal Care,3.76,piece
+EcoLife Shirt,Clothing,16.84,piece
+EcoLife Water,Beverages,0.61,liter
+BrandC Lentils,Food,3.73,kg
+BrandB Sweater,Clothing,15.7,piece
+EcoLife Muffin,Bakery,2.11,piece
+GoodFarm Coffee,Beverages,0.75,liter
+BrandB Muffin,Bakery,3.51,kg
+GoodFarm Phone,Electronics,93.77,piece
+GoodFarm Jeans,Clothing,10.65,piece
+BrandA Grapes,Fruits,1.17,piece
+EcoLife Lentils,Food,1.94,pack
+BrandB Phone,Electronics,74.97,piece
+BrandA Coke,Beverages,0.98,bottle
+GoodFarm Mango,Fruits,1.64,piece
+BrandB Turkey,Meat,5.53,kg
+BrandC Muffin,Bakery,2.47,piece
+NaturePlus Tablet,Electronics,141.02,piece
+BrandC Water,Beverages,0.46,liter
+EcoLife Banana,Fruits,0.76,piece
+BrandC Yogurt,Dairy,2.1,kg
+BrandC Lotion,Personal Care,3.41,piece
+BrandB Croissant,Bakery,4.55,piece
+NaturePlus Croissant,Bakery,1.2,piece
+GoodFarm Laptop,Electronics,107.31,piece
+EcoLife Sweater,Clothing,18.83,piece
+GoodFarm Laptop,Electronics,54.09,piece
+EcoLife Coffee,Beverages,2.08,bottle
+BrandA T-shirt,Clothing,7.51,piece
+NaturePlus Rice,Food,3.59,pack
+EcoLife Onion,Vegetables,1.16,kg
+EcoLife Grapes,Fruits,0.98,kg
+NaturePlus Bread,Bakery,4.91,piece
+EcoLife Milk,Dairy,5.88,kg
+NaturePlus Cream,Dairy,6.44,kg
+BrandB Phone,Electronics,138.25,piece
+BrandA Lotion,Personal Care,2.38,piece
+EcoLife Muffin,Bakery,3.03,piece
+EcoLife Headphones,Electronics,159.46,piece
+EcoLife Jeans,Clothing,7.31,piece
+BrandA Jacket,Clothing,3.9,piece
+NaturePlus Bagel,Bakery,2.0,kg
+EcoLife Soap,Personal Care,1.17,piece
+BrandB Tablet,Electronics,40.67,piece
+BrandC Turkey,Meat,24.13,kg
+BrandC Pasta,Food,0.45,kg
+NaturePlus Chicken,Meat,11.73,kg
+EcoLife Sweater,Clothing,11.05,piece
+EcoLife Jeans,Clothing,6.74,piece
+BrandA Bagel,Bakery,1.09,kg
+BrandA Beans,Food,3.24,kg
+BrandB Mango,Fruits,0.62,kg
+BrandB Banana,Fruits,1.64,kg
+BrandA TV,Electronics,159.74,piece
+GoodFarm Lamb,Meat,24.66,kg
+BrandC Beans,Food,2.75,piece
+BrandA Apple,Fruits,0.69,piece
+NaturePlus Pasta,Food,2.56,piece
+EcoLife Phone,Electronics,54.63,piece
+EcoLife Rice,Food,2.0,piece
+BrandC Shampoo,Personal Care,3.93,piece
+BrandA Soap,Personal Care,2.88,piece
+BrandA Milk,Dairy,6.49,liter
+EcoLife Tablet,Electronics,170.45,piece
+GoodFarm Butter,Dairy,8.66,kg
+BrandC Tomato,Vegetables,0.48,piece
+BrandB Juice,Beverages,1.04,liter
+BrandA Tablet,Electronics,66.9,piece
+NaturePlus T-shirt,Clothing,16.63,piece
+EcoLife Milk,Dairy,9.65,kg
+NaturePlus Headphones,Electronics,44.91,piece
+NaturePlus Juice,Beverages,1.25,liter
+NaturePlus Grapes,Fruits,0.46,kg
+GoodFarm Milk,Dairy,9.36,kg
+BrandA Rice,Food,1.48,pack
+EcoLife Bagel,Bakery,1.85,kg
+BrandC TV,Electronics,24.84,piece
+BrandA Deodorant,Personal Care,4.86,piece
+BrandC Croissant,Bakery,2.02,piece
+BrandB Lotion,Personal Care,1.16,piece
+BrandB Cake,Bakery,1.91,piece
+BrandC Beans,Food,2.66,kg
+GoodFarm T-shirt,Clothing,10.84,piece
+BrandB Turkey,Meat,6.41,kg
+EcoLife T-shirt,Clothing,17.8,piece
+BrandB Muffin,Bakery,4.57,kg
+EcoLife Beef,Meat,14.25,kg
+BrandB Croissant,Bakery,0.54,piece
+BrandB Lamb,Meat,22.26,kg
+BrandA Orange,Fruits,1.9,piece
+GoodFarm Coke,Beverages,1.08,bottle
+BrandC Spinach,Vegetables,1.67,piece
+NaturePlus Toothpaste,Personal Care,0.6,piece
+GoodFarm Deodorant,Personal Care,4.02,piece
+BrandB Jeans,Clothing,18.94,piece
+NaturePlus Milk,Dairy,0.57,liter
+BrandB Potato,Vegetables,0.64,piece
+GoodFarm Beef,Meat,7.67,kg
+BrandC Milk,Dairy,8.18,liter
+BrandB Cheese,Dairy,3.89,kg
+EcoLife Bread,Bakery,1.61,kg
+BrandC Bread,Bakery,4.73,piece
+BrandA Coffee,Beverages,0.26,liter
+BrandC Lamb,Meat,19.94,kg
+GoodFarm Bread,Bakery,3.29,kg
+BrandB Apple,Fruits,0.39,piece
+EcoLife Rice,Food,3.03,pack
+NaturePlus Cream,Dairy,9.49,liter
+BrandC Shampoo,Personal Care,0.4,piece
+EcoLife Tea,Beverages,1.13,bottle
+EcoLife Onion,Vegetables,0.69,piece
+BrandA Shirt,Clothing,7.68,piece
+NaturePlus Jeans,Clothing,7.73,piece
+GoodFarm Cream,Dairy,8.45,kg
+EcoLife Oats,Food,3.81,kg
+BrandC Mango,Fruits,0.84,kg
+GoodFarm Coffee,Beverages,0.85,liter
+BrandA Beef,Meat,19.78,kg
+BrandA Oats,Food,1.78,pack
+BrandA Lentils,Food,0.52,piece
+BrandA Lentils,Food,0.72,piece
+BrandB Laptop,Electronics,158.66,piece
+NaturePlus Cream,Dairy,3.31,kg
+NaturePlus Mango,Fruits,1.35,kg
+BrandB Sweater,Clothing,19.87,piece
+GoodFarm Sweater,Clothing,16.73,piece
+BrandC Jeans,Clothing,11.41,piece
+GoodFarm Jeans,Clothing,11.32,piece
+EcoLife Banana,Fruits,0.29,piece
+BrandA Apple,Fruits,0.97,kg
+GoodFarm Bagel,Bakery,2.57,kg
+GoodFarm Apple,Fruits,1.3,kg
+NaturePlus Apple,Fruits,0.3,piece
+GoodFarm Bread,Bakery,3.39,kg
+BrandC Tea,Beverages,1.85,liter
+NaturePlus Muffin,Bakery,4.9,piece
+BrandB Orange,Fruits,1.76,piece
+GoodFarm Juice,Beverages,0.68,bottle
+EcoLife Croissant,Bakery,2.24,piece
+BrandC Jeans,Clothing,13.14,piece
+BrandC Pork,Meat,21.09,kg
+BrandB Pork,Meat,17.47,kg
+BrandA Spinach,Vegetables,0.84,piece
+BrandC Tablet,Electronics,180.98,piece
+NaturePlus Shampoo,Personal Care,1.01,piece
+BrandC Grapes,Fruits,1.29,piece
+GoodFarm Potato,Vegetables,1.46,kg
+NaturePlus Bagel,Bakery,1.82,piece
+BrandC Juice,Beverages,2.27,liter
+BrandB Pork,Meat,26.72,kg
+BrandA Soap,Personal Care,2.44,piece
+BrandB Headphones,Electronics,26.09,piece
+BrandA Beans,Food,3.07,piece
+BrandA Tea,Beverages,0.27,bottle
+BrandB Bagel,Bakery,1.96,piece
+GoodFarm Shampoo,Personal Care,4.63,piece
+NaturePlus Jacket,Clothing,15.22,piece
+NaturePlus Juice,Beverages,2.86,liter
+BrandB Croissant,Bakery,2.6,piece
+GoodFarm TV,Electronics,151.91,piece
+BrandC Coke,Beverages,1.09,bottle
+EcoLife Milk,Dairy,1.93,kg
+GoodFarm Cream,Dairy,1.26,liter
+BrandA Tomato,Vegetables,0.67,kg
+BrandC Turkey,Meat,18.78,kg
+BrandB Yogurt,Dairy,1.56,liter
+BrandB Milk,Dairy,7.29,liter
+NaturePlus Lotion,Personal Care,1.55,piece
+BrandA Tablet,Electronics,144.55,piece
+NaturePlus Tablet,Electronics,76.34,piece
+BrandB Deodorant,Personal Care,4.45,piece
+BrandA Soap,Personal Care,0.4,piece
+EcoLife Pork,Meat,10.97,kg
+GoodFarm Jacket,Clothing,14.01,piece
+BrandC Phone,Electronics,187.01,piece
+NaturePlus Sweater,Clothing,15.37,piece
+NaturePlus Tomato,Vegetables,0.2,kg
+BrandB Grapes,Fruits,0.42,kg
+BrandC Croissant,Bakery,2.41,kg
+NaturePlus Headphones,Electronics,168.9,piece
+BrandC Tomato,Vegetables,0.44,kg
+BrandA Shampoo,Personal Care,0.86,piece
+BrandC Coke,Beverages,2.4,liter
+EcoLife Lotion,Personal Care,1.76,piece
+BrandC Potato,Vegetables,1.19,piece
+BrandC TV,Electronics,112.57,piece
+BrandB Rice,Food,0.17,kg
+EcoLife Orange,Fruits,0.75,piece
+BrandA Grapes,Fruits,1.02,piece
+BrandA Juice,Beverages,0.86,liter
+BrandA Orange,Fruits,0.62,kg
+GoodFarm Shampoo,Personal Care,1.24,piece
+BrandA Laptop,Electronics,124.11,piece
+GoodFarm Jeans,Clothing,6.08,piece
+BrandA Toothpaste,Personal Care,2.61,piece
+NaturePlus Banana,Fruits,1.07,piece
+GoodFarm Juice,Beverages,2.85,bottle
+EcoLife Lotion,Personal Care,2.51,piece
+GoodFarm Pasta,Food,2.69,kg
+EcoLife Butter,Dairy,4.32,kg
+NaturePlus Bagel,Bakery,4.54,piece
+GoodFarm Deodorant,Personal Care,2.6,piece
+BrandB Soap,Personal Care,1.44,piece
+BrandB Croissant,Bakery,1.5,kg
+GoodFarm Tea,Beverages,1.15,bottle
+BrandB Pork,Meat,9.55,kg
+BrandC T-shirt,Clothing,5.73,piece
+BrandA Cake,Bakery,4.58,kg
+BrandC Chicken,Meat,12.86,kg
+BrandC Cake,Bakery,3.21,piece
+BrandC Butter,Dairy,5.43,liter
+GoodFarm Phone,Electronics,115.0,piece
+BrandA Muffin,Bakery,0.78,kg
+BrandC Toothpaste,Personal Care,3.35,piece
+BrandC Apple,Fruits,0.54,kg
+NaturePlus Turkey,Meat,19.98,kg
+BrandC Coke,Beverages,2.48,bottle
+NaturePlus Cheese,Dairy,4.2,kg
+BrandA Chicken,Meat,29.06,kg
+EcoLife Apple,Fruits,1.26,kg
+EcoLife Bread,Bakery,2.25,kg
+BrandB Tablet,Electronics,142.44,piece
+BrandA Phone,Electronics,135.92,piece
+BrandB TV,Electronics,32.16,piece
+NaturePlus Sweater,Clothing,11.19,piece
+NaturePlus Milk,Dairy,7.43,kg
+BrandA Water,Beverages,3.0,bottle
+GoodFarm Grapes,Fruits,0.88,kg
+BrandC Beans,Food,1.92,piece
+GoodFarm Beans,Food,0.15,kg
+BrandB Tablet,Electronics,39.19,piece
+GoodFarm TV,Electronics,27.48,piece
+GoodFarm Apple,Fruits,1.31,kg
+BrandA Chicken,Meat,8.24,kg
+BrandC Deodorant,Personal Care,2.84,piece
+BrandA Beef,Meat,11.35,kg
+BrandB Phone,Electronics,168.99,piece
+GoodFarm Phone,Electronics,79.09,piece
+BrandC Jeans,Clothing,14.84,piece
+GoodFarm Toothpaste,Personal Care,3.45,piece
+BrandC Carrot,Vegetables,0.39,kg
+NaturePlus Water,Beverages,1.55,liter
+BrandC Shirt,Clothing,4.4,piece
+BrandC Potato,Vegetables,1.74,piece
+BrandA T-shirt,Clothing,17.84,piece
+GoodFarm Sweater,Clothing,10.34,piece
+GoodFarm Orange,Fruits,1.69,kg
+EcoLife T-shirt,Clothing,12.16,piece
+BrandA Banana,Fruits,0.31,kg
+EcoLife Lentils,Food,2.17,kg
+NaturePlus Soap,Personal Care,2.3,piece
+EcoLife Tomato,Vegetables,1.07,kg
+GoodFarm Mango,Fruits,0.66,piece
+BrandA Toothpaste,Personal Care,3.87,piece
+BrandA Muffin,Bakery,1.42,kg
+BrandB Lentils,Food,3.23,piece
+NaturePlus Deodorant,Personal Care,1.6,piece
+BrandC Laptop,Electronics,193.43,piece
+BrandC Cake,Bakery,3.32,piece
+NaturePlus Tablet,Electronics,175.56,piece
+NaturePlus Toothpaste,Personal Care,1.1,piece
+NaturePlus Lentils,Food,1.7,piece
+BrandA Potato,Vegetables,1.87,piece
+BrandB Onion,Vegetables,1.28,piece
+BrandA Tablet,Electronics,84.38,piece
+BrandA Phone,Electronics,143.08,piece
+BrandC Jeans,Clothing,7.41,piece
+BrandA Laptop,Electronics,116.43,piece
+BrandA Water,Beverages,0.85,liter
+BrandA Jacket,Clothing,16.41,piece
+BrandB Milk,Dairy,9.97,liter
+BrandA Toothpaste,Personal Care,1.58,piece
+EcoLife Coffee,Beverages,2.0,liter
+BrandB Cheese,Dairy,5.86,liter
+GoodFarm Apple,Fruits,1.53,piece
+GoodFarm Croissant,Bakery,1.57,kg
+EcoLife Pork,Meat,23.26,kg
+GoodFarm Phone,Electronics,118.19,piece
+BrandB Carrot,Vegetables,0.56,piece
+EcoLife Milk,Dairy,6.43,liter
+EcoLife Headphones,Electronics,10.94,piece
+BrandC Shirt,Clothing,19.25,piece
+BrandA Cake,Bakery,0.46,kg
+NaturePlus Headphones,Electronics,161.75,piece
+BrandC Banana,Fruits,0.57,piece
+BrandB Mango,Fruits,1.65,kg
+NaturePlus Carrot,Vegetables,0.76,piece
+EcoLife Sweater,Clothing,11.26,piece
+GoodFarm Shirt,Clothing,18.89,piece
+BrandA Coffee,Beverages,1.23,liter
+BrandB Chicken,Meat,16.6,kg
+GoodFarm Beef,Meat,16.46,kg
+BrandB Phone,Electronics,75.26,piece
+NaturePlus Pork,Meat,7.4,kg
+BrandC Lentils,Food,3.58,kg
+BrandC Banana,Fruits,1.21,piece
+BrandC Bagel,Bakery,2.38,piece
+BrandA Headphones,Electronics,158.64,piece
+NaturePlus Jeans,Clothing,16.06,piece
+GoodFarm Butter,Dairy,9.52,liter
+BrandA Water,Beverages,2.04,liter
+BrandB Tea,Beverages,0.39,liter
+BrandC Headphones,Electronics,152.74,piece
+BrandC Lotion,Personal Care,2.83,piece
+GoodFarm Grapes,Fruits,0.37,piece
+BrandB Yogurt,Dairy,7.73,kg
+EcoLife Tablet,Electronics,135.76,piece
+GoodFarm Potato,Vegetables,0.71,kg
+BrandC Croissant,Bakery,0.35,kg
+NaturePlus Headphones,Electronics,184.74,piece
+NaturePlus Lentils,Food,2.94,piece
+EcoLife Chicken,Meat,24.13,kg
+GoodFarm Grapes,Fruits,0.56,piece
+BrandC Onion,Vegetables,1.33,piece
+BrandB TV,Electronics,119.67,piece
+NaturePlus Chicken,Meat,11.83,kg
+NaturePlus Potato,Vegetables,1.64,piece
+NaturePlus Beans,Food,2.91,pack
+BrandA Banana,Fruits,0.59,piece
+NaturePlus Soap,Personal Care,4.53,piece
+GoodFarm Carrot,Vegetables,1.95,piece
+BrandC Sweater,Clothing,7.26,piece
+GoodFarm Turkey,Meat,7.35,kg
+BrandC Banana,Fruits,1.17,piece
+BrandC T-shirt,Clothing,6.3,piece
+NaturePlus Beans,Food,2.33,kg
+GoodFarm Mango,Fruits,1.34,piece
+EcoLife Headphones,Electronics,162.91,piece
+NaturePlus Toothpaste,Personal Care,3.6,piece
+BrandB Phone,Electronics,82.85,piece
+GoodFarm Cake,Bakery,1.83,kg
+EcoLife Tomato,Vegetables,1.23,piece
+EcoLife Deodorant,Personal Care,2.59,piece
+BrandA Milk,Dairy,6.01,kg
+BrandA Tomato,Vegetables,1.54,piece
+BrandC Onion,Vegetables,1.92,piece
+BrandB Tea,Beverages,1.18,liter
+EcoLife Deodorant,Personal Care,2.52,piece
+BrandB Chicken,Meat,17.1,kg
+NaturePlus Phone,Electronics,71.03,piece
+EcoLife Grapes,Fruits,0.78,kg
+BrandB Bread,Bakery,3.38,kg
+BrandB Bagel,Bakery,0.89,piece
+NaturePlus Milk,Dairy,4.51,liter
+BrandC Soap,Personal Care,3.48,piece
+BrandB Laptop,Electronics,134.46,piece
+GoodFarm Toothpaste,Personal Care,0.34,piece
+BrandA Cake,Bakery,3.58,kg
+GoodFarm Soap,Personal Care,1.46,piece
+BrandB Bread,Bakery,0.36,kg
+BrandB Mango,Fruits,0.43,kg
+BrandA Carrot,Vegetables,0.2,kg
+BrandA Tea,Beverages,1.67,liter
+BrandA Pork,Meat,7.51,kg
+GoodFarm Jeans,Clothing,10.83,piece
+BrandA Potato,Vegetables,1.78,kg
+EcoLife Onion,Vegetables,0.98,kg
+NaturePlus Rice,Food,4.68,kg
+BrandC Toothpaste,Personal Care,1.79,piece
+BrandA Rice,Food,2.98,pack
+BrandA Cheese,Dairy,4.37,kg
+BrandC Butter,Dairy,7.44,kg
+BrandA Banana,Fruits,0.41,piece
+BrandA T-shirt,Clothing,4.36,piece
+NaturePlus Spinach,Vegetables,0.68,piece
+GoodFarm Toothpaste,Personal Care,1.03,piece
+GoodFarm Rice,Food,4.3,kg
+GoodFarm Lentils,Food,0.33,pack
+BrandA Phone,Electronics,161.65,piece
+BrandB Oats,Food,4.14,kg
+BrandB T-shirt,Clothing,9.91,piece
+EcoLife Chicken,Meat,19.48,kg
+BrandB Lotion,Personal Care,4.29,piece
+NaturePlus Deodorant,Personal Care,3.02,piece
+EcoLife Lentils,Food,3.9,pack
+BrandA Cream,Dairy,7.77,liter
+BrandA Juice,Beverages,2.76,bottle
+EcoLife Shirt,Clothing,12.48,piece
+BrandC Sweater,Clothing,19.77,piece
+GoodFarm Jeans,Clothing,2.12,piece
+EcoLife Tomato,Vegetables,1.75,kg
+BrandA T-shirt,Clothing,14.7,piece
+BrandB Bagel,Bakery,2.28,kg
+EcoLife Bagel,Bakery,0.83,piece
+BrandC Cake,Bakery,1.5,kg
+GoodFarm Croissant,Bakery,1.47,kg
+BrandB Sweater,Clothing,16.97,piece
+BrandC Orange,Fruits,1.22,piece
+EcoLife Shirt,Clothing,12.6,piece
+NaturePlus Oats,Food,0.58,kg
+EcoLife Grapes,Fruits,0.42,kg
+EcoLife Shampoo,Personal Care,0.45,piece
+NaturePlus Orange,Fruits,0.31,kg
+BrandB Pork,Meat,29.53,kg
+BrandB Lamb,Meat,26.8,kg
+NaturePlus Beans,Food,4.5,piece
+GoodFarm Rice,Food,0.17,kg
+GoodFarm Pork,Meat,14.71,kg
+NaturePlus Deodorant,Personal Care,3.24,piece
+BrandC Coffee,Beverages,2.32,bottle
+BrandA Tea,Beverages,2.46,bottle
+BrandA T-shirt,Clothing,16.69,piece
+BrandB Pork,Meat,5.7,kg
+EcoLife Beans,Food,4.92,piece
+NaturePlus Beef,Meat,24.94,kg
+EcoLife Pork,Meat,25.04,kg
+BrandC Shirt,Clothing,17.98,piece
+BrandC Beans,Food,3.3,pack
+GoodFarm Tomato,Vegetables,1.98,kg
+BrandC Chicken,Meat,29.4,kg
+BrandB Laptop,Electronics,11.8,piece
+NaturePlus Headphones,Electronics,188.64,piece
+BrandC Cheese,Dairy,4.65,liter
+BrandA Carrot,Vegetables,0.88,piece
+BrandA Shampoo,Personal Care,2.2,piece
+NaturePlus Shampoo,Personal Care,4.59,piece
+EcoLife Coke,Beverages,0.59,bottle
+BrandC Tea,Beverages,0.25,bottle
+EcoLife Butter,Dairy,5.0,liter
+EcoLife Cake,Bakery,4.04,piece
+BrandB Toothpaste,Personal Care,0.69,piece
+EcoLife Bagel,Bakery,2.07,kg
+BrandA Orange,Fruits,1.7,kg
+GoodFarm Yogurt,Dairy,3.64,liter
+BrandC Shampoo,Personal Care,2.66,piece
+NaturePlus Sweater,Clothing,14.98,piece
+BrandC Soap,Personal Care,2.59,piece
+BrandB TV,Electronics,27.51,piece
+BrandA Apple,Fruits,0.78,piece
+BrandC Muffin,Bakery,3.34,piece
+BrandC Grapes,Fruits,0.48,piece
+GoodFarm Juice,Beverages,2.29,bottle
+GoodFarm Phone,Electronics,66.03,piece
+BrandA Beef,Meat,22.46,kg
+BrandB Chicken,Meat,17.36,kg
+NaturePlus Tea,Beverages,2.42,bottle
+BrandB Tablet,Electronics,12.02,piece
+BrandB Milk,Dairy,0.95,liter
+GoodFarm Grapes,Fruits,0.85,kg
+EcoLife Butter,Dairy,2.15,liter
+NaturePlus Yogurt,Dairy,4.57,kg
+NaturePlus Beans,Food,3.5,kg
+EcoLife Sweater,Clothing,4.41,piece
+NaturePlus Beef,Meat,28.02,kg
+BrandB Pasta,Food,4.99,piece
+BrandC Toothpaste,Personal Care,1.47,piece
+GoodFarm Croissant,Bakery,3.61,kg
+GoodFarm Turkey,Meat,22.01,kg
+EcoLife Butter,Dairy,7.22,liter
+EcoLife Jacket,Clothing,13.83,piece
+NaturePlus Jacket,Clothing,2.0,piece
+EcoLife Carrot,Vegetables,1.83,piece
+BrandA Potato,Vegetables,0.76,piece
+BrandB Banana,Fruits,0.95,kg
+GoodFarm Rice,Food,4.19,kg
+EcoLife Oats,Food,4.01,pack
+BrandA Phone,Electronics,152.84,piece
+NaturePlus Coke,Beverages,1.09,bottle
+BrandC Chicken,Meat,19.34,kg
+BrandC Tea,Beverages,1.73,bottle
+BrandA Turkey,Meat,16.87,kg
+GoodFarm Jeans,Clothing,5.85,piece
+BrandB Grapes,Fruits,1.74,piece
+BrandB Rice,Food,4.81,pack
+BrandC Toothpaste,Personal Care,0.59,piece
+NaturePlus Deodorant,Personal Care,3.39,piece
+BrandC Jacket,Clothing,18.7,piece
+BrandB Tomato,Vegetables,1.57,piece
+EcoLife Grapes,Fruits,0.99,kg
+BrandC Shirt,Clothing,3.58,piece
+NaturePlus TV,Electronics,163.46,piece
+BrandB Orange,Fruits,1.26,piece
+NaturePlus Butter,Dairy,7.42,liter
+BrandB Beef,Meat,10.48,kg
+BrandB Lotion,Personal Care,0.72,piece
+BrandB Pasta,Food,1.45,pack
+BrandA Coffee,Beverages,1.36,liter
+GoodFarm Croissant,Bakery,2.38,kg
+BrandB Jacket,Clothing,6.27,piece
+NaturePlus Beans,Food,1.28,piece
+EcoLife Pork,Meat,19.59,kg
+BrandB Jeans,Clothing,2.08,piece
+BrandA Onion,Vegetables,1.55,piece
+BrandC Tea,Beverages,0.95,liter
+BrandC Beef,Meat,22.65,kg
+NaturePlus Bagel,Bakery,4.88,kg
+BrandC Shampoo,Personal Care,2.44,piece
+BrandC Cream,Dairy,7.64,kg
+NaturePlus Beans,Food,4.58,piece
+EcoLife Orange,Fruits,1.16,piece
+BrandB Toothpaste,Personal Care,2.75,piece
+GoodFarm Chicken,Meat,5.07,kg
+BrandA T-shirt,Clothing,9.81,piece
+GoodFarm Pasta,Food,1.26,pack
+NaturePlus Butter,Dairy,4.28,liter
+BrandB Carrot,Vegetables,0.11,kg
+BrandB Coffee,Beverages,1.0,bottle
+BrandA Oats,Food,0.68,piece
+GoodFarm Coke,Beverages,1.47,liter
+BrandC Apple,Fruits,0.18,kg
+BrandA Tablet,Electronics,69.63,piece
+EcoLife Yogurt,Dairy,9.44,kg
+BrandB Laptop,Electronics,60.64,piece
+NaturePlus Toothpaste,Personal Care,4.78,piece
+EcoLife Soap,Personal Care,3.11,piece
+BrandC Coke,Beverages,2.99,liter
+BrandC Mango,Fruits,1.05,piece
+BrandC Muffin,Bakery,4.07,kg
+BrandC Soap,Personal Care,2.04,piece
+NaturePlus Coke,Beverages,0.7,liter
+BrandB Muffin,Bakery,1.73,kg
+GoodFarm Bagel,Bakery,4.31,kg
+BrandB Grapes,Fruits,1.91,piece
+NaturePlus Carrot,Vegetables,0.97,kg
+EcoLife T-shirt,Clothing,15.15,piece
+BrandA Shirt,Clothing,7.6,piece
+GoodFarm Beans,Food,2.25,kg
+GoodFarm Spinach,Vegetables,1.4,kg
+BrandA Headphones,Electronics,161.65,piece
+NaturePlus Turkey,Meat,27.56,kg
+NaturePlus Spinach,Vegetables,0.66,piece
+BrandA Lotion,Personal Care,4.37,piece
+EcoLife Spinach,Vegetables,0.13,kg
+BrandC Onion,Vegetables,0.41,kg
+GoodFarm Muffin,Bakery,1.16,kg
+GoodFarm Rice,Food,2.63,pack
+GoodFarm Bread,Bakery,4.94,piece
+BrandC Shampoo,Personal Care,1.56,piece
+BrandC Headphones,Electronics,34.2,piece
+BrandB Pork,Meat,20.83,kg
+NaturePlus Cheese,Dairy,9.1,liter
+BrandA Toothpaste,Personal Care,3.79,piece
+BrandB Apple,Fruits,0.92,piece
+EcoLife Lamb,Meat,14.27,kg
+BrandC Chicken,Meat,25.93,kg
+BrandC Jacket,Clothing,12.76,piece
+BrandB Tablet,Electronics,94.44,piece
+BrandB Jacket,Clothing,18.06,piece
+GoodFarm Mango,Fruits,1.31,kg
+BrandB Lotion,Personal Care,2.82,piece
+EcoLife Headphones,Electronics,70.69,piece
+BrandB Deodorant,Personal Care,1.23,piece
+EcoLife Yogurt,Dairy,1.8,kg
+NaturePlus Soap,Personal Care,4.36,piece
+BrandC Shirt,Clothing,17.59,piece
+NaturePlus Onion,Vegetables,0.33,piece
+BrandC Mango,Fruits,1.25,kg
+BrandA Turkey,Meat,8.1,kg
+NaturePlus Cream,Dairy,0.55,liter
+NaturePlus Lotion,Personal Care,0.84,piece
+BrandA Potato,Vegetables,1.68,kg
+BrandB Spinach,Vegetables,0.21,kg
+BrandB Phone,Electronics,31.15,piece
+NaturePlus Soap,Personal Care,1.81,piece
+GoodFarm Carrot,Vegetables,0.66,piece
+NaturePlus Jacket,Clothing,4.76,piece
+EcoLife Cheese,Dairy,3.55,kg
+EcoLife Rice,Food,3.57,pack
+BrandC Milk,Dairy,1.01,kg
+BrandA Milk,Dairy,9.33,liter
+BrandB Jeans,Clothing,3.48,piece
+BrandA Yogurt,Dairy,7.58,kg
+BrandA Shampoo,Personal Care,4.81,piece
+BrandC Banana,Fruits,1.48,piece
+NaturePlus Shirt,Clothing,9.64,piece
+BrandB Croissant,Bakery,3.1,kg
+BrandC Toothpaste,Personal Care,1.32,piece
+BrandC Beef,Meat,13.38,kg
+BrandC Onion,Vegetables,1.31,piece
+EcoLife Oats,Food,2.12,piece
+BrandA Milk,Dairy,9.28,liter
+BrandC Beans,Food,3.7,pack
+BrandB Cheese,Dairy,7.98,liter
+BrandC Coke,Beverages,2.51,bottle
+GoodFarm Jeans,Clothing,9.81,piece
+BrandB Banana,Fruits,1.16,kg
+BrandB Juice,Beverages,1.86,liter
+BrandA Bread,Bakery,4.4,kg
+BrandB Deodorant,Personal Care,0.76,piece
+BrandA Tomato,Vegetables,0.6,piece
+BrandB Orange,Fruits,1.05,kg
+EcoLife Apple,Fruits,0.24,kg
+GoodFarm Jacket,Clothing,19.13,piece
+EcoLife Tomato,Vegetables,1.68,piece
+BrandC Orange,Fruits,1.96,piece
+BrandB Grapes,Fruits,0.99,kg
+BrandC Tea,Beverages,1.37,bottle
+BrandC Mango,Fruits,0.3,piece
+EcoLife Turkey,Meat,11.77,kg
+BrandC Lotion,Personal Care,3.44,piece
+BrandB Tablet,Electronics,179.64,piece
+BrandA Tablet,Electronics,168.58,piece
+EcoLife Tomato,Vegetables,1.13,kg
+BrandA Water,Beverages,1.99,liter
+NaturePlus Rice,Food,4.8,kg
+BrandA Tomato,Vegetables,1.36,kg
+EcoLife Jeans,Clothing,6.83,piece
+BrandB Coke,Beverages,1.33,bottle
+GoodFarm Turkey,Meat,15.77,kg
+GoodFarm Beef,Meat,18.84,kg
+NaturePlus Jeans,Clothing,9.54,piece
+BrandA Tablet,Electronics,166.12,piece
+BrandC Orange,Fruits,0.96,kg
+GoodFarm Juice,Beverages,1.81,bottle
+GoodFarm Lentils,Food,0.19,piece
+NaturePlus TV,Electronics,10.66,piece
+BrandA Laptop,Electronics,187.52,piece
+BrandC Shirt,Clothing,19.88,piece
+BrandC Water,Beverages,1.36,liter
+BrandA Cream,Dairy,4.78,liter
+BrandA Tomato,Vegetables,1.98,kg
+BrandB Juice,Beverages,1.03,bottle
+BrandA Lamb,Meat,9.61,kg
+BrandB Water,Beverages,2.65,liter
+BrandC Sweater,Clothing,17.9,piece
+NaturePlus Jeans,Clothing,6.75,piece
+GoodFarm Coke,Beverages,1.53,bottle
+BrandA Muffin,Bakery,0.32,piece
+GoodFarm Carrot,Vegetables,1.26,piece
+EcoLife Onion,Vegetables,1.03,kg
+BrandA Jacket,Clothing,18.28,piece
+BrandB Apple,Fruits,1.48,piece
+NaturePlus Potato,Vegetables,0.47,kg
+BrandB Carrot,Vegetables,1.49,kg
+EcoLife Shirt,Clothing,6.69,piece
+BrandA Oats,Food,3.18,pack
+BrandA Chicken,Meat,13.27,kg
+BrandC Bagel,Bakery,4.48,kg
+BrandA Tomato,Vegetables,1.77,piece
+BrandA Chicken,Meat,29.77,kg
+BrandC Lamb,Meat,20.92,kg
+BrandC Shirt,Clothing,3.77,piece
+NaturePlus Banana,Fruits,0.7,piece
+BrandB Tomato,Vegetables,1.28,kg
+NaturePlus Tea,Beverages,0.82,bottle
+GoodFarm Butter,Dairy,6.75,liter
+BrandC Lentils,Food,3.92,kg
+GoodFarm Deodorant,Personal Care,0.97,piece
+NaturePlus Bread,Bakery,3.44,kg
+NaturePlus Soap,Personal Care,0.65,piece
+GoodFarm Tomato,Vegetables,1.32,kg
+BrandA Lotion,Personal Care,0.75,piece
+NaturePlus Coffee,Beverages,2.44,liter
+BrandC Yogurt,Dairy,2.61,kg
+EcoLife Chicken,Meat,9.93,kg
+BrandC Lentils,Food,0.73,pack
+EcoLife Headphones,Electronics,104.28,piece
+NaturePlus Croissant,Bakery,4.92,kg
+EcoLife Orange,Fruits,1.45,kg
+EcoLife Jacket,Clothing,14.17,piece
+BrandC Tomato,Vegetables,1.7,kg
+BrandC Yogurt,Dairy,5.54,liter
+GoodFarm Coke,Beverages,2.46,liter
+NaturePlus Butter,Dairy,8.42,kg
+NaturePlus Croissant,Bakery,3.09,piece
+BrandA Cheese,Dairy,5.21,kg
+EcoLife Banana,Fruits,0.25,kg
+BrandA Cheese,Dairy,3.26,liter
+BrandB Laptop,Electronics,78.77,piece
+NaturePlus Juice,Beverages,2.68,liter
+BrandB Jacket,Clothing,17.05,piece
+BrandB Yogurt,Dairy,3.74,liter
+GoodFarm Cheese,Dairy,0.64,kg
+EcoLife Coffee,Beverages,1.06,liter
+BrandC Turkey,Meat,18.12,kg
+BrandB Shampoo,Personal Care,0.7,piece
+BrandA Lotion,Personal Care,3.91,piece
+BrandC Turkey,Meat,13.29,kg
+NaturePlus Cheese,Dairy,1.69,liter
+BrandB Croissant,Bakery,0.76,kg
+BrandB Jeans,Clothing,3.62,piece
+NaturePlus Turkey,Meat,25.51,kg
+BrandC Chicken,Meat,24.68,kg
+GoodFarm Tea,Beverages,2.97,liter
+BrandA Phone,Electronics,56.55,piece
+BrandA Cheese,Dairy,9.53,kg
+GoodFarm Laptop,Electronics,131.0,piece
+NaturePlus Cake,Bakery,2.07,piece
+GoodFarm Banana,Fruits,1.68,piece
+BrandA Carrot,Vegetables,0.85,kg
+BrandC Water,Beverages,2.05,bottle
+BrandB Cream,Dairy,5.56,kg
+EcoLife Spinach,Vegetables,1.7,kg
+BrandA Butter,Dairy,4.91,kg
+EcoLife Butter,Dairy,1.93,kg
+NaturePlus Croissant,Bakery,4.14,kg
+EcoLife Shampoo,Personal Care,4.42,piece
+BrandA Tea,Beverages,1.97,bottle
+EcoLife Phone,Electronics,17.14,piece
+NaturePlus Muffin,Bakery,4.44,piece
+BrandC Bread,Bakery,1.6,piece
+NaturePlus Turkey,Meat,18.4,kg
+BrandA Tomato,Vegetables,1.24,kg
+BrandB Muffin,Bakery,1.13,kg
+EcoLife Chicken,Meat,11.21,kg
+BrandC Lentils,Food,2.61,piece
+BrandA Laptop,Electronics,52.38,piece
+EcoLife Orange,Fruits,0.9,piece
+NaturePlus Tomato,Vegetables,1.05,kg
+GoodFarm Tomato,Vegetables,0.41,kg
+EcoLife Mango,Fruits,0.54,kg
+NaturePlus Rice,Food,0.77,piece
+GoodFarm Potato,Vegetables,1.5,kg
+EcoLife Soap,Personal Care,1.95,piece
+GoodFarm Beans,Food,3.91,pack
+BrandC Headphones,Electronics,112.55,piece
+BrandB Soap,Personal Care,2.42,piece
+BrandB Coffee,Beverages,1.9,bottle
+EcoLife Tablet,Electronics,32.82,piece
+NaturePlus Jacket,Clothing,14.62,piece
+EcoLife Tea,Beverages,0.25,liter
+EcoLife Onion,Vegetables,1.64,piece
+BrandB Turkey,Meat,9.39,kg
+BrandC Muffin,Bakery,3.37,kg
+GoodFarm Turkey,Meat,20.15,kg
+NaturePlus Jacket,Clothing,16.83,piece
+BrandA Banana,Fruits,1.05,piece
+NaturePlus Butter,Dairy,3.29,kg
+NaturePlus Yogurt,Dairy,7.8,kg
+NaturePlus Headphones,Electronics,172.66,piece
+BrandA Chicken,Meat,22.23,kg
+BrandA Sweater,Clothing,9.58,piece
+BrandA Toothpaste,Personal Care,1.15,piece
+GoodFarm Tomato,Vegetables,1.76,piece
+BrandA Banana,Fruits,1.39,kg
+GoodFarm Chicken,Meat,16.5,kg
+BrandB T-shirt,Clothing,4.16,piece
+EcoLife Soap,Personal Care,1.99,piece
+NaturePlus Oats,Food,0.5,piece
+BrandA Cheese,Dairy,1.84,kg
+BrandC Carrot,Vegetables,0.86,piece
+BrandB Croissant,Bakery,3.39,piece
+EcoLife Lentils,Food,4.27,pack
+BrandB Toothpaste,Personal Care,1.64,piece
+BrandB Toothpaste,Personal Care,3.19,piece
+GoodFarm Soap,Personal Care,0.56,piece
+BrandA Grapes,Fruits,1.24,kg
+EcoLife Shampoo,Personal Care,2.07,piece
+EcoLife Laptop,Electronics,89.36,piece
+GoodFarm Water,Beverages,0.67,bottle
+BrandC Pasta,Food,1.17,pack
+EcoLife Milk,Dairy,4.19,liter
+EcoLife Orange,Fruits,1.55,kg
+BrandB T-shirt,Clothing,5.79,piece
+BrandC Carrot,Vegetables,1.93,kg
+BrandA Headphones,Electronics,60.41,piece
+BrandA Toothpaste,Personal Care,3.36,piece
+BrandC Cake,Bakery,3.91,kg
+BrandC Onion,Vegetables,1.65,kg
+BrandB Pasta,Food,3.81,pack
+EcoLife Lentils,Food,0.39,piece
+EcoLife Grapes,Fruits,0.18,piece
+EcoLife Oats,Food,3.07,piece
+BrandC Sweater,Clothing,10.54,piece
+NaturePlus Banana,Fruits,1.08,kg
+GoodFarm Lotion,Personal Care,0.75,piece
+BrandA Deodorant,Personal Care,2.18,piece
+NaturePlus Laptop,Electronics,22.16,piece
+BrandC Onion,Vegetables,1.72,kg
+BrandC Jeans,Clothing,13.4,piece
+BrandB Rice,Food,1.54,kg
+BrandA Shirt,Clothing,2.1,piece
+GoodFarm Headphones,Electronics,127.28,piece
+GoodFarm Cream,Dairy,8.34,liter
+GoodFarm Lotion,Personal Care,4.66,piece
+BrandB Onion,Vegetables,0.75,kg
+BrandA Croissant,Bakery,4.97,piece
+BrandA Apple,Fruits,0.27,piece
+BrandC Laptop,Electronics,54.95,piece
+GoodFarm Soap,Personal Care,0.63,piece
+NaturePlus Bagel,Bakery,3.17,kg
+NaturePlus Onion,Vegetables,1.36,piece
+EcoLife Tablet,Electronics,12.53,piece
+BrandC Coffee,Beverages,0.41,liter
+BrandC Lamb,Meat,15.09,kg
+GoodFarm Laptop,Electronics,64.66,piece
+BrandA Cream,Dairy,6.03,liter
+NaturePlus Oats,Food,2.79,piece
+NaturePlus Orange,Fruits,0.12,kg
+BrandB Toothpaste,Personal Care,1.22,piece
+BrandB Spinach,Vegetables,1.71,kg
+NaturePlus Lamb,Meat,23.28,kg
+BrandC Shirt,Clothing,10.54,piece
+NaturePlus Cake,Bakery,2.96,kg
+BrandB Cheese,Dairy,2.69,kg
+NaturePlus Lamb,Meat,16.66,kg
+NaturePlus Tea,Beverages,0.27,liter
+EcoLife Cake,Bakery,2.98,piece
+EcoLife Laptop,Electronics,31.24,piece
+BrandA Soap,Personal Care,2.14,piece
+GoodFarm Tea,Beverages,2.05,bottle
+EcoLife Jacket,Clothing,10.23,piece
+BrandA Grapes,Fruits,0.97,kg
+GoodFarm Lotion,Personal Care,0.58,piece
+NaturePlus Pasta,Food,0.55,pack
+BrandA Croissant,Bakery,0.34,kg
+BrandC Lamb,Meat,21.92,kg
+BrandA Lamb,Meat,22.33,kg
+BrandA Cake,Bakery,2.19,piece
+BrandB Mango,Fruits,0.37,piece
+BrandA Yogurt,Dairy,8.64,kg
+NaturePlus Oats,Food,3.95,piece
+GoodFarm Chicken,Meat,16.26,kg
+GoodFarm Deodorant,Personal Care,2.8,piece
+EcoLife Cheese,Dairy,0.82,kg
+NaturePlus Milk,Dairy,1.32,liter
+NaturePlus Lentils,Food,1.59,piece
+BrandC Shampoo,Personal Care,0.48,piece
+BrandC Bread,Bakery,3.96,piece
+GoodFarm Water,Beverages,2.61,bottle
+BrandB Lentils,Food,0.14,piece
+BrandC Grapes,Fruits,0.18,kg
+GoodFarm Coke,Beverages,2.79,bottle
+BrandC Chicken,Meat,28.72,kg
+BrandC Lotion,Personal Care,2.86,piece
+BrandC Phone,Electronics,11.36,piece
+NaturePlus Potato,Vegetables,0.88,piece
+BrandA Turkey,Meat,24.72,kg
+BrandC Tea,Beverages,2.79,liter
+BrandC Oats,Food,2.71,pack
+NaturePlus Onion,Vegetables,1.58,piece
+GoodFarm Onion,Vegetables,0.13,kg
+GoodFarm Grapes,Fruits,0.74,piece
+NaturePlus TV,Electronics,83.22,piece
+BrandC Spinach,Vegetables,1.61,kg
+NaturePlus Sweater,Clothing,14.95,piece
+BrandB Mango,Fruits,1.98,piece
+GoodFarm Juice,Beverages,2.9,liter
+BrandA Cake,Bakery,0.6,piece
+GoodFarm T-shirt,Clothing,19.07,piece
+BrandB Mango,Fruits,1.69,piece
+NaturePlus Chicken,Meat,19.88,kg
+BrandA Oats,Food,0.73,piece
+GoodFarm Sweater,Clothing,2.27,piece
+GoodFarm Spinach,Vegetables,0.82,piece
+EcoLife Jeans,Clothing,14.97,piece
+BrandC Apple,Fruits,1.76,kg
+GoodFarm Cheese,Dairy,4.67,liter
+NaturePlus Yogurt,Dairy,1.69,kg
+BrandA Phone,Electronics,143.36,piece
+BrandC Beef,Meat,19.16,kg
+BrandC Oats,Food,4.53,kg
+EcoLife Croissant,Bakery,0.89,kg
+NaturePlus Beans,Food,0.4,piece
+BrandA Pasta,Food,0.9,kg
+BrandB Butter,Dairy,6.29,liter
+BrandA Deodorant,Personal Care,4.98,piece
+GoodFarm Carrot,Vegetables,0.38,kg
+BrandC Tea,Beverages,1.75,bottle
+BrandB Tomato,Vegetables,0.87,piece
+EcoLife Cream,Dairy,8.67,kg
+BrandA Spinach,Vegetables,0.25,kg
+BrandB Soap,Personal Care,0.58,piece
+BrandB T-shirt,Clothing,16.75,piece
+BrandC Coke,Beverages,2.22,bottle
+EcoLife Oats,Food,0.18,kg
+NaturePlus Tablet,Electronics,121.78,piece
+GoodFarm Coke,Beverages,1.16,liter
+BrandB Pasta,Food,3.34,kg
+GoodFarm Pork,Meat,16.56,kg
+GoodFarm Coffee,Beverages,2.92,liter
+NaturePlus Banana,Fruits,0.81,piece
+GoodFarm Mango,Fruits,1.96,kg
+BrandA Cream,Dairy,1.56,liter
+GoodFarm Deodorant,Personal Care,2.6,piece
+BrandB Apple,Fruits,1.09,piece
+GoodFarm Juice,Beverages,1.88,liter
+NaturePlus Cheese,Dairy,6.82,kg
+BrandC Lamb,Meat,15.51,kg
+BrandB Toothpaste,Personal Care,2.55,piece
+GoodFarm Phone,Electronics,33.95,piece
+EcoLife Deodorant,Personal Care,3.84,piece
+BrandA Cheese,Dairy,5.45,liter
+GoodFarm Headphones,Electronics,84.71,piece
+GoodFarm TV,Electronics,175.13,piece
+NaturePlus Chicken,Meat,8.08,kg
+BrandA Shampoo,Personal Care,4.9,piece
+BrandC Cream,Dairy,1.68,liter
+EcoLife Cake,Bakery,2.59,piece
+BrandB Soap,Personal Care,2.19,piece
+BrandC Lotion,Personal Care,4.34,piece
+GoodFarm Potato,Vegetables,1.27,piece
+EcoLife Rice,Food,0.28,pack
+NaturePlus Bagel,Bakery,3.48,kg
+GoodFarm Pasta,Food,2.9,pack
+BrandB Oats,Food,3.78,piece
+GoodFarm Coffee,Beverages,2.47,bottle
+EcoLife Coke,Beverages,2.89,bottle
+BrandC TV,Electronics,123.39,piece
+EcoLife Oats,Food,3.33,piece
+EcoLife T-shirt,Clothing,19.06,piece
+BrandA Apple,Fruits,0.22,kg
+EcoLife Lentils,Food,1.71,pack
+GoodFarm Beans,Food,1.87,piece
+BrandB Shampoo,Personal Care,2.79,piece
+BrandB Shampoo,Personal Care,3.26,piece
+GoodFarm Pork,Meat,9.07,kg
+GoodFarm Turkey,Meat,22.23,kg
+GoodFarm Tea,Beverages,0.49,bottle
+EcoLife Mango,Fruits,0.43,piece
+NaturePlus Soap,Personal Care,2.47,piece
+EcoLife Cheese,Dairy,6.71,kg
+BrandC Lamb,Meat,11.76,kg
+BrandA Cream,Dairy,6.92,liter
+BrandB Tea,Beverages,1.18,liter
+BrandC Spinach,Vegetables,0.36,kg
+EcoLife Headphones,Electronics,170.71,piece
+BrandC Jeans,Clothing,6.56,piece
+BrandC Bread,Bakery,1.13,piece
+EcoLife TV,Electronics,178.79,piece
+GoodFarm Cake,Bakery,0.49,piece
+GoodFarm Laptop,Electronics,71.03,piece
+EcoLife Apple,Fruits,1.47,piece
+GoodFarm Potato,Vegetables,1.58,piece
+BrandB Bagel,Bakery,4.76,piece
+BrandB Mango,Fruits,1.76,piece
+EcoLife Beef,Meat,21.06,kg
+BrandB Carrot,Vegetables,0.49,kg
+BrandB Mango,Fruits,1.05,kg
+EcoLife Orange,Fruits,0.58,kg
+BrandC Juice,Beverages,2.26,bottle
+BrandB Soap,Personal Care,4.73,piece
+BrandB Pork,Meat,15.09,kg
+EcoLife Banana,Fruits,1.49,piece
+BrandC Cream,Dairy,8.36,liter
+GoodFarm Carrot,Vegetables,0.5,piece
+EcoLife Carrot,Vegetables,1.53,kg
+GoodFarm Mango,Fruits,0.98,kg
+EcoLife Potato,Vegetables,0.48,kg
+NaturePlus Water,Beverages,2.04,bottle
+NaturePlus Lotion,Personal Care,4.12,piece
+BrandC Pork,Meat,5.01,kg
+BrandC Chicken,Meat,18.04,kg
+BrandB Bread,Bakery,2.1,piece
+BrandB Tomato,Vegetables,0.84,kg
+GoodFarm Phone,Electronics,69.39,piece
+BrandB Muffin,Bakery,1.68,kg
+BrandA Bagel,Bakery,2.61,piece
+BrandC Tablet,Electronics,111.16,piece
+BrandB TV,Electronics,101.54,piece
+NaturePlus Bagel,Bakery,0.35,piece
+GoodFarm Coffee,Beverages,0.29,liter
+NaturePlus Tea,Beverages,1.61,liter
+GoodFarm Sweater,Clothing,11.85,piece
+GoodFarm Toothpaste,Personal Care,4.37,piece
+GoodFarm Croissant,Bakery,4.84,piece
+BrandB Soap,Personal Care,0.18,piece
+GoodFarm Cheese,Dairy,7.18,kg
+EcoLife Tomato,Vegetables,0.49,kg
+NaturePlus Pork,Meat,25.23,kg
+BrandC Oats,Food,0.34,pack
+BrandA Lotion,Personal Care,4.72,piece
+BrandB Apple,Fruits,1.07,kg
+NaturePlus Juice,Beverages,1.62,liter
+BrandB Pasta,Food,1.38,piece
+BrandC Turkey,Meat,26.45,kg
+BrandB Chicken,Meat,23.58,kg
+NaturePlus Toothpaste,Personal Care,1.25,piece
+BrandC Bread,Bakery,4.92,kg
+BrandA Pasta,Food,4.38,piece
+BrandC Water,Beverages,0.32,bottle
+GoodFarm Tea,Beverages,0.81,liter
+EcoLife Lotion,Personal Care,1.7,piece
+EcoLife Chicken,Meat,9.44,kg
+BrandB Beef,Meat,13.46,kg
+EcoLife Coffee,Beverages,2.02,bottle
+BrandA T-shirt,Clothing,17.3,piece
+EcoLife Orange,Fruits,0.18,kg
+BrandB Croissant,Bakery,2.9,kg
+EcoLife Bread,Bakery,4.58,kg
+GoodFarm Headphones,Electronics,137.43,piece
+NaturePlus Shirt,Clothing,4.84,piece
+GoodFarm Butter,Dairy,3.11,liter
+BrandC Cheese,Dairy,8.52,liter
+BrandA Headphones,Electronics,105.7,piece
+BrandA Sweater,Clothing,4.44,piece
+EcoLife Headphones,Electronics,30.36,piece
+BrandC Water,Beverages,2.34,liter
+NaturePlus T-shirt,Clothing,19.08,piece
+BrandB Bagel,Bakery,4.32,kg
+BrandA Laptop,Electronics,109.69,piece
+BrandC Soap,Personal Care,2.0,piece
+EcoLife Apple,Fruits,0.66,piece
+EcoLife Laptop,Electronics,90.58,piece
+BrandC Jeans,Clothing,17.45,piece
+BrandA Toothpaste,Personal Care,2.09,piece
+BrandC Tablet,Electronics,40.94,piece
+BrandB Orange,Fruits,1.29,kg
+EcoLife Carrot,Vegetables,1.5,piece
+BrandB Shampoo,Personal Care,4.13,piece
+EcoLife Soap,Personal Care,2.69,piece
+BrandA Orange,Fruits,0.42,piece
+BrandB Mango,Fruits,0.43,kg

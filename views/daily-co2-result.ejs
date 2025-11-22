@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily CO2 Result</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(
+          135deg,
+          #0f7938 0%,
+          #1abc9c 50%,
+          #16a085 100%
+        );
+        min-height: 100vh;
+        padding: 40px 20px;
+        position: relative;
+        overflow-x: hidden;
+      }
+
+      /* Animated leaf particles */
+      body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: radial-gradient(
+            circle at 15% 30%,
+            rgba(26, 188, 156, 0.15) 0%,
+            transparent 50%
+          ),
+          radial-gradient(
+            circle at 85% 70%,
+            rgba(15, 121, 56, 0.15) 0%,
+            transparent 50%
+          ),
+          radial-gradient(
+            circle at 50% 50%,
+            rgba(22, 160, 133, 0.1) 0%,
+            transparent 60%
+          );
+        pointer-events: none;
+        z-index: -1;
+        animation: shimmer 8s ease-in-out infinite;
+      }
+
+      @keyframes shimmer {
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.8;
+        }
+      }
+
+      /* Floating leaves animation */
+      @keyframes floatLeaves {
+        0% {
+          opacity: 0;
+          transform: translateY(100vh) translateX(0) rotate(0deg);
+        }
+        10% {
+          opacity: 1;
+        }
+        90% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0;
+          transform: translateY(-100vh) translateX(100px) rotate(360deg);
+        }
+      }
+
+      .leaf {
+        position: fixed;
+        width: 30px;
+        height: 30px;
+        pointer-events: none;
+        z-index: 0;
+      }
+
+      .leaf::before {
+        content: "🍃";
+        font-size: 30px;
+        animation: floatLeaves linear infinite;
+      }
+
+      .leaf:nth-child(1) {
+        left: 10%;
+        animation-duration: 12s;
+        animation-delay: 0s;
+      }
+
+      .leaf:nth-child(2) {
+        left: 20%;
+        animation-duration: 15s;
+        animation-delay: 2s;
+      }
+
+      .leaf:nth-child(3) {
+        left: 30%;
+        animation-duration: 14s;
+        animation-delay: 4s;
+      }
+
+      .leaf:nth-child(4) {
+        left: 70%;
+        animation-duration: 16s;
+        animation-delay: 1s;
+      }
+
+      .leaf:nth-child(5) {
+        left: 85%;
+        animation-duration: 13s;
+        animation-delay: 3s;
+      }
+
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+        animation: slideInDown 0.8s ease-out;
+        position: relative;
+        z-index: 1;
+      }
+
+      @keyframes slideInDown {
+        from {
+          opacity: 0;
+          transform: translateY(-30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      h1 {
+        color: #fff;
+        text-align: center;
+        margin-bottom: 50px;
+        font-size: 2.8em;
+        text-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+        letter-spacing: 1px;
+        font-weight: 700;
+        animation: fadeInUp 0.8s ease-out;
+      }
+
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      h1::before {
+        content: "🌱 ";
+        margin-right: 10px;
+      }
+
+      h1::after {
+        content: " 🌍";
+        margin-left: 10px;
+      }
+
+      .table-wrapper {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 20px;
+        padding: 40px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2),
+          0 0 100px rgba(26, 188, 156, 0.2);
+        margin-bottom: 40px;
+        animation: slideInUp 0.8s ease-out 0.2s backwards;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 1em;
+      }
+
+      th {
+        background: linear-gradient(135deg, #0f7938 0%, #16a085 100%);
+        color: white;
+        padding: 18px;
+        text-align: left;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        border: none;
+        font-size: 0.9em;
+      }
+
+      th:nth-child(1) {
+        border-radius: 15px 0 0 0;
+      }
+
+      th:nth-child(4) {
+        border-radius: 0 15px 0 0;
+      }
+
+      td {
+        padding: 16px 18px;
+        border-bottom: 2px solid #e0f2f1;
+        color: #333;
+        font-weight: 500;
+        transition: all 0.3s ease;
+      }
+
+      tr:last-child td {
+        border-bottom: none;
+      }
+
+      tbody tr {
+        animation: fadeInUp 0.6s ease-out forwards;
+        opacity: 0;
+      }
+
+      tbody tr:nth-child(1) {
+        animation-delay: 0.3s;
+      }
+      tbody tr:nth-child(2) {
+        animation-delay: 0.35s;
+      }
+      tbody tr:nth-child(3) {
+        animation-delay: 0.4s;
+      }
+      tbody tr:nth-child(4) {
+        animation-delay: 0.45s;
+      }
+      tbody tr:nth-child(5) {
+        animation-delay: 0.5s;
+      }
+      tbody tr:nth-child(6) {
+        animation-delay: 0.55s;
+      }
+      tbody tr:nth-child(7) {
+        animation-delay: 0.6s;
+      }
+      tbody tr:nth-child(8) {
+        animation-delay: 0.65s;
+      }
+      tbody tr:nth-child(9) {
+        animation-delay: 0.7s;
+      }
+
+      tbody tr:hover {
+        background: linear-gradient(
+          90deg,
+          rgba(26, 188, 156, 0.1) 0%,
+          transparent 100%
+        );
+        transform: scale(1.02);
+        padding-left: 20px;
+      }
+
+      td:nth-child(4) {
+        font-weight: 700;
+        color: #0f7938;
+      }
+
+      .total-section {
+        background: linear-gradient(
+          135deg,
+          #0f7938 0%,
+          #1abc9c 50%,
+          #16a085 100%
+        );
+        border-radius: 20px;
+        padding: 40px;
+        text-align: center;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2),
+          0 0 100px rgba(26, 188, 156, 0.3);
+        animation: slideInUp 0.8s ease-out 0.4s backwards;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .total-section::before {
+        content: "";
+        position: absolute;
+        top: -50%;
+        right: -50%;
+        width: 300px;
+        height: 300px;
+        background: radial-gradient(
+          circle,
+          rgba(255, 255, 255, 0.1) 0%,
+          transparent 70%
+        );
+        border-radius: 50%;
+        animation: pulse 3s ease-in-out infinite;
+      }
+
+      @keyframes pulse {
+        0%,
+        100% {
+          transform: scale(1);
+          opacity: 0.5;
+        }
+        50% {
+          transform: scale(1.2);
+          opacity: 0.3;
+        }
+      }
+
+      h2 {
+        color: white;
+        font-size: 2.2em;
+        margin-bottom: 15px;
+        text-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+        position: relative;
+        z-index: 1;
+        letter-spacing: 0.5px;
+      }
+
+      .co2-value {
+        font-size: 3.5em;
+        font-weight: 900;
+        color: #e8f8f5;
+        text-shadow: 3px 6px 12px rgba(0, 0, 0, 0.3);
+        margin: 20px 0;
+        position: relative;
+        z-index: 1;
+        animation: scaleIn 0.8s ease-out 0.6s backwards;
+      }
+
+      @keyframes scaleIn {
+        from {
+          opacity: 0;
+          transform: scale(0.8);
+        }
+        to {
+          opacity: 1;
+          transform: scale(1);
+        }
+      }
+
+      .info-text {
+        color: rgba(255, 255, 255, 0.9);
+        font-size: 1.1em;
+        margin-top: 20px;
+        position: relative;
+        z-index: 1;
+        font-weight: 500;
+      }
+
+      .button-group {
+        display: flex;
+        gap: 15px;
+        justify-content: center;
+        margin-top: 40px;
+        flex-wrap: wrap;
+        animation: slideInUp 0.8s ease-out 0.8s backwards;
+      }
+
+      a,
+      button {
+        padding: 14px 35px;
+        border-radius: 12px;
+        text-decoration: none;
+        font-weight: 700;
+        cursor: pointer;
+        border: none;
+        font-size: 1em;
+        transition: all 0.3s ease;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        position: relative;
+        overflow: hidden;
+      }
+
+      a::before,
+      button::before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 0;
+        height: 0;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+        transition: width 0.6s, height 0.6s;
+      }
+
+      a {
+        background: linear-gradient(135deg, #1abc9c 0%, #16a085 100%);
+        color: white;
+      }
+
+      a:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 15px 40px rgba(26, 188, 156, 0.4),
+          0 0 20px rgba(22, 160, 133, 0.3);
+      }
+
+      a:hover::before {
+        width: 300px;
+        height: 300px;
+      }
+
+      a:active {
+        transform: translateY(-1px);
+      }
+
+      @media (max-width: 768px) {
+        h1 {
+          font-size: 2em;
+          margin-bottom: 30px;
+        }
+
+        .table-wrapper {
+          padding: 25px;
+          border-radius: 15px;
+        }
+
+        table {
+          font-size: 0.9em;
+        }
+
+        th,
+        td {
+          padding: 12px 10px;
+        }
+
+        .total-section {
+          padding: 30px 20px;
+        }
+
+        h2 {
+          font-size: 1.6em;
+        }
+
+        .co2-value {
+          font-size: 2.5em;
+        }
+
+        .info-text {
+          font-size: 1em;
+        }
+
+        a {
+          padding: 12px 25px;
+          font-size: 0.9em;
+        }
+      }
+
+      /* Scrollbar styling */
+      ::-webkit-scrollbar {
+        width: 10px;
+      }
+
+      ::-webkit-scrollbar-track {
+        background: rgba(26, 188, 156, 0.1);
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background: linear-gradient(180deg, #1abc9c 0%, #0f7938 100%);
+        border-radius: 5px;
+      }
+
+      ::-webkit-scrollbar-thumb:hover {
+        background: linear-gradient(180deg, #0f7938 0%, #1abc9c 100%);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="leaf"></div>
+    <div class="leaf"></div>
+    <div class="leaf"></div>
+    <div class="leaf"></div>
+    <div class="leaf"></div>
+
+    <div class="container">
+      <h1>Your Daily Household CO₂ Footprint</h1>
+
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Item/Activity</th>
+              <th>Quantity</th>
+              <th>CO₂ per Unit (kg)</th>
+              <th>Total CO₂ (kg)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% breakdown.forEach(row => { %>
+            <tr>
+              <td><%= row.item %></td>
+              <td><%= row.quantity %></td>
+              <td><%= row.co2_per_unit %></td>
+              <td><%= row.total_co2.toFixed(2) %></td>
+            </tr>
+            <% }) %>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="total-section">
+        <h2>Total Daily CO₂ Footprint</h2>
+        <div class="co2-value"><%= totalCO2.toFixed(2) %> kg</div>
+        <div class="info-text">CO₂e (Carbon Dioxide Equivalent)</div>
+        <div class="info-text">
+          🌍 Every action counts towards a greener tomorrow
+        </div>
+      </div>
+
+      <div class="button-group">
+        <a href="/login">← Back to Dashboard</a>
+      </div>
+    </div>
+  </body>
+</html>

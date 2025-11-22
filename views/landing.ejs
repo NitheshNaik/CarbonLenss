@@ -1,0 +1,730 @@
+<!-- views/partials/chatbot.ejs -->
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CarbonLens - Track Your Carbon Footprint</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(
+          135deg,
+          #0f2027 0%,
+          #203a43 50%,
+          #2c5364 100%
+        );
+        color: #fff;
+        overflow-x: hidden;
+      }
+
+      @keyframes float {
+        0%,
+        100% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-20px);
+        }
+      }
+
+      @keyframes glow {
+        0%,
+        100% {
+          box-shadow: 0 0 20px rgba(16, 185, 129, 0.5);
+        }
+        50% {
+          box-shadow: 0 0 40px rgba(16, 185, 129, 0.8);
+        }
+      }
+
+      @keyframes slideInLeft {
+        from {
+          opacity: 0;
+          transform: translateX(-50px);
+        }
+        to {
+          opacity: 1;
+          transform: translateX(0);
+        }
+      }
+
+      @keyframes slideInRight {
+        from {
+          opacity: 0;
+          transform: translateX(50px);
+        }
+        to {
+          opacity: 1;
+          transform: translateX(0);
+        }
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @keyframes pulse {
+        0%,
+        100% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.05);
+        }
+      }
+
+      nav {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background: rgba(15, 32, 39, 0.95);
+        backdrop-filter: blur(10px);
+        padding: 20px 50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        z-index: 1000;
+        border-bottom: 1px solid rgba(16, 185, 129, 0.3);
+      }
+
+      .logo {
+        font-size: 28px;
+        font-weight: 600;
+        color: #10b981;
+        letter-spacing: 0.5px;
+      }
+
+      .nav-links {
+        display: flex;
+        gap: 30px;
+      }
+
+      .nav-links a {
+        color: #fff;
+        text-decoration: none;
+        transition: all 0.3s;
+        position: relative;
+      }
+
+      .nav-links a::after {
+        content: "";
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        width: 0;
+        height: 2px;
+        background: #10b981;
+        transition: width 0.3s;
+      }
+
+      .nav-links a:hover::after {
+        width: 100%;
+      }
+
+      .hero {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 100px 50px 50px;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .hero::before {
+        content: "";
+        position: absolute;
+        width: 500px;
+        height: 500px;
+        background: radial-gradient(
+          circle,
+          rgba(16, 185, 129, 0.2) 0%,
+          transparent 70%
+        );
+        top: -200px;
+        right: -200px;
+        animation: pulse 4s infinite;
+      }
+
+      .hero-content {
+        flex: 1;
+        z-index: 1;
+        animation: slideInLeft 1s ease-out;
+      }
+
+      .hero h1 {
+        font-size: 64px;
+        margin-bottom: 20px;
+        line-height: 1.2;
+      }
+
+      .gradient-text {
+        background: linear-gradient(45deg, #10b981, #34d399, #6ee7b7);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+
+      .hero p {
+        font-size: 22px;
+        margin-bottom: 40px;
+        color: #94a3b8;
+        max-width: 600px;
+      }
+
+      .cta-buttons {
+        display: flex;
+        gap: 20px;
+      }
+
+      .btn {
+        padding: 16px 40px;
+        border: none;
+        border-radius: 50px;
+        font-size: 18px;
+        cursor: pointer;
+        transition: all 0.3s;
+        text-decoration: none;
+        display: inline-block;
+      }
+
+      .btn-primary {
+        background: linear-gradient(45deg, #10b981, #059669);
+        color: white;
+        box-shadow: 0 10px 30px rgba(16, 185, 129, 0.4);
+      }
+
+      .btn-primary:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 15px 40px rgba(16, 185, 129, 0.6);
+      }
+
+      .btn-secondary {
+        background: transparent;
+        color: white;
+        border: 2px solid #10b981;
+      }
+
+      .btn-secondary:hover {
+        background: rgba(16, 185, 129, 0.1);
+      }
+
+      .hero-visual {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: slideInRight 1s ease-out;
+      }
+
+      .phone-mockup {
+        width: 350px;
+        height: 700px;
+        background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+        border-radius: 40px;
+        padding: 20px;
+        box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5);
+        position: relative;
+        animation: float 3s ease-in-out infinite;
+      }
+
+      .phone-screen {
+        width: 100%;
+        height: 100%;
+        background: #fff;
+        border-radius: 30px;
+        overflow: hidden;
+        position: relative;
+      }
+
+      .receipt-demo {
+        padding: 20px;
+        background: linear-gradient(180deg, #f0fdf4 0%, #dcfce7 100%);
+        height: 100%;
+      }
+
+      .demo-header {
+        background: #10b981;
+        color: white;
+        padding: 15px;
+        border-radius: 15px;
+        text-align: center;
+        margin-bottom: 15px;
+        font-weight: bold;
+      }
+
+      .demo-item {
+        background: white;
+        padding: 12px;
+        margin: 10px 0;
+        border-radius: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        color: #1f2937;
+        font-weight: 500;
+      }
+
+      .carbon-badge {
+        padding: 5px 12px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: bold;
+      }
+
+      .badge-low {
+        background: #d1fae5;
+        color: #065f46;
+      }
+
+      .badge-high {
+        background: #fee2e2;
+        color: #991b1b;
+      }
+
+      .demo-summary {
+        margin-top: 20px;
+        padding: 20px;
+        background: #10b981;
+        color: white;
+        border-radius: 15px;
+        text-align: center;
+      }
+
+      .demo-summary-label {
+        font-size: 14px;
+      }
+
+      .demo-summary-value {
+        font-size: 24px;
+        font-weight: bold;
+        margin: 10px 0;
+      }
+
+      .demo-summary-change {
+        font-size: 14px;
+      }
+
+      .features {
+        padding: 100px 50px;
+        animation: fadeIn 1s ease-out;
+      }
+
+      .section-title {
+        text-align: center;
+        font-size: 48px;
+        margin-bottom: 60px;
+        position: relative;
+      }
+
+      .section-title::after {
+        content: "";
+        position: absolute;
+        bottom: -15px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100px;
+        height: 4px;
+        background: linear-gradient(45deg, #10b981, #34d399);
+        border-radius: 2px;
+      }
+
+      .features-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 30px;
+        max-width: 1400px;
+        margin: 0 auto;
+      }
+
+      .feature-card {
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(10px);
+        padding: 40px;
+        border-radius: 20px;
+        border: 1px solid rgba(16, 185, 129, 0.2);
+        transition: all 0.3s;
+        animation: fadeIn 1s ease-out backwards;
+      }
+
+      .feature-card:nth-child(1) {
+        animation-delay: 0.1s;
+      }
+      .feature-card:nth-child(2) {
+        animation-delay: 0.2s;
+      }
+      .feature-card:nth-child(3) {
+        animation-delay: 0.3s;
+      }
+      .feature-card:nth-child(4) {
+        animation-delay: 0.4s;
+      }
+      .feature-card:nth-child(5) {
+        animation-delay: 0.5s;
+      }
+      .feature-card:nth-child(6) {
+        animation-delay: 0.6s;
+      }
+
+      .feature-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 20px 40px rgba(16, 185, 129, 0.3);
+        border-color: #10b981;
+      }
+
+      .feature-icon {
+        font-size: 48px;
+        margin-bottom: 20px;
+      }
+
+      .feature-card h3 {
+        font-size: 24px;
+        margin-bottom: 15px;
+        color: #10b981;
+      }
+
+      .feature-card p {
+        color: #94a3b8;
+        line-height: 1.6;
+      }
+
+      .wow-section {
+        padding: 100px 50px;
+        background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .wow-section::before {
+        content: "";
+        position: absolute;
+        width: 600px;
+        height: 600px;
+        background: radial-gradient(
+          circle,
+          rgba(255, 255, 255, 0.1) 0%,
+          transparent 70%
+        );
+        bottom: -300px;
+        left: -300px;
+        animation: pulse 4s infinite;
+      }
+
+      .wow-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 25px;
+        max-width: 1400px;
+        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+      }
+
+      .wow-card {
+        background: rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(10px);
+        padding: 30px;
+        border-radius: 15px;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        transition: all 0.3s;
+      }
+
+      .wow-card:hover {
+        background: rgba(255, 255, 255, 0.25);
+        transform: scale(1.05);
+      }
+
+      .wow-card h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+      }
+
+      .cta-section {
+        padding: 100px 50px;
+        text-align: center;
+      }
+
+      .cta-content {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
+      .cta-content h2 {
+        font-size: 48px;
+        margin-bottom: 20px;
+      }
+
+      .cta-content p {
+        font-size: 20px;
+        color: #94a3b8;
+        margin-bottom: 40px;
+      }
+
+      footer {
+        padding: 30px 50px;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.3);
+        border-top: 1px solid rgba(16, 185, 129, 0.3);
+      }
+
+      @media (max-width: 768px) {
+        .hero {
+          flex-direction: column;
+          text-align: center;
+        }
+
+        .hero h1 {
+          font-size: 40px;
+        }
+
+        .hero p {
+          font-size: 18px;
+        }
+
+        .cta-buttons {
+          flex-direction: column;
+        }
+
+        nav {
+          padding: 20px 20px;
+        }
+
+        .nav-links {
+          gap: 15px;
+        }
+
+        .nav-links a {
+          font-size: 14px;
+        }
+
+        .features,
+        .wow-section,
+        .cta-section {
+          padding: 60px 20px;
+        }
+
+        .phone-mockup {
+          width: 300px;
+          height: 600px;
+        }
+
+        .section-title {
+          font-size: 36px;
+        }
+
+        .cta-content h2 {
+          font-size: 36px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <div class="logo">🌱 CarbonLens</div>
+      <div class="nav-links">
+        <a href="#features">Features</a>
+        <a href="#wow">Innovation</a>
+        <a href="#cta">Get Started</a>
+      </div>
+    </nav>
+
+    <section class="hero">
+      <div class="hero-content">
+        <h1>
+          Track Your <span class="gradient-text">Carbon Footprint</span> With
+          Every Purchase
+        </h1>
+        <p>
+          Snap a receipt, see your impact. Make smarter, greener choices with
+          AI-powered insights and gamified eco-rewards.
+        </p>
+        <div class="cta-buttons">
+          <a href="/auth?tab=login" class="btn btn-secondary">Login</a>
+          <a href="/auth?tab=signup" class="btn btn-secondary">Sign Up</a>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="phone-mockup">
+          <div class="phone-screen">
+            <div class="receipt-demo">
+              <div class="demo-header">📸 Receipt Scanned</div>
+              <div class="demo-item">
+                <span>👕 Cotton T-Shirt</span>
+                <span class="carbon-badge badge-high">HIGH</span>
+              </div>
+              <div class="demo-item">
+                <span>🧴 Shampoo Bottle</span>
+                <span class="carbon-badge badge-low">LOW</span>
+              </div>
+              <div class="demo-item">
+                <span>🥛 Almond Milk</span>
+                <span class="carbon-badge badge-low">LOW</span>
+              </div>
+              <div class="demo-item">
+                <span>📱 Phone Charger</span>
+                <span class="carbon-badge badge-high">HIGH</span>
+              </div>
+              <div class="demo-summary">
+                <div class="demo-summary-label">Your biggest driver:</div>
+                <div class="demo-summary-value">👕 Fashion & Electronics</div>
+                <div class="demo-summary-change">↓ 12% vs last month 🎉</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="features" id="features">
+      <h2 class="section-title">Powerful Features</h2>
+      <div class="features-grid">
+        <div class="feature-card">
+          <div class="feature-icon">📊</div>
+          <h3>Smart Analytics</h3>
+          <p>
+            Weekly and monthly carbon trends with breakdowns by category.
+            Compare with average shoppers and get personalized reduction
+            targets.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">🎮</div>
+          <h3>Gamification</h3>
+          <p>
+            Earn GreenPoints, unlock badges for eco-actions, compete on
+            leaderboards, and redeem rewards for eco-friendly products.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">💰</div>
+          <h3>Carbon Budget</h3>
+          <p>
+            Track your CO₂ like finances. Set monthly budgets, get alerts, and
+            stay within your environmental limits.
+          </p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">🤖</div>
+          <h3>AI Shopping Assistant</h3>
+          <p>
+            Predict carbon impact before buying. Get real-time suggestions for
+            sustainable alternatives while shopping.
+          </p>
+        </div>
+
+        <div class="feature-card">
+          <div class="feature-icon">🎯</div>
+          <h3>Receipt Scanner</h3>
+          <p>
+            Snap a photo of any receipt and get instant carbon breakdown with
+            editable quantities and visual impact meters.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="wow-section" id="wow">
+      <h2 class="section-title">Innovation That Wows</h2>
+      <div class="wow-grid">
+        <div class="wow-card">
+          <h4>🔥 Live Receipt Demo</h4>
+          <p>
+            Upload bill → Instant carbon breakdown with heatmap visualization
+          </p>
+        </div>
+        <div class="wow-card">
+          <h4>🔮 "What If" Simulator</h4>
+          <p>Replace items and see carbon drop in real-time</p>
+        </div>
+        <div class="wow-card">
+          <h4>🌍 Carbon Passport</h4>
+          <p>Your gamified eco-identity with achievements and impact history</p>
+        </div>
+        <div class="wow-card">
+          <h4>📍 Product Provenance</h4>
+          <p>Trace from country → factory → shipment → store</p>
+        </div>
+        <div class="wow-card">
+          <h4>🎭 Emotion Model</h4>
+          <p>Convert carbon data into emotional impact visualizations</p>
+        </div>
+        <div class="wow-card">
+          <h4>🗣 Voice Assistant</h4>
+          <p>"Hey CarbonCheck, what's the carbon of almond milk?"</p>
+        </div>
+        <div class="wow-card">
+          <h4>📸 AR Carbon Overlay</h4>
+          <p>Point camera at products for instant carbon info</p>
+        </div>
+        <div class="wow-card">
+          <h4>⚡ Smart Eco Basket</h4>
+          <p>Carbon-optimized shopping suggestions in real-time</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-section" id="cta">
+      <div class="cta-content">
+        <h2>Ready to Make an Impact?</h2>
+        <p>
+          Join thousands of eco-conscious shoppers tracking and reducing their
+          carbon footprint every day.
+        </p>
+        <a href="#" class="btn btn-primary">Start Your Journey</a>
+      </div>
+    </section>
+
+    <footer>
+      <p>
+        ©️ 2025 CarbonCheck. Making sustainability simple, one receipt at a
+        time.
+      </p>
+    </footer>
+
+    <script>
+      // Smooth scrolling
+      document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+        anchor.addEventListener("click", function (e) {
+          e.preventDefault();
+          const target = document.querySelector(this.getAttribute("href"));
+          if (target) {
+            target.scrollIntoView({ behavior: "smooth", block: "start" });
+          }
+        });
+      });
+
+      // Intersection Observer for animations
+      const observerOptions = {
+        threshold: 0.1,
+        rootMargin: "0px 0px -50px 0px",
+      };
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.style.opacity = "1";
+            entry.target.style.transform = "translateY(0)";
+          }
+        });
+      }, observerOptions);
+
+      document.querySelectorAll(".feature-card, .wow-card").forEach((el) => {
+        observer.observe(el);
+      });
+    </script>
+  </body>
+</html>

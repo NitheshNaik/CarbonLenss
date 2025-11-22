@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Receipt CO₂ Summary — CarbonLens</title>
+
+    <style>
+      :root {
+        --bg-1: #071018;
+        --bg-2: #0e2830;
+        --card: rgba(255, 255, 255, 0.04);
+        --accent: #10b981;
+        --accent-2: #34d399;
+        --muted: #94a3b8;
+        --glass-border: rgba(16, 185, 129, 0.18);
+        --white: #ffffff;
+        --max-width: 720px;
+        --shadow: 0 10px 30px rgba(2, 6, 23, 0.6);
+        --radius: 14px;
+        font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto,
+          "Helvetica Neue", Arial;
+      }
+
+      html,
+      body {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        min-height: 100%;
+        background: linear-gradient(135deg, var(--bg-1) 0%, var(--bg-2) 100%);
+        color: var(--white);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+
+      .card {
+        width: 100%;
+        max-width: var(--max-width);
+        background: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.02),
+          rgba(255, 255, 255, 0.01)
+        );
+        border-radius: var(--radius);
+        padding: 36px;
+        box-shadow: var(--shadow);
+        border: 1px solid var(--glass-border);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        width: 100%;
+        justify-content: space-between;
+      }
+
+      .brand .logo {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+        color: var(--accent);
+      }
+
+      .logo .leaf {
+        font-size: 22px;
+        filter: drop-shadow(0 4px 12px rgba(16, 185, 129, 0.18));
+      }
+
+      .total-wrap {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 12px;
+        padding: 18px 8px;
+      }
+
+      .label {
+        font-size: 14px;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 1.6px;
+        font-weight: 700;
+      }
+
+      .total {
+        font-size: 72px;
+        line-height: 0.95;
+        font-weight: 900;
+        letter-spacing: -1px;
+        background: linear-gradient(
+          90deg,
+          var(--accent) 0%,
+          var(--accent-2) 100%
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-shadow: 0 6px 30px rgba(16, 185, 129, 0.12);
+        display: flex;
+        align-items: baseline;
+        gap: 10px;
+      }
+
+      .unit {
+        font-size: 22px;
+        font-weight: 700;
+        color: var(--muted);
+        -webkit-text-fill-color: currentColor;
+      }
+
+      .helper {
+        font-size: 13px;
+        color: var(--muted);
+        text-align: center;
+        max-width: 620px;
+        margin-top: 4px;
+        line-height: 1.45;
+      }
+
+      /* New section: impact & equivalents */
+      .impact {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+        text-align: center;
+      }
+
+      .impact-level {
+        font-weight: 700;
+        font-size: 16px;
+        color: var(--accent);
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+      }
+
+      .items-tracked {
+        font-size: 14px;
+        color: var(--white);
+        line-height: 1.4;
+        max-width: 560px;
+        margin: 0 auto;
+      }
+
+      .equivalents {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        justify-content: center;
+        margin-top: 8px;
+      }
+
+      .eq-card {
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(16, 185, 129, 0.12);
+        border-radius: 12px;
+        padding: 12px 16px;
+        flex: 1 1 150px;
+        min-width: 120px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 6px;
+        font-size: 14px;
+        color: var(--white);
+      }
+
+      .eq-card span.icon {
+        font-size: 24px;
+        display: block;
+      }
+
+      .actions {
+        width: 100%;
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        margin-top: 6px;
+      }
+
+      .btn {
+        border: 1px solid rgba(255, 255, 255, 0.06);
+        background: transparent;
+        color: var(--white);
+        padding: 10px 16px;
+        border-radius: 10px;
+        font-weight: 700;
+        font-size: 14px;
+        cursor: pointer;
+        transition: transform 0.14s ease, box-shadow 0.14s ease,
+          background 0.14s;
+      }
+
+      .btn:focus {
+        outline: 3px solid rgba(16, 185, 129, 0.12);
+        outline-offset: 2px;
+      }
+
+      .btn-cta {
+        background: linear-gradient(90deg, var(--accent), var(--accent-2));
+        color: #012018;
+        border: none;
+        box-shadow: 0 8px 24px rgba(16, 185, 129, 0.18);
+      }
+
+      .btn:hover {
+        transform: translateY(-3px);
+      }
+
+      .footer {
+        margin-top: 12px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .sdg {
+        display: inline-flex;
+        gap: 8px;
+        align-items: center;
+        opacity: 0.95;
+      }
+
+      .sdg .pill {
+        background: rgba(16, 185, 129, 0.08);
+        border: 1px solid rgba(16, 185, 129, 0.12);
+        color: var(--accent);
+        padding: 6px 8px;
+        border-radius: 999px;
+        font-weight: 700;
+        font-size: 12px;
+      }
+
+      @media (max-width: 520px) {
+        .total {
+          font-size: 48px;
+        }
+        .unit {
+          font-size: 16px;
+        }
+        .card {
+          padding: 20px;
+        }
+        .equivalents {
+          flex-direction: column;
+          gap: 10px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="card" role="main" aria-labelledby="totalHeading">
+      <div class="brand" aria-hidden="false">
+        <div class="logo" aria-hidden="true">
+          <span class="leaf">🌱</span>
+          <span>CarbonLens</span>
+        </div>
+        <div
+          style="font-size: 13px; color: var(--muted); font-weight: 600"
+          aria-hidden="true"
+        >
+          SDG 13 • Climate Action
+        </div>
+      </div>
+
+      <section
+        class="total-wrap"
+        aria-labelledby="totalHeading"
+        aria-live="polite"
+      >
+        <div id="totalHeading" class="label">Total CO₂ for this receipt</div>
+
+        <div class="total" aria-label="Total carbon dioxide emissions">
+          <span id="coValue"
+            ><%= (typeof data !== 'undefined' && data.total_co2 != null) ?
+            Number(data.total_co2).toFixed(2) : "0.00" %></span
+          >
+          <span class="unit">kg CO₂e</span>
+        </div>
+
+        <div class="impact">
+          <div class="impact-level">Impact Level</div>
+          <div class="items-tracked">
+            This receipt contributes
+            <strong><%= Number(data.total_co2).toFixed(2) %> kg</strong> of CO₂
+            emissions to your carbon footprint. Every tracked purchase helps you
+            make better environmental choices.
+          </div>
+          <div class="equivalents">
+            <div class="eq-card">
+              <span class="icon">🚗</span>Driving 33.0 km in a car
+            </div>
+            <div class="eq-card">
+              <span class="icon">🌳</span>0.4 trees needed for 1 year
+            </div>
+            <div class="eq-card">
+              <span class="icon">💡</span>94 hours of LED bulb usage
+            </div>
+          </div>
+        </div>
+
+        <div class="actions" role="group" aria-label="Actions">
+          <a href="/dashboard" class="btn" title="Back to dashboard"
+            >← Back to dashboard</a
+          >
+          <button
+            class="btn btn-cta"
+            onclick="handleOffset()"
+            id="offsetBtn"
+            aria-label="Offset emissions"
+          >
+            Offset / Take action
+          </button>
+        </div>
+      </section>
+
+      <div class="footer" aria-hidden="false">
+        <div class="sdg">
+          <span class="pill">SDG 13</span>
+          <span>Climate Action</span>
+        </div>
+        <div>Accessible • Contrast checked</div>
+      </div>
+    </main>
+
+    <script>
+      (function () {
+        const el = document.getElementById("coValue");
+        const raw = parseFloat(el.textContent) || 0;
+        const duration = 900;
+        let start = null;
+        function step(timestamp) {
+          if (!start) start = timestamp;
+          const progress = Math.min((timestamp - start) / duration, 1);
+          const value = (raw * progress).toFixed(2);
+          el.textContent = value;
+          if (progress < 1) window.requestAnimationFrame(step);
+        }
+        window.requestAnimationFrame(step);
+      })();
+
+      function handleOffset() {
+        const val = document.getElementById("coValue").textContent;
+        alert(
+          "This receipt emits " +
+            val +
+            " kg CO₂e. Consider offsetting with verified projects or reducing similar purchases."
+        );
+      }
+    </script>
+  </body>
+</html>
