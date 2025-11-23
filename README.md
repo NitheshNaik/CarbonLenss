@@ -306,7 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * Carbon emission data sourced from [Carbon Footprint Database](#)
 * Receipt OCR powered by Tesseract
-* Special thanks to all contributors and the open-source community
+* Special thanks to all contributors : [Nishant Kumar](https://github.com/Nishant9764), [Pranay B](https://github.com/Pra-nay-B), [Rupesh Raj](https://github.com/rupeshraj95), [Naveen R](https://github.com/NAVEEN-R-SN), [Purushottam Kumar](https://github.com/purusho1)
 
 ---
 
